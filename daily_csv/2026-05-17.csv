@@ -1,0 +1,89 @@
+﻿标题,时间,作者,链接,内容
+"SpaceX Launch, Google I/O Headline a Big News Week in Tech",2026-05-17T22:00:11Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/spacex-launch-google-o-headline-big-news-week-tech,"This should be an action-packed week in tech news, what with Nvidia’s first-quarter earnings, Google’s
+annual I/O developer conference
+and Meta Platforms’
+scheduled layoffs of 8,000
+employees. But it is Elon Musk who has the biggest week coming up.
+For one thing, the first test launch of SpaceX’s Starship in seven months is scheduled for Tuesday. A successful launch will boost investor interest in
+SpaceX’s upcoming IPO
+, not
+that it needs
+much of a lift. Meanwhile, chatter late last week was that SpaceX’s IPO filing could become public sometime in the next few days.
+The disclosures in that document—which could include first-quarter earnings—will help investors finalize their analysis of SpaceX, assuming some of them are taking the numbers into account and not just acting on warm feelings about Musk’s
+aggressive space ambitions
+.
+To be sure, mMany of the most important details of the filing, particularly around SpaceX’s finances, have already surfaced in news reports in the past few weeks in The Information and elsewhere. (See
+here
+,
+here
+,
+here
+,
+here
+and
+here
+.)
+The other big Musk news this week is that we’ll likely get a result in his lawsuit against OpenAI—the one in
+which he has claimed OpenAI co-founders Sam Altman
+and Greg Brockman engaged in fraud and breach of contract by starting a for-profit arm out of the nonprofit he helped finance. The case goes
+to the jury on Monday
+.
+Of these three news events, the Starship launch may be the most important for Musk. That’s because SpaceX must get Starship—the largest rocket ever built—into service for most of its other business plans to work. As we explained
+in this piece
+, SpaceX needs Starship so it can launch a new generation of Starlink satellites to carry data centers as well as the
+nascent Starlink Mobile service
+.
+As things stand now, Starship is
+five years
+behind its original date for entering commercial service. What’s been holding it up lately is determining whether the rocket’s upper stage is reusable. Even the latest test flight is behind schedule: It was supposed to happen in March.
+In contrast, the outcome of the OpenAI trial doesn’t matter much to Musk. After all, he is just acting out a grudge in pursuing the ChatGPT firm. It could be expensive for OpenAI if it loses, to be sure, although
+this report
+from our correspondent in the courtroom, Rocket Drew, implied the odds are in favor of the ChatGPT firm.
+Nvidia’s Quarter
+Whatever happens with Starship, we’ve still got the rocket ship that is Nvidia to watch. We’ll get a reminder of that on Wednesday when the AI chip designer reports the first quarter of its 2027 fiscal year, which runs through next January. (The quarter ended in April.)
+What’s notable about this year is that Nvidia’s growth is expected to accelerate after a slowdown last year. Of course, everything is relative. Nvidia’s revenue growth exploded to more than 100% in fiscal 2024 and 2025, as the AI boom sparked a rush of demand for its chips. In fiscal 2026, which ended in January, growth fell to a still-spectacular rate of 66%. This year, analysts expect growth to accelerate to 73%, according to S&P Global Market Intelligence.
+The first quarter’s growth is likely to be even faster. In February, Nvidia projected revenue of $78 billion, which would be 77% higher than a year earlier, but analysts are estimating revenue will grow 80% to $79.16 billion, S&P data show.
+The acceleration reflects a compute crunch that has made Nvidia’s graphics processing units very hard to find. As an executive at cloud firm Nebius said last week, it was seeing “four or more customers competing for every GPU we bring online.” Nvidia stock, meanwhile, has soared 36% in the past six weeks, to Friday’s close of $225. It had been stuck around the $180 level for months before that.
+Ackman in, Gates out
+Bill Ackman’s Pershing Square has built a $2 billion stake in Microsoft, the hedge fund disclosed Friday. Ackman said in a post on X that the company’s nearly 15% share slide so far this year has been driven by investors who “underestimate the resilience” of its Office 365 software and the growth of its newer Copilot AI software.
+Meanwhile, also on Friday, the Gates Foundation Trust disclosed it had sold the last of its stake in Microsoft. As of Dec. 31, the trust held 7.69 million shares, worth around $3 billion. As of March 31, it had no shares.
+In Other News
+•
+OpenAI is combining teams working on ChatGPT, its Codex coding product and its application programming interface into one organization, pressing ahead on streamlining its strategy despite the prolonged medical leave of top executive Fidji Simo (
+more here
+).
+• President Donald Trump has traded millions of dollars’ worth of technology stocks since the start of 2026, new
+disclosures
+released on Thursday show. In a report filed with the U.S. Office of Government Ethics, Trump revealed that he bought and sold shares of companies including Nvidia, Palantir and Oracle.
+• OpenAI bought Weights.GG, a small startup that made Replay, an AI voice-cloning tool, in January, according to a person familiar with the acquisition. A half-dozen employees joined OpenAI, which purchased the startup’s intellectual property but does not plan to integrate its  product.
+Friday on The Information’s TITV
+Check out
+Friday’s episode of TITV
+in which we speak with an early iPhone engineer who worked with Steve Jobs about the current state of Apple’s AI."
+Anthropic and OpenAI’s Share of AI Startup Revenues Rises to 89%,2026-05-17T14:00:33Z,Stephanie Palazzolo,https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89,"Anthropic
+and
+OpenAI
+are widening the revenue gap between themselves and the rest of the AI startup field.
+A group of 34 leading startups in that sector, including Anthropic and OpenAI, is generating nearly $80 billion in annualized revenue, or $6.6 billion per month, from selling AI applications or access to the models that power such apps, according to
+The Information’s Generative AI Database
+. That’s up 112% from six months ago.
+Anthropic and OpenAI are currently capturing about 89% of that figure, our analysis shows. That’s 4.5 percentage points higher than the share of sales the two companies had in the same group six months earlier.
+The result could strengthen an argument some investors at firms like Sequoia Capital have made that the vast majority of software value in the current AI era will be generated by the top developers of advanced AI models rather than by developers of pure AI apps. That’s because almost all the application companies in our analysis depend in part or almost entirely on models from Anthropic and OpenAI.
+The smaller startups’ reliance on Anthropic and OpenAI could be a problem because those two leaders have been developing new kinds of models or versions of their products targeting specific industries or white-collar work roles, putting themselves in direct competition with their startup customers. That could eventually make it harder for those startups to keep up their growth.
+That dynamic could help explain the
+frenetic funding environment for so-called AI neolabs
+that are seeking to leapfrog Anthropic and OpenAI by developing new kinds of AI models.
+The $80 billion annualized sales figure is remarkable, as few of the companies existed or generated revenue before 2023. Anthropic can claim about half that amount, as its revenue recently surpassed OpenAI’s on the strength of its AI for coding tasks and other white-collar work.
+The revenue figures for the two AI leaders are somewhat inflated, however, given that each of them shares a material amount with business partners. Anthropic shares a portion of its revenue with cloud computing providers, namely Amazon and Google, that resell its models to their customers. And OpenAI must share 20% of its revenue with Microsoft, an early backer, through 2030. This year, that revenue share to Microsoft could be $6 billion.
+The 32 AI model or application startups not named Anthropic or OpenAI may not be growing as fast as the leaders. But they aren’t far behind in that regard and continue to hit new revenue milestones, largely through sales of subscriptions and some usage-based fees.
+Since December, three of those companies crossed $500 million in annualized sales, joining coding app Cursor in that club, according to our analysis. The three newbies are search firm Perplexity, voice AI provider ElevenLabs and coding app Cognition. (Our analysis doesn’t include infrastructure startups that rent out Nvidia AI servers.)
+Double Counting
+As with our past analyses of AI startup revenues, there’s some double counting going on. The four aforementioned startups that are generating more than $500 million in annualized sales, as well as the other companies on the list, likely collectively pay OpenAI and Anthropic billions of dollars a year for models to power their products.
+Almost all of the companies’ products are powered by Nvidia servers, helping the chip designer generate the vast majority of profits so far in the AI boom. Nvidia has partly returned the favor, investing capital in at least 13 of the 34 companies on our list, including about $40 billion in OpenAI and Anthropic combined. The capital helps the companies keep renting Nvidia servers.
+Our analysis doesn’t cover public companies that are also generating revenue from AI applications and selling models they developed themselves. Microsoft, for instance, has generated at least $6 billion in actual revenue from selling Copilot-branded apps, powered in part by OpenAI models that it uses for free.
+Google sells a lot of Gemini AI models and Gemini-powered features in enterprise apps, and AI answers appear to be boosting its core search engine and by extension the search-advertising business.
+A dozen major enterprise software firms such as Salesforce and ServiceNow are collectively on pace to generate billions of dollars a year selling AI-powered features and agents in their products. They’re also major customers of Anthropic and OpenAI, both for internal use and to power the products they sell.
+These AI buyers have been enduring recent price hikes from Anthropic
+.
+Despite their fast-growing revenue, the AI startups are burning huge amounts of cash—likely more than $30 billion on an annual basis from Anthropic and OpenAI alone, in large part due to AI model-training costs. While some of the startups on our list have at times operated profitably, most are not.
+For instance, Cursor’s gross margin was negative 23% as of the quarter ended in January, which was unusual for a startup generating such high revenue. The company’s gross margin has since turned positive, but the results show the challenge of relying on OpenAI and Anthropic technology, especially as Anthropic raises prices."

@@ -1,0 +1,373 @@
+﻿标题,时间,作者,链接,内容
+Analog Devices in Talks to Buy AI Power Chip Startup for $1.5 Billion,2026-05-19T01:22:28Z,Valida Pau,https://www.theinformation.com/articles/analog-devices-talks-buy-ai-power-chip-startup-1-5-billion,"Chipmaker Analog Devices is in advanced talks to buy startup Empower Semiconductor for about $1.5 billion, in a deal that reflects demand for technology that can manage the intense energy needs of AI chips, according to people familiar with the discussion.
+The acquisition of the 12-year-old startup would expand Analog Devices’ portfolio of chips that support AI, whose complex workloads require massive amounts of energy. Chipmakers like Analog have been striving to deliver electricity to a chip without wasting much of it. Empower’s devices helps AI chips manage electricity to be more efficient.
+The price tag would be a step up for a startup generating little revenue. A deal could be announced as soon as this Wednesday, when the $200 billion market cap Analog Devices is set to report its quarterly results. Discussions with the startup are ongoing and the deal could still fall apart.
+Spokespeople for Analog Devices and Empower Semiconductor didn’t respond to requests for comment.
+Analog Devices designs and makes semiconductors that manage power needs, including for AI data centers, and converts physical-world information into digital data.
+“AI thrives in an environment of incredibly hard problems,” Analog Devices CEO Vincent Roche said in a February earnings call. “The problems in the power system are becoming increasingly difficult.”
+A deal with Empower would help Analog Devices compete better with Monolithic Power Systems, a major supplier of power management chips for Nvidia’s Hopper and Blackwell chips. Shares of Monolithic Power have risen about 60% since the beginning of this year, while shares of smaller rival Navitas Semiconductor more than doubled.
+Traditionally, chip designers have handled power consumption by placing power management chips next to the processor on a circuit board and running electricity horizontally across the circuit board. These chips act as a central system to monitor and distribute electrical power.
+Empower takes a different approach. Its integrated voltage regulators funnel power directly to thin, small chips underneath or inside the AI chips, the company has said. The placement cuts the distance the electricity needs to travel and reduces the energy lost along the way. The startup has also said its chips can change voltage much faster than traditional power chips, which helps keep the AI chips stable during computational spikes.
+Last year, Empower announced a partnership with chipmaker Marvell Technology to develop such integrated power solutions for Marvell’s custom chips.
+Milpitas, Calif.-based Empower has raised more than $215 million from investors including Fidelity Management, Maverick Silicon, CapitalG and Atreides Management, according to PitchBook. Its most recent valuation, from a September funding round, couldn’t be learned.
+Analog Devices has been benefiting from a jump in demand for technology that serves data centers. The chipmaker said orders from data center customers helped drive revenue in its January quarter 30% higher to $3.2 billion. Shares of Analog have risen more than 50% since this year."
+Musk Loses in Court; Uber Buys More of Delivery Hero,2026-05-19T00:00:06Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/musk-loses-court-uber-buys-delivery-hero,"Elon Musk’s big week isn’t starting out too well. Firstly, the all-important test launch of Starship got delayed by a day. Meanwhile, news broke that
+a worker
+died on Friday at SpaceX’s Starbase complex in Texas, where the rocket will launch.
+Separately, Musk on Monday lost the lawsuit against his fellow OpenAI founders, Sam Altman and Greg Brockman. The loss was sort of a technicality: The jury found that Musk didn’t file the claim in time. That means the jurors didn’t make a decision on the core of his arguments, as Musk pointed out, adding that
+he would appeal
+. So this battle may not be over. (For more details,
+see our story
+.)
+Why is he wasting his time on this suit, even as he reaches for the stars with SpaceX and tries to remake Tesla into a robotaxi and robot company? Well, it probably doesn’t take much of his own time—aside from appearing in court or for depositions every now and then. Musk has the money to pay the lawyers and the desire for revenge, so he probably thinks, “Why not?” Also, some might say the less involved he is in SpaceX, the better, given his very capable No. 2, Gwynne Shotwell, and his
+not always helpful
+management style.
+For OpenAI, this decision is good news. Even with the possibility of an appeal, the uncertainty of the case has now largely been removed. Of course, OpenAI is beset by so many dramas—lately it has been fighting with Apple—that the real impact of this win may not last long. Sam Altman and friends should savor the victory while they can.
+Uber Orders More Delivery Hero
+Uber CEO Dara Khosrowshahi’s dealmaking side is getting some exercise. Uber disclosed on Monday that it had lifted its stake in Germany-based food-delivery firm Delivery Hero to 19.5%, a purchase that likely cost around $1.8 billion. Uber had bought a small stake in the firm in 2024 as part of another deal
+that went sideways
+.
+Uber has options that would lift its stake to 25%. In a filing with German regulators, Uber said it “currently…has no intent to acquire 30% or more” of Delivery Hero, a statement that doesn’t tell us much about Uber’s long-term ambitions.
+Both Uber and DoorDash have been expanding internationally, particularly in Europe, through acquisitions in recent years. (Here’s a
+rundown we published last year
+.) Delivery Hero is a decent-size business, generating $17.2 billion in revenue last year, which is about the same as Uber’s food-delivery revenue for 2025.
+The German firm operates in Europe, Latin America, parts of Asia and the Middle East, so a full acquisition would be a good addition to Uber’s international operations. Watch this space!
+Calling all San Franciscans!
+The Information
+Editor-in-Chief
+Jessica Lessin will be interviewing former Wall Street Journal tech columnist, author and entrepreneur Joanna Stern this Wednesday at the Commonwealth Club in San Francisco. Come join them for a no-holds-barred conversation about the state of AI, Silicon Valley and media.
+Tickets are available
+here
+.
+In Other News
+•
+Chinese personal computer and server maker Lenovo Group said in an internal memo to staff last week that there have been no new licenses or policies regarding Nvidia’s H200 chips since March, when Washington approved the sales of the chips to some Chinese companies.
+• Everlane, a San Francisco–based startup that soared during the last decade’s e-commerce boom, will sell itself to Shein, a Chinese discount e-retail giant,
+according to Puck News
+. The deal values Everlane at $100 million, a far cry from the valuations it received at its height."
+Musk Loses OpenAI Lawsuit in Victory for Altman,2026-05-18T19:04:48Z,Rocket Drew,https://www.theinformation.com/articles/musk-loses-openai-lawsuit-victory-altman,"Jurors rejected Elon Musk’s claims against
+OpenAI
+, delivering a major victory to CEO Sam Altman in Silicon Valley’s biggest grudge match.
+Judge Yvonne Gonzalez Rogers agreed with the jury’s decision on Monday that Musk waited too long to bring his lawsuit. The decision came after just two hours of deliberation following three weeks of testimony and legal arguments.
+Musk, who co-founded OpenAI with Altman and President Greg Brockman in 2015, had accused them of violating a charitable trust and unjustly enriching themselves when they transformed the AI lab from a charity into a largely for-profit company. He accused Microsoft, an early backer, of aiding and abetting the breach of charitable trust.
+The nine-member jury and Judge Gonzalez Rogers were persuaded by OpenAI’s lawyers’ arguments that Musk already knew—or could have found out—about the actions he claims were unjust by the time he
+posted on X
+in 2020 that “OpenAI is essentially captured by Microsoft.”
+The ruling is a defeat for Musk, who also competes with OpenAI through the xAI unit of his SpaceX company, which is currently preparing an IPO. But the case has given Musk a forum to draw attention to criticisms of Altman and OpenAI that he has made for years on X. Two people close to Musk were dismissive of the verdict, saying OpenAI was expected to win and that Musk lost nothing by trying.
+Musk said he plans to appeal the decision, reiterating in an X post Monday his claim that Altman and Brockman stole a charity, and arguing that the judge and jury “never actually ruled on the merits of the case, just on a calendar technicality.” Musk’s lawyer, Steven Molo, said separately that the appeals court can decide whether the jury received proper instructions about the statute of limitations.
+Lawyers for Musk are asking the court to allow them to pursue the appeal before resolving separate antitrust claims by Musk against OpenAI and Microsoft, which the court early on had delayed to a later trial to prioritize the charitable trust and unjust enrichment claims. OpenAI also has made counterclaims against Musk that the judge had previously stayed for later as well.
+Musk alleges that OpenAI and Microsoft have used their shared market influence to restrain trade and have attempted to monopolize the AI industry—something those companies have denied. Judge Gonzalez Rogers on Monday cast doubt on those antitrust claims, saying that the law aims to protect competition and “there is a lot of competition” in the AI industry. “I thought that if there was anything that had legs, it was this half of the case,” she said, referring to the now resolved claims of breach of charitable trust and unjust enrichment.
+Monday’s decision reduces significant uncertainties that have clouded OpenAI’s future as it grapples with intensifying competition and prepares for an IPO that could come as soon as this year.
+Musk had been asking the court to compel OpenAI to unwind a restructuring last year that paved the way for the possible IPO, transfer of billions of dollars from its for-profit arm to its nonprofit and remove Altman from the nonprofit’s board.
+Musk’s lawyers had argued that the extent of OpenAI’s wrongdoing only became clear to Musk by degrees, and it was Microsoft’s deal to invest $10 billion in OpenAI in 2023 that constituted the main breach of charitable trust. That deal departed from earlier ones by taking on more investment and allowing the caps on investors’ potential returns to increase by 20% per year, the lawyers argued.
+Bill Savitt, OpenAI’s outside counsel, said that although the verdict was based on the statute of limitations, “it’s not a technical decision, it’s a substantive one.” He said it confirms that the case “was a hypocritical attempt to sabotage a competitor and to overcome a long history of very bad predictions about what OpenAI has been and will become.”
+A Microsoft spokesperson welcomed the verdict and said it remains “committed to our work with OpenAI to advance and scale AI for people and organizations around the world.”"
+The ‘Price is Right’ for GPUs: The Startup Turning Nvidia Chips Into ‘Boring’ Bankable Assets,2026-05-18T17:18:14Z,Anissa Gardizy,https://www.theinformation.com/newsletters/ai-infrastructure/price-right-gpus-startup-turning-nvidia-chips-boring-bankable-assets,"Good morning, Anissa here!
+The AI boom requires an enormous amount of new power plants, chips and data centers. But it also requires something that’s less visible: new financial plumbing that makes it possible to lend against this costly hardware.
+Miami fintech startup Barkr is one of the firms building the pipes, specifically for valuing AI chips being used as loan collateral, and has already attracted the attention of Nvidia. I recently met its CEO and co-founder, Thomas Galbraith, while moderating a panel in San Francisco about how lenders are underwriting the AI infrastructure build-out.
+Galbraith sits in a very specific part of the complicated web of asset-backed financing.
+His firm provides insurance-backed valuations of hard assets, like cars, art work and commercial equipment, which now includes AI chips. Barkr doesn’t lend the money itself, but gives lenders a number they can trust—and take to the bank.
+This work takes backbone: If Barkr gets the price wrong and a borrower defaults, it pays the difference.
+Founded in 2023, Barkr got its start calculating the value of assets such as collectible cars and private jets so that lenders could better price their loans. About six months ago, a lender came to Galbraith with a new challenge. “We‘re going to start lending against GPUs,” he recalled them saying. “And we can’t find anyone who can price them, let alone provide a guarantee on the price.”
+While Nvidia graphics processing units have emerged as a new asset class over the past few years, asset-backed financings for the chips are not yet ubiquitous. That’s because lenders and borrowers often disagree on the residual value of the GPUs, and there’s no independent party that can iron out the discrepancy. That means the terms of GPU-backed financing aren’t favorable compared to deals involving traditional assets.
+Asset-backed lending has always involved two risks: borrowers‘ ability to pay, and whether an asset’s value will hold up. Lenders have spent decades getting good at underwriting borrowers. Underwriting assets, particularly novel ones like GPUs, remains genuinely hard. Ask five firms to value the same GPU cluster and you will get five different answers, Galbraith said.
+Barkr has customized several AI models to value assets being used as loan collateral, then wraps the valuation in a contractual guarantee backed by Munich Re and other insurers. For a lender, that changes the calculus entirely, he said. A trusted price means less risk for the lender and a lower interest rate for the buyer.
+In the past six months, Barkr has aided transactions involving about $200 million worth of GPUs deals, and it expects to handle another $300 million in GPU deals before the end of the year. (That’s a relatively small number compared to Nvidia’s sales, and most GPUs are bought by world’s biggest companies, largely using their balance sheets.)
+For comparison, three years ago, investment firm Upper90 gave cloud provider Crusoe
+$200 million in
+debt, which was backed by 20,000 GPUs. Similar deals have happened since but have not proliferated.
+Making GPUs Boring
+Barkr, which has 14 employees and raised $3.5 million in venture capital, treats a GPU cluster the way an appraiser treats commercial equipment, by asking what another firm would pay for the hardware if a borrower defaulted on their payments.
+“We make them boring assets,” he said. “When you're looking at the insurance sector and how they think about assets and how they think about risk, the more uniform, the more boring, the more steady that it looks, the easier it is for the insurance industry to adopt.”
+While the prices AI developers pay to rent GPUs can be volatile (
+and are currently going up
+), GPU resale prices are a lot more stable, he says.
+GPUs depreciate, but they do so in a predictable way, which is what insurers and lenders want to see, he said. Barkr has found that Nvidia H100 chips, which came out in 2023 for around $30,000, are reselling for around $25,000 to $30,000 apiece, below a peak of more than $40,000.
+Galbraith has been obsessed with valuation problems since the early 2000s, when he worked at a global insurance company analyzing the value of art and other luxury items for high-net-worth clients. The firm's very name is a nod to that obsession. It’s a reference to Bob Barker, the late host of The Price is Right, a gameshow where contestants guess the retail price of consumer goods.
+Nvidia's Quiet Endorsement
+After our event panel, Galbraith drove to Santa Clara for a meeting at Nvidia's headquarters. There, he said he met with Nico Caprez, vice president of AI infrastructure, and others on the Nvidia startups investment team.
+Nvidia appears to understand that making its chips easier to finance is a huge opportunity. Nvidia employees have already introduced Galbraith to lenders who want to back GPU deals, he said.
+Nvidia has two reasons to care. First, it wants an independent third party validating that GPUs hold their value longer than some skeptics believe. Second, it wants to see the capital markets open up so that companies beyond the investment-grade hyperscalers can access large amounts of GPUs at similar borrowing terms.
+“We're solving a very specific problem that they are also very aware of,” Galbraith said of Nvidia.
+In other news…
+NextEra Energy
+will buy
+Dominion Energy in an all-stock transaction valued at $66.8 billion in a bid to create the world’s largest utility provider with a combined market capitalization of nearly $250 billion.
+GridCare—which my colleague Ann wrote about in a
+prior AI Infrastructure column
+—announced an oversubscribed, $64 million Series raise that brought in additional investors including Sutter Hill Ventures and John Doerr. GridCare is helping AI data centers find power by running advanced AI simulations to find underutilized pockets of power on the grid, which runs at a surprisingly low 30% capacity much of the year.
+Brent Mayo, head of data center capital markets at advisory firm Newmark,
+has left the firm
+and told people he is joining investment firm DigitalBridge."
+The Electric: Enduring Chinese Hero Worship for Musk Bolsters Sales of the Tesla Model Y,2026-05-18T16:00:06Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/electric-enduring-chinese-hero-worship-musk-bolsters-sales-tesla-model-y,"With their no-frills, spartan interiors,
+Tesla’s electric vehicles pale in comparison to plush Chinese-made models, which are typically replete with luxury and tech extras. And the technology that Tesla considers its singular distinguishing feature—its Full Self-Driving software—is heavily restricted in China.
+None of that seems to matter to Chinese car buyers, who for four straight years have been snapping up Tesla EVs. Tesla’s Model Y crossover SUV was China’s No. 1 best-selling vehicle of any type for the first four months of 2026, including combustion, according to Chinese data.
+That reflected a new surge for the Model Y, which, after holding the top sales slot in China in 2023 and 2024, fell to No. 3 last year, behind the Geely Xingyuan and the Wuling Hongguang, minicompact electric sedans priced at less than $10,000. In contrast, Tesla’s overall car sales have fallen for two straight years, with a decline of 28% in Europe last year alone.
+Outside China, Musk’s politics seem to be at least partly responsible for the sales decline. His shift to the right has alienated the environmentally conscious progressives who were among Tesla’s early fans. But in China, Musk remains a massive, all but unblemished celebrity hero, a stature that gives Tesla EVs a level of credibility the country’s own startups have largely not yet attained.
+When I was in China last month, I asked the CEO of one of Tesla’s top rivals—Xpeng founder He Xiaopeng—why Chinese buyers keep buying Teslas when local models are in many ways superior.
+“It’s a very simple question,” he responded. “Many consumers like Elon Musk. That guy is very good. I also like Elon Musk.”
+Musk’s standing in China was on display last week during President Donald Trump’s visit to Beijing. At a banquet on Thursday in the Great Hall of the People, Musk sat at a table as a string of Chinese officials—including Xiaomi CEO Lei Jun—stepped up to snap selfies with him.
+Lei, a billionaire entrepreneur, is himself no slouch—Xiaomi’s electric YU7 SUV was the second best-selling car of any type in China in the first quarter, and last month the Xiaomi SU7 electric sedan
+beat out
+the Model Y for sales in the country. Xiaomi also manufactures the world’s third best-selling smartphone, making Lei sort of a local combination of Musk and Tim Cook.
+Yet on Chinese social media,
+some said
+Lei’s body language made him look sheepish and obsequious next to a seemingly indifferent Musk.
+Musk can’t afford to lose this stature. China is more important than ever to Tesla’s financial stability. Its Shanghai factory pumped out more than half its vehicles last year, and China sales—about $20 billion—were almost a quarter of its total revenue of $94.8 billion. And while sales in China rose 0.09% last year, Tesla’s global sales fell almost 3%.
+Meanwhile, Musk is planning to spend billions of dollars turning Tesla into an AI and robotics powerhouse. In a call with analysts last month, Musk said Tesla would spend $25 billion on capital expenditures this year, triple last year’s figure. The money will go to the development of humanoid robots, a gigantic new chip factory that he calls the Terafab, and robotaxis.
+Though Musk predicts that Tesla’s profit will eventually come almost totally from robotaxis and robots, at the moment virtually all of it is from EV sales. But its profit last year was about $3.8 billion, so to cover the level of spending Musk plans this year—and next—he will have to dip significantly into the company’s $44 billion cash reserve.
+That means Tesla can’t afford to lose market share in China, where it hasn’t released a significant new model since the Y in 2021.
+Which brings us back to Musk as a local hero, someone known widely as “Brother Ma” and “Iron Man.” Though Musk largely behaves himself in China and does quite a bit of sucking up to China officialdom, he is admired for also pushing the limits of what entrepreneurs thought officials would allow—such as his Shanghai factory, 100% owned by Tesla. The country’s industrial titans and ordinary Chinese alike seem to see him as a superbillionaire, somehow bigger than a merely rich entrepreneur.
+Last week’s encounter with Musk was only the latest for Xiaomi’s Lei. Lei visited the Tesla CEO at the company’s Fremont, Calif., plant twice in 2013. Afterward, in a Xiaomi
+company blog post
+, Lei wrote that Musk represented “a new generation of Silicon Valley superstar.”
+The Chinese government originally championed Musk as someone who could frighten the country’s then-laggard car industry into waking up—or otherwise get crushed by Tesla.
+Today, he serves as evidence that China is serious about welcoming real competition. Its evolving embrace of Musk by extension gives ordinary Chinese the latitude to keep idolizing him. The gamble for Tesla and its investors is whether he can keep finding new reasons for the government to support him.
+---
+Noteworthy
+Lithium is on a tear.
+After three years of a lithium industry recession, prices for the metal—the primary one in batteries—have tripled since last July. The main reason is a shortfall of lithium ore because of an export cutback in Zimbabwe and a drop in production in Australia, according to
+Benchmark Mineral Intelligence
+, a metals research firm.
+EV entrepreneurs
+have been hunting for a better battery for almost two centuries,
+The New York Times reports
+. Most histories of EVs track them back to the late 19th and early 20th centuries. It turns out, however, that the first EVs were invented in the 1830s. They were not very useful, since the invention of the first major battery, lead acid, was three decades in the future.
+---"
+Edge Inference Chip Startup SiMa.ai Raising at $1.4 Billion Valuation,2026-05-18T14:00:06Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/edge-inference-chip-startup-sima-ai-raising-1-4-billion-valuation,"Nvidia
+might be on a tear, but some investors are still convinced that there’s demand for another kind of specialized chips. And they’re putting their money where their mouth is.
+For example: San Jose, Calif.-based
+SiMa.ai
+, which develops chips that work on devices such as drones or cameras, is in talks with investors to raise more than $100 million in new funding at a valuation of around $1.4 billion, according to two people with knowledge of the round. That would be a premium of more than 45% to its $960 million valuation from last August, according to PitchBook.
+SiMa.ai is one of a number of startups that are hoping to take a piece of the AI chip market by building chips for specific purposes—in SiMa.ai’s case, chips that don’t need a lot of power and can run on devices such as drones, robots or cameras. The idea is that not all future AI applications will need the massive amount of computing power available in data centers, which if true could shake up expectations about how much infrastructure needs to be built out.
+The firm was founded by CEO
+Krishna Rangasayee
+, who spent nearly two decades at chipmaker
+Xilinx
+and also worked for about a year as the chief operating office of
+Groq
+, which recently licensed its tech to Nvidia. SiMa.ai has already raised $355 million in funding from investors including
+Maverick Capital
+,
+Fidelity Management & Research
+and
+Dell Technologies Capital
+.
+SiMa.ai’s chips help its customers with everything from powering cameras that watch out for shoplifters in stores to powering robots in factories. Its customers include
+Cerence AI
+, which develops AI software for automobiles, aerospace and defense tech company
+ARC Aerospace
+and manufacturing firm
+TRUMPF SE + Co. KG
+, according to its website.
+SiMa.ai’s chips also stand out for not needing a lot of power to function, which is important since they run on devices that might not have easy access to a ton of power. That could become more important as devices like smartphones or
+OpenAI’s upcoming speaker
+need to be able to run AI models on the device themselves without having to communicate with models in the cloud.
+Here’s what else is going on…
+Policy Watch
+Chinese Premier
+Li Qiang
+met with more than a dozen
+American executives on Thursday in Beijing, telling tech and corporate leaders that the U.S. and China “can and should continue to be friends, partners.” Li said that as long as China and the U.S. “adhere to the principles of mutual respect, peaceful coexistence, and win-win cooperation, they will be able to properly manage and control their differences, while promoting the stable, healthy, and sustainable development of China-U.S. relations.”
+The meeting came as Reuters reported that the
+U.S. Commerce Department
+has
+cleared Nvidia’s sales
+of its
+H200
+chips to around 10 Chinese companies including
+Alibaba
+,
+Tencent
+,
+ByteDance
+and
+JD.com
+. (
+Nvidia
+hasn’t yet made a single delivery of the chips to those Chinese firms because of Beijing’s own restrictions.)
+Anthropic
+published a new paper
+on Friday that calls for the U.S. to make sure China’s access to advanced chips is restricted. In the paper, entitled
+“2028: Two Scenarios for Global AI Leadership,”
+Anthropic said if the U.S. loosens its restrictions on China’s access to compute, China could become more competitive in AI development, resulting in a “destabilizing neck-and-neck race” two years from now.
+U.S. Trade Representative
+Jamieson Greer
+said in an interview
+with Bloomberg TV on Friday that U.S. chip export controls were “not a major topic of discussion” at the bilateral meeting between U.S. President
+Donald Trump
+and Chinese President
+Xi Jinping
+.
+Overheard
+While speaking at the
+University of Arizona's
+graduation event on Sunday, former
+Google
+CEO
+Eric Schmidt
+faced loud booing from students when he brought up AI during his commencement speech. The reaction highlighted just how contentious the technology is today and fears around AI taking over people’s jobs, especially in the case of recent graduates.
+People on the Move
+OpenAI
+is
+combining teams
+working on
+ChatGPT
+, its
+Codex
+coding product and its API into one organization, pressing ahead on its more streamlined strategy, despite the prolonged medical leave of top executive
+Fidji Simo
+.
+Brent Mayo
+, head of data center capital markets at advisory firm
+Newmark
+, has left the firm and told people he is joining investment firm
+DigitalBridge
+,
+The Information reported
+.
+Steve Fisher
+, president and chief product officer at Salesforce,
+has stepped down
+and moved into an advisory role at the company, he announced on LinkedIn.
+Earnings Report
+Figma
+stock rose more than 8% in after hours trading as the design-software firm
+reported accelerating revenue growth
+for the first quarter. Revenue for the three months that ended March 31 rose 46% to $333 million, higher than the 40% jump in the previous quarter and the 38% increase in the period before that. Part of that growth flows from Figma’s move in early March to enforce limits on how much AI customers can use with their seat-based subscriptions.
+Court Watch
+Lawyers for
+Elon Musk
+,
+OpenAI
+and
+Microsoft
+delivered closing statements
+Thursday in their courtroom battle. OpenAI’s lawyers emphasized that Musk already knew—or could have found out—about the actions he claims were unjust by the time he posted on X in 2020 that “OpenAI is essentially captured by Microsoft.”
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Dragoneer
+,
+Greenoaks
+,
+Sequoia Capital
+and
+Altimeter Capital
+have agreed to co-lead
+a $30 billion round of funding into
+Anthropic
+at a $900 billion valuation before the money.
+Multiverse
+, which helps train employees to use AI better, raised $70 million at a $2.1 billion valuation in a funding round led by
+Schroders Capital
+.
+WIRobotics
+, which builds wearable and humanoid robots, raised about $68 million in a Series B funding round led by
+JB Investment
+.
+Gridcare
+, which uses physics-based AI to find underused capacity on the electricity grid, raised $64 million in a Series A funding round led by
+Sutter Hill Ventures
+and venture capitalist
+John Doerr
+.
+Dust
+, a Paris-based startup that helps humans and AI agents work together, raised $40 million in Series B funding led by
+Abstract Ventures
+and
+Sequoia Capital
+.
+Nectar Social
+, an AI-powered marketing platform, raised a $30 million Series A round led by
+Menlo Ventures
+and its
+Anthology Fund.
+GovWell
+, which provides AI software to local governments to handle permits, inspections, licensing, fee collection, and code compliance checks, raised $25 million in a Series A funding round led by
+Insight Partners
+.
+Wirestock
+, which supplies custom training data, including images and videos, raised $23 million in a Series A funding round led by
+Nava Ventures
+.
+OpenAI
+bought Weights.GG
+, a small startup that made an AI voice-cloning tool called
+Replay
+, in January.
+President Donald Trump
+traded millions of dollars
+worth of technology stocks since the start of 2026, new disclosures released on Thursday show. In a report filed with the
+U.S. Office of Government Ethics
+, Trump revealed that he bought and sold shares of companies including
+Nvidia
+,
+Palantir
+and
+Oracle
+.
+XAI
+began beta testing for some subscribers of
+Grok Build
+, a coding agent that runs in a computer’s terminal window similar to
+Claude Code
+and
+Codex
+."
+Microsoft Executives Sound the Alarm Over GitHub’s Eroding AI Lead,2026-05-18T13:00:45Z,Aaron Holmes,https://www.theinformation.com/articles/microsoft-executives-sound-alarm-githubs-eroding-ai-lead,"No part of
+Microsoft
+better illustrates its predicament in AI than GitHub.
+The AI boom has boosted usage and revenue of the code repository as well as GitHub Copilot, an AI coding assistant. But GitHub has struggled to respond to new AI coding competitors that have since overtaken it. And the service has suffered from frequent and major outages, peeving big customers and prompting Microsoft to issue an apology.
+In recent months, Jay Parikh, who oversees the division that includes GitHub, has privately warned colleagues that the unit faces a critical threat.
+Parikh told deputies that if GitHub doesn’t adapt, rivals like Cursor and Claude Code could displace not just Copilot but the core repository itself. His fear: Developers using integrated tools like Cursor will stop uploading their code to GitHub altogether, rendering the repository service obsolete, according to two people who heard the remarks.
+Microsoft’s adaptation plan includes developing its own strong AI coding models to lessen GitHub Copilot’s dependence on those from OpenAI and Anthropic. To train new models, Microsoft is using data from employees’ internal use of AI tools as well as from GitHub customers, such as the code they upload to the platform, according to someone who has worked on the effort.
+Microsoft also has eyed potential acquisitions of AI coding startups, including Sourcegraph, to bolster GitHub’s offerings and talent, according to people with knowledge of the talks. Microsoft executives last year considered acquiring a bigger coding rival, Cursor, but demurred over EU antitrust concerns, according to a person involved in the talks. SpaceX has since signed an agreement to buy the startup for $60 billion.
+“Two years ago, GitHub Copilot had a phenomenal lead over the rest of the world. Today, it still has mindshare, but they’re no longer the clear leader,” said S. Somasegar, a managing partner at Madrona Venture Group who previously led Microsoft’s developer division and advised CEO Satya Nadella to acquire GitHub. Microsoft did so in 2018 for $7.5 billion.
+“They need to keep innovating on both products and on their business model,” Somasegar said.
+The same criticism could be made about most of Microsoft’s other core applications, which are facing similar threats from Anthropic’s and OpenAI’s AI agents and chatbots for white-collar workers. Both Anthropic and OpenAI recently released new features that automate work within Office 365 apps, competing directly with Microsoft’s Copilot AI tools.
+Microsoft has responded by developing
+new features inspired by AI agents like OpenClaw
+that work on longer tasks around the clock without needing as much supervision.
+Microsoft’s ability to weather new competition this year will determine how vulnerable it is to activist investors. The company’s stock is down more than 10% so far this year, more than any other Magnificent Seven stock, and some large shareholders have dumped their positions, citing fears that new AI tools will supplant its productivity software business. Microsoft assuaged some of those concerns during its latest earnings call last week when it showed that it had
+over 20 million paying users of 365 Copilot
+, up 33% from the quarter prior and implying over $7 billion in annual revenue.
+It also said it was generating more than $3 billion a month, or $37 billion in annualized sales, from AI-related products and services. Most of that figure is tied to renting out cloud servers to OpenAI, which has a much lower profit margin for Microsoft than its apps business.
+Developers, Developers, Developers
+GitHub, which hasn’t had a dedicated leader since last summer, has been a key plank of Microsoft’s cloud business, deepening its relationship with a newer crop of application developers. Microsoft’s obsessive focus on keeping such developers in its camp had for decades helped entrench Windows’ market position, epitomized by former CEO Steve Ballmer’s
+infamous onstage chant
+(“Developers!”). GitHub was supposed to revive such ties.
+Thanks to Microsoft’s partnership with OpenAI, which started in 2019, GitHub pioneered GitHub Copilot using OpenAI’s technology in 2021, more than a year before the advent of ChatGPT. Microsoft then
+capitalized on its early lead with GitHub Copilot
+to win some business away from cloud competitors like Amazon and Google by bundling GitHub Copilot and other GitHub services with its broader cloud suite.
+Then in 2024 along came Cursor, which presented an AI coding tool that could handle more complex tasks, while GitHub Copilot was still primarily offering autocomplete suggestions for coders as they typed. Anthropic in mid-2025 followed with Claude Code, powered by its state-of-the-art AI to automate even more difficult coding tasks, and OpenAI has been rapidly improving its competing tool, Codex.
+Despite competition from faster-growing rivals, GitHub Copilot grew steadily as the global market for AI coding tools expanded, and it has also developed agentlike features. Paid users of GitHub Copilot have risen from just over 1 million in early 2024 to more than 4.7 million in December 2025, according to company disclosures. (OpenAI’s Codex tool doubled its weekly users to 4 million between March and April, but that product includes a free tier.)
+The GitHub figures imply the tool was on track to generate at least $550 million annually at the time, based on the cheapest subscription tier price. At the end of 2025, GitHub’s annual recurring revenue was more than $3 billion, according to someone with knowledge of the business. That figure suggests the unit generated only around 1% of Microsoft’s revenue last year.
+Strained Profit Margins
+Meanwhile, traffic to GitHub has exploded, growing 14 times over the past year as customers use their own AI tools to upload and edit code in the repository. Not all of that traffic turns into revenue: GitHub doesn’t charge customers for basic services like uploading and modifying code. And it generally doesn’t charge people for using even more advanced AI features, such as detecting and suggesting patches for software vulnerabilities, in public repositories that open-source projects rely on.
+The added traffic has strained GitHub’s gross margins and led to a surge in outages. It has also forced the company to raise prices for some AI features, which has annoyed customers, some of whom say they’re now exploring leaving GitHub for competitors such as GitLab.
+Like many of its rivals, GitHub Copilot has struggled with margins because Microsoft has been subsidizing the biggest subscription customers of the AI tool. GitHub’s cost for running the AI models many power users consumed through GitHub Copilot exceeded the monthly price of their subscriptions, leaving Microsoft to eat the costs, according to one of the current employees. Microsoft Chief Financial Officer Amy Hood admitted as much in an April earnings call, noting that “increased GitHub Copilot usage” drove down gross margins in Microsoft’s cloud unit during the quarter.
+Microsoft is now planning to hike the price of GitHub Copilot by charging based on usage, it said last month, and has temporarily stopped people from signing up for cheaper subscriptions. The price increase could turn off some customers, such as IT services firm NinjaOne, which
+said it is steering more of its engineers to use Anthropic’s Claude Code
+as GitHub changes to usage-based pricing.
+Parikh and his deputies also have discussed new ways to charge customers more—without alienating them—based on how much their external AI agents use the code repository service, according to a current employee with knowledge of the company’s thinking.
+Microsoft executive Jay Parikh via Getty
+To develop Microsoft’s own AI coding models and lessen reliance on OpenAI’s and Anthropic’s, Parikh has directed GitHub teams to gather more coding data only Microsoft has access to, such as code its roughly 100,000 software engineers write and edit, according to someone with knowledge of the effort. Other major AI developers use similar data from employees to improve their models.
+Last week, Rajesh Jha, who oversees tens of thousands of employees working on Windows and Office software, told staff they would have to use GitHub Copilot CLI, a version of the tool that makes it function more like Claude Code. Staffers on those teams had become prolific users of Claude Code, but Jha said he would cancel those licenses by the end of June, according to someone who received the memo, which The Verge earlier reported.
+Microsoft is also starting to use data gathered from GitHub Copilot’s external customers to develop and improve new coding models.
+Shaken Customer Trust
+First, however, Microsoft must stem the bleeding at GitHub, where outages have made the service unusable for hours at a time, preventing customers from saving changes to their code.
+Firms like Citi and Intel have privately complained about the outages in recent months, according to two Microsoft employees with knowledge of the conversations. And OpenAI has
+explored building its own alternative to GitHub
+due to frustrations with the downtime. Spokespeople for Citi and Intel declined to comment.
+The glitches are also hitting Microsoft’s bottom line. In an attempt to mollify customers, it has in recent months offered credits to large firms to make up for downtime in their GitHub environment, reducing its overall revenue from those firms, one of the employees said.
+An outage occurred last month after a bug caused some customers’ GitHub repositories to revert to older versions. GitHub later said in an
+incident report
+that an “inadvertently” used unreleased feature caused the outage and that it didn’t detect the problem until three hours after that feature went into effect.
+That outage was more frustrating than previous ones because it undid work developers had completed on GitHub, according to Tom Elliott, a software developer at Modal, which rents out Nvidia servers to AI developers. Modal is exploring moving to a competing service such as GitLab, he said.
+The outages have also angered prominent figures in open-source projects that rely on GitHub. Mitchell Hashimoto, co-founder of developer tools firm HashiCorp and creator of Ghostty, a popular open-source tool for writing and testing code, said last month he was moving the project out of GitHub due to the outages. He didn’t disclose where he’s taking it, but he said Ghostty was in discussions with other providers.
+Hashimoto wrote in a
+blog post
+, “GitHub is failing me, every single day.…This is no longer a place for serious work if it just blocks you out for hours per day, every day.”
+GitHub has apologized for the outages, calling them “unacceptable,” and has said it’s redesigning how parts of its service work."

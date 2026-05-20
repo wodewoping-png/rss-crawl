@@ -1,0 +1,377 @@
+﻿标题,时间,作者,链接,内容
+Investors Fall Back in Love With IPOs,2026-05-20T00:30:46Z,Valida Pau,https://www.theinformation.com/newsletters/dealmaker/investors-fall-back-love-ipos,"For the past two days, I’ve been at JP Morgan’s annual tech conference in Boston. As usual, AI has dominated most of my conversations with investors. But in a change from the past few months, it’s not
+Anthropic
+and
+OpenAI
+driving those discussions—but hardware and utility companies a few steps removed from what the AI model makers do.
+On Monday, for example, NextEra Energy and Dominion Energy agreed to a $400 billion tie-up driven in part by AI’s voracious demand for energy, the two utility giants said. That’s also happening at the chip level: Analog Devices,
+as we reported
+Monday night, is buying a startup whose chips help manage power transmission to the semiconductors that handle AI functions.
+Then there is SpaceX, which is expected to make its initial public offering prospectus public as soon as Wednesday. We and other outlets have
+reported many of the details
+of the offering already. Still, investors from large mutual fund managers like Fidelity and Wellington Management they’ll still scroll for revelations from the paperwork. A key point of interest is how SpaceX discusses its AI business, which recently absorbed Musk’s xAI—and could soon acquire coding agent Cursor.
+While Musk has tried to remake SpaceX into an AI company over the past four months, buzz around the IPO has been drawing attention to other startups taking on the incredible feat of putting rockets in space.
+An executive from Blue Origin, Jeff Bezos’ rival launch company, was seen at the conference, meeting investors and an executive from satellite designer AST SpaceMobile.
+Blue Origin,
+which botched the launch of an AST SpaceMobile satellite in late April
+, has told staff it may raise more money from external investors, The Financial Times reported last week.
+Space aside, AI chips—notably those designed by Nvidia challenger Cerebras—have sweetened the outlook for more IPOs this year. Cerebras’ shares have risen 64% since their IPO last week. That’s helping big investors
+forget about the poor performance of last year’s IPOs
+and a sell-off in tech shares prompted by oil spikes and fears about the impact of Anthropic’s latest product releases on incumbent software providers.
+J.P. Morgan, for its part, points to the numbers. U.S. companies have raised more than $32 billion from initial public offerings this year, nearly three times higher than this time last year, and newly public companies have risen an average of 17% since their IPOs, said Keith Canton, global head of private capital advisory and solutions.
+It wasn’t all wine and roses. In closed-door meetings, there was  a noticeable split in moods between those perceived to benefit in the AI boom and those perceived to be disrupted by AI, attendees told me.
+While executives and investors of chipmakers and new cloud providers were giving high-fives to each other, the mood was more downbeat for enterprise software companies, some attendees said. The latter have been trying to remake themselves as AI companies via a spree of deals and new AI releases.
+“There’s a critical question facing many software companies: can they evolve into truly AI-native organizations, or will partnerships and acquisitions be necessary to accelerate the shift toward a more AI-driven future?” said Chris Grose, co-head of technology investment banking at JPMorgan.
+That’s no doubt why many attendees lined up to hear directly from the company that triggered the seismic quake rattling investors: OpenAI. The ChatGPT maker sent its CFO Sarah Friar to deliver one of the main keynotes of the conference."
+Google’s AI Search Leap Forward,2026-05-20T00:00:45Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/googles-ai-search-leap-forward,"If you pay attention to one thing in AI this week, it should be Google’s I/O
+presentation
+on Tuesday. The tech giant unveiled a bunch of AI tools, most significantly the addition of new AI features such as agents to Google Search. Any distinction that existed between Google’s Gemini AI chatbot and its search bar is disappearing.
+No longer should we compare OpenAI’s ChatGPT to Gemini—it’s ChatGPT versus Google Search. That’s a big deal, given that Search is much more widely used than Gemini—Google CEO Sundar Pichai intimated today that Search has 3 billion monthly users, while the Gemini chatbot had 900 million. (ChatGPT is bigger than Gemini, at least: Its user number has been hovering at a little over 900 million
+weekly
+active users for a while now.)
+Turning Google Search into an AI chatbot means average people who might never click on Gemini are more likely to get exposed to a broader range of AI tools than has been the case so far. It’s hard to argue with Google Search chief Liz Reid’s statement on stage at I/O that the overhaul is Google’s biggest search box upgrade in 25 years.
+One of the more striking new AI tools was the introduction of agents, such as an information agent that will let consumers ask Search to monitor and provide regular updates for things like stock prices, along very specific criteria. Another agent can monitor apartments you might want to rent. Those are the sort of things we all associate with agents already, to be sure. But having these features available in Google Search likely will increase their usage.
+The business impact is sure to be significant. Search is, of course, Google’s cash cow, so the overhaul holds out the possibility that boosting its usage will also increase Google’s revenue. But there’s a cost to that: Just imagine how much more Google will have to spend to handle the increasingly complex AI-related searches that are likely to flood its servers. And exactly how Google will fit ads into more elaborate AI responses without turning people off is unclear.
+What about the impact on competition? OpenAI may have a hard time growing ChatGPT once people realize Google search can do whatever ChatGPT can do. The same is even more true of others that have much to prove in AI, such as Meta Platforms. The array of new AI tools and features Google unveiled on Tuesday demonstrates how the tech giant may be hard to beat once it has overhauled all its products and services with its AI.
+Move Over, Meta
+Meta has made AI-powered smart glasses a thing in the past few years, thanks to its collaboration with Ray-Ban. But Meta will soon face some hefty competition,
+starting with Google this fall
+.
+On Tuesday at I/O, the tech giant unveiled a couple of the designs coming this year from its collaborators,
+Warby Parker
+and South Korea’s Gentle Monster. Like the Meta Ray-Bans, the glasses will let wearers make phone calls, send texts, listen to music and take photos. They also will offer navigation and other less obviously useful functions, such as placing a coffee order on DoorDash via Gemini (surely it’s just easier to text, call or walk into a Starbucks).
+Apple is
+reportedly working
+on its own smart glasses. Meta CEO Mark Zuckerberg was early to this market, but his hold on it seems likely to slip.
+In Other News
+Google and Blackstone are teaming up to create a rival to neoclouds such as CoreWeave and Nebius, but one that will offer AI computing capacity powered by Google’s tensor processing units (more details
+here
+and
+here
+).
+Google unveiled an expanded lineup of AI shopping tools Tuesday at its annual I/O developer conference, including a “Universal Cart” that allows users to add products from multiple retailers and sites across multiple Google products including search, Gmail, Gemini and YouTube.
+Google DeepMind agreed to pay between $80 million and $90 million to hire employees from AI agent startup Contextual AI and to license its technology, according to a person with knowledge of the deal.
+Andrej Karpathy, a founding member of OpenAI and Tesla’s former director of AI, is joining Anthropic, he
+posted on X
+on Tuesday. “I think the next few years at the frontier of LLMs will be especially formative,” he wrote.
+Chipmaker Analog Devices is in advanced talks to buy startup Empower Semiconductor for about $1.5 billion, in a deal that reflects the demand for technology that can manage the intense energy needs of AI chips,
+The Information reported Monday
+.
+Meta Platforms is making broader organizational changes along with impending mass layoffs to better suit its structure to AI, a top executive told staff on Monday. The owner of Facebook and Instagram plans to detail cuts on Wednesday to about a tenth of its nearly 78,000 employees."
+5 Charts That Make Sense of SpaceX’s IPO Numbers,2026-05-19T21:08:47Z,Cory Weinberg,https://www.theinformation.com/articles/5-charts-make-sense-spacexs-ipo-numbers,"SpaceX’s initial public offering prospectus will read like a kaleidoscope when it’s unveiled publicly in the coming days. There will be a dazzling mixture of storylines and figures that show huge financial losses, exciting promises, impressive growth and unmet expectations.
+Information in the prospectus will help investors knit together parts of the company that feel disconnected—rocket launches, satellite internet, social media, AI models, data centers, defense contracting, Mars voyages—ahead of the largest and most audacious IPO ever.
+The IPO filing touts significant forward-looking advantages, according to excerpts seen by The Information. For instance, the prospectus reads: “We believe we are the only company with a commercially viable path to building orbital AI compute at scale.”
+But its historical numbers, laid out in black and white, are worth examining closely. We’ve spent weeks reporting on key details revealed by drafts of the prospectus and speaking to people close to the deal, revealing an unprecedented depth of financial information about a high-profile company just before its public debut.
+We’ve used that information to create these five charts that help tell the story of SpaceX to orient readers ahead of the IPO filing. Please note that some figures may be updated in the prospectus that becomes public.
+It’s well known that SpaceX’s IPO, which could raise as much as $75 billion, should be the largest ever by a wide margin. What’s less appreciated is that the company’s total historical financial losses have been staggering as well.
+SpaceX’s year-end balance sheet last year showed it had amassed a total loss of $37 billion over its history. That figure, known as an accumulated deficit, was larger than those recorded by the next 10 tech companies
+combined
+that went public tabulating a history of red ink. The list with large accumulated deficits includes Didi Chuxing, Uber, Airbnb and Rivian.
+The pileup of losses reflects the sheer capital intensity of SpaceX building a dominant rocket launch provider, including the stock-based compensation it has awarded employees over its 24-year history. And the company’s acquisition of xAI earlier this year, which had significant losses last year, didn’t help, either.
+SpaceX looked quite profitable last year—if you strip out many of its biggest expenses.
+The company’s adjusted earnings before interest, taxes, depreciation and amortization was in the black last year, at $6.6 billion. But its net
+loss
+, under real accounting principles, was $4.9 billion.
+It’s quite common for companies to show investors nontraditional profit metrics to show a healthier operating record. But the size of SpaceX’s adjustments is unique, due to a mixture of high capital expenditures, high stock-based compensation and debt.
+The total of SpaceX’s adjustments—meaning the expenses left out of its adjusted Ebitda—was 1.7 times larger than that headline profit overall. That’s a larger gap between headline profit and real profit than for other capex-heavy businesses like AI data center operator CoreWeave, satellite internet provider Viasat, and even Musk’s other company, Tesla.
+SpaceX’s crown jewel is its satellite internet offering, Starlink, which has grown to dominate the market in just five years.
+The dominance is clear when you compare Starlink’s $11.4 billion in revenue last year to the seven largest satellite communications operators. It generated more than twice as many sales as its closest competitor, Viasat. And it generated as much revenue as that entire group, which includes SES, Viasat, AST SpaceMobile, Globalstar, Iridium, Eutelsat and EchoStar’s satellite division.
+Another SpaceX business segment is Space, which includes sales from rocket launches by other customers. That revenue grew only 8% last year, to $4.1 billion, primarily due to contracts with the Pentagon and NASA.
+The slow growth was because only 43 of SpaceX’s 165 launches of its Falcon 9—its primary rocket—were for outside customers. Nearly three-quarters were for Starlink, a portion that increased slightly last year compared to past years. The draft prospectus notes that “customer launches and average price per launch remained flat” between 2024 and 2025.
+The draft also said SpaceX would soon be using the rocket capacity it devotes to Starlink to send computing capacity—servers—into orbit. “We allocate a significant amount of launch capacity to our Connectivity segment, and expect to allocate a significant amount to our AI segment in the future,” the draft reads.
+SpaceX’s AI division encompasses both the social media site X and xAI, with its Grok chatbot. This division’s growth wasn’t particularly impressive, as xAI struggled to establish itself as a meaningful competitor to OpenAI and Anthropic.
+XAI’s revenue grew just 23% last year. Anthropic’s revenue, meanwhile, grew over 1,000%, The Information has reported. And OpenAI grew nearly 300%. And most of xAI’s revenue was from the social media site X rather than AI revenues overall, but it’s not clear yet how much. The company attributed the AI division’s growth to “an increase in subscriber revenue, and advertising and platform services revenue.”"
+"SpaceX IPO Could Return More Than $60 Billion Each for Founders Fund, Valor",2026-05-19T17:59:50Z,Katie Roof,https://www.theinformation.com/articles/spacex-ipo-return-60-billion-founders-fund-valor,"SpaceX’s initial public offering, expected to be the largest in history, is also set to yield the largest venture returns ever at the time of the IPO. Among those set to win big are Founders Fund, Valor Equity Partners and Sequoia Capital.
+Valor Equity Partners, whose founder Antonio Gracias is on the SpaceX board and has backed several of Musk’s endeavors, owns about 4% of SpaceX, via the almost $6 billion it spent investing in X, xAI and SpaceX, which are now all part of the same company. If, as some bankers expect, it is valued at around $1.75 trillion in the IPO, Valor would show gains of close to $65 billion.
+Peter Thiel’s Founders Fund, which first invested in Musk’s rocketship company in 2008, has spent over $600 million for a stake of around 3.5%, according to a person familiar with the investment. At a $1.75 trillion valuation, Founders Fund would enjoy gains of more than $60 billion, despite previously selling a portion of its shares.
+SpaceX is expected to make its IPO prospectus public as soon as Wednesday. That starts the clock for the company to go public by mid-June. The exact pricing of the IPO won’t be clear until then.
+Sequoia Capital has almost a 1.5% stake and has spent $2 billion in SpaceX, xAI and X, according to a person familiar with the matter. This indicates it could generate over $20 billion in returns at a $1.75 trillion valuation.
+Sequoia came in relatively late. It also held onto all of its shares. Partner Shaun Maguire led the SpaceX investment in 2020 when the company was already valued at $36 billion. That same year SpaceX reached a technological milestone,
+launching two NASA astronauts aboard its Crew Dragon spacecraft
+to the International Space Station.
+Sequoia also wrote an
+$800 million check into Musk’s buyout of X
+and invested in xAI when the AI startup raised $12 billion in multiple rounds in 2024.
+The VC firm 137 Ventures also owns above a 1% stake, as previously reported by Bloomberg. The investment was led by firm founder Justin Fishner-Wolfson, who was at Founders Fund at the time of its SpaceX investment also.
+Other large shareholders include DFJ and Vy Capital, whose stakes could not be learned.
+Should the IPO make a typical 20%-30% pop on its first day of trading, these firms’ gains could rise further. Of course, how much these firms end up making depends when they’re able to sell, which in turn will depend on lockup rules put in place. These firms may have to wait months to sell, by which time the stock price could have fallen from the IPO level or risen further.
+The expected flood of cash coming from the IPO will be a welcome bonanza after the IPO drought of recent years dried up cash distributions. If the offering is as much of a blockbuster as many expect, it will skew returns for the industry: the funds that invested in SpaceX over the last 24 years are likely to greatly outperform their peers from the same years.
+The expected payouts could also cement a thesis percolating throughout SpaceX’s talks with large investors in recent weeks: Musk’s companies have tended to pay off for investors, despite steep valuations and years of cash burn. SpaceX, which had been profitable last year, bought Musk’s money-losing AI lab, xAI, in February. Combined, the companies would have
+lost about $5 billion last year on revenue of $18.5 billion
+.
+These payouts will set a new standard for VC returns. SoftBank parlayed
+a $20 million investment
+into more than $55 billion at the time of Alibaba’s 2014, though it held onto its shares after the IPO. Accel stood to return about $10 billion at the time of the 2012 Facebook IPO, while Sutter Hill Ventures was looking at a more than $6 billion return at the time of the Snowflake IPO.
+For both Valor and Founders Fund, the big paydays follow years of repeat investments. In 2008, when Musk needed emergency funding for SpaceX following two failed rocket launches,
+Founders Fund co-founder Luke Nosek
+convinced Thiel to make a $20 million infusion, at the time one of the fund’s biggest-ever investments. Founders Fund then went on to invest in multiple rounds.
+Valor first invested in SpaceX in its early years.
+Several of its funds
+then went on to invest in SpaceX and xAI, and Valor also set out to raise a $20 billion special purpose vehicle to purchase Nvidia chips to lease to xAI. It held onto its SpaceX shares."
+"How Microsoft, Meta, xAI Get AI Training Data From Their Employees",2026-05-19T17:30:45Z,Jyoti Mann,https://www.theinformation.com/newsletters/applied-ai/microsoft-meta-xai-get-ai-training-data-employees,"Microsoft’s GitHub Copilot may have lost much of its early lead in the AI coding race to rivals like Anthropic and Cursor, but Microsoft thinks it has an advantage over those companies: roughly 100,000 software engineers who work for Microsoft.
+As we reported Monday
+, Microsoft leaders think they can develop coding models using the wealth of proprietary code those developers have written (and are writing now). It’s the latest example of AI developers using their own employees as a source of AI training data.
+Microsoft has been collecting data from its in-house VSCode application, which developers use to write software. It’s also been compiling the source code of video games developed by studios owned by Xbox—another valuable asset other AI labs don’t own—for use in training AI models.
+Microsoft has also been pushing more employees to use GitHub Copilot instead of competing tools like Claude Code, in part because it’s collecting data on which Copilot-generated lines of code that staff engineers end up approving for real applications. (Other AI developers including Google and OpenAI also ask employees to use in-house AI tools they are developing, commonly known as dogfooding.)
+Microsoft isn’t the only firm leaning on its own employees for new training data. Meta has ruffled employees’ feathers with an even more invasive practice: tracking how they move their mouse and what they do in browser windows. CEO Mark Zuckerberg
+told staff that doing so would be especially valuable to Meta because all of its employees are “very smart,”
+although it’s unclear whether that compliment made anyone feel better about the surveillance.
+Some Meta employees are resisting the company’s new data collection tool, called the Model Capability Initiative, by routinely ignoring the “accept” button on the permissions popup that recently appeared on their screens. One staffer said other workers had discovered ways to disable the software through their device settings.
+Some of the resistance appears justified, as some employees said in internal posts reviewed by The Information that the new software created technical problems on their devices after it was installed.
+“MCI makes everything super slow,” one employee wrote, adding that keyboard input and mouse movement became laggy.
+A Meta spokesperson said in a statement: “If we're building agents to help people complete everyday tasks using computers, our models need real examples of how people actually use them—things like mouse movements, clicking buttons, and navigating dropdown menus.”
+The spokesperson added that Meta has measures in place to safeguard sensitive information and that the data is not used beyond training purposes.
+At xAI, managers reportedly offered to pay employees $420 apiece to “donate” their tax returns—as well as returns from their friends and family members—to use as AI training data for Grok. Two months later, xAI hasn’t paid employees who made such contributions,
+Bloomberg
+reported Monday.
+The trend is likely to continue across the industry. While there are other ways to get primary training data—namely, asking customers’ permission to use their data for training—getting such data from employees is easier because technically they can’t say “no.”
+Salesforce’s $300 Million Anthropic Bill
+Ever since Anthropic quietly raised its prices for enterprise customers earlier this year, we’ve been keeping track of whether customers are ditching Claude for cheaper alternatives. So far, most firms seem
+willing to eat the cost.
+The latest example is Salesforce, which is now on track to spend $300 million on Anthropic models this year, CEO Marc Benioff
+told the All-In podcast Friday
+. For context, that would represent around 4.5% of the $6.7 billion Salesforce spent on cost of revenues last year, which included payments to third party tech suppliers.
+Salesforce is primarily spending money on Anthropic’s AI coding tools, Benioff said, and argued that the technology is worth the expense because it’s making software development cheaper than ever.
+“These coding agents are awesome,” Benioff said. “Everything‘s going to be cheaper to make. It’s more efficient. I can do things that I just could not do before.”
+But Benioff implied he’s planning to wean his company off Anthropic to save on costs.
+“The vast majority of those tokens don‘t need to go to Anthropic. There needs to be some intermediary layer that’s saying, oh, that one has to go to Anthropic, but these ones can be handled by smaller models,” Benioff said. “To think it’s going to be so expensive—I think that’s just the moment of time we’re in right now.”
+Benioff speculated that a “hot new company” may soon appear to fill that need for model routing. One such startup, OpenRouter, was recently in talks to raise $120 million in new funding led by one of Alphabet’s venture arms at a $1.3 billion valuation, including the investment, we
+reported last month
+.
+But Salesforce itself may also get into the business of helping customers manage such AI coordination: Benioff said the company wants to add more tools to Slack that make it easier for engineers to work with a range of AI coding tools."
+Is the Gap Widening Between Anthropic and Open-Source Models?,2026-05-19T14:00:45Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/gap-widening-anthropic-open-source-models,"Some developers have told me that the
+rising costs of frontier AI models
+from
+Anthropic
+and other firms could prompt them to shift to cheaper open-source AI. After all, when companies as sophisticated as
+Uber are accidentally blowing through their entire year’s AI budget
+in a matter of months, it makes sense to cut back by using a less capable open-source model to automate simpler tasks. (In fact, companies like
+Uber
+and
+Airbnb
+are doing exactly that!)
+It’s not clear whether open-source AI is good enough to meet the challenge, though. For instance, one executive at a major customer of
+OpenAI
+and
+Anthropic
+told me that they’ve been trying to use open-source models like
+Moonshot AI’s Kimi K2.6
+and
+DeepSeek V4
+. But while these models have performed well on benchmarks and are good at answering more surface-level questions in a variety of areas, they tend to struggle with follow-up questions or deeper lines of questioning, this executive said.
+For instance, you could imagine a model doing well on a popular brainteaser but then struggling if you tweak a few assumptions or details in the brainteaser.
+Of course, this is just one developer’s experience, and usage of open-source models does seem to be growing overall, based on
+data
+from inference provider
+OpenRouter
+.
+But other data suggests that the performance gap between open- and closed-source AI is widening, such as the
+analysis here
+from the
+National Institute of Standards and Technology
+. NIST’s analysis determined that the capabilities of DeepSeek V4, which was released in April, lag behind frontier models by about eight months. In comparison,
+DeepSeek R1
+, which was released in January 2025, lagged behind frontier models by around three to four months, according to the NIST analysis.
+The executive I spoke with had a few ideas why the open-source models they were using tended to struggle on deeper or more detailed questions.
+One possibility is that the models’ training datasets had limited coverage, meaning that they didn’t include enough examples of the full range of situations the models were expected to handle, the exec said.
+For instance, the model could have been trained on the public web, which contains lots of intro-level blog posts explaining various topics, like ways to train a model. The web, however, does not contain more complex examples of what to do when those model training techniques go wrong.
+Additionally, the open-source models may have been trained with a lot of data produced by closed-source models like OpenAI’s
+GPT
+and Anthropic's
+Claude
+, a process known as
+distillation
+, the executive said. (OpenAI has
+previously accused Chinese AI developers
+of using distillation, and even well known AI CEOs like
+Elon Musk
+have
+admitted
+to developing their AI using distillation of other frontier models.)
+Distillation can be a cheap and quick way to improve the performance of a “dumber” model, but it can also backfire if researchers cut corners. You can think of bad distillation as telling a high schooler to memorize the answers to a physics exam: they might know enough to sound knowledgeable initially, but if you were to ask them any follow-up questions, their lack of knowledge would become apparent.
+The increasing costs of AI could offset these performance shortcomings, however. If closed-source models continue to get more expensive, developers may increasingly look for cheaper alternatives.
+And new tricks and workarounds like
+“ask-expert-mcp,”
+a special kind of software which allows a weaker or cheaper model to ask a stronger model for help when it gets stuck, could also help to make open-source models more usable.
+Here’s what else is going on…
+Court Watch
+Jurors
+rejected Elon Musk’s claims
+against
+OpenAI
+, delivering a major victory to CEO
+Sam Altman
+in Silicon Valley’s biggest grudge match. Judge
+Yvonne Gonzalez Rogers
+agreed with the jury’s decision.
+The jury found, and the judge agreed, that
+Musk
+waited too long to bring his lawsuit. OpenAI’s lawyers had argued that Musk already knew—or could have found out—about the actions he claims were unjust by the time he posted on X in 2020 that “OpenAI is essentially captured by Microsoft.”
+People on the Move
+Meta
+plans to detail cuts
+on Wednesday to about a tenth of its nearly 78,000 employees. As company leaders worked on those plans, many of them “incorporated AI native design principles into their new org structures,”
+Janelle Gale
+, Meta’s top human resources official, said in a staff memo about the changes reviewed by The Information.
+Overheard
+Shares in
+Seagate Technology
+, which makes hard disk drives for data storage,
+fell 7% Monday
+after CEO
+William Mosley
+suggested the company was more focused on increasing capacity on its individual hard drives than “building new factories or bringing up new machines that would just take too long.”
+Building more factories would divert resources away from those technological innovations, potentially slowing their rate of growth, Mosley said, responding to a question at a J.P. Morgan conference Monday. Seagate’s customers have been experiencing long wait times for its hard disk drives, sometimes more than a year, as demand for that hardware surges amid the artificial intelligence boom.
+Policy Watch
+Chinese personal computer and server maker
+Lenovo Group
+said in an internal memo to staff last week that there
+have been no new licenses
+or policies regarding
+Nvidia’s H200
+chips since March, when Washington approved the sales of the chips to some Chinese companies.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Anthropic
+announced on Monday that it has
+acquired developer tools startup Stainless
+, confirming an earlier
+report
+from The Information. The model maker did not disclose any terms of the deal, but The Information had previously reported it was in talks to acquire
+Stainless
+for at least $300 million.
+Tenstorrent
+, an AI chip startup, is drawing early acquisition interest from Intel and
+Qualcomm
+at a potential valuation of more than $5 billion, Bloomberg reported.
+Chipmaker
+Analog Devices
+is in advanced talks to buy startup
+Empower Semiconductor
+for about $1.5 billion, in a deal that reflects demand for technology that can manage the intense energy needs of AI chips, The Information
+reported
+Monday.
+Decart
+, which provides software for optimizing AI models to run efficiently on different types of computer chips, raised $300 million at a valuation of nearly $4 billion in a funding round led by
+Radical Ventures
+.
+Sigma Computing
+, which provides software and AI agents for data analytics, raised $80 million in a Series E funding round at a $3 billion valuation led by
+Princeville Capital
+.
+Viktor
+, an AI coworker that works out of Slack and Microsoft Teams, raised a $75 million Series A round led by
+Accel
+.
+Scope
+, which develops AI for the testing, inspection and certification industry, raised $20 million in funding led by
+Index Ventures
+.
+Nof1
+, a New York City-based AI research lab focused on financial markets, raised $15 million led by
+SUI Group
+and
+Karatage Opportunities
+.
+Kin Health
+, a Los Angeles-based AI notetaking app designed to be used by patients during doctor appointments, raised $9 million in seed funding led by
+Maveron
+.
+Google
+and
+Blackstone
+are
+creating a cloud computing company
+that will rent out Google’s
+tensor processing units
+to artificial intelligence developers.
+Model developer
+Cohere
+has acquired
+Reliant AI
+, a Montreal and Berlin-based biopharma AI company.
+NTT DATA
+, a global IT services company, agreed to acquire
+WinWire
+, which builds agentic AI systems on
+Microsoft's Azure
+cloud platform.
+XAI
+offered $420 to employees for their tax returns earlier this year to use as training data for
+Grok
+, Bloomberg reported.
+Pope Leo
+will launch his first encyclical on AI next week accompanied by
+Anthropic
+co-founder
+Chris Olah
+, Bloomberg reported.
+Cursor
+released
+Composer 2.5
+, its own coding agent, which it said achieves similar performance to models from
+Anthropic
+and
+OpenAI
+on coding tasks at a lower cost.
+Anthropic
+agreed to brief members of the
+Financial Stability
+Board
+, an international group of central bankers and regulators, on cybersecurity vulnerabilities in the global banking system, the Financial Times reported.
+Odyssey
+, a world model developer, announced
+Starchild-1
+, a model that can generate synchronized audio and video in real time, and
+Agora-1
+, a model that allows multiple humans and AI agents to share the same generated world at the same time."
+Amazon’s Nvidia Alternative Starts Winning Over AI Developers,2026-05-19T13:00:55Z,Catherine Perloff,https://www.theinformation.com/articles/amazons-nvidia-alternative-starts-winning-ai-developers,"Amazon’s yearslong effort to build a serious alternative to Nvidia’s dominant AI chips is starting to gain traction.
+Anthropic and OpenAI, which have struck multibillion-dollar investment and infrastructure deals with Amazon, have already committed to renting large amounts of current and future Trainium capacity. Now, recent software improvements are prompting smaller developers to consider moving more workloads to Trainium, half a dozen people who use or work with the chips said.
+That includes Daniel Svonava, CEO of Superlinked
+,
+an infrastructure firm that helps companies run AI models on rented infrastructure. He said Amazon’s pitch on Trainium, including potential cost savings by switching to the chip, only recently started becoming more compelling.
+“Our response has always been the lack of software support being a barrier,” Svonava said. “That’s the thing that changed in the last couple months. That barrier has been removed.”
+The scarcity of Nvidia chips has also made Amazon’s pitch more attractive, with sales reps telling the startup they have limited availability on the latest graphics processing units. At the same time, Amazon has indicated it has more Trainium capacity available and is willing to be flexible on price, he said. Amazon has given Superlinked $200,000 worth of AWS credits, which it is using to test Trainium.
+Bojan Jakimovski, machine-learning lead at Loka, which helps businesses train their own AI models, said interest in Trainium started spiking in the past couple of months in part because of issues securing Nvidia GPUs. With Trainium, clients know “they will have a reserved spot when they need to develop,” Jakimovski said.
+One Loka client switched its inference workloads to second-generation Trainium chips earlier this year after tests showed doing so could cut costs up to 35% compared with Nvidia’s H100, Jakimovski said. For training a large language model, though, he would still recommend Nvidia.
+The new interest comes as Amazon is betting that Trainium can improve the economics of its AI cloud business. In a
+January interview with The Information
+, CEO Andy Jassy said that while Amazon plans to continue buying Nvidia chips, “if you’re building a big inference business” that charges less and has sustainable margins, “you’re strategically disadvantaged if you don’t have your own custom silicon.”
+Last month, Jassy said Amazon’s custom silicon business, including Trainium and Graviton, has reached a more than $20 billion annualized run rate, or roughly $50 billion if measured as a stand-alone chip seller. That $20 billion reflects revenue from customers using Trainium and Graviton directly through Amazon’s EC2 service, an Amazon spokesperson said. It excludes offerings such as Amazon’s Bedrock, which lets customers access AI models, and internal Amazon workloads.
+“Customers are choosing Trainium because of years of architectural decisions that compound at scale: a chip designed in partnership with leading AI labs to be more efficient in how it computes, communicates and operates,” the spokesperson said. “Today, Trainium2 is being chosen by the leading AI labs in the world for their most demanding workloads, and Trainium3 delivers a 30 to 40 percent price performance improvement over Trainium 2.”
+The Anthropic Test
+Getting to this point took years of software work and close collaboration with Anthropic. Nvidia’s advantage was as much in software as in hardware—developers had spent years building around Cuda, while Amazon had to make its Trainium software, called Neuron, easy enough to justify switching.
+Amazon announced Trainium in 2020 through its Annapurna Labs unit, initially pitching it as a cheaper way to train machine-learning models on AWS. When the first-generation chips launched, early internal users included Amazon’s search teams, which helped shape the chip’s development, according to someone with knowledge of the matter.
+But when Amazon staff began ramping up generative AI products in late 2022, some teams did not use Trainium broadly, and Amazon’s Nova large language models were first trained on Nvidia GPUs, according to a former employee.
+Amazon announced in 2023 that Anthropic would use Trainium and Inferentia to train and run future models, and by the following year had committed $8 billion to Anthropic. The two companies also teamed up to make Trainium faster and more efficient.
+Anthropic and Amazon engineers worked closely to optimize Trainium for Anthropic’s models, talking frequently, according to Carlos Escapa, a former AWS executive who worked on selling Anthropic models
+.
+Anthropic and Amazon made software improvements that could also benefit other customers.
+“The collaboration between Anthropic and AWS on the NKI [Neuron Kernel Interface] has been very, very deep,” Escapa said, referring to Amazon software that lets developers fine-tune how models run on Trainium chips. “And some of these features that have been developed for Anthropic have also become very useful for other companies.”
+Some of the work involved software changes that helped Trainium perform more processes simultaneously, Escapa said. Anthropic co-founder Tom Brown has publicly described the broader effort as “a game of Tetris,” where a tight chip architecture makes models cheaper and faster.
+By the end of 2024, Amazon had launched its second-generation Trainium chip broadly and announced Project Rainier, a large Trainium cluster for Anthropic. Inside Amazon, Trainium use began picking up in some areas, with Nova starting to use Trainium in 2024 and ramping up since then with pretraining in particular, a former employee said.
+Bedrock, which offers access to Anthropic and other models, initially relied on GPUs, according to two people with knowledge of the product. One of the people said some Bedrock workloads in 2024 required roughly twice as many Trainium chips as Nvidia chips to handle the same workload.
+Some members of the Trainium team were frustrated that the Bedrock team was not adopting Trainium faster, one of the people said, but over time, Bedrock staff became more convinced that the chips were competitive.
+Amazon said it prioritized limited Trainium capacity for external customers such as Anthropic as demand accelerated. The company also said Bedrock used Trainium for models and tasks where the chips offered better cost and performance, while relying on GPUs for other models to keep Bedrock’s selection broad.
+As the software matured, Amazon said, more Bedrock workloads moved to Trainium, which now runs the majority of Bedrock inference across more than 125,000 customers. Amazon also said it is planning to train its largest internal models on Trainium going forward.
+Software Catch-Up
+Outside Amazon, developers had their own frustrations with Trainium. Julien Simon, an AI operating partner at a private equity firm
+,
+first ran into issues while working at Hugging Face, where he spent three years. Hugging Face had worked with Trainium chips, and Amazon was sometimes slow to support newer models on the startup’s open-source platform, Simon said.
+“You would reach out to [Amazon] saying, ‘We need you to support this slightly newer model that came out on Hugging Face last week,’ and the answer would be, ‘Yeah, maybe in six months,’” Simon said. Amazon says such delays were addressed with later open-source software integrations, and a current product director at Hugging Face, Jeff Boudier, said the company has been happy with the relationship.
+Simon said he ran into similar issues at open-source AI developer Arcee, where from mid-2024 to mid-2025 he tried training and deploying models on Trainium chips. “Anything that works out of the box on [Nvidia’s software] requires custom engineering and custom development and back-and-forth with the Amazon teams,” he said.
+Arcee’s CEO, Mark McQuade, said the company stopped trying to use first-generation Trainium chips in early 2025 and hasn’t tried newer versions.
+Trainium also initially struggled with some capabilities, including support for dynamic shapes, which help models handle inputs that vary in size or format. Without that support, developers had to do more manual work to adapt models for different requests, said Jakimovski, who started testing the technology in late 2024.
+Kevin Gomes, a graduate student at Cornell University conducting AI research with Trainium, said he also found the chips difficult to use at first because the documentation was lacking. “It’s not very well documented, so you have no idea how to fix it,” Gomes said.
+In recent months, however, several customers said Amazon has made Trainium much easier to use by improving documentation and support and making the chips work better with popular open-source tools.
+That included a native PyTorch integration Amazon unveiled in December, an important step because PyTorch is many developers’ default programming platform and has long worked best with Nvidia. Before the integration, developers often had to write code in PyTorch and adapt it to Amazon’s Neuron software.
+Amazon also fixed Trainium’s dynamic shapes issue and made its software easier to customize, helping models run faster, Jakimovski said. “They started to listen to developers,” he said. “I didn’t have that feeling two years ago.”
+The Next Test
+In February, Amazon said OpenAI would take around 2 gigawatts of Trainium capacity, including Trainium3 and the upcoming Trainium4, alongside an initial $15 billion Amazon investment.
+Amazon has also paired Trainium with Cerebras, another OpenAI chip partner. OpenAI announced in January that it would use Cerebras systems for 750 megawatts of high-speed inference compute. Two months later, Amazon said it would deploy Cerebras systems in AWS data centers alongside Trainium to deliver faster inference through Bedrock.
+Amazon later expanded its Anthropic partnership, with Anthropic committing to spend more than $100 billion on AWS over the next decade, including on Trainium capacity. Amazon also said it would invest another $5 billion in Anthropic, with up to $20 billion more tied to future milestones.
+Late last month, Amazon said Trainium2 is largely sold out, Trainium3 is nearly fully subscribed and much of Trainium4, which is about 18 months from broad availability, is reserved. The Amazon spokesperson said Trainium’s customer base “extends well beyond OpenAI and Anthropic,” citing examples including Uber and Decart.
+Still, Amazon has not detailed how much of that demand comes from a small number of large customers, and it’s unclear how much of a market exists beyond those AI giants and Amazon’s own services. Many AI-heavy companies buy model access through application programming interfaces or Amazon’s Bedrock instead of renting chips directly, Svonava said, and most companies don’t want to actively evaluate the underlying chips.
+Trainium also hasn’t fully displaced Nvidia inside Amazon. Some of the models underpinning Amazon’s shopping AI still use Nvidia chips exclusively, someone with direct knowledge of the product said. Anthropic is still securing Nvidia capacity too, recently announcing a deal with SpaceX to access more than 220,000 Nvidia chips within the coming month."

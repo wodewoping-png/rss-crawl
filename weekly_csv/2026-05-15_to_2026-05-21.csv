@@ -1,0 +1,1047 @@
+﻿标题,时间,作者,链接,内容
+Why Trump Officials and VCs Love This Nuclear Power Startup’s Brute-Force Approach,2026-05-15T13:00:57Z,Jemima McEvoy,https://www.theinformation.com/articles/trump-officials-vcs-love-nuclear-power-startups-brute-force-approach,"On a cloudy day in late March, Isaiah Taylor, the 27-year-old founder and chief executive of Valar Atomics, a Hawthorne, Calif.–based nuclear energy startup, led me into a large black tent at the Utah San Rafael Energy Lab in the middle of the Utah desert. Dozens of construction workers and beeping forklifts buzzed around the nearly 40-foot-tall reactor rising from the center of the tent, with an enormous American flag in the background.
+Outside, Taylor gestured around to the empty landscape surrounding the site, which Valar is leasing from the state of Utah. “Six months ago, this looked like that field out there,” he said, pointing to the untouched beige ground stretching toward the mountains. “We built this in six months.”
+Six months ago is around the time Valar was selected as one of 11 startups in a Department of Energy pilot program aimed at getting nuclear power startups to reach criticality—the point at which their reactors produce power through self-perpetuating chain reactions—by July 4. Carrying out orders from President Donald Trump’s White House, the agency coupled this program with a sweeping overhaul of its regulatory process and safety rules to make it easier and faster to build reactors.
+Over the past two decades, dozens of startups like Valar have launched on the promise that small modular reactors, which can generate up to a third of the power of traditional nuclear plants, could make nuclear energy cheaper and faster than conventional reactors can. They hope to achieve that by building SMRs in factories, unlike the bespoke, often ruinously over-budget engineering projects many nuclear power plants amount to. Yet despite billions in investment, none of the SMR startups has successfully brought a reactor online anywhere in the world (the only operational SMRs are in Russia and China and built by state-owned enterprises).
+That made the DOE’s timeline seem wildly ambitious to many in the industry. But Taylor now says Valar may switch its reactor on even sooner—possibly within weeks. “That’s a pretty audacious claim,” said Daniel Siefman, an assistant professor of nuclear engineering at the University of California, Berkeley. He noted that it “usually takes a couple of years at least” to turn on a reactor. If Valar achieves its goal, it will have done so in just over a year and a half.
+Among all the companies in the DOE program—which includes more established players like publicly traded Oklo Inc. and Terrestrial Energy, a 14-year-old Charlotte, N.C., company—Valar has emerged as one of the industry’s most aggressive startups. It may also be its most polarizing.
+Taylor’s grand claims and battle against a key nuclear regulator have made him a divisive figure, particularly in traditional nuclear circles. At the same time, Valar is one of the best-funded nuclear startups in Trump’s pilot program. In March, it
+reportedly
+raised $450 million at a $2 billion valuation in a mix of debt and equity. A number of Valar’s investors, including Anduril co-founder Palmer Luckey and Shyam Shankar, Palantir Technologies’ chief technology officer, have ties to the Trump administration, with whom Valar has also become deeply engrained.
+Steve Marcus—one of Valar’s investors and cofounder of Los Angeles–based Riot Ventures—argues that Taylor himself has helped drive some of the changes happening in the administration’s approach to nuclear power. “This administration, they listen to Valar above all about what strategy they need to put into place,” said Marcus, who is on Valar’s board.
+Investors are pouring a fortune into nuclear energy startups, believing they could be the solution to soaring energy demand from data centers, electric vehicles and other energy-intensive technologies. Data centers in particular are rapidly proliferating across the country as demand for AI computing accelerates, driving an unprecedented demand for power.
+In response, major tech companies are scrambling to secure every conceivable energy source they can, including nuclear, which some view as one of the most attractive sources of carbon-free electricity. Like many nuclear startups, Valar hopes to mass-produce small reactors that could eventually power industrial facilities and data centers through nuclear campuses, or gigasites.
+Valar’s reactor in Utah. Courtesy of Valar Atomics
+One investor who decided not to back Valar told me it’s “hilarious” how controversial Taylor is among nuclear experts, fellow investors and entrepreneurs, and added that he attracts detractors and fans in equal parts. Nuclear scientists told me Valar is particularly good at self-promotion in a field rife with hype, where most entrants have not shown clear plans for how they’ll actually pull off their ambitious goals.
+“Maybe they’ll do well, and it’s just ‘Fake it till you make it,’” Siefman said. “But I’m like, a lot of money is going to get lost…in these companies where they don’t have a product and they’re figuring out down the line what the product is.”
+A high school dropout with no formal experience in nuclear engineering, Taylor founded Valar three years ago after becoming convinced that he could help fix an industry long mired in regulatory, cost and safety constraints.
+“Why do I care about this?” Taylor, a devout Christian and father of four, wrote in a 2023
+post on X
+announcing the company. “Because I believe that God created the world to be abundant. Because cheap energy is the best lever I have to unleash the inflection of technological blessings, which have been held back from us since the ’70s.”
+In many ways, Taylor is the type of entrepreneur who perfectly embodies today’s tech CEO zeitgeist. He fits in with the industry’s rightward shift and the growing disdain for college degrees and credentialism among figures like Peter Thiel, Palantir’s Alex Karp and others. In this world, founders are getting younger and hungrier and are omnipresent online.
+On X, Taylor often posts videos of Valar’s reactor under construction, edited like “Mission Impossible” movies. At Valar’s site in Utah, I learned that he had hired Darren Doane—a filmmaker who previously followed the band Blink-182 around on tour—to make even more videos.
+Increasingly, a startup founder’s self-confidence is what matters most to investors—and Taylor has that quality in abundance.
+“The fact that he was actually a self-trained nuclear physicist or whatever you want to call it, that actually appealed to me,” said Valar investor Doug Philippone, who spent 16 years running Palantir’s defense business before founding his Palm Beach, Fla.–based venture firm, Snowpoint Ventures, in 2021. “Like, only in America can that kind of stuff happen.”
+At times, though, Taylor’s bold claims on social media have ignited heated arguments with nuclear experts.
+Valar’s reactor aboard an Air Force C-17 cargo plane. Courtesy of Valar Atomics
+In February, for example, Valar announced it was partnering with the DOE and the Department of Defense for a military operation, in which a trio of Air Force C-17 cargo planes transported the company’s reactor (without its fuel and concrete shielding) from California to Utah. On X, Taylor described it as “
+the first C-17 airlift of a nuclear reactor
+.” Once the parts arrived in Utah, Taylor stood with Utah Gov. Spencer Cox and DOE Secretary Chris Wright, who
+claimed it was the first
+moving of a nuclear reactor by air.
+But military planes have transported reactors many times before, said Nick Touran, a nuclear engineer who previously worked at Valar competitors Aalo Atomics and TerraPower and who at one point
+sparred
+with Taylor over another of his claims. “It’s not meaningless, like it’s good for the military to practice tying stuff down like that,” said Touran, though he largely characterized the event as smart publicity and “cool imagery.”
+Todd Allen, a nuclear engineering professor at the University of Michigan, was more blunt: “When you’re constantly bragging about stuff that’s not a big deal, it’s like, is there a
+there
+there?”
+Rian Bahran, the DOE’s deputy assistant secretary for nuclear reactors, said Valar paid to use the aircraft. Bahran suggested other companies could have made similar arrangements but instead opted to drive their reactors to sites. It likely cost Valar hundreds of thousands of dollars, but the exercise seems to have paid off in terms of attracting attention: Dozens of news outlets covered the launch.
+Taylor conceded that the event was a small milestone and shrugged off the criticisms as reflective of a broken industry. “Unfortunately, the traditional nuclear industry is more impressed by models and simulations and LOIs and MOUs than by actual hardware milestones,” he said. “For Valar, it’s just the opposite.”
+Taylor’s path into the nuclear industry was an unconventional one. Born in Normal, Ill., a city of about 50,000 people north of Springfield, he has described a childhood in which he grew up on food stamps and frequently moved around the country as his father took on various software consulting and marketing jobs.
+When Taylor was 12, his father bought him a computer on the condition that he find a way to pay for college. Taylor taught himself to code and then dropped out of high school at 16 when he got a job as a software engineer at PDPglobal, a Colorado Springs, Colo.–based human resources software company.
+He used the job’s six-figure salary to launch Erber Auto, an auto repair shop in Moscow, Idaho, in 2016, before pursuing another automotive business with his father, HoodHub, three years later.
+After that, Taylor did software engineering projects for the DOD and hedge fund Bridgewater Associates, he has said. Neither Bridgewater nor the DOD responded to inquiries about Taylor’s work for them. When I asked him for more details on his roles at both, he said, “A lot of my work there’s under NDA.”
+Isaiah Taylor, CEO of Valar Atomics. Photo by Tasos Katopodis/Getty Images
+Taylor had his eyes on a bigger ambition, though: starting a nuclear business. His passion for nuclear energy stemmed from the legacy of his great-grandfather, Ward Schaap, who worked on the Manhattan Project as a scientist in the 1940s. Schaap was the inspiration for the name of Valar’s first reactor, the Ward 250.
+When Taylor launched Valar in 2023, investors were skeptical about its prospects. Taylor said he pitched more than 60 venture capital firms before eventually securing a $1.5 million investment from Marcus of Riot Ventures. Taylor’s lack of credentials didn’t faze Marcus. “If you’re going to build a company, the most successful attribute is really leadership, and leadership is being able to tell a story, communicate a vision,” Marcus said.
+In early 2024, Valar hired its first nuclear engineer: Fakhrul Islam, a recent  graduate of the University of South Carolina with a nuclear engineering doctorate, and then brought on industry veteran Mark Mitchell to lead reactor development.
+It has also hired employees from other industries. Valar’s president, Muhammad Shahzad, is the former chief financial officer of Relativity Space, a rocket ship startup recently taken over by billionaire Eric Schmidt. Its former director of engineering, Carl Lumma, previously worked on MacBooks at Apple.
+Shahzad wears his newcomer status proudly. “I’m new to nuclear, new to energy,” he emphasized multiple times in an interview.
+At Valar’s Utah site, I met Sean Stassi, a 21-year-old mechanical engineer overseeing the design of the concrete shielding around the reactor, a critical safety feature meant to prevent radiation leaks. Stassi met Taylor at a bonfire party on the beach in El Segundo, Calif., two years ago and decided to take a break from studying at El Camino College in LA, where he’d just finished his sophomore year.
+I asked him if he planned to return to school. “We’ll see what happens,” he said. “Depends on how this whole thing goes.”
+Though widely viewed as cleaner and safer than many other energy sources, nuclear power has long faced a reputational problem in the U.S., exacerbated by soaring construction costs and lingering fears sparked by disasters like Chernobyl and Fukushima. In the U.S., the Three Mile Island accident in Pennsylvania in 1979 effectively shut down construction of new nuclear power plants for several decades.
+Beginning in the early 2000s, a wave of startups—such as NuScale Power, X-energy and TerraPower, which Bill Gates co-founded—argued that smaller reactors could make nuclear cheaper and easier to deploy. These companies largely followed the traditional path of filing the plans for their reactors through the Nuclear Regulatory Commission, the government agency set up in 1975 to serve as an independent regulator of new nuclear projects.
+A few years ago, a new generation of startups emerged, including Valar, Last Energy and Deep Fission. They brought with them what Siefman, the nuclear engineering professor, described as a distinctly Silicon Valley mentality, marked by “aggressive promises” and a drive to “push and push and push.”
+This newer generation wants to see the federal government strip down nuclear regulations. Taylor argued that one of the core barriers to building more nuclear power sources has been the government approval process. He believes companies should be allowed to test prototypes before spending years navigating commerical licensing requirements.
+“Imagine if you wanted to develop a new car, but you could never test drive it until it was fully certified to sell to a million people,” he said.
+Last April, Valar joined Last Energy and Deep Fission, along with Texas, Utah, Florida and Louisiana, in a lawsuit against the NRC. The ongoing lawsuit argued that the regulator shouldn’t employ the same level of scrutiny with smaller reactors that it has used to assess large nuclear plants in the past.
+In May 2025, President Trump signed executive orders directing the NRC to accelerate reactor approvals and overhaul its existing regulatory frameworks.  And while the agency historically was the only group authorizing certain commercial reactors, Trump has involved the DOE in the process as well.
+Since then, the DOE has rewritten key safety and security requirements, including some related to radiation exposure, water protections and physical security standards at nuclear sites.
+“We removed redundancies,” said Bahran, the DOE deputy director. “Safety continues to be the highest priority, and we’re not going to authorize startup reactors we’re not confident are safe to operate.”
+The nuclear experts I spoke with didn’t disagree with the idea that the NRC’s licensing process could benefit from modernization. But they argued that criticisms of the agency by startups like Valar are overblown and that the strict protocols were there to protect people.
+“This rhetoric about the NRC and the difficulty of getting something licensed, some of these companies took it and ran with it,” said Scott Morris, who was the NRC’s deputy director for operations until last June.
+“Is it a rigorous licensing process? Absolutely,” Morris continued. “They’re going to do a comprehensive deep dive into the risk and the safety aspects of your design to make sure that once a license is issued, the damn thing is going to be safe.”
+Even if Valar manages to switch on its reactor before Independence Day, the company could still face a long and thorny road to commercialization, one that includes approval from the NRC (unlike most of its peers in the DOE program, Valar has
+yet to file any
+paperwork
+with the agency) and questions about how exactly the startup will turn a profit.
+To make the July deadline, Valar has focused on carefully managing expenses, said Shahzad, its president. “Crassly put, we’re trying to make the Toyota Camry of reactors,” he said. “I would guess—and I have no detailed insight on this—that on a per kilowatt basis, ours is the cheapest reactor.”
+Instead of waiting around for expensive materials, Shahzad said the team’s first question is always: “Can’t you just get it across the street at Home Depot?” After figuring out how to build a reactor cheaply, the company will focus on improving efficiency over time.
+Workers atop Valar’s reactor in Utah. Courtesy of Valar Atomics
+But Valar’s commercial strategy is still fuzzy. For example, it’s not clear where it will eventually mass-produce its reactors. Shahzad said, “Where we’re making what is TBD.” Taylor indicated that manufacturing will remain in LA for the near term. And while competitors like Oklo and TerraPower
+have inked deals with tech giants
+to eventually supply electricity for data centers, Valar has announced no such deals.
+“We think that’s kind of putting the cart before the horse to announce a bunch of big partnerships before you actually turn a reactor on,” Taylor said.
+Getting a project to go critical is one thing, said Jigar Shah, who until early last year was director of the DOE’s loan programs office under President Joe Biden, responsible for financing clean-energy projects. But “that doesn’t mean you’re going to cost-effectively produce a plant that works.”
+Shah also warned that the favorable political climate that’s lubricating progress for Valar and other nuclear startups may shift. Valar could still be years away from a commercially viable reactor. “Valar might be able to cut that in half and do it in three and a half years, but that still puts you after the Trump administration leaves office,” he said."
+BlackRock Weighs Multibillion-Dollar Investment in SpaceX IPO,2026-05-16T16:00:41Z,Cory Weinberg,https://www.theinformation.com/articles/blackrock-weighs-multibillion-dollar-investment-spacex-ipo,"BlackRock has discussed investing $5 billion to $10 billion in SpaceX’s initial public offering next month, people familiar with the matter said. The massive order, for an offering that could raise as much as $75 billion, would represent a vote of confidence in Elon Musk’s company from the world’s largest asset manager.
+The investment would highlight the close relationship between Musk and BlackRock CEO Larry Fink, both of whom traveled to China with President Donald Trump in recent days. The investment would also reflect a growing Wall Street consensus to participate in the largest IPO in history even while SpaceX is seeking a stratospheric valuation and planning to give investors almost no ability to challenge management decisions.
+A large BlackRock check would provide SpaceX with an anchor investor and could also help win over other large investors. Commitments of this size are rare: Investment bankers have found fewer than a dozen instances over the past quarter century when investors wrote checks of $1 billion or more in an IPO. Still, SpaceX’s IPO is unprecedented in size and the company will need several investment firms to invest multibillion-dollar pots of money, a person close to the deal said.
+BlackRock, for its part, may feel the need to play catch-up. It invested in SpaceX privately, for a stake now worth at least $300 million, according to public mutual fund filings. But it has a much smaller stake than the positions other large public investors, including Fidelity, Baillie Gifford and Franklin Templeton, have already built.
+A BlackRock spokesperson declined to comment. The amount that BlackRock ultimately offers to invest could change based on how SpaceX prices its IPO and other factors leading up to the deal. SpaceX is expected to begin its official roadshow in early June, people close to the deal said.
+In the run-up to the IPO, Fink has been warming to Musk. He interviewed Musk on stage at Davos earlier this year, praising the returns of Tesla, in which BlackRock owns a big stake. “Imagine if a lot of pension funds invested with Elon when Tesla went public and how much returns for all the pension funds that invested side by side,” Fink said.
+Fink closed the talk by saying, “There’s so many myths around Elon Musk. I can tell you he’s a great friend, and I constantly learn so much from him. I’m totally inspired by his vision for the future, and I don’t think it’s a bad future, and I agree with his optimism.”
+SpaceX has been courting large investors, last month hosting a two-day trip to its Starbase launch pad on the southern tip of Texas and to its xAI data centers in Memphis. The trip included large contingents from mutual funds BlackRock, T. Rowe Price, Capital Group and Fidelity Investments, investors on the trip said.
+“The bullish camp says, ‘You’ve never not made money betting with Elon,’” said one investor at an asset management firm who traveled on the trip.
+The IPO will test the outer bounds of investors’ belief in Musk. SpaceX is going public at a valuation that would represent a steep multiple of sales, with its crucial AI strategy in flux. Key
+AI researchers have left the company
+, and much of the growth of its space business hinges on a huge, fully reusable rocket still in the testing stages.
+Investors are largely drawn to SpaceX because of its significant lead over competitors in rocket launches, and its promise to use that advantage to send more lucrative payloads, such as advanced chips that can power AI models, into space.
+SpaceX, meanwhile, has planned to warn investors they will have minimal say in the governance of the company and limited legal recourse. The company’s confidential IPO prospectus, excerpts of which The Information viewed, states that “mandatory arbitration” would limit shareholders’ legal rights. The company also plans to concentrate voting power with Musk, who will own a separate share class giving him 10 votes for each share, The Information previously reported.
+BlackRock would make the investment in SpaceX out of its $536 billion of actively managed funds. The value of the deal depends on the size of the overall offering and its price."
+"San Francisco’s Robo-Fight Club, General Catalyst’s Divisive Virality",2026-05-16T15:00:56Z,Abram Brown,https://www.theinformation.com/newsletters/the-weekend/san-franciscos-robo-fight-club-general-catalysts-divisive-virality,"Welcome, Weekenders!
+In this newsletter:
+•
+The Big Read:
+Why Trump officials and VCs love a nuclear power startup’s
+brute-force approach
+•
+Biotech:
+The case of the
+disappearing
+embryo startups
+•
+Plus, Recommendations—our weekly pop culture picks:
+“
+Are We Doomed?
+” “
+Steve Jobs in Exile
+” and “
+Lord of the Flies
+”
+The legal slugfest
+between Elon Musk and Sam Altman enraptured Silicon Valley this week.
+On Thursday, I attended another gladiatorial spectacle:
+MMA-style fights between humanoid robots in a SoMa nightclub.
+The match, which went down in an octagonal cage, attracted a couple hundred people wearing Hawaiian shirts and Lululemon stretchy trousers, who whooped and egged on the child-size robots to duke it out. “They’re kinda cute,” an OpenAI engineer told me. “They’re so derpy.”
+Robot Fight Night and Dance Off was a marketing stunt for Nebius, a cloud computing company eager to hype itself. China-based Unitree made the robots, but they were programmed by Ultimate Fighting Bots, a humanoid sports league, which used Nebius’ cloud platform to train and choreograph the fighters.
+As AI continues to bubble, bubble, bubble, investors and founders are short-circuiting over robotics. Nvidia’s Jensen Huang sees bots as AI’s next frontier, and Elon Musk is touting Optimus as “Tesla’s biggest product ever.” Startups have raised tens of billions of dollars; Brett Adcock’s humanoid Figure
+notched a $39 billion valuation
+last year.
+Those companies hope to replace millions of jobs on factory floors and in nursing homes. Throwing these bots into a cage match hypes them as objects of entertainment, too. Or, as Shane Wilson, a partner at deep tech–focused VC firm Citta Capital, told me at the fight night, watching robots wallop each other demonstrates “the testosterone bias in early-stage startups.”
+The sweaty, strobey SoMa scene was Burning Man meets bar mitzvah. An emcee in a fedora and sequined blazer hurled free hats and T-shirts into the crowd. A referee in a hard hat and laboratory goggles called the shots, while a DJ spun electronic beats from a turntable. Few attendees, as often happens in San Francisco these days, frequented the bar, though I did witness one DFMO: dance floor make-out.
+Operated by partygoers thumbing a videogame controller, the bots waddled across the stage, unintentionally shadowboxing each other. “Can someone find the head?” the emcee chirped to the operators during one round after neither bot landed a single shot. They stumbled and swung and swayed. Another OpenAI employee remarked that the robots hadn’t improved much since he’d seen them last year.
+The eight cage matches convinced me that the cyborg uprising will look less like an army of Terminators and more like a gangly gaggle of goons. Human or otherwise—when one bot’s blow finally hurled the other bot to the ground, I wondered, “Did that hurt?”
+—Julia Hornstein (
+julia.hornstein@theinformation.com
+)
+General Catalyst’s Attention Grab
+Many venture capitalists are quite adept at doing Moe-Larry-Curly routines online, causing a ruckus and picking fights with each other. Generally, the folks at General Catalyst show little interest in the games, but this week, they decided to have a bit of fun: They released a
+marketing video
+that portrayed the firm as a responsible, sober-minded outfit—and other VC firms as just the opposite. It used a robo-dog as a prop and has been viewed 2.5 million times on Twitter.
+The clip’s virality was propelled in no small part by Marc Andreessen and his staff, who took special umbrage to the advertisement. It took me a second to realize why, and then I got it: The dopey, reckless VC in the video looks an awful lot like Andreessen.
+Since the video was so out of character for General Catalyst, it has become widely discussed among VCs. Plenty of them think it’s in bad taste; when I called around to gossip about it, one investor described it as “tacky and boring.” A couple others were puzzled about why General Catalyst had chosen to burn specifically Andreessen in effigy. Of course, anyone who has been faithfully reading Weekend would remember that Andreessen and General Catalyst
+have a history of disagreeing
+.
+I expect we’ll see and hear more from General Catalyst in the coming future. It has long seemed to be positioning itself for an IPO. Plus, it recently hired a youngster named Reggie James as its creative director: James is a savant at internet gags and attracting attention online; he previously ran a videogame startup, Eternal, and when I worked at Forbes, I put him
+on the 30 Under 30 list
+. Obviously, he’s lost none of his talent for driving the web nuts.
+—Abram Brown (
+abe@theinformation.com
+)
+Weekend’s Latest Stories
+The Big Read
+Why Trump Officials and VCs Love a Nuclear Power Startup’s Brute-Force Approach
+Valar Atomics plans to turn on its first nuclear reactor in the Utah desert in the next few weeks. The company
+is the poster child
+of a new breed of nuclear startup built on aggressive claims and breakneck timelines.
+Biotech
+Silicon Valley Likes the Idea of Gene-Edited Embryos. It’ll Be a Wait
+The technology could help eliminate genetic diseases. Yet it remains deeply controversial—it could possibly produce superkids, too—and the startups interested in it face
+an array of challenges
+.
+Listening:
+“
+Are We Doomed?
+”
+Armageddon’s a funny matter. It gets much discussed, and it causes a good amount of fear and worry. But the thing is, no one can quite agree on the details—on what will actually bring about the End.
+“Are We Doomed?” explores the endless apocalyptic permutations that confront us. So far, host Ben Bradford has looked at several grim scenarios, including nuclear warfare, supervolcano eruptions and genocidal mosquitoes. (Just skip the one on AI; yes, I’m tired of AI doomerism, too.) Bradford, an able Virgil to these various hellscapes, approaches the topics with good-humored rigor, gaming out the scenarios in depth. (The vibes reminded me of Wired’s front-of-book sections from the 2000s and 2010s.) Slick, lighthearted sound editing and production keep things zipping along.
+After a couple episodes, I came to see the great flexibility in Bradford’s conceit. Yes, we tend to dwell on a few traditional worries about how doomsday might arrive: plagues, zombies, visiting in-laws. But the world contains an almost infinite number of perils. Bradford could do the podcast for years and never come close to trodding over the same ashen ground. Editorially, it’s an exciting prospect. As a matter of civilization’s existence, it’s unsettling to contemplate the vast variety of possible calamities.
+—Abram Brown
+Reading:
+“
+Steve Jobs in Exile
+” by Geoffrey Cain
+The 12 years between Steve Jobs’ ousting from Apple and his return to the company account for nearly a fifth of his life. Yet the period generally gets scant attention in the constant examination and reexamination of his existence. Geoffrey Cain, a contributor to publications like Time and The Economist and the author of 2020’s “Samsung Rising,” thinks Jobs’ wilderness years merit greater study. (Walter Isaacson gave up just around 40 pages of his definitive Jobs biography to this era.) And Cain goes to the task with great fervor in “Steve Jobs in Exile,” peering closely into Jobs’ building of Next and Pixar, his follow-up acts after Apple.
+Cain offers glimpses of a familiar Jobs, the obsessive who ordered the tile grout replaced in Next’s headquarters when the contractors initially installed the wrong color, spending $20,000 to do so. Jobs’ profligacy particularly came to rankle H. Ross Perot, one of his biggest backers, and Perot quit Next’s board around the same time he decided to stage his ill-fated run for the presidency: Seemingly, he’d decided a third-party bid for the White House was a better use of his time than convincing Jobs to care about profitability.
+But while Jobs acted imperiously at Next, he agreed to share power at Pixar with co-founder John Lasseter. And while Next ultimately flopped—its sophisticated but expensive Cube computer never found a sizable market—Pixar ushered in the digital animation revolution.
+Cain came away from his research for the book convinced that Jobs couldn’t have returned to Apple and thrived without those experiences at Next and Pixar. “At Next, he was a control freak, but at Pixar, he learned some of these lessons that you can’t be a dictator going around doing everything yourself,” Cain said in an interview. “It’s what taught him to become more circumspect. And it’s what allowed him to build the Apple we know today.”
+—A.B.
+Watching:
+“
+Lord of the Flies
+”
+Life is full of surprises—as Piggy, Ralph, Jack and the other stranded British schoolboys from “Lord of the Flies” come to understand fully well. But I’d like to make what I think is a pretty safe guess about the future: Several of the child actors who turn in such excellent performances in Netflix’s adaptation of the William Golding classic have a very good chance at going on to major stardom. Winston Sawyers and Lox Pratt are both quite good in their respective roles as Ralph (personifying bravery) and Jack (brutality). Perhaps the tyke with the most special talent is David McKenna, who brings a roly-poly pathos to Piggy (braininess). Showrunner Jack Thorne, who also co-created last year’s standout “Adolescence,” obviously agrees with me: The series opens on a rosy-cheeked McKenna lying stunned and alone after the fateful plane crash, a fun nod to “Lost.”
+Thorne’s “Lord of the Flies” benefits throughout its four episodes from exceptional cinematography, with frames full of blurred edges and tight close-ups, which made me think about
+Martin Schoeller photographs
+. The script, meanwhile, remains largely unaltered from the original story: Dread and violence mount as the boys divide up tasks, forming groups of hunters and builders. They devolve—death follows. I appreciated Thorne resisting any urge to modernize or enlarge Golding’s source material. Clearly, he understands a truism as pertinent to Hollywood as it is to Silicon Valley: An update can break more than it fixes.
+—A.B."
+Silicon Valley Likes the Idea of Gene-Edited Embryos. It’ll Be a Wait,2026-05-16T14:00:42Z,Amy Dockser Marcus,https://www.theinformation.com/articles/silicon-valley-likes-idea-gene-edited-embryos-itll-wait,"Two companies aiming to make better babies by tweaking the DNA of embryos were invited to talk about the future of the technology at SynBioBeta, a major gathering of the biotech world scheduled for earlier this month in San Jose, Calif. As the discussion’s moderator, I felt eager to hear more from them about their science and how they might commercialize it. The only problem: By the time the conference rolled around, both companies weren’t in business anymore.
+One of the now defunct embryo editing companies was Bootstrap Bio. CEO Chase Denecke said it failed because it simply ran out of money. Persuading more investors to get on board was a challenge when people are barred from using edited embryos to create pregnancies, raising questions about how many customers such a startup could ever attract. “It will obviously be a lot easier to raise money if we have less regulatory barriers,” Denecke said.
+The other startup, Manhattan Genomics, fell apart amid a disagreement between its co-founders, Eriona Hysolli and Cathy Tie. The company folded during discussions on moving from the Cayman Islands to the U.S.
+Hysolli previously worked at Colossal Biosciences, an Austin-based startup that has raised money from
+billionaire Thomas Tull
+, the CIA’s venture arm and many others to edit animal embryos and attempt to resurrect a slew of extinct animals, most notably woolly mammoths. She still thinks human embryo editing could be a good business. But first, she said, scientists have to show the technology is safe and can cure diseases. “It’s up to us to win over hearts and minds,” she told me.
+Looking over what happened to Bootstrap Bio and Manhattan Genomics made something evident to me: It’s still a tough road for anyone interested in starting an embryo editing company, a concept that has attracted the attention of Silicon Valley’s elite.
+Companies trying to develop treatments for diseases using gene editing have been around for more than a decade, but they have focused on children and adults. The idea of editing embryos was considered too risky to even try. Scientists worry that cutting, editing or inserting DNA in cells might cause unintended problems, and that the edits in embryos would also pass to future generations.
+The prospect of embryo editing got an even greater setback in 2018 when Chinese scientist He Jiankui announced at an international gene editing summit that he had created the world’s first gene-edited babies
+.
+The conference organizers called his actions irresponsible and said it was too early to use the technology in clinics. Some scientists called for a global ban.
+Chinese authorities seemed to agree, jailing him for three years for the illegal practice of medicine. Scientists have questioned whether the parents of the babies understood the risks of the experiment and whether the edits even worked. He claimed he had edited the embryos to be immune to HIV.
+His jailing chilled enthusiasm among researchers interested in the possible commercial expansion of embryo editing. Formidable barriers for prospective embryo editing companies remain today. Three prominent cell and gene therapy industry groups last year called for a 10-year moratorium on gene editing embryos, saying not enough safety data existed to justify its use.
+Still, the icy climate for the technology hasn’t stopped startups from attempting to test it nor discouraged the tech elite from writing them checks. Last year, for instance, San Francisco–based Preventive announced it had raised $30 million from backers including OpenAI’s Sam Altman and Coinbase’s Brian Armstrong. (“I think the time is right for the defining company in the US to be built in this area,” Armstrong
+wrote on X
+.)
+Preventive
+reportedly
+has considered conducting embryo editing experiments in countries with looser regulations than the U.S. Other startups could follow its lead to increase their odds of survival. CEO Lucas Harrington
+has said
+Preventive is studying embryo editing to prevent serious genetic diseases. He has promised it won’t participate in experiments to impregnate women with edited embryos before it has shown the technology is safe.
+And despite the closure of Manhattan Genomics, Tie, one of its two co-founders, told me she has already started another embryo editing company, Origin Genomics, which has a lab in New York City. She wouldn’t name the funders.
+Tie, a former Thiel fellow, only intends Origin to work in the U.S. with approval from ethics boards. (In an unusual twist in the saga of this industry, Tie was previously romantically involved with He, the Chinese scientist who shocked the world and went to prison.)
+She compared the controversy over embryo editing to the introduction of in vitro fertilization in the 1970s. At first people were uncomfortable with the safety and ethics of creating embryos in a petri dish and using them to make babies. Now IVF represents 2% percent of annual births in the U.S.—somewhere around 100,000 babies a year. Tie thinks embryo editing can follow a similar trajectory. “If we can show it is safe, there will be a market,” she said.
+Last month, Tie argued in favor of embryo editing at a public debate in New York sponsored by the Hastings Center for Bioethics, a prominent research institute. Vardit Ravitsky, the center’s president and the debate moderator, later told me that when it comes to embryo editing, “The question has become not whether but rather how.”
+In San Jose at SynBioBeta, I asked Jamie Justice, executive vice president for health at the XPrize Foundation, which holds competitions to encourage scientific innovation, if there was a way for companies to pursue embryo editing.
+Justice thinks the regulatory barriers are so high that any company will have to meet a rigorous standard to move forward: Parents hoping to use a gene editing service would have to show that a lethal genetic disease that couldn’t be treated after birth, such as Huntington’s disease, affected all their embryos, Justice said. In her view, all these conditions mean the commercial market for embryo editing is limited.
+“We have this tiny, almost infinitesimally small percentage that might actually create the use case,” she said.
+One way to expand the future market is for companies to eventually move beyond embryo editing for diseases and use the technology to enhance traits like intelligence, athletic prowess and musical ability. However, the repugnance many people share about the idea of parents ordering up superbabies is hard to avoid in any conversation about embryo editing.
+Even though the current crop of embryo editing companies say they are only focusing on editing disease genes, there may come a time when parents argue there is no reason to stop there, said Jonathan Anomaly, a co-founder of Herasight, a genetic screening company that predicts the probability of embryos having serious diseases as well as traits like intelligence.
+Anomaly was at SynBioBeta, too, where he put forward the most controversial view of all. He argued that drawing a line between using embryo editing to treat diseases and using it to enhance abilities is not morally justifiable. Both are based on parents wanting to improve the future lives of their children, Anomaly said. SynBioBeta prides itself on highlighting boundary-pushing views, but outside Silicon Valley, his argument is likely to rile people up.
+Anomaly doesn’t expect to see many thriving embryo editing companies of any kind any time soon. Getting rid of complex conditions like heart disease, he said, might require editing hundreds of genes in every cell, a formidable task.
+There may be a commercial market for these services someday, but he thinks that possibility is decades away. “The science isn’t there now,” he said."
+"SpaceX Launch, Google I/O Headline a Big News Week in Tech",2026-05-17T22:00:11Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/spacex-launch-google-o-headline-big-news-week-tech,"This should be an action-packed week in tech news, what with Nvidia’s first-quarter earnings, Google’s
+annual I/O developer conference
+and Meta Platforms’
+scheduled layoffs of 8,000
+employees. But it is Elon Musk who has the biggest week coming up.
+For one thing, the first test launch of SpaceX’s Starship in seven months is scheduled for Tuesday. A successful launch will boost investor interest in
+SpaceX’s upcoming IPO
+, not
+that it needs
+much of a lift. Meanwhile, chatter late last week was that SpaceX’s IPO filing could become public sometime in the next few days.
+The disclosures in that document—which could include first-quarter earnings—will help investors finalize their analysis of SpaceX, assuming some of them are taking the numbers into account and not just acting on warm feelings about Musk’s
+aggressive space ambitions
+.
+To be sure, mMany of the most important details of the filing, particularly around SpaceX’s finances, have already surfaced in news reports in the past few weeks in The Information and elsewhere. (See
+here
+,
+here
+,
+here
+,
+here
+and
+here
+.)
+The other big Musk news this week is that we’ll likely get a result in his lawsuit against OpenAI—the one in
+which he has claimed OpenAI co-founders Sam Altman
+and Greg Brockman engaged in fraud and breach of contract by starting a for-profit arm out of the nonprofit he helped finance. The case goes
+to the jury on Monday
+.
+Of these three news events, the Starship launch may be the most important for Musk. That’s because SpaceX must get Starship—the largest rocket ever built—into service for most of its other business plans to work. As we explained
+in this piece
+, SpaceX needs Starship so it can launch a new generation of Starlink satellites to carry data centers as well as the
+nascent Starlink Mobile service
+.
+As things stand now, Starship is
+five years
+behind its original date for entering commercial service. What’s been holding it up lately is determining whether the rocket’s upper stage is reusable. Even the latest test flight is behind schedule: It was supposed to happen in March.
+In contrast, the outcome of the OpenAI trial doesn’t matter much to Musk. After all, he is just acting out a grudge in pursuing the ChatGPT firm. It could be expensive for OpenAI if it loses, to be sure, although
+this report
+from our correspondent in the courtroom, Rocket Drew, implied the odds are in favor of the ChatGPT firm.
+Nvidia’s Quarter
+Whatever happens with Starship, we’ve still got the rocket ship that is Nvidia to watch. We’ll get a reminder of that on Wednesday when the AI chip designer reports the first quarter of its 2027 fiscal year, which runs through next January. (The quarter ended in April.)
+What’s notable about this year is that Nvidia’s growth is expected to accelerate after a slowdown last year. Of course, everything is relative. Nvidia’s revenue growth exploded to more than 100% in fiscal 2024 and 2025, as the AI boom sparked a rush of demand for its chips. In fiscal 2026, which ended in January, growth fell to a still-spectacular rate of 66%. This year, analysts expect growth to accelerate to 73%, according to S&P Global Market Intelligence.
+The first quarter’s growth is likely to be even faster. In February, Nvidia projected revenue of $78 billion, which would be 77% higher than a year earlier, but analysts are estimating revenue will grow 80% to $79.16 billion, S&P data show.
+The acceleration reflects a compute crunch that has made Nvidia’s graphics processing units very hard to find. As an executive at cloud firm Nebius said last week, it was seeing “four or more customers competing for every GPU we bring online.” Nvidia stock, meanwhile, has soared 36% in the past six weeks, to Friday’s close of $225. It had been stuck around the $180 level for months before that.
+Ackman in, Gates out
+Bill Ackman’s Pershing Square has built a $2 billion stake in Microsoft, the hedge fund disclosed Friday. Ackman said in a post on X that the company’s nearly 15% share slide so far this year has been driven by investors who “underestimate the resilience” of its Office 365 software and the growth of its newer Copilot AI software.
+Meanwhile, also on Friday, the Gates Foundation Trust disclosed it had sold the last of its stake in Microsoft. As of Dec. 31, the trust held 7.69 million shares, worth around $3 billion. As of March 31, it had no shares.
+In Other News
+•
+OpenAI is combining teams working on ChatGPT, its Codex coding product and its application programming interface into one organization, pressing ahead on streamlining its strategy despite the prolonged medical leave of top executive Fidji Simo (
+more here
+).
+• President Donald Trump has traded millions of dollars’ worth of technology stocks since the start of 2026, new
+disclosures
+released on Thursday show. In a report filed with the U.S. Office of Government Ethics, Trump revealed that he bought and sold shares of companies including Nvidia, Palantir and Oracle.
+• OpenAI bought Weights.GG, a small startup that made Replay, an AI voice-cloning tool, in January, according to a person familiar with the acquisition. A half-dozen employees joined OpenAI, which purchased the startup’s intellectual property but does not plan to integrate its  product.
+Friday on The Information’s TITV
+Check out
+Friday’s episode of TITV
+in which we speak with an early iPhone engineer who worked with Steve Jobs about the current state of Apple’s AI."
+Anthropic and OpenAI’s Share of AI Startup Revenues Rises to 89%,2026-05-17T14:00:33Z,Stephanie Palazzolo,https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89,"Anthropic
+and
+OpenAI
+are widening the revenue gap between themselves and the rest of the AI startup field.
+A group of 34 leading startups in that sector, including Anthropic and OpenAI, is generating nearly $80 billion in annualized revenue, or $6.6 billion per month, from selling AI applications or access to the models that power such apps, according to
+The Information’s Generative AI Database
+. That’s up 112% from six months ago.
+Anthropic and OpenAI are currently capturing about 89% of that figure, our analysis shows. That’s 4.5 percentage points higher than the share of sales the two companies had in the same group six months earlier.
+The result could strengthen an argument some investors at firms like Sequoia Capital have made that the vast majority of software value in the current AI era will be generated by the top developers of advanced AI models rather than by developers of pure AI apps. That’s because almost all the application companies in our analysis depend in part or almost entirely on models from Anthropic and OpenAI.
+The smaller startups’ reliance on Anthropic and OpenAI could be a problem because those two leaders have been developing new kinds of models or versions of their products targeting specific industries or white-collar work roles, putting themselves in direct competition with their startup customers. That could eventually make it harder for those startups to keep up their growth.
+That dynamic could help explain the
+frenetic funding environment for so-called AI neolabs
+that are seeking to leapfrog Anthropic and OpenAI by developing new kinds of AI models.
+The $80 billion annualized sales figure is remarkable, as few of the companies existed or generated revenue before 2023. Anthropic can claim about half that amount, as its revenue recently surpassed OpenAI’s on the strength of its AI for coding tasks and other white-collar work.
+The revenue figures for the two AI leaders are somewhat inflated, however, given that each of them shares a material amount with business partners. Anthropic shares a portion of its revenue with cloud computing providers, namely Amazon and Google, that resell its models to their customers. And OpenAI must share 20% of its revenue with Microsoft, an early backer, through 2030. This year, that revenue share to Microsoft could be $6 billion.
+The 32 AI model or application startups not named Anthropic or OpenAI may not be growing as fast as the leaders. But they aren’t far behind in that regard and continue to hit new revenue milestones, largely through sales of subscriptions and some usage-based fees.
+Since December, three of those companies crossed $500 million in annualized sales, joining coding app Cursor in that club, according to our analysis. The three newbies are search firm Perplexity, voice AI provider ElevenLabs and coding app Cognition. (Our analysis doesn’t include infrastructure startups that rent out Nvidia AI servers.)
+Double Counting
+As with our past analyses of AI startup revenues, there’s some double counting going on. The four aforementioned startups that are generating more than $500 million in annualized sales, as well as the other companies on the list, likely collectively pay OpenAI and Anthropic billions of dollars a year for models to power their products.
+Almost all of the companies’ products are powered by Nvidia servers, helping the chip designer generate the vast majority of profits so far in the AI boom. Nvidia has partly returned the favor, investing capital in at least 13 of the 34 companies on our list, including about $40 billion in OpenAI and Anthropic combined. The capital helps the companies keep renting Nvidia servers.
+Our analysis doesn’t cover public companies that are also generating revenue from AI applications and selling models they developed themselves. Microsoft, for instance, has generated at least $6 billion in actual revenue from selling Copilot-branded apps, powered in part by OpenAI models that it uses for free.
+Google sells a lot of Gemini AI models and Gemini-powered features in enterprise apps, and AI answers appear to be boosting its core search engine and by extension the search-advertising business.
+A dozen major enterprise software firms such as Salesforce and ServiceNow are collectively on pace to generate billions of dollars a year selling AI-powered features and agents in their products. They’re also major customers of Anthropic and OpenAI, both for internal use and to power the products they sell.
+These AI buyers have been enduring recent price hikes from Anthropic
+.
+Despite their fast-growing revenue, the AI startups are burning huge amounts of cash—likely more than $30 billion on an annual basis from Anthropic and OpenAI alone, in large part due to AI model-training costs. While some of the startups on our list have at times operated profitably, most are not.
+For instance, Cursor’s gross margin was negative 23% as of the quarter ended in January, which was unusual for a startup generating such high revenue. The company’s gross margin has since turned positive, but the results show the challenge of relying on OpenAI and Anthropic technology, especially as Anthropic raises prices."
+Analog Devices in Talks to Buy AI Power Chip Startup for $1.5 Billion,2026-05-19T01:22:28Z,Valida Pau,https://www.theinformation.com/articles/analog-devices-talks-buy-ai-power-chip-startup-1-5-billion,"Chipmaker Analog Devices is in advanced talks to buy startup Empower Semiconductor for about $1.5 billion, in a deal that reflects demand for technology that can manage the intense energy needs of AI chips, according to people familiar with the discussion.
+The acquisition of the 12-year-old startup would expand Analog Devices’ portfolio of chips that support AI, whose complex workloads require massive amounts of energy. Chipmakers like Analog have been striving to deliver electricity to a chip without wasting much of it. Empower’s devices helps AI chips manage electricity to be more efficient.
+The price tag would be a step up for a startup generating little revenue. A deal could be announced as soon as this Wednesday, when the $200 billion market cap Analog Devices is set to report its quarterly results. Discussions with the startup are ongoing and the deal could still fall apart.
+Spokespeople for Analog Devices and Empower Semiconductor didn’t respond to requests for comment.
+Analog Devices designs and makes semiconductors that manage power needs, including for AI data centers, and converts physical-world information into digital data.
+“AI thrives in an environment of incredibly hard problems,” Analog Devices CEO Vincent Roche said in a February earnings call. “The problems in the power system are becoming increasingly difficult.”
+A deal with Empower would help Analog Devices compete better with Monolithic Power Systems, a major supplier of power management chips for Nvidia’s Hopper and Blackwell chips. Shares of Monolithic Power have risen about 60% since the beginning of this year, while shares of smaller rival Navitas Semiconductor more than doubled.
+Traditionally, chip designers have handled power consumption by placing power management chips next to the processor on a circuit board and running electricity horizontally across the circuit board. These chips act as a central system to monitor and distribute electrical power.
+Empower takes a different approach. Its integrated voltage regulators funnel power directly to thin, small chips underneath or inside the AI chips, the company has said. The placement cuts the distance the electricity needs to travel and reduces the energy lost along the way. The startup has also said its chips can change voltage much faster than traditional power chips, which helps keep the AI chips stable during computational spikes.
+Last year, Empower announced a partnership with chipmaker Marvell Technology to develop such integrated power solutions for Marvell’s custom chips.
+Milpitas, Calif.-based Empower has raised more than $215 million from investors including Fidelity Management, Maverick Silicon, CapitalG and Atreides Management, according to PitchBook. Its most recent valuation, from a September funding round, couldn’t be learned.
+Analog Devices has been benefiting from a jump in demand for technology that serves data centers. The chipmaker said orders from data center customers helped drive revenue in its January quarter 30% higher to $3.2 billion. Shares of Analog have risen more than 50% since this year."
+Musk Loses in Court; Uber Buys More of Delivery Hero,2026-05-19T00:00:06Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/musk-loses-court-uber-buys-delivery-hero,"Elon Musk’s big week isn’t starting out too well. Firstly, the all-important test launch of Starship got delayed by a day. Meanwhile, news broke that
+a worker
+died on Friday at SpaceX’s Starbase complex in Texas, where the rocket will launch.
+Separately, Musk on Monday lost the lawsuit against his fellow OpenAI founders, Sam Altman and Greg Brockman. The loss was sort of a technicality: The jury found that Musk didn’t file the claim in time. That means the jurors didn’t make a decision on the core of his arguments, as Musk pointed out, adding that
+he would appeal
+. So this battle may not be over. (For more details,
+see our story
+.)
+Why is he wasting his time on this suit, even as he reaches for the stars with SpaceX and tries to remake Tesla into a robotaxi and robot company? Well, it probably doesn’t take much of his own time—aside from appearing in court or for depositions every now and then. Musk has the money to pay the lawyers and the desire for revenge, so he probably thinks, “Why not?” Also, some might say the less involved he is in SpaceX, the better, given his very capable No. 2, Gwynne Shotwell, and his
+not always helpful
+management style.
+For OpenAI, this decision is good news. Even with the possibility of an appeal, the uncertainty of the case has now largely been removed. Of course, OpenAI is beset by so many dramas—lately it has been fighting with Apple—that the real impact of this win may not last long. Sam Altman and friends should savor the victory while they can.
+Uber Orders More Delivery Hero
+Uber CEO Dara Khosrowshahi’s dealmaking side is getting some exercise. Uber disclosed on Monday that it had lifted its stake in Germany-based food-delivery firm Delivery Hero to 19.5%, a purchase that likely cost around $1.8 billion. Uber had bought a small stake in the firm in 2024 as part of another deal
+that went sideways
+.
+Uber has options that would lift its stake to 25%. In a filing with German regulators, Uber said it “currently…has no intent to acquire 30% or more” of Delivery Hero, a statement that doesn’t tell us much about Uber’s long-term ambitions.
+Both Uber and DoorDash have been expanding internationally, particularly in Europe, through acquisitions in recent years. (Here’s a
+rundown we published last year
+.) Delivery Hero is a decent-size business, generating $17.2 billion in revenue last year, which is about the same as Uber’s food-delivery revenue for 2025.
+The German firm operates in Europe, Latin America, parts of Asia and the Middle East, so a full acquisition would be a good addition to Uber’s international operations. Watch this space!
+Calling all San Franciscans!
+The Information
+Editor-in-Chief
+Jessica Lessin will be interviewing former Wall Street Journal tech columnist, author and entrepreneur Joanna Stern this Wednesday at the Commonwealth Club in San Francisco. Come join them for a no-holds-barred conversation about the state of AI, Silicon Valley and media.
+Tickets are available
+here
+.
+In Other News
+•
+Chinese personal computer and server maker Lenovo Group said in an internal memo to staff last week that there have been no new licenses or policies regarding Nvidia’s H200 chips since March, when Washington approved the sales of the chips to some Chinese companies.
+• Everlane, a San Francisco–based startup that soared during the last decade’s e-commerce boom, will sell itself to Shein, a Chinese discount e-retail giant,
+according to Puck News
+. The deal values Everlane at $100 million, a far cry from the valuations it received at its height."
+Musk Loses OpenAI Lawsuit in Victory for Altman,2026-05-18T19:04:48Z,Rocket Drew,https://www.theinformation.com/articles/musk-loses-openai-lawsuit-victory-altman,"Jurors rejected Elon Musk’s claims against
+OpenAI
+, delivering a major victory to CEO Sam Altman in Silicon Valley’s biggest grudge match.
+Judge Yvonne Gonzalez Rogers agreed with the jury’s decision on Monday that Musk waited too long to bring his lawsuit. The decision came after just two hours of deliberation following three weeks of testimony and legal arguments.
+Musk, who co-founded OpenAI with Altman and President Greg Brockman in 2015, had accused them of violating a charitable trust and unjustly enriching themselves when they transformed the AI lab from a charity into a largely for-profit company. He accused Microsoft, an early backer, of aiding and abetting the breach of charitable trust.
+The nine-member jury and Judge Gonzalez Rogers were persuaded by OpenAI’s lawyers’ arguments that Musk already knew—or could have found out—about the actions he claims were unjust by the time he
+posted on X
+in 2020 that “OpenAI is essentially captured by Microsoft.”
+The ruling is a defeat for Musk, who also competes with OpenAI through the xAI unit of his SpaceX company, which is currently preparing an IPO. But the case has given Musk a forum to draw attention to criticisms of Altman and OpenAI that he has made for years on X. Two people close to Musk were dismissive of the verdict, saying OpenAI was expected to win and that Musk lost nothing by trying.
+Musk said he plans to appeal the decision, reiterating in an X post Monday his claim that Altman and Brockman stole a charity, and arguing that the judge and jury “never actually ruled on the merits of the case, just on a calendar technicality.” Musk’s lawyer, Steven Molo, said separately that the appeals court can decide whether the jury received proper instructions about the statute of limitations.
+Lawyers for Musk are asking the court to allow them to pursue the appeal before resolving separate antitrust claims by Musk against OpenAI and Microsoft, which the court early on had delayed to a later trial to prioritize the charitable trust and unjust enrichment claims. OpenAI also has made counterclaims against Musk that the judge had previously stayed for later as well.
+Musk alleges that OpenAI and Microsoft have used their shared market influence to restrain trade and have attempted to monopolize the AI industry—something those companies have denied. Judge Gonzalez Rogers on Monday cast doubt on those antitrust claims, saying that the law aims to protect competition and “there is a lot of competition” in the AI industry. “I thought that if there was anything that had legs, it was this half of the case,” she said, referring to the now resolved claims of breach of charitable trust and unjust enrichment.
+Monday’s decision reduces significant uncertainties that have clouded OpenAI’s future as it grapples with intensifying competition and prepares for an IPO that could come as soon as this year.
+Musk had been asking the court to compel OpenAI to unwind a restructuring last year that paved the way for the possible IPO, transfer of billions of dollars from its for-profit arm to its nonprofit and remove Altman from the nonprofit’s board.
+Musk’s lawyers had argued that the extent of OpenAI’s wrongdoing only became clear to Musk by degrees, and it was Microsoft’s deal to invest $10 billion in OpenAI in 2023 that constituted the main breach of charitable trust. That deal departed from earlier ones by taking on more investment and allowing the caps on investors’ potential returns to increase by 20% per year, the lawyers argued.
+Bill Savitt, OpenAI’s outside counsel, said that although the verdict was based on the statute of limitations, “it’s not a technical decision, it’s a substantive one.” He said it confirms that the case “was a hypocritical attempt to sabotage a competitor and to overcome a long history of very bad predictions about what OpenAI has been and will become.”
+A Microsoft spokesperson welcomed the verdict and said it remains “committed to our work with OpenAI to advance and scale AI for people and organizations around the world.”"
+The ‘Price is Right’ for GPUs: The Startup Turning Nvidia Chips Into ‘Boring’ Bankable Assets,2026-05-18T17:18:14Z,Anissa Gardizy,https://www.theinformation.com/newsletters/ai-infrastructure/price-right-gpus-startup-turning-nvidia-chips-boring-bankable-assets,"Good morning, Anissa here!
+The AI boom requires an enormous amount of new power plants, chips and data centers. But it also requires something that’s less visible: new financial plumbing that makes it possible to lend against this costly hardware.
+Miami fintech startup Barkr is one of the firms building the pipes, specifically for valuing AI chips being used as loan collateral, and has already attracted the attention of Nvidia. I recently met its CEO and co-founder, Thomas Galbraith, while moderating a panel in San Francisco about how lenders are underwriting the AI infrastructure build-out.
+Galbraith sits in a very specific part of the complicated web of asset-backed financing.
+His firm provides insurance-backed valuations of hard assets, like cars, art work and commercial equipment, which now includes AI chips. Barkr doesn’t lend the money itself, but gives lenders a number they can trust—and take to the bank.
+This work takes backbone: If Barkr gets the price wrong and a borrower defaults, it pays the difference.
+Founded in 2023, Barkr got its start calculating the value of assets such as collectible cars and private jets so that lenders could better price their loans. About six months ago, a lender came to Galbraith with a new challenge. “We‘re going to start lending against GPUs,” he recalled them saying. “And we can’t find anyone who can price them, let alone provide a guarantee on the price.”
+While Nvidia graphics processing units have emerged as a new asset class over the past few years, asset-backed financings for the chips are not yet ubiquitous. That’s because lenders and borrowers often disagree on the residual value of the GPUs, and there’s no independent party that can iron out the discrepancy. That means the terms of GPU-backed financing aren’t favorable compared to deals involving traditional assets.
+Asset-backed lending has always involved two risks: borrowers‘ ability to pay, and whether an asset’s value will hold up. Lenders have spent decades getting good at underwriting borrowers. Underwriting assets, particularly novel ones like GPUs, remains genuinely hard. Ask five firms to value the same GPU cluster and you will get five different answers, Galbraith said.
+Barkr has customized several AI models to value assets being used as loan collateral, then wraps the valuation in a contractual guarantee backed by Munich Re and other insurers. For a lender, that changes the calculus entirely, he said. A trusted price means less risk for the lender and a lower interest rate for the buyer.
+In the past six months, Barkr has aided transactions involving about $200 million worth of GPUs deals, and it expects to handle another $300 million in GPU deals before the end of the year. (That’s a relatively small number compared to Nvidia’s sales, and most GPUs are bought by world’s biggest companies, largely using their balance sheets.)
+For comparison, three years ago, investment firm Upper90 gave cloud provider Crusoe
+$200 million in
+debt, which was backed by 20,000 GPUs. Similar deals have happened since but have not proliferated.
+Making GPUs Boring
+Barkr, which has 14 employees and raised $3.5 million in venture capital, treats a GPU cluster the way an appraiser treats commercial equipment, by asking what another firm would pay for the hardware if a borrower defaulted on their payments.
+“We make them boring assets,” he said. “When you're looking at the insurance sector and how they think about assets and how they think about risk, the more uniform, the more boring, the more steady that it looks, the easier it is for the insurance industry to adopt.”
+While the prices AI developers pay to rent GPUs can be volatile (
+and are currently going up
+), GPU resale prices are a lot more stable, he says.
+GPUs depreciate, but they do so in a predictable way, which is what insurers and lenders want to see, he said. Barkr has found that Nvidia H100 chips, which came out in 2023 for around $30,000, are reselling for around $25,000 to $30,000 apiece, below a peak of more than $40,000.
+Galbraith has been obsessed with valuation problems since the early 2000s, when he worked at a global insurance company analyzing the value of art and other luxury items for high-net-worth clients. The firm's very name is a nod to that obsession. It’s a reference to Bob Barker, the late host of The Price is Right, a gameshow where contestants guess the retail price of consumer goods.
+Nvidia's Quiet Endorsement
+After our event panel, Galbraith drove to Santa Clara for a meeting at Nvidia's headquarters. There, he said he met with Nico Caprez, vice president of AI infrastructure, and others on the Nvidia startups investment team.
+Nvidia appears to understand that making its chips easier to finance is a huge opportunity. Nvidia employees have already introduced Galbraith to lenders who want to back GPU deals, he said.
+Nvidia has two reasons to care. First, it wants an independent third party validating that GPUs hold their value longer than some skeptics believe. Second, it wants to see the capital markets open up so that companies beyond the investment-grade hyperscalers can access large amounts of GPUs at similar borrowing terms.
+“We're solving a very specific problem that they are also very aware of,” Galbraith said of Nvidia.
+In other news…
+NextEra Energy
+will buy
+Dominion Energy in an all-stock transaction valued at $66.8 billion in a bid to create the world’s largest utility provider with a combined market capitalization of nearly $250 billion.
+GridCare—which my colleague Ann wrote about in a
+prior AI Infrastructure column
+—announced an oversubscribed, $64 million Series raise that brought in additional investors including Sutter Hill Ventures and John Doerr. GridCare is helping AI data centers find power by running advanced AI simulations to find underutilized pockets of power on the grid, which runs at a surprisingly low 30% capacity much of the year.
+Brent Mayo, head of data center capital markets at advisory firm Newmark,
+has left the firm
+and told people he is joining investment firm DigitalBridge."
+The Electric: Enduring Chinese Hero Worship for Musk Bolsters Sales of the Tesla Model Y,2026-05-18T16:00:06Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/electric-enduring-chinese-hero-worship-musk-bolsters-sales-tesla-model-y,"With their no-frills, spartan interiors,
+Tesla’s electric vehicles pale in comparison to plush Chinese-made models, which are typically replete with luxury and tech extras. And the technology that Tesla considers its singular distinguishing feature—its Full Self-Driving software—is heavily restricted in China.
+None of that seems to matter to Chinese car buyers, who for four straight years have been snapping up Tesla EVs. Tesla’s Model Y crossover SUV was China’s No. 1 best-selling vehicle of any type for the first four months of 2026, including combustion, according to Chinese data.
+That reflected a new surge for the Model Y, which, after holding the top sales slot in China in 2023 and 2024, fell to No. 3 last year, behind the Geely Xingyuan and the Wuling Hongguang, minicompact electric sedans priced at less than $10,000. In contrast, Tesla’s overall car sales have fallen for two straight years, with a decline of 28% in Europe last year alone.
+Outside China, Musk’s politics seem to be at least partly responsible for the sales decline. His shift to the right has alienated the environmentally conscious progressives who were among Tesla’s early fans. But in China, Musk remains a massive, all but unblemished celebrity hero, a stature that gives Tesla EVs a level of credibility the country’s own startups have largely not yet attained.
+When I was in China last month, I asked the CEO of one of Tesla’s top rivals—Xpeng founder He Xiaopeng—why Chinese buyers keep buying Teslas when local models are in many ways superior.
+“It’s a very simple question,” he responded. “Many consumers like Elon Musk. That guy is very good. I also like Elon Musk.”
+Musk’s standing in China was on display last week during President Donald Trump’s visit to Beijing. At a banquet on Thursday in the Great Hall of the People, Musk sat at a table as a string of Chinese officials—including Xiaomi CEO Lei Jun—stepped up to snap selfies with him.
+Lei, a billionaire entrepreneur, is himself no slouch—Xiaomi’s electric YU7 SUV was the second best-selling car of any type in China in the first quarter, and last month the Xiaomi SU7 electric sedan
+beat out
+the Model Y for sales in the country. Xiaomi also manufactures the world’s third best-selling smartphone, making Lei sort of a local combination of Musk and Tim Cook.
+Yet on Chinese social media,
+some said
+Lei’s body language made him look sheepish and obsequious next to a seemingly indifferent Musk.
+Musk can’t afford to lose this stature. China is more important than ever to Tesla’s financial stability. Its Shanghai factory pumped out more than half its vehicles last year, and China sales—about $20 billion—were almost a quarter of its total revenue of $94.8 billion. And while sales in China rose 0.09% last year, Tesla’s global sales fell almost 3%.
+Meanwhile, Musk is planning to spend billions of dollars turning Tesla into an AI and robotics powerhouse. In a call with analysts last month, Musk said Tesla would spend $25 billion on capital expenditures this year, triple last year’s figure. The money will go to the development of humanoid robots, a gigantic new chip factory that he calls the Terafab, and robotaxis.
+Though Musk predicts that Tesla’s profit will eventually come almost totally from robotaxis and robots, at the moment virtually all of it is from EV sales. But its profit last year was about $3.8 billion, so to cover the level of spending Musk plans this year—and next—he will have to dip significantly into the company’s $44 billion cash reserve.
+That means Tesla can’t afford to lose market share in China, where it hasn’t released a significant new model since the Y in 2021.
+Which brings us back to Musk as a local hero, someone known widely as “Brother Ma” and “Iron Man.” Though Musk largely behaves himself in China and does quite a bit of sucking up to China officialdom, he is admired for also pushing the limits of what entrepreneurs thought officials would allow—such as his Shanghai factory, 100% owned by Tesla. The country’s industrial titans and ordinary Chinese alike seem to see him as a superbillionaire, somehow bigger than a merely rich entrepreneur.
+Last week’s encounter with Musk was only the latest for Xiaomi’s Lei. Lei visited the Tesla CEO at the company’s Fremont, Calif., plant twice in 2013. Afterward, in a Xiaomi
+company blog post
+, Lei wrote that Musk represented “a new generation of Silicon Valley superstar.”
+The Chinese government originally championed Musk as someone who could frighten the country’s then-laggard car industry into waking up—or otherwise get crushed by Tesla.
+Today, he serves as evidence that China is serious about welcoming real competition. Its evolving embrace of Musk by extension gives ordinary Chinese the latitude to keep idolizing him. The gamble for Tesla and its investors is whether he can keep finding new reasons for the government to support him.
+---
+Noteworthy
+Lithium is on a tear.
+After three years of a lithium industry recession, prices for the metal—the primary one in batteries—have tripled since last July. The main reason is a shortfall of lithium ore because of an export cutback in Zimbabwe and a drop in production in Australia, according to
+Benchmark Mineral Intelligence
+, a metals research firm.
+EV entrepreneurs
+have been hunting for a better battery for almost two centuries,
+The New York Times reports
+. Most histories of EVs track them back to the late 19th and early 20th centuries. It turns out, however, that the first EVs were invented in the 1830s. They were not very useful, since the invention of the first major battery, lead acid, was three decades in the future.
+---"
+Edge Inference Chip Startup SiMa.ai Raising at $1.4 Billion Valuation,2026-05-18T14:00:06Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/edge-inference-chip-startup-sima-ai-raising-1-4-billion-valuation,"Nvidia
+might be on a tear, but some investors are still convinced that there’s demand for another kind of specialized chips. And they’re putting their money where their mouth is.
+For example: San Jose, Calif.-based
+SiMa.ai
+, which develops chips that work on devices such as drones or cameras, is in talks with investors to raise more than $100 million in new funding at a valuation of around $1.4 billion, according to two people with knowledge of the round. That would be a premium of more than 45% to its $960 million valuation from last August, according to PitchBook.
+SiMa.ai is one of a number of startups that are hoping to take a piece of the AI chip market by building chips for specific purposes—in SiMa.ai’s case, chips that don’t need a lot of power and can run on devices such as drones, robots or cameras. The idea is that not all future AI applications will need the massive amount of computing power available in data centers, which if true could shake up expectations about how much infrastructure needs to be built out.
+The firm was founded by CEO
+Krishna Rangasayee
+, who spent nearly two decades at chipmaker
+Xilinx
+and also worked for about a year as the chief operating office of
+Groq
+, which recently licensed its tech to Nvidia. SiMa.ai has already raised $355 million in funding from investors including
+Maverick Capital
+,
+Fidelity Management & Research
+and
+Dell Technologies Capital
+.
+SiMa.ai’s chips help its customers with everything from powering cameras that watch out for shoplifters in stores to powering robots in factories. Its customers include
+Cerence AI
+, which develops AI software for automobiles, aerospace and defense tech company
+ARC Aerospace
+and manufacturing firm
+TRUMPF SE + Co. KG
+, according to its website.
+SiMa.ai’s chips also stand out for not needing a lot of power to function, which is important since they run on devices that might not have easy access to a ton of power. That could become more important as devices like smartphones or
+OpenAI’s upcoming speaker
+need to be able to run AI models on the device themselves without having to communicate with models in the cloud.
+Here’s what else is going on…
+Policy Watch
+Chinese Premier
+Li Qiang
+met with more than a dozen
+American executives on Thursday in Beijing, telling tech and corporate leaders that the U.S. and China “can and should continue to be friends, partners.” Li said that as long as China and the U.S. “adhere to the principles of mutual respect, peaceful coexistence, and win-win cooperation, they will be able to properly manage and control their differences, while promoting the stable, healthy, and sustainable development of China-U.S. relations.”
+The meeting came as Reuters reported that the
+U.S. Commerce Department
+has
+cleared Nvidia’s sales
+of its
+H200
+chips to around 10 Chinese companies including
+Alibaba
+,
+Tencent
+,
+ByteDance
+and
+JD.com
+. (
+Nvidia
+hasn’t yet made a single delivery of the chips to those Chinese firms because of Beijing’s own restrictions.)
+Anthropic
+published a new paper
+on Friday that calls for the U.S. to make sure China’s access to advanced chips is restricted. In the paper, entitled
+“2028: Two Scenarios for Global AI Leadership,”
+Anthropic said if the U.S. loosens its restrictions on China’s access to compute, China could become more competitive in AI development, resulting in a “destabilizing neck-and-neck race” two years from now.
+U.S. Trade Representative
+Jamieson Greer
+said in an interview
+with Bloomberg TV on Friday that U.S. chip export controls were “not a major topic of discussion” at the bilateral meeting between U.S. President
+Donald Trump
+and Chinese President
+Xi Jinping
+.
+Overheard
+While speaking at the
+University of Arizona's
+graduation event on Sunday, former
+Google
+CEO
+Eric Schmidt
+faced loud booing from students when he brought up AI during his commencement speech. The reaction highlighted just how contentious the technology is today and fears around AI taking over people’s jobs, especially in the case of recent graduates.
+People on the Move
+OpenAI
+is
+combining teams
+working on
+ChatGPT
+, its
+Codex
+coding product and its API into one organization, pressing ahead on its more streamlined strategy, despite the prolonged medical leave of top executive
+Fidji Simo
+.
+Brent Mayo
+, head of data center capital markets at advisory firm
+Newmark
+, has left the firm and told people he is joining investment firm
+DigitalBridge
+,
+The Information reported
+.
+Steve Fisher
+, president and chief product officer at Salesforce,
+has stepped down
+and moved into an advisory role at the company, he announced on LinkedIn.
+Earnings Report
+Figma
+stock rose more than 8% in after hours trading as the design-software firm
+reported accelerating revenue growth
+for the first quarter. Revenue for the three months that ended March 31 rose 46% to $333 million, higher than the 40% jump in the previous quarter and the 38% increase in the period before that. Part of that growth flows from Figma’s move in early March to enforce limits on how much AI customers can use with their seat-based subscriptions.
+Court Watch
+Lawyers for
+Elon Musk
+,
+OpenAI
+and
+Microsoft
+delivered closing statements
+Thursday in their courtroom battle. OpenAI’s lawyers emphasized that Musk already knew—or could have found out—about the actions he claims were unjust by the time he posted on X in 2020 that “OpenAI is essentially captured by Microsoft.”
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Dragoneer
+,
+Greenoaks
+,
+Sequoia Capital
+and
+Altimeter Capital
+have agreed to co-lead
+a $30 billion round of funding into
+Anthropic
+at a $900 billion valuation before the money.
+Multiverse
+, which helps train employees to use AI better, raised $70 million at a $2.1 billion valuation in a funding round led by
+Schroders Capital
+.
+WIRobotics
+, which builds wearable and humanoid robots, raised about $68 million in a Series B funding round led by
+JB Investment
+.
+Gridcare
+, which uses physics-based AI to find underused capacity on the electricity grid, raised $64 million in a Series A funding round led by
+Sutter Hill Ventures
+and venture capitalist
+John Doerr
+.
+Dust
+, a Paris-based startup that helps humans and AI agents work together, raised $40 million in Series B funding led by
+Abstract Ventures
+and
+Sequoia Capital
+.
+Nectar Social
+, an AI-powered marketing platform, raised a $30 million Series A round led by
+Menlo Ventures
+and its
+Anthology Fund.
+GovWell
+, which provides AI software to local governments to handle permits, inspections, licensing, fee collection, and code compliance checks, raised $25 million in a Series A funding round led by
+Insight Partners
+.
+Wirestock
+, which supplies custom training data, including images and videos, raised $23 million in a Series A funding round led by
+Nava Ventures
+.
+OpenAI
+bought Weights.GG
+, a small startup that made an AI voice-cloning tool called
+Replay
+, in January.
+President Donald Trump
+traded millions of dollars
+worth of technology stocks since the start of 2026, new disclosures released on Thursday show. In a report filed with the
+U.S. Office of Government Ethics
+, Trump revealed that he bought and sold shares of companies including
+Nvidia
+,
+Palantir
+and
+Oracle
+.
+XAI
+began beta testing for some subscribers of
+Grok Build
+, a coding agent that runs in a computer’s terminal window similar to
+Claude Code
+and
+Codex
+."
+Microsoft Executives Sound the Alarm Over GitHub’s Eroding AI Lead,2026-05-18T13:00:45Z,Aaron Holmes,https://www.theinformation.com/articles/microsoft-executives-sound-alarm-githubs-eroding-ai-lead,"No part of
+Microsoft
+better illustrates its predicament in AI than GitHub.
+The AI boom has boosted usage and revenue of the code repository as well as GitHub Copilot, an AI coding assistant. But GitHub has struggled to respond to new AI coding competitors that have since overtaken it. And the service has suffered from frequent and major outages, peeving big customers and prompting Microsoft to issue an apology.
+In recent months, Jay Parikh, who oversees the division that includes GitHub, has privately warned colleagues that the unit faces a critical threat.
+Parikh told deputies that if GitHub doesn’t adapt, rivals like Cursor and Claude Code could displace not just Copilot but the core repository itself. His fear: Developers using integrated tools like Cursor will stop uploading their code to GitHub altogether, rendering the repository service obsolete, according to two people who heard the remarks.
+Microsoft’s adaptation plan includes developing its own strong AI coding models to lessen GitHub Copilot’s dependence on those from OpenAI and Anthropic. To train new models, Microsoft is using data from employees’ internal use of AI tools as well as from GitHub customers, such as the code they upload to the platform, according to someone who has worked on the effort.
+Microsoft also has eyed potential acquisitions of AI coding startups, including Sourcegraph, to bolster GitHub’s offerings and talent, according to people with knowledge of the talks. Microsoft executives last year considered acquiring a bigger coding rival, Cursor, but demurred over EU antitrust concerns, according to a person involved in the talks. SpaceX has since signed an agreement to buy the startup for $60 billion.
+“Two years ago, GitHub Copilot had a phenomenal lead over the rest of the world. Today, it still has mindshare, but they’re no longer the clear leader,” said S. Somasegar, a managing partner at Madrona Venture Group who previously led Microsoft’s developer division and advised CEO Satya Nadella to acquire GitHub. Microsoft did so in 2018 for $7.5 billion.
+“They need to keep innovating on both products and on their business model,” Somasegar said.
+The same criticism could be made about most of Microsoft’s other core applications, which are facing similar threats from Anthropic’s and OpenAI’s AI agents and chatbots for white-collar workers. Both Anthropic and OpenAI recently released new features that automate work within Office 365 apps, competing directly with Microsoft’s Copilot AI tools.
+Microsoft has responded by developing
+new features inspired by AI agents like OpenClaw
+that work on longer tasks around the clock without needing as much supervision.
+Microsoft’s ability to weather new competition this year will determine how vulnerable it is to activist investors. The company’s stock is down more than 10% so far this year, more than any other Magnificent Seven stock, and some large shareholders have dumped their positions, citing fears that new AI tools will supplant its productivity software business. Microsoft assuaged some of those concerns during its latest earnings call last week when it showed that it had
+over 20 million paying users of 365 Copilot
+, up 33% from the quarter prior and implying over $7 billion in annual revenue.
+It also said it was generating more than $3 billion a month, or $37 billion in annualized sales, from AI-related products and services. Most of that figure is tied to renting out cloud servers to OpenAI, which has a much lower profit margin for Microsoft than its apps business.
+Developers, Developers, Developers
+GitHub, which hasn’t had a dedicated leader since last summer, has been a key plank of Microsoft’s cloud business, deepening its relationship with a newer crop of application developers. Microsoft’s obsessive focus on keeping such developers in its camp had for decades helped entrench Windows’ market position, epitomized by former CEO Steve Ballmer’s
+infamous onstage chant
+(“Developers!”). GitHub was supposed to revive such ties.
+Thanks to Microsoft’s partnership with OpenAI, which started in 2019, GitHub pioneered GitHub Copilot using OpenAI’s technology in 2021, more than a year before the advent of ChatGPT. Microsoft then
+capitalized on its early lead with GitHub Copilot
+to win some business away from cloud competitors like Amazon and Google by bundling GitHub Copilot and other GitHub services with its broader cloud suite.
+Then in 2024 along came Cursor, which presented an AI coding tool that could handle more complex tasks, while GitHub Copilot was still primarily offering autocomplete suggestions for coders as they typed. Anthropic in mid-2025 followed with Claude Code, powered by its state-of-the-art AI to automate even more difficult coding tasks, and OpenAI has been rapidly improving its competing tool, Codex.
+Despite competition from faster-growing rivals, GitHub Copilot grew steadily as the global market for AI coding tools expanded, and it has also developed agentlike features. Paid users of GitHub Copilot have risen from just over 1 million in early 2024 to more than 4.7 million in December 2025, according to company disclosures. (OpenAI’s Codex tool doubled its weekly users to 4 million between March and April, but that product includes a free tier.)
+The GitHub figures imply the tool was on track to generate at least $550 million annually at the time, based on the cheapest subscription tier price. At the end of 2025, GitHub’s annual recurring revenue was more than $3 billion, according to someone with knowledge of the business. That figure suggests the unit generated only around 1% of Microsoft’s revenue last year.
+Strained Profit Margins
+Meanwhile, traffic to GitHub has exploded, growing 14 times over the past year as customers use their own AI tools to upload and edit code in the repository. Not all of that traffic turns into revenue: GitHub doesn’t charge customers for basic services like uploading and modifying code. And it generally doesn’t charge people for using even more advanced AI features, such as detecting and suggesting patches for software vulnerabilities, in public repositories that open-source projects rely on.
+The added traffic has strained GitHub’s gross margins and led to a surge in outages. It has also forced the company to raise prices for some AI features, which has annoyed customers, some of whom say they’re now exploring leaving GitHub for competitors such as GitLab.
+Like many of its rivals, GitHub Copilot has struggled with margins because Microsoft has been subsidizing the biggest subscription customers of the AI tool. GitHub’s cost for running the AI models many power users consumed through GitHub Copilot exceeded the monthly price of their subscriptions, leaving Microsoft to eat the costs, according to one of the current employees. Microsoft Chief Financial Officer Amy Hood admitted as much in an April earnings call, noting that “increased GitHub Copilot usage” drove down gross margins in Microsoft’s cloud unit during the quarter.
+Microsoft is now planning to hike the price of GitHub Copilot by charging based on usage, it said last month, and has temporarily stopped people from signing up for cheaper subscriptions. The price increase could turn off some customers, such as IT services firm NinjaOne, which
+said it is steering more of its engineers to use Anthropic’s Claude Code
+as GitHub changes to usage-based pricing.
+Parikh and his deputies also have discussed new ways to charge customers more—without alienating them—based on how much their external AI agents use the code repository service, according to a current employee with knowledge of the company’s thinking.
+Microsoft executive Jay Parikh via Getty
+To develop Microsoft’s own AI coding models and lessen reliance on OpenAI’s and Anthropic’s, Parikh has directed GitHub teams to gather more coding data only Microsoft has access to, such as code its roughly 100,000 software engineers write and edit, according to someone with knowledge of the effort. Other major AI developers use similar data from employees to improve their models.
+Last week, Rajesh Jha, who oversees tens of thousands of employees working on Windows and Office software, told staff they would have to use GitHub Copilot CLI, a version of the tool that makes it function more like Claude Code. Staffers on those teams had become prolific users of Claude Code, but Jha said he would cancel those licenses by the end of June, according to someone who received the memo, which The Verge earlier reported.
+Microsoft is also starting to use data gathered from GitHub Copilot’s external customers to develop and improve new coding models.
+Shaken Customer Trust
+First, however, Microsoft must stem the bleeding at GitHub, where outages have made the service unusable for hours at a time, preventing customers from saving changes to their code.
+Firms like Citi and Intel have privately complained about the outages in recent months, according to two Microsoft employees with knowledge of the conversations. And OpenAI has
+explored building its own alternative to GitHub
+due to frustrations with the downtime. Spokespeople for Citi and Intel declined to comment.
+The glitches are also hitting Microsoft’s bottom line. In an attempt to mollify customers, it has in recent months offered credits to large firms to make up for downtime in their GitHub environment, reducing its overall revenue from those firms, one of the employees said.
+An outage occurred last month after a bug caused some customers’ GitHub repositories to revert to older versions. GitHub later said in an
+incident report
+that an “inadvertently” used unreleased feature caused the outage and that it didn’t detect the problem until three hours after that feature went into effect.
+That outage was more frustrating than previous ones because it undid work developers had completed on GitHub, according to Tom Elliott, a software developer at Modal, which rents out Nvidia servers to AI developers. Modal is exploring moving to a competing service such as GitLab, he said.
+The outages have also angered prominent figures in open-source projects that rely on GitHub. Mitchell Hashimoto, co-founder of developer tools firm HashiCorp and creator of Ghostty, a popular open-source tool for writing and testing code, said last month he was moving the project out of GitHub due to the outages. He didn’t disclose where he’s taking it, but he said Ghostty was in discussions with other providers.
+Hashimoto wrote in a
+blog post
+, “GitHub is failing me, every single day.…This is no longer a place for serious work if it just blocks you out for hours per day, every day.”
+GitHub has apologized for the outages, calling them “unacceptable,” and has said it’s redesigning how parts of its service work."
+Investors Fall Back in Love With IPOs,2026-05-20T00:30:46Z,Valida Pau,https://www.theinformation.com/newsletters/dealmaker/investors-fall-back-love-ipos,"For the past two days, I’ve been at JP Morgan’s annual tech conference in Boston. As usual, AI has dominated most of my conversations with investors. But in a change from the past few months, it’s not
+Anthropic
+and
+OpenAI
+driving those discussions—but hardware and utility companies a few steps removed from what the AI model makers do.
+On Monday, for example, NextEra Energy and Dominion Energy agreed to a $400 billion tie-up driven in part by AI’s voracious demand for energy, the two utility giants said. That’s also happening at the chip level: Analog Devices,
+as we reported
+Monday night, is buying a startup whose chips help manage power transmission to the semiconductors that handle AI functions.
+Then there is SpaceX, which is expected to make its initial public offering prospectus public as soon as Wednesday. We and other outlets have
+reported many of the details
+of the offering already. Still, investors from large mutual fund managers like Fidelity and Wellington Management they’ll still scroll for revelations from the paperwork. A key point of interest is how SpaceX discusses its AI business, which recently absorbed Musk’s xAI—and could soon acquire coding agent Cursor.
+While Musk has tried to remake SpaceX into an AI company over the past four months, buzz around the IPO has been drawing attention to other startups taking on the incredible feat of putting rockets in space.
+An executive from Blue Origin, Jeff Bezos’ rival launch company, was seen at the conference, meeting investors and an executive from satellite designer AST SpaceMobile.
+Blue Origin,
+which botched the launch of an AST SpaceMobile satellite in late April
+, has told staff it may raise more money from external investors, The Financial Times reported last week.
+Space aside, AI chips—notably those designed by Nvidia challenger Cerebras—have sweetened the outlook for more IPOs this year. Cerebras’ shares have risen 64% since their IPO last week. That’s helping big investors
+forget about the poor performance of last year’s IPOs
+and a sell-off in tech shares prompted by oil spikes and fears about the impact of Anthropic’s latest product releases on incumbent software providers.
+J.P. Morgan, for its part, points to the numbers. U.S. companies have raised more than $32 billion from initial public offerings this year, nearly three times higher than this time last year, and newly public companies have risen an average of 17% since their IPOs, said Keith Canton, global head of private capital advisory and solutions.
+It wasn’t all wine and roses. In closed-door meetings, there was  a noticeable split in moods between those perceived to benefit in the AI boom and those perceived to be disrupted by AI, attendees told me.
+While executives and investors of chipmakers and new cloud providers were giving high-fives to each other, the mood was more downbeat for enterprise software companies, some attendees said. The latter have been trying to remake themselves as AI companies via a spree of deals and new AI releases.
+“There’s a critical question facing many software companies: can they evolve into truly AI-native organizations, or will partnerships and acquisitions be necessary to accelerate the shift toward a more AI-driven future?” said Chris Grose, co-head of technology investment banking at JPMorgan.
+That’s no doubt why many attendees lined up to hear directly from the company that triggered the seismic quake rattling investors: OpenAI. The ChatGPT maker sent its CFO Sarah Friar to deliver one of the main keynotes of the conference."
+Google’s AI Search Leap Forward,2026-05-20T00:00:45Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/googles-ai-search-leap-forward,"If you pay attention to one thing in AI this week, it should be Google’s I/O
+presentation
+on Tuesday. The tech giant unveiled a bunch of AI tools, most significantly the addition of new AI features such as agents to Google Search. Any distinction that existed between Google’s Gemini AI chatbot and its search bar is disappearing.
+No longer should we compare OpenAI’s ChatGPT to Gemini—it’s ChatGPT versus Google Search. That’s a big deal, given that Search is much more widely used than Gemini—Google CEO Sundar Pichai intimated today that Search has 3 billion monthly users, while the Gemini chatbot had 900 million. (ChatGPT is bigger than Gemini, at least: Its user number has been hovering at a little over 900 million
+weekly
+active users for a while now.)
+Turning Google Search into an AI chatbot means average people who might never click on Gemini are more likely to get exposed to a broader range of AI tools than has been the case so far. It’s hard to argue with Google Search chief Liz Reid’s statement on stage at I/O that the overhaul is Google’s biggest search box upgrade in 25 years.
+One of the more striking new AI tools was the introduction of agents, such as an information agent that will let consumers ask Search to monitor and provide regular updates for things like stock prices, along very specific criteria. Another agent can monitor apartments you might want to rent. Those are the sort of things we all associate with agents already, to be sure. But having these features available in Google Search likely will increase their usage.
+The business impact is sure to be significant. Search is, of course, Google’s cash cow, so the overhaul holds out the possibility that boosting its usage will also increase Google’s revenue. But there’s a cost to that: Just imagine how much more Google will have to spend to handle the increasingly complex AI-related searches that are likely to flood its servers. And exactly how Google will fit ads into more elaborate AI responses without turning people off is unclear.
+What about the impact on competition? OpenAI may have a hard time growing ChatGPT once people realize Google search can do whatever ChatGPT can do. The same is even more true of others that have much to prove in AI, such as Meta Platforms. The array of new AI tools and features Google unveiled on Tuesday demonstrates how the tech giant may be hard to beat once it has overhauled all its products and services with its AI.
+Move Over, Meta
+Meta has made AI-powered smart glasses a thing in the past few years, thanks to its collaboration with Ray-Ban. But Meta will soon face some hefty competition,
+starting with Google this fall
+.
+On Tuesday at I/O, the tech giant unveiled a couple of the designs coming this year from its collaborators,
+Warby Parker
+and South Korea’s Gentle Monster. Like the Meta Ray-Bans, the glasses will let wearers make phone calls, send texts, listen to music and take photos. They also will offer navigation and other less obviously useful functions, such as placing a coffee order on DoorDash via Gemini (surely it’s just easier to text, call or walk into a Starbucks).
+Apple is
+reportedly working
+on its own smart glasses. Meta CEO Mark Zuckerberg was early to this market, but his hold on it seems likely to slip.
+In Other News
+Google and Blackstone are teaming up to create a rival to neoclouds such as CoreWeave and Nebius, but one that will offer AI computing capacity powered by Google’s tensor processing units (more details
+here
+and
+here
+).
+Google unveiled an expanded lineup of AI shopping tools Tuesday at its annual I/O developer conference, including a “Universal Cart” that allows users to add products from multiple retailers and sites across multiple Google products including search, Gmail, Gemini and YouTube.
+Google DeepMind agreed to pay between $80 million and $90 million to hire employees from AI agent startup Contextual AI and to license its technology, according to a person with knowledge of the deal.
+Andrej Karpathy, a founding member of OpenAI and Tesla’s former director of AI, is joining Anthropic, he
+posted on X
+on Tuesday. “I think the next few years at the frontier of LLMs will be especially formative,” he wrote.
+Chipmaker Analog Devices is in advanced talks to buy startup Empower Semiconductor for about $1.5 billion, in a deal that reflects the demand for technology that can manage the intense energy needs of AI chips,
+The Information reported Monday
+.
+Meta Platforms is making broader organizational changes along with impending mass layoffs to better suit its structure to AI, a top executive told staff on Monday. The owner of Facebook and Instagram plans to detail cuts on Wednesday to about a tenth of its nearly 78,000 employees."
+5 Charts That Make Sense of SpaceX’s IPO Numbers,2026-05-19T21:08:47Z,Cory Weinberg,https://www.theinformation.com/articles/5-charts-make-sense-spacexs-ipo-numbers,"SpaceX’s initial public offering prospectus will read like a kaleidoscope when it’s unveiled publicly in the coming days. There will be a dazzling mixture of storylines and figures that show huge financial losses, exciting promises, impressive growth and unmet expectations.
+Information in the prospectus will help investors knit together parts of the company that feel disconnected—rocket launches, satellite internet, social media, AI models, data centers, defense contracting, Mars voyages—ahead of the largest and most audacious IPO ever.
+The IPO filing touts significant forward-looking advantages, according to excerpts seen by The Information. For instance, the prospectus reads: “We believe we are the only company with a commercially viable path to building orbital AI compute at scale.”
+But its historical numbers, laid out in black and white, are worth examining closely. We’ve spent weeks reporting on key details revealed by drafts of the prospectus and speaking to people close to the deal, revealing an unprecedented depth of financial information about a high-profile company just before its public debut.
+We’ve used that information to create these five charts that help tell the story of SpaceX to orient readers ahead of the IPO filing. Please note that some figures may be updated in the prospectus that becomes public.
+It’s well known that SpaceX’s IPO, which could raise as much as $75 billion, should be the largest ever by a wide margin. What’s less appreciated is that the company’s total historical financial losses have been staggering as well.
+SpaceX’s year-end balance sheet last year showed it had amassed a total loss of $37 billion over its history. That figure, known as an accumulated deficit, was larger than those recorded by the next 10 tech companies
+combined
+that went public tabulating a history of red ink. The list with large accumulated deficits includes Didi Chuxing, Uber, Airbnb and Rivian.
+The pileup of losses reflects the sheer capital intensity of SpaceX building a dominant rocket launch provider, including the stock-based compensation it has awarded employees over its 24-year history. And the company’s acquisition of xAI earlier this year, which had significant losses last year, didn’t help, either.
+SpaceX looked quite profitable last year—if you strip out many of its biggest expenses.
+The company’s adjusted earnings before interest, taxes, depreciation and amortization was in the black last year, at $6.6 billion. But its net
+loss
+, under real accounting principles, was $4.9 billion.
+It’s quite common for companies to show investors nontraditional profit metrics to show a healthier operating record. But the size of SpaceX’s adjustments is unique, due to a mixture of high capital expenditures, high stock-based compensation and debt.
+The total of SpaceX’s adjustments—meaning the expenses left out of its adjusted Ebitda—was 1.7 times larger than that headline profit overall. That’s a larger gap between headline profit and real profit than for other capex-heavy businesses like AI data center operator CoreWeave, satellite internet provider Viasat, and even Musk’s other company, Tesla.
+SpaceX’s crown jewel is its satellite internet offering, Starlink, which has grown to dominate the market in just five years.
+The dominance is clear when you compare Starlink’s $11.4 billion in revenue last year to the seven largest satellite communications operators. It generated more than twice as many sales as its closest competitor, Viasat. And it generated as much revenue as that entire group, which includes SES, Viasat, AST SpaceMobile, Globalstar, Iridium, Eutelsat and EchoStar’s satellite division.
+Another SpaceX business segment is Space, which includes sales from rocket launches by other customers. That revenue grew only 8% last year, to $4.1 billion, primarily due to contracts with the Pentagon and NASA.
+The slow growth was because only 43 of SpaceX’s 165 launches of its Falcon 9—its primary rocket—were for outside customers. Nearly three-quarters were for Starlink, a portion that increased slightly last year compared to past years. The draft prospectus notes that “customer launches and average price per launch remained flat” between 2024 and 2025.
+The draft also said SpaceX would soon be using the rocket capacity it devotes to Starlink to send computing capacity—servers—into orbit. “We allocate a significant amount of launch capacity to our Connectivity segment, and expect to allocate a significant amount to our AI segment in the future,” the draft reads.
+SpaceX’s AI division encompasses both the social media site X and xAI, with its Grok chatbot. This division’s growth wasn’t particularly impressive, as xAI struggled to establish itself as a meaningful competitor to OpenAI and Anthropic.
+XAI’s revenue grew just 23% last year. Anthropic’s revenue, meanwhile, grew over 1,000%, The Information has reported. And OpenAI grew nearly 300%. And most of xAI’s revenue was from the social media site X rather than AI revenues overall, but it’s not clear yet how much. The company attributed the AI division’s growth to “an increase in subscriber revenue, and advertising and platform services revenue.”"
+"SpaceX IPO Could Return More Than $60 Billion Each for Founders Fund, Valor",2026-05-19T17:59:50Z,Katie Roof,https://www.theinformation.com/articles/spacex-ipo-return-60-billion-founders-fund-valor,"SpaceX’s initial public offering, expected to be the largest in history, is also set to yield the largest venture returns ever at the time of the IPO. Among those set to win big are Founders Fund, Valor Equity Partners and Sequoia Capital.
+Valor Equity Partners, whose founder Antonio Gracias is on the SpaceX board and has backed several of Musk’s endeavors, owns about 4% of SpaceX, via the almost $6 billion it spent investing in X, xAI and SpaceX, which are now all part of the same company. If, as some bankers expect, it is valued at around $1.75 trillion in the IPO, Valor would show gains of close to $65 billion.
+Peter Thiel’s Founders Fund, which first invested in Musk’s rocketship company in 2008, has spent over $600 million for a stake of around 3.5%, according to a person familiar with the investment. At a $1.75 trillion valuation, Founders Fund would enjoy gains of more than $60 billion, despite previously selling a portion of its shares.
+SpaceX is expected to make its IPO prospectus public as soon as Wednesday. That starts the clock for the company to go public by mid-June. The exact pricing of the IPO won’t be clear until then.
+Sequoia Capital has almost a 1.5% stake and has spent $2 billion in SpaceX, xAI and X, according to a person familiar with the matter. This indicates it could generate over $20 billion in returns at a $1.75 trillion valuation.
+Sequoia came in relatively late. It also held onto all of its shares. Partner Shaun Maguire led the SpaceX investment in 2020 when the company was already valued at $36 billion. That same year SpaceX reached a technological milestone,
+launching two NASA astronauts aboard its Crew Dragon spacecraft
+to the International Space Station.
+Sequoia also wrote an
+$800 million check into Musk’s buyout of X
+and invested in xAI when the AI startup raised $12 billion in multiple rounds in 2024.
+The VC firm 137 Ventures also owns above a 1% stake, as previously reported by Bloomberg. The investment was led by firm founder Justin Fishner-Wolfson, who was at Founders Fund at the time of its SpaceX investment also.
+Other large shareholders include DFJ and Vy Capital, whose stakes could not be learned.
+Should the IPO make a typical 20%-30% pop on its first day of trading, these firms’ gains could rise further. Of course, how much these firms end up making depends when they’re able to sell, which in turn will depend on lockup rules put in place. These firms may have to wait months to sell, by which time the stock price could have fallen from the IPO level or risen further.
+The expected flood of cash coming from the IPO will be a welcome bonanza after the IPO drought of recent years dried up cash distributions. If the offering is as much of a blockbuster as many expect, it will skew returns for the industry: the funds that invested in SpaceX over the last 24 years are likely to greatly outperform their peers from the same years.
+The expected payouts could also cement a thesis percolating throughout SpaceX’s talks with large investors in recent weeks: Musk’s companies have tended to pay off for investors, despite steep valuations and years of cash burn. SpaceX, which had been profitable last year, bought Musk’s money-losing AI lab, xAI, in February. Combined, the companies would have
+lost about $5 billion last year on revenue of $18.5 billion
+.
+These payouts will set a new standard for VC returns. SoftBank parlayed
+a $20 million investment
+into more than $55 billion at the time of Alibaba’s 2014, though it held onto its shares after the IPO. Accel stood to return about $10 billion at the time of the 2012 Facebook IPO, while Sutter Hill Ventures was looking at a more than $6 billion return at the time of the Snowflake IPO.
+For both Valor and Founders Fund, the big paydays follow years of repeat investments. In 2008, when Musk needed emergency funding for SpaceX following two failed rocket launches,
+Founders Fund co-founder Luke Nosek
+convinced Thiel to make a $20 million infusion, at the time one of the fund’s biggest-ever investments. Founders Fund then went on to invest in multiple rounds.
+Valor first invested in SpaceX in its early years.
+Several of its funds
+then went on to invest in SpaceX and xAI, and Valor also set out to raise a $20 billion special purpose vehicle to purchase Nvidia chips to lease to xAI. It held onto its SpaceX shares."
+"How Microsoft, Meta, xAI Get AI Training Data From Their Employees",2026-05-19T17:30:45Z,Jyoti Mann,https://www.theinformation.com/newsletters/applied-ai/microsoft-meta-xai-get-ai-training-data-employees,"Microsoft’s GitHub Copilot may have lost much of its early lead in the AI coding race to rivals like Anthropic and Cursor, but Microsoft thinks it has an advantage over those companies: roughly 100,000 software engineers who work for Microsoft.
+As we reported Monday
+, Microsoft leaders think they can develop coding models using the wealth of proprietary code those developers have written (and are writing now). It’s the latest example of AI developers using their own employees as a source of AI training data.
+Microsoft has been collecting data from its in-house VSCode application, which developers use to write software. It’s also been compiling the source code of video games developed by studios owned by Xbox—another valuable asset other AI labs don’t own—for use in training AI models.
+Microsoft has also been pushing more employees to use GitHub Copilot instead of competing tools like Claude Code, in part because it’s collecting data on which Copilot-generated lines of code that staff engineers end up approving for real applications. (Other AI developers including Google and OpenAI also ask employees to use in-house AI tools they are developing, commonly known as dogfooding.)
+Microsoft isn’t the only firm leaning on its own employees for new training data. Meta has ruffled employees’ feathers with an even more invasive practice: tracking how they move their mouse and what they do in browser windows. CEO Mark Zuckerberg
+told staff that doing so would be especially valuable to Meta because all of its employees are “very smart,”
+although it’s unclear whether that compliment made anyone feel better about the surveillance.
+Some Meta employees are resisting the company’s new data collection tool, called the Model Capability Initiative, by routinely ignoring the “accept” button on the permissions popup that recently appeared on their screens. One staffer said other workers had discovered ways to disable the software through their device settings.
+Some of the resistance appears justified, as some employees said in internal posts reviewed by The Information that the new software created technical problems on their devices after it was installed.
+“MCI makes everything super slow,” one employee wrote, adding that keyboard input and mouse movement became laggy.
+A Meta spokesperson said in a statement: “If we're building agents to help people complete everyday tasks using computers, our models need real examples of how people actually use them—things like mouse movements, clicking buttons, and navigating dropdown menus.”
+The spokesperson added that Meta has measures in place to safeguard sensitive information and that the data is not used beyond training purposes.
+At xAI, managers reportedly offered to pay employees $420 apiece to “donate” their tax returns—as well as returns from their friends and family members—to use as AI training data for Grok. Two months later, xAI hasn’t paid employees who made such contributions,
+Bloomberg
+reported Monday.
+The trend is likely to continue across the industry. While there are other ways to get primary training data—namely, asking customers’ permission to use their data for training—getting such data from employees is easier because technically they can’t say “no.”
+Salesforce’s $300 Million Anthropic Bill
+Ever since Anthropic quietly raised its prices for enterprise customers earlier this year, we’ve been keeping track of whether customers are ditching Claude for cheaper alternatives. So far, most firms seem
+willing to eat the cost.
+The latest example is Salesforce, which is now on track to spend $300 million on Anthropic models this year, CEO Marc Benioff
+told the All-In podcast Friday
+. For context, that would represent around 4.5% of the $6.7 billion Salesforce spent on cost of revenues last year, which included payments to third party tech suppliers.
+Salesforce is primarily spending money on Anthropic’s AI coding tools, Benioff said, and argued that the technology is worth the expense because it’s making software development cheaper than ever.
+“These coding agents are awesome,” Benioff said. “Everything‘s going to be cheaper to make. It’s more efficient. I can do things that I just could not do before.”
+But Benioff implied he’s planning to wean his company off Anthropic to save on costs.
+“The vast majority of those tokens don‘t need to go to Anthropic. There needs to be some intermediary layer that’s saying, oh, that one has to go to Anthropic, but these ones can be handled by smaller models,” Benioff said. “To think it’s going to be so expensive—I think that’s just the moment of time we’re in right now.”
+Benioff speculated that a “hot new company” may soon appear to fill that need for model routing. One such startup, OpenRouter, was recently in talks to raise $120 million in new funding led by one of Alphabet’s venture arms at a $1.3 billion valuation, including the investment, we
+reported last month
+.
+But Salesforce itself may also get into the business of helping customers manage such AI coordination: Benioff said the company wants to add more tools to Slack that make it easier for engineers to work with a range of AI coding tools."
+Is the Gap Widening Between Anthropic and Open-Source Models?,2026-05-19T14:00:45Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/gap-widening-anthropic-open-source-models,"Some developers have told me that the
+rising costs of frontier AI models
+from
+Anthropic
+and other firms could prompt them to shift to cheaper open-source AI. After all, when companies as sophisticated as
+Uber are accidentally blowing through their entire year’s AI budget
+in a matter of months, it makes sense to cut back by using a less capable open-source model to automate simpler tasks. (In fact, companies like
+Uber
+and
+Airbnb
+are doing exactly that!)
+It’s not clear whether open-source AI is good enough to meet the challenge, though. For instance, one executive at a major customer of
+OpenAI
+and
+Anthropic
+told me that they’ve been trying to use open-source models like
+Moonshot AI’s Kimi K2.6
+and
+DeepSeek V4
+. But while these models have performed well on benchmarks and are good at answering more surface-level questions in a variety of areas, they tend to struggle with follow-up questions or deeper lines of questioning, this executive said.
+For instance, you could imagine a model doing well on a popular brainteaser but then struggling if you tweak a few assumptions or details in the brainteaser.
+Of course, this is just one developer’s experience, and usage of open-source models does seem to be growing overall, based on
+data
+from inference provider
+OpenRouter
+.
+But other data suggests that the performance gap between open- and closed-source AI is widening, such as the
+analysis here
+from the
+National Institute of Standards and Technology
+. NIST’s analysis determined that the capabilities of DeepSeek V4, which was released in April, lag behind frontier models by about eight months. In comparison,
+DeepSeek R1
+, which was released in January 2025, lagged behind frontier models by around three to four months, according to the NIST analysis.
+The executive I spoke with had a few ideas why the open-source models they were using tended to struggle on deeper or more detailed questions.
+One possibility is that the models’ training datasets had limited coverage, meaning that they didn’t include enough examples of the full range of situations the models were expected to handle, the exec said.
+For instance, the model could have been trained on the public web, which contains lots of intro-level blog posts explaining various topics, like ways to train a model. The web, however, does not contain more complex examples of what to do when those model training techniques go wrong.
+Additionally, the open-source models may have been trained with a lot of data produced by closed-source models like OpenAI’s
+GPT
+and Anthropic's
+Claude
+, a process known as
+distillation
+, the executive said. (OpenAI has
+previously accused Chinese AI developers
+of using distillation, and even well known AI CEOs like
+Elon Musk
+have
+admitted
+to developing their AI using distillation of other frontier models.)
+Distillation can be a cheap and quick way to improve the performance of a “dumber” model, but it can also backfire if researchers cut corners. You can think of bad distillation as telling a high schooler to memorize the answers to a physics exam: they might know enough to sound knowledgeable initially, but if you were to ask them any follow-up questions, their lack of knowledge would become apparent.
+The increasing costs of AI could offset these performance shortcomings, however. If closed-source models continue to get more expensive, developers may increasingly look for cheaper alternatives.
+And new tricks and workarounds like
+“ask-expert-mcp,”
+a special kind of software which allows a weaker or cheaper model to ask a stronger model for help when it gets stuck, could also help to make open-source models more usable.
+Here’s what else is going on…
+Court Watch
+Jurors
+rejected Elon Musk’s claims
+against
+OpenAI
+, delivering a major victory to CEO
+Sam Altman
+in Silicon Valley’s biggest grudge match. Judge
+Yvonne Gonzalez Rogers
+agreed with the jury’s decision.
+The jury found, and the judge agreed, that
+Musk
+waited too long to bring his lawsuit. OpenAI’s lawyers had argued that Musk already knew—or could have found out—about the actions he claims were unjust by the time he posted on X in 2020 that “OpenAI is essentially captured by Microsoft.”
+People on the Move
+Meta
+plans to detail cuts
+on Wednesday to about a tenth of its nearly 78,000 employees. As company leaders worked on those plans, many of them “incorporated AI native design principles into their new org structures,”
+Janelle Gale
+, Meta’s top human resources official, said in a staff memo about the changes reviewed by The Information.
+Overheard
+Shares in
+Seagate Technology
+, which makes hard disk drives for data storage,
+fell 7% Monday
+after CEO
+William Mosley
+suggested the company was more focused on increasing capacity on its individual hard drives than “building new factories or bringing up new machines that would just take too long.”
+Building more factories would divert resources away from those technological innovations, potentially slowing their rate of growth, Mosley said, responding to a question at a J.P. Morgan conference Monday. Seagate’s customers have been experiencing long wait times for its hard disk drives, sometimes more than a year, as demand for that hardware surges amid the artificial intelligence boom.
+Policy Watch
+Chinese personal computer and server maker
+Lenovo Group
+said in an internal memo to staff last week that there
+have been no new licenses
+or policies regarding
+Nvidia’s H200
+chips since March, when Washington approved the sales of the chips to some Chinese companies.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Anthropic
+announced on Monday that it has
+acquired developer tools startup Stainless
+, confirming an earlier
+report
+from The Information. The model maker did not disclose any terms of the deal, but The Information had previously reported it was in talks to acquire
+Stainless
+for at least $300 million.
+Tenstorrent
+, an AI chip startup, is drawing early acquisition interest from Intel and
+Qualcomm
+at a potential valuation of more than $5 billion, Bloomberg reported.
+Chipmaker
+Analog Devices
+is in advanced talks to buy startup
+Empower Semiconductor
+for about $1.5 billion, in a deal that reflects demand for technology that can manage the intense energy needs of AI chips, The Information
+reported
+Monday.
+Decart
+, which provides software for optimizing AI models to run efficiently on different types of computer chips, raised $300 million at a valuation of nearly $4 billion in a funding round led by
+Radical Ventures
+.
+Sigma Computing
+, which provides software and AI agents for data analytics, raised $80 million in a Series E funding round at a $3 billion valuation led by
+Princeville Capital
+.
+Viktor
+, an AI coworker that works out of Slack and Microsoft Teams, raised a $75 million Series A round led by
+Accel
+.
+Scope
+, which develops AI for the testing, inspection and certification industry, raised $20 million in funding led by
+Index Ventures
+.
+Nof1
+, a New York City-based AI research lab focused on financial markets, raised $15 million led by
+SUI Group
+and
+Karatage Opportunities
+.
+Kin Health
+, a Los Angeles-based AI notetaking app designed to be used by patients during doctor appointments, raised $9 million in seed funding led by
+Maveron
+.
+Google
+and
+Blackstone
+are
+creating a cloud computing company
+that will rent out Google’s
+tensor processing units
+to artificial intelligence developers.
+Model developer
+Cohere
+has acquired
+Reliant AI
+, a Montreal and Berlin-based biopharma AI company.
+NTT DATA
+, a global IT services company, agreed to acquire
+WinWire
+, which builds agentic AI systems on
+Microsoft's Azure
+cloud platform.
+XAI
+offered $420 to employees for their tax returns earlier this year to use as training data for
+Grok
+, Bloomberg reported.
+Pope Leo
+will launch his first encyclical on AI next week accompanied by
+Anthropic
+co-founder
+Chris Olah
+, Bloomberg reported.
+Cursor
+released
+Composer 2.5
+, its own coding agent, which it said achieves similar performance to models from
+Anthropic
+and
+OpenAI
+on coding tasks at a lower cost.
+Anthropic
+agreed to brief members of the
+Financial Stability
+Board
+, an international group of central bankers and regulators, on cybersecurity vulnerabilities in the global banking system, the Financial Times reported.
+Odyssey
+, a world model developer, announced
+Starchild-1
+, a model that can generate synchronized audio and video in real time, and
+Agora-1
+, a model that allows multiple humans and AI agents to share the same generated world at the same time."
+Amazon’s Nvidia Alternative Starts Winning Over AI Developers,2026-05-19T13:00:55Z,Catherine Perloff,https://www.theinformation.com/articles/amazons-nvidia-alternative-starts-winning-ai-developers,"Amazon’s yearslong effort to build a serious alternative to Nvidia’s dominant AI chips is starting to gain traction.
+Anthropic and OpenAI, which have struck multibillion-dollar investment and infrastructure deals with Amazon, have already committed to renting large amounts of current and future Trainium capacity. Now, recent software improvements are prompting smaller developers to consider moving more workloads to Trainium, half a dozen people who use or work with the chips said.
+That includes Daniel Svonava, CEO of Superlinked
+,
+an infrastructure firm that helps companies run AI models on rented infrastructure. He said Amazon’s pitch on Trainium, including potential cost savings by switching to the chip, only recently started becoming more compelling.
+“Our response has always been the lack of software support being a barrier,” Svonava said. “That’s the thing that changed in the last couple months. That barrier has been removed.”
+The scarcity of Nvidia chips has also made Amazon’s pitch more attractive, with sales reps telling the startup they have limited availability on the latest graphics processing units. At the same time, Amazon has indicated it has more Trainium capacity available and is willing to be flexible on price, he said. Amazon has given Superlinked $200,000 worth of AWS credits, which it is using to test Trainium.
+Bojan Jakimovski, machine-learning lead at Loka, which helps businesses train their own AI models, said interest in Trainium started spiking in the past couple of months in part because of issues securing Nvidia GPUs. With Trainium, clients know “they will have a reserved spot when they need to develop,” Jakimovski said.
+One Loka client switched its inference workloads to second-generation Trainium chips earlier this year after tests showed doing so could cut costs up to 35% compared with Nvidia’s H100, Jakimovski said. For training a large language model, though, he would still recommend Nvidia.
+The new interest comes as Amazon is betting that Trainium can improve the economics of its AI cloud business. In a
+January interview with The Information
+, CEO Andy Jassy said that while Amazon plans to continue buying Nvidia chips, “if you’re building a big inference business” that charges less and has sustainable margins, “you’re strategically disadvantaged if you don’t have your own custom silicon.”
+Last month, Jassy said Amazon’s custom silicon business, including Trainium and Graviton, has reached a more than $20 billion annualized run rate, or roughly $50 billion if measured as a stand-alone chip seller. That $20 billion reflects revenue from customers using Trainium and Graviton directly through Amazon’s EC2 service, an Amazon spokesperson said. It excludes offerings such as Amazon’s Bedrock, which lets customers access AI models, and internal Amazon workloads.
+“Customers are choosing Trainium because of years of architectural decisions that compound at scale: a chip designed in partnership with leading AI labs to be more efficient in how it computes, communicates and operates,” the spokesperson said. “Today, Trainium2 is being chosen by the leading AI labs in the world for their most demanding workloads, and Trainium3 delivers a 30 to 40 percent price performance improvement over Trainium 2.”
+The Anthropic Test
+Getting to this point took years of software work and close collaboration with Anthropic. Nvidia’s advantage was as much in software as in hardware—developers had spent years building around Cuda, while Amazon had to make its Trainium software, called Neuron, easy enough to justify switching.
+Amazon announced Trainium in 2020 through its Annapurna Labs unit, initially pitching it as a cheaper way to train machine-learning models on AWS. When the first-generation chips launched, early internal users included Amazon’s search teams, which helped shape the chip’s development, according to someone with knowledge of the matter.
+But when Amazon staff began ramping up generative AI products in late 2022, some teams did not use Trainium broadly, and Amazon’s Nova large language models were first trained on Nvidia GPUs, according to a former employee.
+Amazon announced in 2023 that Anthropic would use Trainium and Inferentia to train and run future models, and by the following year had committed $8 billion to Anthropic. The two companies also teamed up to make Trainium faster and more efficient.
+Anthropic and Amazon engineers worked closely to optimize Trainium for Anthropic’s models, talking frequently, according to Carlos Escapa, a former AWS executive who worked on selling Anthropic models
+.
+Anthropic and Amazon made software improvements that could also benefit other customers.
+“The collaboration between Anthropic and AWS on the NKI [Neuron Kernel Interface] has been very, very deep,” Escapa said, referring to Amazon software that lets developers fine-tune how models run on Trainium chips. “And some of these features that have been developed for Anthropic have also become very useful for other companies.”
+Some of the work involved software changes that helped Trainium perform more processes simultaneously, Escapa said. Anthropic co-founder Tom Brown has publicly described the broader effort as “a game of Tetris,” where a tight chip architecture makes models cheaper and faster.
+By the end of 2024, Amazon had launched its second-generation Trainium chip broadly and announced Project Rainier, a large Trainium cluster for Anthropic. Inside Amazon, Trainium use began picking up in some areas, with Nova starting to use Trainium in 2024 and ramping up since then with pretraining in particular, a former employee said.
+Bedrock, which offers access to Anthropic and other models, initially relied on GPUs, according to two people with knowledge of the product. One of the people said some Bedrock workloads in 2024 required roughly twice as many Trainium chips as Nvidia chips to handle the same workload.
+Some members of the Trainium team were frustrated that the Bedrock team was not adopting Trainium faster, one of the people said, but over time, Bedrock staff became more convinced that the chips were competitive.
+Amazon said it prioritized limited Trainium capacity for external customers such as Anthropic as demand accelerated. The company also said Bedrock used Trainium for models and tasks where the chips offered better cost and performance, while relying on GPUs for other models to keep Bedrock’s selection broad.
+As the software matured, Amazon said, more Bedrock workloads moved to Trainium, which now runs the majority of Bedrock inference across more than 125,000 customers. Amazon also said it is planning to train its largest internal models on Trainium going forward.
+Software Catch-Up
+Outside Amazon, developers had their own frustrations with Trainium. Julien Simon, an AI operating partner at a private equity firm
+,
+first ran into issues while working at Hugging Face, where he spent three years. Hugging Face had worked with Trainium chips, and Amazon was sometimes slow to support newer models on the startup’s open-source platform, Simon said.
+“You would reach out to [Amazon] saying, ‘We need you to support this slightly newer model that came out on Hugging Face last week,’ and the answer would be, ‘Yeah, maybe in six months,’” Simon said. Amazon says such delays were addressed with later open-source software integrations, and a current product director at Hugging Face, Jeff Boudier, said the company has been happy with the relationship.
+Simon said he ran into similar issues at open-source AI developer Arcee, where from mid-2024 to mid-2025 he tried training and deploying models on Trainium chips. “Anything that works out of the box on [Nvidia’s software] requires custom engineering and custom development and back-and-forth with the Amazon teams,” he said.
+Arcee’s CEO, Mark McQuade, said the company stopped trying to use first-generation Trainium chips in early 2025 and hasn’t tried newer versions.
+Trainium also initially struggled with some capabilities, including support for dynamic shapes, which help models handle inputs that vary in size or format. Without that support, developers had to do more manual work to adapt models for different requests, said Jakimovski, who started testing the technology in late 2024.
+Kevin Gomes, a graduate student at Cornell University conducting AI research with Trainium, said he also found the chips difficult to use at first because the documentation was lacking. “It’s not very well documented, so you have no idea how to fix it,” Gomes said.
+In recent months, however, several customers said Amazon has made Trainium much easier to use by improving documentation and support and making the chips work better with popular open-source tools.
+That included a native PyTorch integration Amazon unveiled in December, an important step because PyTorch is many developers’ default programming platform and has long worked best with Nvidia. Before the integration, developers often had to write code in PyTorch and adapt it to Amazon’s Neuron software.
+Amazon also fixed Trainium’s dynamic shapes issue and made its software easier to customize, helping models run faster, Jakimovski said. “They started to listen to developers,” he said. “I didn’t have that feeling two years ago.”
+The Next Test
+In February, Amazon said OpenAI would take around 2 gigawatts of Trainium capacity, including Trainium3 and the upcoming Trainium4, alongside an initial $15 billion Amazon investment.
+Amazon has also paired Trainium with Cerebras, another OpenAI chip partner. OpenAI announced in January that it would use Cerebras systems for 750 megawatts of high-speed inference compute. Two months later, Amazon said it would deploy Cerebras systems in AWS data centers alongside Trainium to deliver faster inference through Bedrock.
+Amazon later expanded its Anthropic partnership, with Anthropic committing to spend more than $100 billion on AWS over the next decade, including on Trainium capacity. Amazon also said it would invest another $5 billion in Anthropic, with up to $20 billion more tied to future milestones.
+Late last month, Amazon said Trainium2 is largely sold out, Trainium3 is nearly fully subscribed and much of Trainium4, which is about 18 months from broad availability, is reserved. The Amazon spokesperson said Trainium’s customer base “extends well beyond OpenAI and Anthropic,” citing examples including Uber and Decart.
+Still, Amazon has not detailed how much of that demand comes from a small number of large customers, and it’s unclear how much of a market exists beyond those AI giants and Amazon’s own services. Many AI-heavy companies buy model access through application programming interfaces or Amazon’s Bedrock instead of renting chips directly, Svonava said, and most companies don’t want to actively evaluate the underlying chips.
+Trainium also hasn’t fully displaced Nvidia inside Amazon. Some of the models underpinning Amazon’s shopping AI still use Nvidia chips exclusively, someone with direct knowledge of the product said. Anthropic is still securing Nvidia capacity too, recently announcing a deal with SpaceX to access more than 220,000 Nvidia chips within the coming month."

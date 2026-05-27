@@ -1,0 +1,321 @@
+﻿标题,时间,作者,链接,内容
+Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI,2026-05-27T01:04:25Z,Amir Efrati,https://www.theinformation.com/newsletters/the-briefing/anthropic-likely-generating-least-35-revenue-openai,"On New Year’s Day, OpenAI leaders would have been happy to hear that the company’s monthly revenue would rise more than 50% over the first five months of 2026, roughly in line with the projections it previously shared with investors. But they’re not likely to feel that way now: That pace looks downright tame compared to that of Anthropic, whose revenue grew five times in the same period, leapfrogging OpenAI’s.
+Anthropic was recently generating revenue at an annualized rate of close to $45 billion. OpenAI’s current run rate couldn’t be learned but it recently crossed $30 billion, and one person familiar with the numbers said it isn’t much higher now. If we estimate their annualized rate now is around $33 billion, that would mean Anthropic’s revenue is about 35% higher. And things aren’t likely to change anytime soon if OpenAI’s growth rate doesn’t accelerate materially.
+The competitive dynamic between the two firms is a dramatic reversal from the end of last year, when Anthropic was generating $9 billion in annualized sales—less than half what OpenAI was generating at the time, mostly from ChatGPT subscriptions. Since then, Anthropic’s revenue has grown five times while OpenAI’s rose more than 50%, based on our estimate. To put Anthropic’s revenue into perspective, the company is well on its way to surpassing companies such as Netflix, SAP and Salesforce by revenue over the next year.
+OpenAI’s smaller revenue and relatively slow growth compared to Anthropic could pose a challenge for its planned initial public offering, especially if Anthropic manages to file its own IPO paperwork and go public first.
+While OpenAI primarily generates revenue from chatbot subscriptions and Anthropic makes the bulk of its money from selling access to its AI for coding and other white-collar tasks, both companies still compete head-to-head in both markets. That means public investors will closely compare them.
+The difference in operational efficiency between the two companies is likely even more dramatic: Anthropic has projected a $559 operating profit in the second quarter, with an operating margin of about 5%, based on our analysis of its figures. OpenAI is likely to lose money in the current period: In the first quarter, it had a negative operating margin of 122%,
+The Information reported
+, and that was even excluding substantial items such as stock-based compensation. That implies it lost at least $7 billion in the quarter.
+OpenAI’s projected second-quarter results couldn’t be learned. And to be sure, Anthropic could go back into the red as it boosts spending on servers to keep up with its revenue growth. (If you’re wondering how Anthropic suddenly made a profit,
+see this article on customers being willing to eat Anthropic’s effective price hikes
+.)
+But given OpenAI’s recent growth rate and substantially higher headcount costs than Anthropic’s, it is likely to stay unprofitable for a while.
+OpenAI subsidizes the cost of running a consumer chatbot for hundreds of millions of nonpaying users, which is currently dragging down its results. It plans to
+monetize those users through ads
+, which it recently launched and which will undoubtedly improve its margins.
+An OpenAI projection earlier this year said the company would
+burn $25 billion this year
+, in large part due to its hefty AI server rental cost of $32 billion for developing new AI models and products. It isn’t clear whether it still plans to spend that much, and it has recently pulled back on some server-heavy efforts such as AI video model Sora.
+The two companies’ revenues differ in some ways. Anthropic counts the total sales of its models by other cloud providers, including the share of revenue it hands back to those providers as part of their agreements with Anthropic. The company likely would also
+share billions of dollars
+in revenue with its cloud partners.
+OpenAI, meanwhile, owes 20% of its total revenue to Microsoft through 2030. That could amount to $6 billion if OpenAI generates the $30 billion in revenue it previously projected for this year.
+OpenAI Chief Financial Officer Sarah Friar
+previously was concerned about CEO Sam Altman’s rush to take the company public
+. Given what’s happened in the past two months, going public ahead of a financially stronger Anthropic seems like the financially prudent thing to do.
+In Other News
+• Dropbox founder and CEO Drew Houston said he plans to step down as CEO. Dropbox executive Ashraf Alkarmi will become co-CEO with him during a transition period, after which Houston will become executive chairman.
+• ServiceNow Chief Marketing Officer Colin Fleming said Tuesday that he is leaving the IT services software giant for OpenAI, where he will assume the role of CMO for its business segment.
+• American Airlines plans to start adding SpaceX’s Starlink satellite internet service to around half of its main aircraft fleet beginning early next year.
+• Nathan Allman, 32, the founder and CEO of Ondo Finance, the biggest tokenized stock provider, has died unexpectedly, the company said."
+Boom Times for Inference Providers?,2026-05-27T00:31:01Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/dealmaker/boom-times-inference-providers,"Less than a year ago, our reporters kept hearing doubts about a group of startups called inference providers. Companies like Fireworks, Baseten and Together AI, which rent out Nvidia servers to app developers and help them customize open-source models, had grown quickly but seemed at risk of getting steamrolled by major cloud providers that could build these capabilities in-house.
+Those traditional cloud providers also have the advantage of owning the AI chips servers they rent out; inference firms, in contrast, generally rent the chips from those traditional providers and then turn around and rent them out to their customers. That dynamic has dragged down the
+gross profit margins
+of some inference providers in the past.
+While the current margins of the inference startups couldn’t be learned, they clearly have customer demand and cash—including sometimes from heavyweight Nvidia—on their side. As Stephanie and Katie reported Tuesday,
+Baseten has been discussing raising $1 billion at a valuation of $11 billion
+, or more than double its last valuation. The Nvidia-backed company had even higher offers, which would value it up to $15 billion, but decided to stick with the investors who are backing the startup at the lower valuation.
+Modal, a smaller inference startup
+, recently experienced a similar jump in valuation. And Fireworks AI is in talks to triple its valuation, to $15 billion, Bloomberg reported Tuesday.
+Piquing investor interest is red-hot revenue growth at these startups, as the table below shows. Baseten’s revenue tripled in the three months ending in March, to $600 million, and is up 20 times year over year. Modal’s revenue has jumped five times from last fall, to more than $300 million. The biggest of the pack is Together. It was generating about $1 billion in annualized revenue when we broke the news in March that it was raising
+at a $8.5 billion post-money valuation
+.
+But as rental prices for AI chips surge and traditional cloud providers like Microsoft
+save more chips for mega-customers like Anthropic
+, the margin squeeze on inference providers could become a bigger concern. Investors expect the inference startups to counter that pressure by expanding to other product offerings for which they can charge a premium.
+Some of these startups have already started doing that. Baseten, for instance, has used tech from its acquisition of the startup Parsed to help its customers use their own data to help them fine-tune models, according to a person with direct knowledge of the company.
+At Modal, some of its growth is related to its so-called sandbox product, which lets developers run AI agents and code without affecting the rest of their computer and codebase.
+“The cloud providers are very good at offering capacity all over the world at a decent price,” said Modal’s founder and CEO Erik Bernhardsson
+on The Information’s new streaming show, TITV,
+Tuesday. “What they’re often not that good at is, in my opinion, delivering good developer experience and delivering a software product that makes it possible to iterate quickly.”
+Bernhardsson said the company is now on the hunt to buy startups that can help it build that infrastructure layer, say in reinforcement learning, a technique that rewards a model for accomplishing certain goals and penalizes it for other behaviors.
+Unlike Together, which has
+made moves to buy and run its own Nvidia servers
+, Modal won’t use its new capital to buy chips: “Being pure software enables us to grow very quickly and move very fast,” Bernhardsson said.
+(This story has been updated with details of Fireworks’ new funding talks.)
+Today on TITV
+Watch reporter Ann Gehan discuss OpenAI’s evolving ad strategy."
+AI Inference Provider Baseten in Talks to Raise $1 Billion at $11 Billion Valuation,2026-05-26T22:09:31Z,Katie Roof,https://www.theinformation.com/articles/ai-inference-provider-baseten-talks-raise-1-billion-11-billion-valuation,"AI startup Baseten has recently been in talks with investors to raise $1 billion at an $11 billion valuation including the money, according to a person with knowledge of the fundraise. That would more than double the company’s $5 billion valuation from its last round, which was announced just three months ago.
+The fundraising comes on the back of strong revenue growth for the startup, which rents out Nvidia AI servers to application developers and helps them train, customize and run primarily open-source AI models.
+By the end of the first quarter, Baseten’s annualized revenue—typically a measure of the past month’s revenue multiplied by 12—rose to around $600 million from $200 million at the start of the quarter, the person with knowledge said. That’s 20 times the
+annualized revenue it was generating
+in March 2025. The growth encouraged some investors to make offers valuing it close to $15 billion, the person said.
+An explosion in the number of applications built with open-source AI models has boosted Baseten and its peers, otherwise known as inference providers. Baseten competitor Modal recently
+raised
+at a $4.65 billion valuation after seeing its annualized revenue balloon to $300 million, while Together AI
+raised at a $7.5 billion valuation
+earlier this spring after surpassing $1 billion in annualized revenue.
+San Francisco–based Baseten has also benefited from its
+December acquisition of Parsed
+, a startup that helps companies with the process of customizing open-source models for niche tasks, said the person with knowledge of the fundraise.
+Baseten charges its customers on a usage basis, depending either on how much they use the open-source models available through its application programming interfaces or on the number of minutes or hours they use its AI chips.
+Although Baseten and other inference providers have seen strong revenue growth in recent months, they risk getting squeezed in other parts of their business. Demand for chips from the biggest AI developers, such as OpenAI and Anthropic, has
+driven up spot prices for graphics processing units
+. Their scarcity could shrink the margins of companies like Baseten, which rent the GPUs from larger cloud providers before leasing them out to developers.
+One factor that could limit inference providers’ growth: most established businesses prefer using closed-source models from Anthropic and OpenAI.
+Baseten, founded in 2019, has previously raised $585 million in funding from investors including Nvidia, CapitalG, IVP and Spark Capital."
+Uber COO Says AI Lacks ROI,2026-05-26T20:01:54Z,Kevin McLaughlin,https://www.theinformation.com/newsletters/applied-ai/uber-coo-says-ai-lacks-roi,"Many corporate leaders say they’re getting value from AI as their spending on it skyrockets, but hype is outpacing reality in plenty of cases.
+On a
+podcast
+over the weekend, for instance, Uber Chief Operating Officer Andrew Macdonald said the ride-hailing company isn’t seeing a clear increase in productivity from using AI coding services despite their use by its engineering teams. That has prompted executives to discuss how to get a handle on token consumption costs, he said.
+“If you‘re not actually able to draw a direct line to how much useful features and functionality you’re shipping to your users, [the costs become] harder to justify,” Macdonald said on the podcast.
+It’s the latest sign that Uber is having a rocky transition to AI-powered coding. Last month, Chief Technology Officer Praveen Neppalli Naga
+told us
+his company’s surging usage of products like Claude Code had caused it to blow through its entire AI budget just a few months into the year.
+Uber isn’t alone. Many other firms are struggling to navigate Anthropic’s shift to
+charging customers based on token consumption
+, which has made it harder for them to gauge costs in advance. For now, customers are
+eating the higher costs
+, ROI be damned.
+Other AI projects outside coding have simply fallen flat or created unintended consequences.
+Take Pizza Hut, which in 2023 and 2024 launched an AI-powered ordering system, Dragontail, that was supposed to speed up deliveries for its restaurants in the northeastern U.S. Instead, Dragontail led to much longer delivery times and thus more frustrated customers, according to a lawsuit filed by a Pizza Hut franchisee that runs more than 100 of the company’s restaurants in the northeast U.S.
+The franchisee is seeking $100 million in damages on the grounds that Pizza Hut forced it to use the system. After Pizza Hut rolled out Dragontail, the system allowed DoorDash’s delivery staff to see operational details they weren’t previously privy to, like the status of pizzas as they were being cooked and whether a customer had left a tip, according to the filing.
+Armed with this knowledge, DoorDash delivery staff would wait for multiple orders to be ready instead of delivering pizzas as they came out of the oven, as they had previously done. In other cases, delivery staff would decline to deliver orders to customers who hadn’t tipped. The result was that some customers received cold pizzas and left negative reviews, according to the filing.
+Meanwhile, Starbucks, which nine months ago launched an AI-powered inventory tool that employees used to automate the counting of milk and beverages in stores, has scrapped the tool after finding it would often miscount and inaccurately identify items, Reuters
+reported
+. Starbucks reportedly spent years developing the tool and saw it as a way to help the company get a better handle on its supply chain operations and deal with frequent product outages.
+Starbucks, in a statement via email, said it has “moved to a single, consistent process” for counting inventory and that the change “reflects being disciplined about where automation adds value.”
+“We test ideas in our coffeehouses, listen closely to partner feedback, and make changes to deliver a better, more consistent experience,” a Starbucks spokesperson said in a statement via email.
+Some AI providers have struggled to turn their marketing of AI products into reality. Salesforce, for instance, last year featured Williams Sonoma using Agentforce to run a customer support phone line, and Finnair (a Finnish airline) using the product to help customers rebook flights, but the companies
+told Bloomberg
+last week that they aren’t able to use the software that way.
+The Information previously reported in detail that Salesforce has
+backtracked from earlier claims
+about the relative ease of setting up AI inside enterprises, and the company has reported better financial results with Agentforce since then."
+OpenAI’s PR Challenge,2026-05-26T14:01:08Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/openais-pr-challenge,"The battle between
+OpenAI
+,
+Anthropic
+and
+Google
+spans revenue, models, server access and research talent. But as OpenAI and Anthropic barrel toward initial public offerings, public perception is also an important factor in the race as political backlash to the industry grows.
+OpenAI seems particularly vulnerable in PR after a series of awkward or embarrassing moments for its executives in the limelight. The challenge of managing such execs might help explain why the company hasn’t had a communications chief since the prior one,
+Hannah Wong
+, left in December.
+OpenAI has spoken with multiple comms executives about the role but hasn’t pulled the trigger. The company has talked to
+Jill Hazelbaker
+,
+Uber’s
+president and chief corporate affairs officer;
+Sarah O’Brien
+, who runs communications for ex-
+Apple
+design chief
+Jony Ive
+; and ex-
+Square
+comms exec
+Aaron Zamost
+, among others, people with knowledge of the search said.
+Some candidates have told OpenAI representatives that the job is inherently challenging because CEO
+Sam Altman
+and other executives have a long leash in speaking publicly, said people who have spoken to them. Altman in particular makes a lot of appearances and appears to set his own agenda, they said.
+For now,
+Kelly Sims
+, a marketing and communications partner at
+Thrive Capital
+, a large OpenAI shareholder, has come onboard to temporarily help with communications under OpenAI Chief Global Affairs Officer
+Chris Lehane
+until the company can find a permanent replacement, according to a person with knowledge of the move.
+OpenAI has been the face of AI due to the success of
+ChatGPT
+. That means it gets praised for productivity improvements and aiding drug discovery but also receives all of AI’s negative associations (job loss, environmental impact, energy prices, general fears of AI taking over the world).
+Altman and other executives have been regulars on the podcast, TV and Capitol Hill circuits for years, but Altman hasn’t always been relatable in a moment of growing public fears or unease with the technology. He joked during an interview with
+Jimmy Fallon
+in December that he couldn’t imagine taking care of a newborn without AI. In February, when Altman was asked at a major AI summit in India about AI’s high energy consumption, which may have impacted consumer electricity prices in various parts of the country, he said it also takes a lot of energy to “train a human.”
+He didn’t seem prepared for a contentious interview with
+Tucker Carlson
+in September, when he said that 1,500 people a week could be discussing suicide with ChatGPT and faced a barrage of questioning from Carlson about his involvement in the death of OpenAI whistleblower
+Suchir Balaji
+.
+Meanwhile, some of OpenAI’s other comms-related decisions have left people scratching their heads. For instance, it acquired popular daily tech podcast
+TBPN
+in April for hundreds of millions of dollars, according to the Financial Times. Execs at OpenAI
+believed
+that TBPN would be able to better communicate publicly about the benefits of its products.
+It’s true that TBPN does seem to share many of the pro-tech, pro-AI sentiments OpenAI does while still being generally well-liked by people who know of the show. But it’s not clear how much reach TBPN can get outside Silicon Valley or hardcore technology circles, and it’s the general public (or its representatives) that OpenAI needs help winning over, not tech insiders!
+There are signs OpenAI might be turning things around, at least in its race with Anthropic to win the hearts and minds of software developer customers. In recent months, developers have complained about the
+high costs
+and
+restrictive usage limits
+for Anthropic models, as the
+Claude
+maker has faced a tight
+compute crunch
+. (It has more recently struck massive compute deals with
+SpaceX
+and other companies, which should help alleviate that pressure.)
+OpenAI took advantage of that developer frustration by frequently resetting usage limits for its
+Codex
+coding tool, as well as highlighting promotions like
+multiple free months of Codex for new users
+or Altman offering $2 million worth of OpenAI tokens to
+Y Combinator
+startups in exchange for equity in the startups.
+Aaron Tilley contributed to this newsletter.
+Here’s what else is going on…
+Pope Leo Releases AI Encyclical
+Catholic
+Pope Leo XIV
+on Monday
+weighed in
+on hot-button AI policy debates, publishing a treatise describing the church’s concerns about AI development and its current and potential societal harms. His post,
+Magnifica Humanitas
+(“Magnificent Humanity”), which runs more than 42,000 words, offers a blueprint for “safeguarding the human person in the time of artificial intelligence” and lends credence to activists who believe governments should be more involved in the process.
+It is the Pope’s first encyclical, a major statement clarifying the Church’s teachings for Catholics.
+Anthropic
+appeared to have some influence on the proceedings. Co-founder
+Chris Olah
+, who was invited to an event in Rome, said human labor displacement was a “real possibility” at a “very large scale,” CBC reported. “If that happens, supporting those displaced will be ⁠a moral imperative of historic proportions,” Olah said, according to the report.
+Policy Watch
+The White House
+postponed
+a Thursday afternoon ceremony to sign an executive order, which was expected to establish a voluntary framework for AI companies to submit future advanced AI models to intelligence and other government agencies for review ahead of those models’ public release.
+The
+White House
+is also
+nearing a deal
+with
+Anthropic
+that allows the
+National Security Agency
+and other U.S. spy agencies to use the company’s advanced AI models for classified work, according to the New York Times.
+The
+Trump
+administration announced new immigration rules requiring most green card applicants to return to their home country to apply, which could create hurdles for tech companies seeking international hires.
+Overheard
+He Tingbo
+, a
+Huawei
+board director and the head of the company’s chip business,
+presented a new principle
+for semiconductor development, the
+Tau Scaling Law
+, during her keynote speech at a tech conference in Shanghai.
+She said Huawei will begin making chips with transistor density equivalent to a 1.4-nanometer node in 2031—three years behind
+TSMC
+, which has said it expects to mass-produce the same generation by 2028. The new roadmap shows Huawei is making faster progress than expected, despite U.S. export controls that have restricted China’s access to the most advanced equipment.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Hark
+, an AI lab founded by
+Figure
+CEO
+Brett Adcock
+, raised over $700 million in Series A funding round at a $6 billion post-money valuation led by
+Parkway Venture Capital
+.
+Modal
+, which provides cloud computing services for AI, raised $355 million in a Series C funding round at a post-money valuation of $4.65 billion led by
+General Catalyst
+and
+Redpoint Ventures
+. The Information first broke the round
+here
+.
+Farther
+, which uses AI to automate tasks for wealth management advisors who work with high net worth individuals, raised $150 million in a Series D funding round led by
+General Atlantic
+.
+Moment
+, which uses AI to automate tasks for wealth management firms and financial technology companies, raised $78 million in a Series C funding round led by
+Index Ventures
+.
+Quartermaster
+, which installs sensors on commercial ships to capture data, raised $43 million in a Series A funding round led by
+First Round Capital
+and
+Quiet Capital
+.
+August Robotics
+, which provides robots for construction and other industrial applications, raised $30 million in a Series B funding round led by
+Big Pi Ventures
+.
+Arc
+, a voice AI startup that takes orders and optimizes business performance at drive-thrus, raised $10.76 million seed funding led by
+Andreessen Horowitz
+.
+Stilta
+, which provides AI to help companies with patent enforcement, raised $10.5 million in a funding round led by
+Andreessen Horowitz
+.
+Anthropic
+and
+Blackstone’s
+joint venture acquired
+Fractional AI
+, a 2 year-old startup that helps companies adopt AI technology.
+Meta Platforms
+has quietly launched
+a new AI-powered app called
+Forum
+, part of a new push by the Facebook owner to launch a lot of new apps. The app lets users select topics they’re interested in and customize their feed by choosing which topics they want to see more or less of, according to its Apple App store listing.
+DeepSeek’s
+senior management has been telling potential investors in its ongoing funding round that the startup will prioritize research breakthroughs on the path to human-level AI over short-term commercialization, Bloomberg reported.
+Spotify
+and
+Universal Music Group
+reached a deal that will allow Spotify users to use AI to generate covers and remixes of songs."
+OpenAI Targets Smaller Advertisers With New ChatGPT Ads,2026-05-26T13:01:01Z,Ann Gehan,https://www.theinformation.com/articles/openais-next-ad-move-going-small-scale-big,"When OpenAI first launched ChatGPT ads earlier this year, it lined up well-known brands with big advertising budgets, like Adobe, Ford and Target. Now it’s expanding its advertising business with offerings that cater more to marketers at far smaller companies, putting it directly into competition with ad giant Meta Platforms.
+OpenAI executives have told some outside ad technology firms that one priority is courting small local businesses, such as car washes or dry cleaners, a person who spoke with them said. It’s also launching features more tailored to smaller advertisers in general, an agency executive said, including ads designed to prompt consumers to take action, like making a purchase, booking an appointment or submitting a contact form.
+With its recent moves, OpenAI is playing catch-up to some existing capabilities at ad giants like Meta and Google. OpenAI has told some advertisers that starting this week, it will let them test these ad formats, known as conversion-oriented ads, which marketers would only pay for if they get results, the agency executive said. To test the campaigns, advertisers will need to install OpenAI’s ad pixel, a piece of code on their websites that helps track what users do after clicking on an ad, they said.
+While pixels are a common piece of ad tech, they aren’t a surefire method for tracking, since browsers or ad blockers can sometimes block them. OpenAI is also encouraging advertisers to connect their internal systems with a recently launched application programming interface.  The API allows advertisers to send back details about actions people take on their own site, which helps OpenAI make the case that the ads drive results.
+Most major ad platforms have already launched APIs over the past few years as user privacy restrictions have limited the effectiveness of older tech like pixels.
+More generally, OpenAI has been meeting with outside ad tech firms to discuss how to work together, including helping advertisers better understand the context in which their ads will show up in chats, which could make them more comfortable trying a new type of ad. OpenAI ad executives spearheading meetings include Dave Dugan, who
+joined OpenAI
+in late March to lead ad sales, as well as Benji Shomair, Vijaye Raji and Asad Awan, a person who spoke with them said. All spent significant time at Meta earlier in their careers.
+The upcoming changes build on updates OpenAI
+rolled out in recent weeks
+, including cost-per-click ads. Initially, it sold ads only
+based on views
+, a model that is less attractive to many advertisers because it requires them to pay whether or not users engage with the ads.
+OpenAI has also signaled to agencies that it could cater to online merchants by linking product feeds with ad campaigns, another agency executive said. The company could repurpose work from its now-scrapped in-chat checkout feature, using merchant catalogs to show ads that are more relevant to ChatGPT conversations. A timeline for such a launch is unclear.
+Taken together, the changes could help OpenAI address
+early complaints
+that marketers lacked basic measurement tools to tell whether ChatGPT ads were working. That’s particularly important for small advertisers, which typically prioritize measurable outcomes over general brand awareness, and are a major source of revenue for Meta and Google.
+An OpenAI spokesperson said that over time, the company expects to support more ways for advertisers to optimize for the outcomes they care about most.
+Cutting Commitments
+Advertising is OpenAI’s big bet on generating more revenue from its 900 million weekly active users, most of whom use ChatGPT’s free tier. The company
+has told investors
+it expects ad revenue to total $2.4 billion this year, roughly quadruple in 2027 and hit $102 billion, more than 35% of its overall revenue, by 2030.
+Quickly growing ad revenue could bolster OpenAI’s appeal to investors as the company
+works with banks
+to prepare for an initial public offering as early as this year. But while Meta and Google have built massive ad businesses in part by being a go-to for smaller advertisers, it’s still an open question how quickly OpenAI can ramp up.
+When OpenAI launched its ads in early February, it lined up a pool of big advertisers through large ad agencies, with a minimum commitment of $200,000 for an initial trial. Six weeks later, it said advertising had
+hit a $100 million annualized revenue rate
+.
+Initially, OpenAI used its own sales team to work with early ChatGPT advertisers. It quickly broadened its reach by partnering with external firms like Criteo and StackAdapt, which are helping their own clients buy ChatGPT ads. These partners also provide capabilities OpenAI still lacks, such as technology to help match ads with relevant users.
+As OpenAI opens its doors to smaller advertisers, it’s also been dropping the requirement for up-front spending commitments. Earlier this month it started rolling out a self-service ad-buying portal in the U.S. that small and medium-size businesses can use as well as bigger brands, requiring no minimum spending, agency executives said, while many of the outside firms partnering on ChatGPT ads now also require no minimum spending.
+Some ad-buying firms say they’re already shifting to buying ads through outside firms instead of from OpenAI directly, in part because of the added capabilities those firms can provide.
+“When you think about partners that they’ve opened up to, this could go in a lot of different ways in terms of deeper data integrations or commerce experiences or rich creative,” said Deanna Cullen, vice president of media investment at Wpromote, which works with clients including Vuori and Aritzia.
+Financial details of OpenAI’s ad partnerships could not be learned, including whether OpenAI is paying for distribution or what kind of fees the ad buyers would be paying intermediaries. Even if OpenAI isn’t paying partners directly, the fees advertisers pay them could eat into the total budget that ultimately flows to OpenAI.
+It’s not unusual for tech companies to use outside ad tech partners as they expand. Soon after its 2012 IPO, Facebook launched a marketplace that let outside firms help their clients buy Facebook ads. The move brought in more advertiser demand while Facebook was still building out its own tools.
+For now, Cullen and other agency executives say clients are mainly still treating ChatGPT ads as an experiment and aren’t pulling from dedicated ad spending in other places. The early ads have been performing well so far, with strong click rates, but new ad networks typically
+see early performance taper off
+as they show more ads and the novelty for users seeing them tapers off.
+When it comes to getting features like product feeds for ads up and running, it’s not clear how much work OpenAI or merchants would still need to do. Product feeds would likely require standardized data like prices, availability and product descriptions to trigger the ads that are most relevant to chats. But that’s a complex task—OpenAI’s early in-chat shopping effort, which it stopped work on in March,
+was slow going
+, due in part to messy merchant data."

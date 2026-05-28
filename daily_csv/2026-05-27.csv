@@ -1,0 +1,242 @@
+﻿标题,时间,作者,链接,内容
+Snowflake Shows Some Immunity to the SaaSpocalypse,2026-05-28T00:36:21Z,Laura Bratton,https://www.theinformation.com/newsletters/the-briefing/snowflake-shows-immunity-saaspocalypse,"Shares of traditional software providers have been battered this year over AI fears. Investors’ reaction to Snowflake’s and Salesforce’s quarterly results Wednesday suggests some providers are in better shape than others.
+Snowflake shares jumped more than 35% to their highest point since December after the database provider
+said its most-watched sales metric grew 34%
+during its April quarter from a year-ago, beating the company’s own projection by seven percentage points.
+Snowflake CEO Sridhar Ramaswamy, on a call with analysts, said customers are increasingly using its AI coding agent and a product that lets customers search for and get data on their sales or other corporate metrics, tapping information that resides in Snowflake databases or in apps they use from Microsoft, Salesforce and SAP.
+Snowflake’s advantage appears to lie in not having a legacy enterprise app business like those of Salesforce, Workday and Intuit. In other words, Ramaswamy basically said that throwing AI on databases is a decent business, even if it has to rely on relatively pricey AI from providers like Anthropic and OpenAI to power Snowflake products. (Snowflake CFO Brian Robins said the company
+signed a deal to rent Amazon servers
+and access such AI at a cost that wouldn’t crimp its gross profit margins.)
+Salesforce, on the other hand, must bring along a huge group of app customers into the AI age.  The sales and customer-service software firm reported a 50% jump in annual recurring revenue from its suite of AI tools, namely Agentforce (which is also partly powered by models from other AI providers), to $1.2 billion in the April quarter from the previous period. That’s nothing to sneeze at, but it didn’t appear to boost its overall revenue much, nor did it change the trajectory of its revenue backlog.
+Current remaining performance obligations, a metric reflecting the value of customer contracts it hasn’t yet recognized as revenue, grew 14% in the April quarter from the year-ago quarter, a slightly slower growth rate than in the January quarter. The update comes as
+customers begin to pressure their enterprise software providers
+to offer more favorable contract terms, because they are spending more on other AI tools.
+Just as notable was
+Salesforce lowering its projection of operating and free cash flows for the current fiscal year
+, which ends January next year, by five percentage points compared to what it projected just three months ago. The company said the decline was due to its recent issuance of $25 billion of debt so that it could repurchase its own stock.
+But Salesforce’s vote of confidence in itself hasn’t swayed anyone. Shares had fallen more than 30% for the year as of Wednesday’s market close, and shares dipped a fraction of a percent in after-hours trading.
+Salesforce was also vague about a key question regarding its AI strategy. Execs largely dodged a question from Goldman Sachs analyst Gabriela Borges about how Salesforce will charge customers for Headless 360, a new collection of tools that lets customers use AI agents such as Claude Code to access data they store in Salesforce apps.
+Salesforce president and chief revenue officer Miguel Milano said the company will “work together with our customers and with our partners to find…a fair way monetize” the new tools. The company said it will reveal more about its AI strategy during a webinar Friday.
+In Other News
+•
+Meta Platforms
+is launching paid subscriptions
+for its AI chatbot across Facebook, Instagram, and WhatsApp as it looks to monetize its investments in AI.
+• Federal prosecutors
+charged a Google employee
+with using confidential information to win $1.2 million betting on Polymarket, according to a Federal Court complaint unsealed on Wednesday.
+• Database firm Snowflake
+said it has committed to spending $6 billion
+on Amazon Web Services over the next few years, including using Amazon’s Graviton chips and AI infrastructure.
+• OpenAI’s foundation
+will grant $250 million in funding
+to promote research into the impact of artificial intelligence on the economy and jobs.
+• Amazon is
+marketing a new service to let other retailers
+take advantage of its AI shopping assistant technology,  called AWS Agentic Shopping Assistant."
+"Khosla Partner Choi, Growth Strategy Leader, Raising $500 Million Fund",2026-05-27T22:29:48Z,Katie Roof,https://www.theinformation.com/articles/khosla-partner-choi-led-growth-strategy-raising-500-million-fund,"Khosla Ventures partner Ethan Choi, a leader of the early-stage firm’s investments in mature startups like cloud provider Vercel, is leaving to launch a new venture firm.
+The new firm, called Atomus, is in the process of raising a new venture fund of at least $500 million, according to a person familiar with Choi’s plans. About half of the fund has already been raised, the person added.
+Choi joined Khosla in 2024 from Accel, where he spent six years. While at Khosla, he helped lead investments in several AI startups, including cloud provider Vercel, database management startup ClickHouse, search engine Glean and medical scribe Abridge.
+Choi joins a wave of partner departures at major venture firms in the last couple of years. These  sometimes have stemmed from disagreements over how to invest in the growing AI boom and how to deal with existing portfolio companies that haven’t successfully adapted to AI. In many cases, the partners have left to raise their own funds.
+Earlier this year Arif Janmohamed said he would step back from his partner position at Lightspeed Venture Partners, and he recently started his own firm. Last year, Anjney Midha, a general partner at Andreessen Horowitz who helped the firm’s startups gain access to graphics processing units,
+also stepped back to start his own firm
+.
+Khosla didn’t immediately respond for comment.
+Led by founder Vinod Khosla, the firm was one of the first investors in OpenAI and was an early investor in
+Instacart
+, Stripe and Doordash. In recent years,
+it’s joined other early-stage firms
+raising funds to enable it to make follow-on investments in more mature startups.
+Choi, who co-led the firm’s growth stage practice with founder Khosla, has also recently helped manage the firm’s relationship with OpenAI. In a March interview
+with The Information’s TITV streaming service
+, he dismissed concerns about the high compute costs at OpenAI and Anthropic.
+“We’re in the biggest technological shift, and wave and platform shift, the most important shift that has ever happened. It takes a lot of dollars and money and research to continue to increase the capabilities of the models and the product,” he said. “I don’t understand why so many people are fixated on both companies being profitable today.”
+Choi’s departure shifts the make-up of Khosla’s senior partners. Two years
+ago it rehired Airbnb investor Keith Rabois
+from Founders Fund. At times the partners have publicly disagreed, such as
+over the killing of a protester
+by federal agents in Minneapolis earlier this year."
+Meta Launches New Enterprise Push to Boost Business Adoption of Its AI Tools,2026-05-27T22:09:25Z,Jyoti Mann,https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools,"Meta Platforms
+plans to place engineers and product managers inside large corporate customers as part of a new unit at the social-media giant to push businesses to use its AI tools and services.
+In an internal memo, senior executive Naomi Gleit said the new organization, called Enterprise Solutions, will be made up of product managers who lead customer engagements, data engineers who prepare client data for use in Meta’s AI systems, and software engineers who integrate Meta’s tools directly into the systems customers use to run their operations. The move follows similar efforts by Google and others to employ technical consultants, often called forward-deployed engineers, to customize AI for business clients.
+“We have seen great success across the industry from companies who have put people with these backgrounds into companies to enable their tools, like AI and advanced data tools, to take off,” Gleit wrote in the memo, which was reviewed by The Information.
+Gleit’s memo, which was shared last week, didn’t spell out what specific products and services the enterprise team will promote. Meta’s business overwhelmingly focuses on serving ads to the billions of users of its apps, but CEO Mark Zuckerberg and other executives have spoken recently about expanding their business offerings as they seek to justify the company’s massive spending on AI infrastructure to investors.
+In another effort to monetize its huge investments in AI, Meta
+on Wednesday announced
+that it is testing new paid subscriptions for its AI chatbot in its Facebook, Instagram and WhatsApp services.
+Meta has been trying for at least a decade to build enterprise products, with limited success. In 2016 it launched a business-focused version of Facebook, called Workplace, intended to compete with Slack and Microsoft Teams. It
+announced two years ago
+it was closing the product. Meta also helps companies reach customers on its Messenger and WhatsApp messaging services, but that business remains relatively small. Last year, 98% of Meta’s revenue came from advertising.
+The Enterprise Solutions org will focus on helping enterprise clients successfully integrate Meta’s AI tools and “building repeatable playbooks and tooling along the way so the work can scale over time,” a Meta spokesperson said.
+The approach of the Enterprise Solutions team mirrors a trend among tech companies toward hiring forward deployed engineers who work closely with clients to integrate AI into their workflows. Google’s cloud chief, Thomas Kurian, said earlier this month that the company would
+form a new team of forward deployed engineers
+, following similar moves in recent months by companies including OpenAI, Anthropic and Nvidia.
+Meta announced the formation of the new enterprise solutions group in an internal memo last week, which also informed employees that it was
+moving more than 7,000 staffers
+to several new initiatives including that one. Meta last week also announced layoffs affecting about 8,000 workers.
+A ‘Critical Year’ for Meta’s AI Transformation
+The enterprise push comes as Meta is rethinking how its own employees use AI internally, and how that could inform potential products. Chief Technology Officer Andrew Bosworth outlined in a separate memo last month how Meta is reorganizing internal work around AI agents through an initiative called the Agent Transformation Accelerator.
+The initiative will consist of four teams designed to reorganize internal work around AI agents that increasingly perform tasks traditionally done by employees. Workers will shift from executing tasks to overseeing agents that carry them out, Bosworth said, adding that 2026 “is a critical year” for Meta’s transformation. “The tools we build and the ways of working we establish will define what Meta looks like in this AI era,” he wrote in the memo, also reviewed by The Information.
+Bosworth said the company’s current set of AI tools has become fragmented, with overlapping tools creating confusion and diluting impact, and that Meta is now working toward a more unified approach.
+He added that employees should use AI tools only when they meaningfully improve productivity, not simply to increase usage metrics, a practice known as “tokenmaxxing.”
+“Nobody should be using AI tools just for the sake of using them,” Bosworth wrote. “All motion is not progress and token usage alone is not a measure of impact of any kind. We will be using these tools because they’ll genuinely allow us to do better work, faster.”
+Tokenmaxxing is the term for employees trying to demonstrate their AI chops by burning as many AI tokens (units of data processed by large language models) as possible. As
+previously reported
+, some Meta employees have even tracked usage on internal leaderboards ranking AI power users based on token consumption, turning AI usage itself into a form of competition and status signaling inside the company."
+Pre-IPO Betting Boom Hits Prediction Markets,2026-05-27T15:18:35Z,Yueqi Yang,https://www.theinformation.com/newsletters/the-information-finance/pre-ipo-betting-boom-hits-prediction-markets,"Most everyday investors can’t buy shares of hot private companies like SpaceX and OpenAI before they go public. With potential mega-IPOs looming this year, prediction markets like Polymarket and Kalshi are turning that hype into tradable bets.
+Users are flocking to yes-or-no bets on milestones like valuations and IPO timelines, betting with contracts that trade in cents and pay out $1 if the buyer is right. That’s helping prediction markets tap into excitement around the IPOs and reduce their
+reliance on sports betting
+, which represents much of their business.
+But pushing deeper into financial bets could also test the limits of U.S. securities laws keeping many small investors out of private markets in the first place. Private companies make fewer disclosures than public ones, which is why most retail investors are limited in buying their shares before an IPO.
+The closer prediction-market contracts get to stock-like bets, the higher the chance the SEC will want to regulate them. The legal line is clearest when a bet explicitly references a stock price or other security.
+""Event contracts offered in the U.S. that directly reference securities and related information would trigger the SEC's jurisdiction,” and can only be offered to retail investors on national securities exchanges such as the NYSE, said Gabe Rosenberg, a partner advising financial institutions at Davis Polk.
+There’s more of a gray area around bets tied to events that could affect a company’s financial performance—such as the release of a new AI model or the number of launches SpaceX completes in a certain period. If those contracts start to look too much like stock wagers, they could fall under the SEC’s authority. That would be a problem for Kalshi and Polymarket’s U.S.-focused business, which both operate under the CFTC’s oversight as opposed to the SEC.
+“A lot depends on where that line is,” said Rosenberg, adding that the CFTC and the SEC will need to come to an agreement on what types of contracts fall under which regulator and provide specific guidance to prediction markets.
+That uncertainty is already showing up in the types of contracts prediction markets offer—and to whom. Polymarket offers a wide range of bets on private companies, but only to non-U.S. customers. Its popular pre-IPO bets include whether SpaceX’s market cap will top certain levels by the end of its first day of trading. That contract has drawn $3 million in trading volume, and currently indicates a 98% chance that SpaceX will close its first day of trading above a $1.2 trillion market cap.
+Polymarket is also offering offshore users bets on how private valuations will change for OpenAI and Anthropic, which are preparing for potential IPOs as soon as later this year. That includes wagers on what valuation each AI giant will reach by the end of June, and currently imply a 93% chance Anthropic hits or tops a $1 trillion valuation by then, compared with a 20% chance OpenAI reaches the same level.
+To settle those bets while the companies are still private, Polymarket has teamed up with Nasdaq Private Market, whose data on private share trades will determine which contracts pay out, the companies
+announced
+earlier this month. Polymarket also offers offshore bets on public companies’ earnings and share prices, such as whether Tesla will beat estimates on quarterly earnings or where its stock will trade in a given period.
+Polymarket’s U.S.-focused arm, meanwhile, doesn’t offer financial bets yet and is focused mainly on sports, weather and elections
+Kalshi, which caters to U.S. users, offers a limited lineup of contracts tied to private-market companies, including some bets related to OpenAI and SpaceX such as which months they will announce an IPO, but no wagers specifically tied to valuations. Kalshi also offers bets on Tesla’s vehicle deliveries, a closely-watched metric for investors, but not on earnings or stock prices themselves.
+Company-related predictions have become popular in part because they offer a relatively straightforward way to bet on a private company’s fortunes. Users can buy a contract tied to a specific event and deadline, hold it until resolution or sell before then. Crypto exchanges have also launched tokens designed to provide exposure to private companies without users actually owning the shares, but those tokens are more complicated behind the scenes. For instance, Bitget last month launched preSPAX tokens, which the exchange said are structured as a debt instrument meant to mirror SpaceX’s economic performance once public. Users bought up the first batch of preSPAX tokens at $650 each, and the price has since climbed to $903.
+For now, prediction markets are in favor under the Trump administration, suggesting they have leeway to test the regulatory boundaries of financial bets. CFTC Chair Michael Selig is
+racing
+to stop states from killing prediction markets. And the SEC doesn’t have much appetite for turf wars, agreeing earlier this year to collaborate with the CFTC. The president’s son, Donald Trump Jr., advises both Kalshi and Polymarket, and the venture firm in which he is a partner, 1789 Capital, has invested in Polymarket.
+Still, that hands-off approach to prediction markets may not last beyond this administration. “Where a future CFTC will go with these determinations, that’s very difficult to predict,” said Jon Ammons, a partner at Reed Smith who works on prediction markets issues."
+The Hot New Way to Communicate with AI? Whispering,2026-05-27T14:01:14Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/hot-new-way-communicate-ai-whispering,"If you wander into the Manhattan office of AI startup
+Basis
+on a workday, you’ll see most of its 100 or so staffers whispering quietly into gooseneck microphones at their desks.
+They aren’t taking phone calls or talking with other humans at all. They’re speaking softly to their AI agents and chatbots.
+Such whispering has become a common sight at firms working at the bleeding edge of the field.
+Speed is one reason.
+Typing commands to the agents is often slower than speaking to them, employees at Basis and other AI startups have found.
+That’s because the commands can be long. AI agents have limited memory compared to their human counterparts, so humans often need to remind the agents of lots of relevant facts, such as their company’s specific branding or the broader goal of a marketing campaign that the agents are executing
+,
+said
+Mitch Troyanovsky
+, co-founder of Basis, which develops AI agents for handling accounting tasks.
+People at his company have started braindumping out loud to the agents through microphones, doing everything from giving instructions to a coding agent like
+Codex
+or
+Claude Code
+to telling their
+OpenClaw
+-powered agent to send an email, Troyanovsky said.
+The microphones Basis uses are powerful enough to pick up whispers, which means dozens of employees can use them side by side without disturbing each other, he said.
+The gooseneck microphones are becoming hard to find; the ones Basis uses are sold out for another month on Amazon, according to the site.
+Image courtesy of Basis
+Talking to AI is more natural than typing at it, researchers at
+OpenAI
+and
+Thinking Machines Lab
+have argued, because humans primarily communicate through speech.
+Many popular AI agents and chatbots including Codex and Claude Code, already have a voice mode. OpenAI is working on a more
+natural-sounding voice AI model for its future personal AI device
+. And Thinking Machines earlier this month previewed a new kind of AI called an “interaction model” that can process video, audio and text, perceiving and responding simultaneously.
+After they’re widely released, these sorts of new models could accelerate the trend of people talking to their AI.
+Employees at companies such as Basis use voice dictation tools like
+Wispr Flow
+to transcribe their speech for any app. (Wispr Flow was one of
+The Information’s 50 Most Promising Startups
+last year and is currently in talks to raise a boatload of new funding, Bloomberg reported earlier this month.)
+If Thinking Machines’ interaction models take off, you could imagine the AI sitting in on corporate meetings and brainstorming sessions where it can analyze and respond to what employees are writing on whiteboards as well as what they’re saying to each other.
+Here’s what else is going on…
+People on the Move
+ServiceNow
+Chief Marketing Officer
+Colin Fleming
+said Tuesday that he is leaving the IT services software giant for
+OpenAI
+, where he will
+assume the role of CMO
+for its business segment.
+Big Number
+Micron’s
+stock price rose 19% Tuesday to reach a market capitalization of over $1 trillion for the first time after
+UBS
+predicted the stock could more than double over the next year due to soaring demand for its memory chips.
+Policy Watch
+The Department of Homeland Security
+and the
+FBI
+are increasingly surveilling anti-technology extremists, including protests against AI, according to documents obtained by Wired.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Fireworks AI
+, which helps businesses run AI models, is in talks to raise a new funding round that would value it at $15 billion co-led by
+Index Ventures
+, Bloomberg reported.
+Baseten
+, which rents out
+Nvidia
+AI servers to application developers and helps them train, customize and run primarily open-source AI models, has recently been in talks with investors to raise $1 billion at an $11 billion valuation including the money, The Information
+reported
+.
+OpenRouter
+, which provides an interface to give developers access to different AI models, raised $113 million in a Series B funding round led by
+CapitalG
+. The Information first broke the round
+here
+.
+Catena Labs
+, which provides AI banking software, raised $30 million in a Series A funding round led by
+Acrew Capital
+and
+a16z crypto
+.
+NavigateAI
+, a San Francisco-based AI platform for the construction and real estate industries, raised $25 million in funding led by
+Elad Gil
+.
+Perceptic
+, which uses AI for pharmaceutical drug development, raised $12 million in a seed funding round led by
+Accel
+, Fortune reported.
+Human Archive
+, which hires gig workers in India to record their actions using first-person cameras to sell training data to robotics companies, raised $8.2 million in a funding round from investors including
+Wing Venture Capital
+,
+NVP Capital
+and
+Y Combinator
+.
+Qualcomm
+reached a deal to supply AI chips to
+ByteDance
+, Bloomberg reported."
+"Polymarket Wants Traders to ID Themselves as It Faces Sanctions, Legal Risks",2026-05-27T13:00:33Z,Michael Roddan,https://www.theinformation.com/articles/polymarket-wants-traders-id-faces-sanctions-legal-risks,"In Russia, making bets on Polymarket isn’t permitted by the popular online prediction market’s rules. But that hasn’t stopped Ruslan Kashaev, a software developer who lives in the small Russian city of Ufa, a 15-hour drive from Moscow, from turning the site into a lucrative source of income.
+Using automated trading bots hosted on the Telegram encrypted messaging service, Kashaev has convinced thousands of Russian-speaking traders to bet on Polymarket. Kashaev’s website and YouTube channel, Russian Polymarket, promotes strategies to Russians seeking big, fast returns on the prediction market: “For every 10,000 rubles, that’s about 4,000 rubles in profit every 3–4 days.” He makes money by charging fees for people to use his bots.
+Kashaev is one of many software developers, online financial influencers and day traders tapping into Polymarket’s Panama-based prediction market from countries where users are legally barred. Polymarket says users in 33 different countries can’t bet on the platform “due to regulatory requirements and compliance with international sanctions.”
+Some are in legally risky jurisdictions such as Russia, where certain financial institutions and individuals are under U.S. sanctions, or Iran, which is subject to a total U.S. embargo. Traders in those countries bet on everything from the weather to the Iranian war.
+Until recently, Polymarket turned a blind eye to traders like Kashaev. Part of the site’s appeal to a subset of users, in fact, has been its relaxed approach to identifying its customers. Unlike its rival Kalshi, which has mandatory identification for its customers, Polymarket has long opted to allow anyone to sign up with only an email.
+Now, though, Polymarket is starting to clamp down. The site has made it harder to use a virtual private network, software that encrypts the connection between users and the internet, to access the site. It does so by blocking certain IP addresses—those that websites have learned over time are used by VPN providers—and blocking accounts with suspicious connection patterns.
+Polymarket is also now asking some customers to identify themselves to access faster trading technology.
+Prediction market startups are booming. The key players, Polymarket and Kalshi, are starting to earn revenue from millions of bettors placing wagers on sports, elections and TV shows. Polymarket is currently raising funds at $15 billion, while Kalshi is closing a fundraising round valuing it at $22 billion.
+The platforms have threatened to upend traditional sports betting and gaming industries and are attracting a growing chorus of critics. Prediction markets are now battling an array of lawsuits from state lawmakers who argue that Polymarket and Kalshi are running illegal betting websites. Congress this month opened an investigation into insider trading on the platforms and whether attempts by the companies to enforce bans on customers in certain countries are working, warning that lawmakers may be forced to intervene.
+To make matters worse for Polymarket, the former market leader is losing ground to its younger competitor, Kalshi. The two companies have taken different approaches to regulation. Kalshi got approval from regulators to operate legally in the U.S. and now runs a licensed exchange that serves institutional traders and accesses the deep American consumer betting market.
+Polymarket, on the other hand, shifted its operations offshore in 2022 after U.S. regulators banned it. That officially cut the company off from American gamblers, although many continued to access the site using VPNs. Polymarket last year acquired a licensed U.S. exchange that could insulate the company from any potential regulatory moves to rein in offshore sportsbooks, but the launch of its regulated platform has been delayed amid engineering problems and staff turnover, The Information
+previously reported
+.
+A spokesperson for Polymarket said it had identified and permanently banned Kashaev’s account and was “thoroughly reviewing the account’s activity” in its efforts to enforce restricted jurisdictions. Polymarket said it refers cases of wrongdoing to law enforcement, maintains “a comprehensive market integrity framework” and looks forward to engaging with Congress on the investigation.
+Balancing Act
+Polymarket is walking a tightrope in its efforts to clamp down on trading volume that comes from prohibited jurisdictions. By cracking down, it risks losing business at a time when Kalshi is pulling ahead in terms of overall trading volume and equity valuation.
+The move has already upset some of Polymarket’s users, according to messages posted in the company’s Discord community forum. “What? Is this an attempt to destroy everything,” said one user. “Polymarket will go down the drain if they make KYC mandatory,” said another, using the abbreviation for know your customer, a process banks and others use to verify the identity of clients.
+In response to customer complaints, senior Polymarket engineer Mustafa Aljadery said in a post on X that the KYC checks targeted customers accessing Polymarket’s application programming interface “in certain jurisdictions” and that Polymarket “remains kyc free for all other users.”
+But if Polymarket doesn’t start enforcing its policy on prohibited jurisdictions, it risks regulatory action. Regulators in the Netherlands and other countries have already threatened it with penalties if it continues to provide an illegal gambling platform to their residents.
+Polymarket has a lot to contend with when it comes to choking off users in prohibited territories. A
+cottage industry
+of social media influencers and app developers has sprung up to coach prospective prediction markets customers on how to access Polymarket using a VPN.
+Or they can bypass the company’s tools that automatically block certain countries or regions: They can use one of the many trading interfaces hosted on Telegram that promote their ability to skirt Polymarket’s compliance controls.
+In some cases, Polymarket has signaled its appreciation to influencers in risky regions for bringing in users. Daniil Adveev, a young crypto promoter based in Moscow, said he earns referral revenue from Polymarket for driving new users to the site from Russian-speaking countries.
+Thanks to the number of customers Adveev has introduced, Polymarket recently sent a gift to him—a box of Polymarket-branded sweatshirts and hats—which he said it shipped to Russia via a friend’s address in North America.
+Adveev, who uses a VPN to access Polymarket, said the majority of his income comes from referring users to various crypto projects, and since he has been promoting Polymarket since 2025, “it’s hard to say exact numbers, but it’s a lot.”
+Another influencer is Tehran-based Exdigy, who uses a pseudonym. He makes YouTube tutorials on how to access Polymarket from Iran. Exdigy directs users to join Polymarket with his paid referral link. (Polymarket, through a partnership with marketing group Dub, has paid these kinds of affiliates 1 cent for each click on their referral links and $10 if a referred customer made a deposit.)
+Exdigy’s advice includes signing up to Polymarket with a crypto wallet that hasn’t had any contact with Iranian exchanges. “And be sure to log in with a VPN,” he says in one video. “Everyone knows this by now. A VPN, preferably a static IP. You can easily get one for this low cost.”
+Faster Speeds for ID
+Polymarket is enticing users to provide identifying information by offering them faster trading speeds. Earlier this month, it rolled out an online portal where individual customers can submit information including passports, licenses and proof of residence.
+The online forms ask Polymarket customers to verify they are not a resident of any regions prohibited by its terms of service, where governments have banned the prediction market from operating, or of countries subject to U.S. sanctions, such as Russia, Syria, Cuba and North Korea. Polymarket is also asking business users, such as developers of trading apps that plug into Polymarket, about their investors and location.
+Submitting the information isn’t mandatory. But customers who complete the forms can access Polymarket’s U.K.-based server, which offers the fastest trading speeds, giving them an advantage of milliseconds over other users.
+That advantage is important for a key subset of Polymarket customers that drive significant levels of high-speed, automated trading volume, including third-party developers that plug into the company’s API. A difference of milliseconds can make or break some trading strategies."

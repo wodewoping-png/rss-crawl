@@ -1,0 +1,981 @@
+﻿标题,时间,作者,链接,内容
+Anthropic Is Likely Generating at Least 35% More Revenue Than OpenAI,2026-05-27T01:04:25Z,Amir Efrati,https://www.theinformation.com/newsletters/the-briefing/anthropic-likely-generating-least-35-revenue-openai,"On New Year’s Day, OpenAI leaders would have been happy to hear that the company’s monthly revenue would rise more than 50% over the first five months of 2026, roughly in line with the projections it previously shared with investors. But they’re not likely to feel that way now: That pace looks downright tame compared to that of Anthropic, whose revenue grew five times in the same period, leapfrogging OpenAI’s.
+Anthropic was recently generating revenue at an annualized rate of close to $45 billion. OpenAI’s current run rate couldn’t be learned but it recently crossed $30 billion, and one person familiar with the numbers said it isn’t much higher now. If we estimate their annualized rate now is around $33 billion, that would mean Anthropic’s revenue is about 35% higher. And things aren’t likely to change anytime soon if OpenAI’s growth rate doesn’t accelerate materially.
+The competitive dynamic between the two firms is a dramatic reversal from the end of last year, when Anthropic was generating $9 billion in annualized sales—less than half what OpenAI was generating at the time, mostly from ChatGPT subscriptions. Since then, Anthropic’s revenue has grown five times while OpenAI’s rose more than 50%, based on our estimate. To put Anthropic’s revenue into perspective, the company is well on its way to surpassing companies such as Netflix, SAP and Salesforce by revenue over the next year.
+OpenAI’s smaller revenue and relatively slow growth compared to Anthropic could pose a challenge for its planned initial public offering, especially if Anthropic manages to file its own IPO paperwork and go public first.
+While OpenAI primarily generates revenue from chatbot subscriptions and Anthropic makes the bulk of its money from selling access to its AI for coding and other white-collar tasks, both companies still compete head-to-head in both markets. That means public investors will closely compare them.
+The difference in operational efficiency between the two companies is likely even more dramatic: Anthropic has projected a $559 operating profit in the second quarter, with an operating margin of about 5%, based on our analysis of its figures. OpenAI is likely to lose money in the current period: In the first quarter, it had a negative operating margin of 122%,
+The Information reported
+, and that was even excluding substantial items such as stock-based compensation. That implies it lost at least $7 billion in the quarter.
+OpenAI’s projected second-quarter results couldn’t be learned. And to be sure, Anthropic could go back into the red as it boosts spending on servers to keep up with its revenue growth. (If you’re wondering how Anthropic suddenly made a profit,
+see this article on customers being willing to eat Anthropic’s effective price hikes
+.)
+But given OpenAI’s recent growth rate and substantially higher headcount costs than Anthropic’s, it is likely to stay unprofitable for a while.
+OpenAI subsidizes the cost of running a consumer chatbot for hundreds of millions of nonpaying users, which is currently dragging down its results. It plans to
+monetize those users through ads
+, which it recently launched and which will undoubtedly improve its margins.
+An OpenAI projection earlier this year said the company would
+burn $25 billion this year
+, in large part due to its hefty AI server rental cost of $32 billion for developing new AI models and products. It isn’t clear whether it still plans to spend that much, and it has recently pulled back on some server-heavy efforts such as AI video model Sora.
+The two companies’ revenues differ in some ways. Anthropic counts the total sales of its models by other cloud providers, including the share of revenue it hands back to those providers as part of their agreements with Anthropic. The company likely would also
+share billions of dollars
+in revenue with its cloud partners.
+OpenAI, meanwhile, owes 20% of its total revenue to Microsoft through 2030. That could amount to $6 billion if OpenAI generates the $30 billion in revenue it previously projected for this year.
+OpenAI Chief Financial Officer Sarah Friar
+previously was concerned about CEO Sam Altman’s rush to take the company public
+. Given what’s happened in the past two months, going public ahead of a financially stronger Anthropic seems like the financially prudent thing to do.
+In Other News
+• Dropbox founder and CEO Drew Houston said he plans to step down as CEO. Dropbox executive Ashraf Alkarmi will become co-CEO with him during a transition period, after which Houston will become executive chairman.
+• ServiceNow Chief Marketing Officer Colin Fleming said Tuesday that he is leaving the IT services software giant for OpenAI, where he will assume the role of CMO for its business segment.
+• American Airlines plans to start adding SpaceX’s Starlink satellite internet service to around half of its main aircraft fleet beginning early next year.
+• Nathan Allman, 32, the founder and CEO of Ondo Finance, the biggest tokenized stock provider, has died unexpectedly, the company said."
+Boom Times for Inference Providers?,2026-05-27T00:31:01Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/dealmaker/boom-times-inference-providers,"Less than a year ago, our reporters kept hearing doubts about a group of startups called inference providers. Companies like Fireworks, Baseten and Together AI, which rent out Nvidia servers to app developers and help them customize open-source models, had grown quickly but seemed at risk of getting steamrolled by major cloud providers that could build these capabilities in-house.
+Those traditional cloud providers also have the advantage of owning the AI chips servers they rent out; inference firms, in contrast, generally rent the chips from those traditional providers and then turn around and rent them out to their customers. That dynamic has dragged down the
+gross profit margins
+of some inference providers in the past.
+While the current margins of the inference startups couldn’t be learned, they clearly have customer demand and cash—including sometimes from heavyweight Nvidia—on their side. As Stephanie and Katie reported Tuesday,
+Baseten has been discussing raising $1 billion at a valuation of $11 billion
+, or more than double its last valuation. The Nvidia-backed company had even higher offers, which would value it up to $15 billion, but decided to stick with the investors who are backing the startup at the lower valuation.
+Modal, a smaller inference startup
+, recently experienced a similar jump in valuation. And Fireworks AI is in talks to triple its valuation, to $15 billion, Bloomberg reported Tuesday.
+Piquing investor interest is red-hot revenue growth at these startups, as the table below shows. Baseten’s revenue tripled in the three months ending in March, to $600 million, and is up 20 times year over year. Modal’s revenue has jumped five times from last fall, to more than $300 million. The biggest of the pack is Together. It was generating about $1 billion in annualized revenue when we broke the news in March that it was raising
+at a $8.5 billion post-money valuation
+.
+But as rental prices for AI chips surge and traditional cloud providers like Microsoft
+save more chips for mega-customers like Anthropic
+, the margin squeeze on inference providers could become a bigger concern. Investors expect the inference startups to counter that pressure by expanding to other product offerings for which they can charge a premium.
+Some of these startups have already started doing that. Baseten, for instance, has used tech from its acquisition of the startup Parsed to help its customers use their own data to help them fine-tune models, according to a person with direct knowledge of the company.
+At Modal, some of its growth is related to its so-called sandbox product, which lets developers run AI agents and code without affecting the rest of their computer and codebase.
+“The cloud providers are very good at offering capacity all over the world at a decent price,” said Modal’s founder and CEO Erik Bernhardsson
+on The Information’s new streaming show, TITV,
+Tuesday. “What they’re often not that good at is, in my opinion, delivering good developer experience and delivering a software product that makes it possible to iterate quickly.”
+Bernhardsson said the company is now on the hunt to buy startups that can help it build that infrastructure layer, say in reinforcement learning, a technique that rewards a model for accomplishing certain goals and penalizes it for other behaviors.
+Unlike Together, which has
+made moves to buy and run its own Nvidia servers
+, Modal won’t use its new capital to buy chips: “Being pure software enables us to grow very quickly and move very fast,” Bernhardsson said.
+(This story has been updated with details of Fireworks’ new funding talks.)
+Today on TITV
+Watch reporter Ann Gehan discuss OpenAI’s evolving ad strategy."
+AI Inference Provider Baseten in Talks to Raise $1 Billion at $11 Billion Valuation,2026-05-26T22:09:31Z,Katie Roof,https://www.theinformation.com/articles/ai-inference-provider-baseten-talks-raise-1-billion-11-billion-valuation,"AI startup Baseten has recently been in talks with investors to raise $1 billion at an $11 billion valuation including the money, according to a person with knowledge of the fundraise. That would more than double the company’s $5 billion valuation from its last round, which was announced just three months ago.
+The fundraising comes on the back of strong revenue growth for the startup, which rents out Nvidia AI servers to application developers and helps them train, customize and run primarily open-source AI models.
+By the end of the first quarter, Baseten’s annualized revenue—typically a measure of the past month’s revenue multiplied by 12—rose to around $600 million from $200 million at the start of the quarter, the person with knowledge said. That’s 20 times the
+annualized revenue it was generating
+in March 2025. The growth encouraged some investors to make offers valuing it close to $15 billion, the person said.
+An explosion in the number of applications built with open-source AI models has boosted Baseten and its peers, otherwise known as inference providers. Baseten competitor Modal recently
+raised
+at a $4.65 billion valuation after seeing its annualized revenue balloon to $300 million, while Together AI
+raised at a $7.5 billion valuation
+earlier this spring after surpassing $1 billion in annualized revenue.
+San Francisco–based Baseten has also benefited from its
+December acquisition of Parsed
+, a startup that helps companies with the process of customizing open-source models for niche tasks, said the person with knowledge of the fundraise.
+Baseten charges its customers on a usage basis, depending either on how much they use the open-source models available through its application programming interfaces or on the number of minutes or hours they use its AI chips.
+Although Baseten and other inference providers have seen strong revenue growth in recent months, they risk getting squeezed in other parts of their business. Demand for chips from the biggest AI developers, such as OpenAI and Anthropic, has
+driven up spot prices for graphics processing units
+. Their scarcity could shrink the margins of companies like Baseten, which rent the GPUs from larger cloud providers before leasing them out to developers.
+One factor that could limit inference providers’ growth: most established businesses prefer using closed-source models from Anthropic and OpenAI.
+Baseten, founded in 2019, has previously raised $585 million in funding from investors including Nvidia, CapitalG, IVP and Spark Capital."
+Uber COO Says AI Lacks ROI,2026-05-26T20:01:54Z,Kevin McLaughlin,https://www.theinformation.com/newsletters/applied-ai/uber-coo-says-ai-lacks-roi,"Many corporate leaders say they’re getting value from AI as their spending on it skyrockets, but hype is outpacing reality in plenty of cases.
+On a
+podcast
+over the weekend, for instance, Uber Chief Operating Officer Andrew Macdonald said the ride-hailing company isn’t seeing a clear increase in productivity from using AI coding services despite their use by its engineering teams. That has prompted executives to discuss how to get a handle on token consumption costs, he said.
+“If you‘re not actually able to draw a direct line to how much useful features and functionality you’re shipping to your users, [the costs become] harder to justify,” Macdonald said on the podcast.
+It’s the latest sign that Uber is having a rocky transition to AI-powered coding. Last month, Chief Technology Officer Praveen Neppalli Naga
+told us
+his company’s surging usage of products like Claude Code had caused it to blow through its entire AI budget just a few months into the year.
+Uber isn’t alone. Many other firms are struggling to navigate Anthropic’s shift to
+charging customers based on token consumption
+, which has made it harder for them to gauge costs in advance. For now, customers are
+eating the higher costs
+, ROI be damned.
+Other AI projects outside coding have simply fallen flat or created unintended consequences.
+Take Pizza Hut, which in 2023 and 2024 launched an AI-powered ordering system, Dragontail, that was supposed to speed up deliveries for its restaurants in the northeastern U.S. Instead, Dragontail led to much longer delivery times and thus more frustrated customers, according to a lawsuit filed by a Pizza Hut franchisee that runs more than 100 of the company’s restaurants in the northeast U.S.
+The franchisee is seeking $100 million in damages on the grounds that Pizza Hut forced it to use the system. After Pizza Hut rolled out Dragontail, the system allowed DoorDash’s delivery staff to see operational details they weren’t previously privy to, like the status of pizzas as they were being cooked and whether a customer had left a tip, according to the filing.
+Armed with this knowledge, DoorDash delivery staff would wait for multiple orders to be ready instead of delivering pizzas as they came out of the oven, as they had previously done. In other cases, delivery staff would decline to deliver orders to customers who hadn’t tipped. The result was that some customers received cold pizzas and left negative reviews, according to the filing.
+Meanwhile, Starbucks, which nine months ago launched an AI-powered inventory tool that employees used to automate the counting of milk and beverages in stores, has scrapped the tool after finding it would often miscount and inaccurately identify items, Reuters
+reported
+. Starbucks reportedly spent years developing the tool and saw it as a way to help the company get a better handle on its supply chain operations and deal with frequent product outages.
+Starbucks, in a statement via email, said it has “moved to a single, consistent process” for counting inventory and that the change “reflects being disciplined about where automation adds value.”
+“We test ideas in our coffeehouses, listen closely to partner feedback, and make changes to deliver a better, more consistent experience,” a Starbucks spokesperson said in a statement via email.
+Some AI providers have struggled to turn their marketing of AI products into reality. Salesforce, for instance, last year featured Williams Sonoma using Agentforce to run a customer support phone line, and Finnair (a Finnish airline) using the product to help customers rebook flights, but the companies
+told Bloomberg
+last week that they aren’t able to use the software that way.
+The Information previously reported in detail that Salesforce has
+backtracked from earlier claims
+about the relative ease of setting up AI inside enterprises, and the company has reported better financial results with Agentforce since then."
+OpenAI’s PR Challenge,2026-05-26T14:01:08Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/openais-pr-challenge,"The battle between
+OpenAI
+,
+Anthropic
+and
+Google
+spans revenue, models, server access and research talent. But as OpenAI and Anthropic barrel toward initial public offerings, public perception is also an important factor in the race as political backlash to the industry grows.
+OpenAI seems particularly vulnerable in PR after a series of awkward or embarrassing moments for its executives in the limelight. The challenge of managing such execs might help explain why the company hasn’t had a communications chief since the prior one,
+Hannah Wong
+, left in December.
+OpenAI has spoken with multiple comms executives about the role but hasn’t pulled the trigger. The company has talked to
+Jill Hazelbaker
+,
+Uber’s
+president and chief corporate affairs officer;
+Sarah O’Brien
+, who runs communications for ex-
+Apple
+design chief
+Jony Ive
+; and ex-
+Square
+comms exec
+Aaron Zamost
+, among others, people with knowledge of the search said.
+Some candidates have told OpenAI representatives that the job is inherently challenging because CEO
+Sam Altman
+and other executives have a long leash in speaking publicly, said people who have spoken to them. Altman in particular makes a lot of appearances and appears to set his own agenda, they said.
+For now,
+Kelly Sims
+, a marketing and communications partner at
+Thrive Capital
+, a large OpenAI shareholder, has come onboard to temporarily help with communications under OpenAI Chief Global Affairs Officer
+Chris Lehane
+until the company can find a permanent replacement, according to a person with knowledge of the move.
+OpenAI has been the face of AI due to the success of
+ChatGPT
+. That means it gets praised for productivity improvements and aiding drug discovery but also receives all of AI’s negative associations (job loss, environmental impact, energy prices, general fears of AI taking over the world).
+Altman and other executives have been regulars on the podcast, TV and Capitol Hill circuits for years, but Altman hasn’t always been relatable in a moment of growing public fears or unease with the technology. He joked during an interview with
+Jimmy Fallon
+in December that he couldn’t imagine taking care of a newborn without AI. In February, when Altman was asked at a major AI summit in India about AI’s high energy consumption, which may have impacted consumer electricity prices in various parts of the country, he said it also takes a lot of energy to “train a human.”
+He didn’t seem prepared for a contentious interview with
+Tucker Carlson
+in September, when he said that 1,500 people a week could be discussing suicide with ChatGPT and faced a barrage of questioning from Carlson about his involvement in the death of OpenAI whistleblower
+Suchir Balaji
+.
+Meanwhile, some of OpenAI’s other comms-related decisions have left people scratching their heads. For instance, it acquired popular daily tech podcast
+TBPN
+in April for hundreds of millions of dollars, according to the Financial Times. Execs at OpenAI
+believed
+that TBPN would be able to better communicate publicly about the benefits of its products.
+It’s true that TBPN does seem to share many of the pro-tech, pro-AI sentiments OpenAI does while still being generally well-liked by people who know of the show. But it’s not clear how much reach TBPN can get outside Silicon Valley or hardcore technology circles, and it’s the general public (or its representatives) that OpenAI needs help winning over, not tech insiders!
+There are signs OpenAI might be turning things around, at least in its race with Anthropic to win the hearts and minds of software developer customers. In recent months, developers have complained about the
+high costs
+and
+restrictive usage limits
+for Anthropic models, as the
+Claude
+maker has faced a tight
+compute crunch
+. (It has more recently struck massive compute deals with
+SpaceX
+and other companies, which should help alleviate that pressure.)
+OpenAI took advantage of that developer frustration by frequently resetting usage limits for its
+Codex
+coding tool, as well as highlighting promotions like
+multiple free months of Codex for new users
+or Altman offering $2 million worth of OpenAI tokens to
+Y Combinator
+startups in exchange for equity in the startups.
+Aaron Tilley contributed to this newsletter.
+Here’s what else is going on…
+Pope Leo Releases AI Encyclical
+Catholic
+Pope Leo XIV
+on Monday
+weighed in
+on hot-button AI policy debates, publishing a treatise describing the church’s concerns about AI development and its current and potential societal harms. His post,
+Magnifica Humanitas
+(“Magnificent Humanity”), which runs more than 42,000 words, offers a blueprint for “safeguarding the human person in the time of artificial intelligence” and lends credence to activists who believe governments should be more involved in the process.
+It is the Pope’s first encyclical, a major statement clarifying the Church’s teachings for Catholics.
+Anthropic
+appeared to have some influence on the proceedings. Co-founder
+Chris Olah
+, who was invited to an event in Rome, said human labor displacement was a “real possibility” at a “very large scale,” CBC reported. “If that happens, supporting those displaced will be ⁠a moral imperative of historic proportions,” Olah said, according to the report.
+Policy Watch
+The White House
+postponed
+a Thursday afternoon ceremony to sign an executive order, which was expected to establish a voluntary framework for AI companies to submit future advanced AI models to intelligence and other government agencies for review ahead of those models’ public release.
+The
+White House
+is also
+nearing a deal
+with
+Anthropic
+that allows the
+National Security Agency
+and other U.S. spy agencies to use the company’s advanced AI models for classified work, according to the New York Times.
+The
+Trump
+administration announced new immigration rules requiring most green card applicants to return to their home country to apply, which could create hurdles for tech companies seeking international hires.
+Overheard
+He Tingbo
+, a
+Huawei
+board director and the head of the company’s chip business,
+presented a new principle
+for semiconductor development, the
+Tau Scaling Law
+, during her keynote speech at a tech conference in Shanghai.
+She said Huawei will begin making chips with transistor density equivalent to a 1.4-nanometer node in 2031—three years behind
+TSMC
+, which has said it expects to mass-produce the same generation by 2028. The new roadmap shows Huawei is making faster progress than expected, despite U.S. export controls that have restricted China’s access to the most advanced equipment.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Hark
+, an AI lab founded by
+Figure
+CEO
+Brett Adcock
+, raised over $700 million in Series A funding round at a $6 billion post-money valuation led by
+Parkway Venture Capital
+.
+Modal
+, which provides cloud computing services for AI, raised $355 million in a Series C funding round at a post-money valuation of $4.65 billion led by
+General Catalyst
+and
+Redpoint Ventures
+. The Information first broke the round
+here
+.
+Farther
+, which uses AI to automate tasks for wealth management advisors who work with high net worth individuals, raised $150 million in a Series D funding round led by
+General Atlantic
+.
+Moment
+, which uses AI to automate tasks for wealth management firms and financial technology companies, raised $78 million in a Series C funding round led by
+Index Ventures
+.
+Quartermaster
+, which installs sensors on commercial ships to capture data, raised $43 million in a Series A funding round led by
+First Round Capital
+and
+Quiet Capital
+.
+August Robotics
+, which provides robots for construction and other industrial applications, raised $30 million in a Series B funding round led by
+Big Pi Ventures
+.
+Arc
+, a voice AI startup that takes orders and optimizes business performance at drive-thrus, raised $10.76 million seed funding led by
+Andreessen Horowitz
+.
+Stilta
+, which provides AI to help companies with patent enforcement, raised $10.5 million in a funding round led by
+Andreessen Horowitz
+.
+Anthropic
+and
+Blackstone’s
+joint venture acquired
+Fractional AI
+, a 2 year-old startup that helps companies adopt AI technology.
+Meta Platforms
+has quietly launched
+a new AI-powered app called
+Forum
+, part of a new push by the Facebook owner to launch a lot of new apps. The app lets users select topics they’re interested in and customize their feed by choosing which topics they want to see more or less of, according to its Apple App store listing.
+DeepSeek’s
+senior management has been telling potential investors in its ongoing funding round that the startup will prioritize research breakthroughs on the path to human-level AI over short-term commercialization, Bloomberg reported.
+Spotify
+and
+Universal Music Group
+reached a deal that will allow Spotify users to use AI to generate covers and remixes of songs."
+OpenAI Targets Smaller Advertisers With New ChatGPT Ads,2026-05-26T13:01:01Z,Ann Gehan,https://www.theinformation.com/articles/openais-next-ad-move-going-small-scale-big,"When OpenAI first launched ChatGPT ads earlier this year, it lined up well-known brands with big advertising budgets, like Adobe, Ford and Target. Now it’s expanding its advertising business with offerings that cater more to marketers at far smaller companies, putting it directly into competition with ad giant Meta Platforms.
+OpenAI executives have told some outside ad technology firms that one priority is courting small local businesses, such as car washes or dry cleaners, a person who spoke with them said. It’s also launching features more tailored to smaller advertisers in general, an agency executive said, including ads designed to prompt consumers to take action, like making a purchase, booking an appointment or submitting a contact form.
+With its recent moves, OpenAI is playing catch-up to some existing capabilities at ad giants like Meta and Google. OpenAI has told some advertisers that starting this week, it will let them test these ad formats, known as conversion-oriented ads, which marketers would only pay for if they get results, the agency executive said. To test the campaigns, advertisers will need to install OpenAI’s ad pixel, a piece of code on their websites that helps track what users do after clicking on an ad, they said.
+While pixels are a common piece of ad tech, they aren’t a surefire method for tracking, since browsers or ad blockers can sometimes block them. OpenAI is also encouraging advertisers to connect their internal systems with a recently launched application programming interface.  The API allows advertisers to send back details about actions people take on their own site, which helps OpenAI make the case that the ads drive results.
+Most major ad platforms have already launched APIs over the past few years as user privacy restrictions have limited the effectiveness of older tech like pixels.
+More generally, OpenAI has been meeting with outside ad tech firms to discuss how to work together, including helping advertisers better understand the context in which their ads will show up in chats, which could make them more comfortable trying a new type of ad. OpenAI ad executives spearheading meetings include Dave Dugan, who
+joined OpenAI
+in late March to lead ad sales, as well as Benji Shomair, Vijaye Raji and Asad Awan, a person who spoke with them said. All spent significant time at Meta earlier in their careers.
+The upcoming changes build on updates OpenAI
+rolled out in recent weeks
+, including cost-per-click ads. Initially, it sold ads only
+based on views
+, a model that is less attractive to many advertisers because it requires them to pay whether or not users engage with the ads.
+OpenAI has also signaled to agencies that it could cater to online merchants by linking product feeds with ad campaigns, another agency executive said. The company could repurpose work from its now-scrapped in-chat checkout feature, using merchant catalogs to show ads that are more relevant to ChatGPT conversations. A timeline for such a launch is unclear.
+Taken together, the changes could help OpenAI address
+early complaints
+that marketers lacked basic measurement tools to tell whether ChatGPT ads were working. That’s particularly important for small advertisers, which typically prioritize measurable outcomes over general brand awareness, and are a major source of revenue for Meta and Google.
+An OpenAI spokesperson said that over time, the company expects to support more ways for advertisers to optimize for the outcomes they care about most.
+Cutting Commitments
+Advertising is OpenAI’s big bet on generating more revenue from its 900 million weekly active users, most of whom use ChatGPT’s free tier. The company
+has told investors
+it expects ad revenue to total $2.4 billion this year, roughly quadruple in 2027 and hit $102 billion, more than 35% of its overall revenue, by 2030.
+Quickly growing ad revenue could bolster OpenAI’s appeal to investors as the company
+works with banks
+to prepare for an initial public offering as early as this year. But while Meta and Google have built massive ad businesses in part by being a go-to for smaller advertisers, it’s still an open question how quickly OpenAI can ramp up.
+When OpenAI launched its ads in early February, it lined up a pool of big advertisers through large ad agencies, with a minimum commitment of $200,000 for an initial trial. Six weeks later, it said advertising had
+hit a $100 million annualized revenue rate
+.
+Initially, OpenAI used its own sales team to work with early ChatGPT advertisers. It quickly broadened its reach by partnering with external firms like Criteo and StackAdapt, which are helping their own clients buy ChatGPT ads. These partners also provide capabilities OpenAI still lacks, such as technology to help match ads with relevant users.
+As OpenAI opens its doors to smaller advertisers, it’s also been dropping the requirement for up-front spending commitments. Earlier this month it started rolling out a self-service ad-buying portal in the U.S. that small and medium-size businesses can use as well as bigger brands, requiring no minimum spending, agency executives said, while many of the outside firms partnering on ChatGPT ads now also require no minimum spending.
+Some ad-buying firms say they’re already shifting to buying ads through outside firms instead of from OpenAI directly, in part because of the added capabilities those firms can provide.
+“When you think about partners that they’ve opened up to, this could go in a lot of different ways in terms of deeper data integrations or commerce experiences or rich creative,” said Deanna Cullen, vice president of media investment at Wpromote, which works with clients including Vuori and Aritzia.
+Financial details of OpenAI’s ad partnerships could not be learned, including whether OpenAI is paying for distribution or what kind of fees the ad buyers would be paying intermediaries. Even if OpenAI isn’t paying partners directly, the fees advertisers pay them could eat into the total budget that ultimately flows to OpenAI.
+It’s not unusual for tech companies to use outside ad tech partners as they expand. Soon after its 2012 IPO, Facebook launched a marketplace that let outside firms help their clients buy Facebook ads. The move brought in more advertiser demand while Facebook was still building out its own tools.
+For now, Cullen and other agency executives say clients are mainly still treating ChatGPT ads as an experiment and aren’t pulling from dedicated ad spending in other places. The early ads have been performing well so far, with strong click rates, but new ad networks typically
+see early performance taper off
+as they show more ads and the novelty for users seeing them tapers off.
+When it comes to getting features like product feeds for ads up and running, it’s not clear how much work OpenAI or merchants would still need to do. Product feeds would likely require standardized data like prices, availability and product descriptions to trigger the ads that are most relevant to chats. But that’s a complex task—OpenAI’s early in-chat shopping effort, which it stopped work on in March,
+was slow going
+, due in part to messy merchant data."
+Snowflake Shows Some Immunity to the SaaSpocalypse,2026-05-28T00:36:21Z,Laura Bratton,https://www.theinformation.com/newsletters/the-briefing/snowflake-shows-immunity-saaspocalypse,"Shares of traditional software providers have been battered this year over AI fears. Investors’ reaction to Snowflake’s and Salesforce’s quarterly results Wednesday suggests some providers are in better shape than others.
+Snowflake shares jumped more than 35% to their highest point since December after the database provider
+said its most-watched sales metric grew 34%
+during its April quarter from a year-ago, beating the company’s own projection by seven percentage points.
+Snowflake CEO Sridhar Ramaswamy, on a call with analysts, said customers are increasingly using its AI coding agent and a product that lets customers search for and get data on their sales or other corporate metrics, tapping information that resides in Snowflake databases or in apps they use from Microsoft, Salesforce and SAP.
+Snowflake’s advantage appears to lie in not having a legacy enterprise app business like those of Salesforce, Workday and Intuit. In other words, Ramaswamy basically said that throwing AI on databases is a decent business, even if it has to rely on relatively pricey AI from providers like Anthropic and OpenAI to power Snowflake products. (Snowflake CFO Brian Robins said the company
+signed a deal to rent Amazon servers
+and access such AI at a cost that wouldn’t crimp its gross profit margins.)
+Salesforce, on the other hand, must bring along a huge group of app customers into the AI age.  The sales and customer-service software firm reported a 50% jump in annual recurring revenue from its suite of AI tools, namely Agentforce (which is also partly powered by models from other AI providers), to $1.2 billion in the April quarter from the previous period. That’s nothing to sneeze at, but it didn’t appear to boost its overall revenue much, nor did it change the trajectory of its revenue backlog.
+Current remaining performance obligations, a metric reflecting the value of customer contracts it hasn’t yet recognized as revenue, grew 14% in the April quarter from the year-ago quarter, a slightly slower growth rate than in the January quarter. The update comes as
+customers begin to pressure their enterprise software providers
+to offer more favorable contract terms, because they are spending more on other AI tools.
+Just as notable was
+Salesforce lowering its projection of operating and free cash flows for the current fiscal year
+, which ends January next year, by five percentage points compared to what it projected just three months ago. The company said the decline was due to its recent issuance of $25 billion of debt so that it could repurchase its own stock.
+But Salesforce’s vote of confidence in itself hasn’t swayed anyone. Shares had fallen more than 30% for the year as of Wednesday’s market close, and shares dipped a fraction of a percent in after-hours trading.
+Salesforce was also vague about a key question regarding its AI strategy. Execs largely dodged a question from Goldman Sachs analyst Gabriela Borges about how Salesforce will charge customers for Headless 360, a new collection of tools that lets customers use AI agents such as Claude Code to access data they store in Salesforce apps.
+Salesforce president and chief revenue officer Miguel Milano said the company will “work together with our customers and with our partners to find…a fair way monetize” the new tools. The company said it will reveal more about its AI strategy during a webinar Friday.
+In Other News
+•
+Meta Platforms
+is launching paid subscriptions
+for its AI chatbot across Facebook, Instagram, and WhatsApp as it looks to monetize its investments in AI.
+• Federal prosecutors
+charged a Google employee
+with using confidential information to win $1.2 million betting on Polymarket, according to a Federal Court complaint unsealed on Wednesday.
+• Database firm Snowflake
+said it has committed to spending $6 billion
+on Amazon Web Services over the next few years, including using Amazon’s Graviton chips and AI infrastructure.
+• OpenAI’s foundation
+will grant $250 million in funding
+to promote research into the impact of artificial intelligence on the economy and jobs.
+• Amazon is
+marketing a new service to let other retailers
+take advantage of its AI shopping assistant technology,  called AWS Agentic Shopping Assistant."
+"Khosla Partner Choi, Growth Strategy Leader, Raising $500 Million Fund",2026-05-27T22:29:48Z,Katie Roof,https://www.theinformation.com/articles/khosla-partner-choi-led-growth-strategy-raising-500-million-fund,"Khosla Ventures partner Ethan Choi, a leader of the early-stage firm’s investments in mature startups like cloud provider Vercel, is leaving to launch a new venture firm.
+The new firm, called Atomus, is in the process of raising a new venture fund of at least $500 million, according to a person familiar with Choi’s plans. About half of the fund has already been raised, the person added.
+Choi joined Khosla in 2024 from Accel, where he spent six years. While at Khosla, he helped lead investments in several AI startups, including cloud provider Vercel, database management startup ClickHouse, search engine Glean and medical scribe Abridge.
+Choi joins a wave of partner departures at major venture firms in the last couple of years. These  sometimes have stemmed from disagreements over how to invest in the growing AI boom and how to deal with existing portfolio companies that haven’t successfully adapted to AI. In many cases, the partners have left to raise their own funds.
+Earlier this year Arif Janmohamed said he would step back from his partner position at Lightspeed Venture Partners, and he recently started his own firm. Last year, Anjney Midha, a general partner at Andreessen Horowitz who helped the firm’s startups gain access to graphics processing units,
+also stepped back to start his own firm
+.
+Khosla didn’t immediately respond for comment.
+Led by founder Vinod Khosla, the firm was one of the first investors in OpenAI and was an early investor in
+Instacart
+, Stripe and Doordash. In recent years,
+it’s joined other early-stage firms
+raising funds to enable it to make follow-on investments in more mature startups.
+Choi, who co-led the firm’s growth stage practice with founder Khosla, has also recently helped manage the firm’s relationship with OpenAI. In a March interview
+with The Information’s TITV streaming service
+, he dismissed concerns about the high compute costs at OpenAI and Anthropic.
+“We’re in the biggest technological shift, and wave and platform shift, the most important shift that has ever happened. It takes a lot of dollars and money and research to continue to increase the capabilities of the models and the product,” he said. “I don’t understand why so many people are fixated on both companies being profitable today.”
+Choi’s departure shifts the make-up of Khosla’s senior partners. Two years
+ago it rehired Airbnb investor Keith Rabois
+from Founders Fund. At times the partners have publicly disagreed, such as
+over the killing of a protester
+by federal agents in Minneapolis earlier this year."
+Meta Launches New Enterprise Push to Boost Business Adoption of Its AI Tools,2026-05-27T22:09:25Z,Jyoti Mann,https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools,"Meta Platforms
+plans to place engineers and product managers inside large corporate customers as part of a new unit at the social-media giant to push businesses to use its AI tools and services.
+In an internal memo, senior executive Naomi Gleit said the new organization, called Enterprise Solutions, will be made up of product managers who lead customer engagements, data engineers who prepare client data for use in Meta’s AI systems, and software engineers who integrate Meta’s tools directly into the systems customers use to run their operations. The move follows similar efforts by Google and others to employ technical consultants, often called forward-deployed engineers, to customize AI for business clients.
+“We have seen great success across the industry from companies who have put people with these backgrounds into companies to enable their tools, like AI and advanced data tools, to take off,” Gleit wrote in the memo, which was reviewed by The Information.
+Gleit’s memo, which was shared last week, didn’t spell out what specific products and services the enterprise team will promote. Meta’s business overwhelmingly focuses on serving ads to the billions of users of its apps, but CEO Mark Zuckerberg and other executives have spoken recently about expanding their business offerings as they seek to justify the company’s massive spending on AI infrastructure to investors.
+In another effort to monetize its huge investments in AI, Meta
+on Wednesday announced
+that it is testing new paid subscriptions for its AI chatbot in its Facebook, Instagram and WhatsApp services.
+Meta has been trying for at least a decade to build enterprise products, with limited success. In 2016 it launched a business-focused version of Facebook, called Workplace, intended to compete with Slack and Microsoft Teams. It
+announced two years ago
+it was closing the product. Meta also helps companies reach customers on its Messenger and WhatsApp messaging services, but that business remains relatively small. Last year, 98% of Meta’s revenue came from advertising.
+The Enterprise Solutions org will focus on helping enterprise clients successfully integrate Meta’s AI tools and “building repeatable playbooks and tooling along the way so the work can scale over time,” a Meta spokesperson said.
+The approach of the Enterprise Solutions team mirrors a trend among tech companies toward hiring forward deployed engineers who work closely with clients to integrate AI into their workflows. Google’s cloud chief, Thomas Kurian, said earlier this month that the company would
+form a new team of forward deployed engineers
+, following similar moves in recent months by companies including OpenAI, Anthropic and Nvidia.
+Meta announced the formation of the new enterprise solutions group in an internal memo last week, which also informed employees that it was
+moving more than 7,000 staffers
+to several new initiatives including that one. Meta last week also announced layoffs affecting about 8,000 workers.
+A ‘Critical Year’ for Meta’s AI Transformation
+The enterprise push comes as Meta is rethinking how its own employees use AI internally, and how that could inform potential products. Chief Technology Officer Andrew Bosworth outlined in a separate memo last month how Meta is reorganizing internal work around AI agents through an initiative called the Agent Transformation Accelerator.
+The initiative will consist of four teams designed to reorganize internal work around AI agents that increasingly perform tasks traditionally done by employees. Workers will shift from executing tasks to overseeing agents that carry them out, Bosworth said, adding that 2026 “is a critical year” for Meta’s transformation. “The tools we build and the ways of working we establish will define what Meta looks like in this AI era,” he wrote in the memo, also reviewed by The Information.
+Bosworth said the company’s current set of AI tools has become fragmented, with overlapping tools creating confusion and diluting impact, and that Meta is now working toward a more unified approach.
+He added that employees should use AI tools only when they meaningfully improve productivity, not simply to increase usage metrics, a practice known as “tokenmaxxing.”
+“Nobody should be using AI tools just for the sake of using them,” Bosworth wrote. “All motion is not progress and token usage alone is not a measure of impact of any kind. We will be using these tools because they’ll genuinely allow us to do better work, faster.”
+Tokenmaxxing is the term for employees trying to demonstrate their AI chops by burning as many AI tokens (units of data processed by large language models) as possible. As
+previously reported
+, some Meta employees have even tracked usage on internal leaderboards ranking AI power users based on token consumption, turning AI usage itself into a form of competition and status signaling inside the company."
+Pre-IPO Betting Boom Hits Prediction Markets,2026-05-27T15:18:35Z,Yueqi Yang,https://www.theinformation.com/newsletters/the-information-finance/pre-ipo-betting-boom-hits-prediction-markets,"Most everyday investors can’t buy shares of hot private companies like SpaceX and OpenAI before they go public. With potential mega-IPOs looming this year, prediction markets like Polymarket and Kalshi are turning that hype into tradable bets.
+Users are flocking to yes-or-no bets on milestones like valuations and IPO timelines, betting with contracts that trade in cents and pay out $1 if the buyer is right. That’s helping prediction markets tap into excitement around the IPOs and reduce their
+reliance on sports betting
+, which represents much of their business.
+But pushing deeper into financial bets could also test the limits of U.S. securities laws keeping many small investors out of private markets in the first place. Private companies make fewer disclosures than public ones, which is why most retail investors are limited in buying their shares before an IPO.
+The closer prediction-market contracts get to stock-like bets, the higher the chance the SEC will want to regulate them. The legal line is clearest when a bet explicitly references a stock price or other security.
+""Event contracts offered in the U.S. that directly reference securities and related information would trigger the SEC's jurisdiction,” and can only be offered to retail investors on national securities exchanges such as the NYSE, said Gabe Rosenberg, a partner advising financial institutions at Davis Polk.
+There’s more of a gray area around bets tied to events that could affect a company’s financial performance—such as the release of a new AI model or the number of launches SpaceX completes in a certain period. If those contracts start to look too much like stock wagers, they could fall under the SEC’s authority. That would be a problem for Kalshi and Polymarket’s U.S.-focused business, which both operate under the CFTC’s oversight as opposed to the SEC.
+“A lot depends on where that line is,” said Rosenberg, adding that the CFTC and the SEC will need to come to an agreement on what types of contracts fall under which regulator and provide specific guidance to prediction markets.
+That uncertainty is already showing up in the types of contracts prediction markets offer—and to whom. Polymarket offers a wide range of bets on private companies, but only to non-U.S. customers. Its popular pre-IPO bets include whether SpaceX’s market cap will top certain levels by the end of its first day of trading. That contract has drawn $3 million in trading volume, and currently indicates a 98% chance that SpaceX will close its first day of trading above a $1.2 trillion market cap.
+Polymarket is also offering offshore users bets on how private valuations will change for OpenAI and Anthropic, which are preparing for potential IPOs as soon as later this year. That includes wagers on what valuation each AI giant will reach by the end of June, and currently imply a 93% chance Anthropic hits or tops a $1 trillion valuation by then, compared with a 20% chance OpenAI reaches the same level.
+To settle those bets while the companies are still private, Polymarket has teamed up with Nasdaq Private Market, whose data on private share trades will determine which contracts pay out, the companies
+announced
+earlier this month. Polymarket also offers offshore bets on public companies’ earnings and share prices, such as whether Tesla will beat estimates on quarterly earnings or where its stock will trade in a given period.
+Polymarket’s U.S.-focused arm, meanwhile, doesn’t offer financial bets yet and is focused mainly on sports, weather and elections
+Kalshi, which caters to U.S. users, offers a limited lineup of contracts tied to private-market companies, including some bets related to OpenAI and SpaceX such as which months they will announce an IPO, but no wagers specifically tied to valuations. Kalshi also offers bets on Tesla’s vehicle deliveries, a closely-watched metric for investors, but not on earnings or stock prices themselves.
+Company-related predictions have become popular in part because they offer a relatively straightforward way to bet on a private company’s fortunes. Users can buy a contract tied to a specific event and deadline, hold it until resolution or sell before then. Crypto exchanges have also launched tokens designed to provide exposure to private companies without users actually owning the shares, but those tokens are more complicated behind the scenes. For instance, Bitget last month launched preSPAX tokens, which the exchange said are structured as a debt instrument meant to mirror SpaceX’s economic performance once public. Users bought up the first batch of preSPAX tokens at $650 each, and the price has since climbed to $903.
+For now, prediction markets are in favor under the Trump administration, suggesting they have leeway to test the regulatory boundaries of financial bets. CFTC Chair Michael Selig is
+racing
+to stop states from killing prediction markets. And the SEC doesn’t have much appetite for turf wars, agreeing earlier this year to collaborate with the CFTC. The president’s son, Donald Trump Jr., advises both Kalshi and Polymarket, and the venture firm in which he is a partner, 1789 Capital, has invested in Polymarket.
+Still, that hands-off approach to prediction markets may not last beyond this administration. “Where a future CFTC will go with these determinations, that’s very difficult to predict,” said Jon Ammons, a partner at Reed Smith who works on prediction markets issues."
+The Hot New Way to Communicate with AI? Whispering,2026-05-27T14:01:14Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/hot-new-way-communicate-ai-whispering,"If you wander into the Manhattan office of AI startup
+Basis
+on a workday, you’ll see most of its 100 or so staffers whispering quietly into gooseneck microphones at their desks.
+They aren’t taking phone calls or talking with other humans at all. They’re speaking softly to their AI agents and chatbots.
+Such whispering has become a common sight at firms working at the bleeding edge of the field.
+Speed is one reason.
+Typing commands to the agents is often slower than speaking to them, employees at Basis and other AI startups have found.
+That’s because the commands can be long. AI agents have limited memory compared to their human counterparts, so humans often need to remind the agents of lots of relevant facts, such as their company’s specific branding or the broader goal of a marketing campaign that the agents are executing
+,
+said
+Mitch Troyanovsky
+, co-founder of Basis, which develops AI agents for handling accounting tasks.
+People at his company have started braindumping out loud to the agents through microphones, doing everything from giving instructions to a coding agent like
+Codex
+or
+Claude Code
+to telling their
+OpenClaw
+-powered agent to send an email, Troyanovsky said.
+The microphones Basis uses are powerful enough to pick up whispers, which means dozens of employees can use them side by side without disturbing each other, he said.
+The gooseneck microphones are becoming hard to find; the ones Basis uses are sold out for another month on Amazon, according to the site.
+Image courtesy of Basis
+Talking to AI is more natural than typing at it, researchers at
+OpenAI
+and
+Thinking Machines Lab
+have argued, because humans primarily communicate through speech.
+Many popular AI agents and chatbots including Codex and Claude Code, already have a voice mode. OpenAI is working on a more
+natural-sounding voice AI model for its future personal AI device
+. And Thinking Machines earlier this month previewed a new kind of AI called an “interaction model” that can process video, audio and text, perceiving and responding simultaneously.
+After they’re widely released, these sorts of new models could accelerate the trend of people talking to their AI.
+Employees at companies such as Basis use voice dictation tools like
+Wispr Flow
+to transcribe their speech for any app. (Wispr Flow was one of
+The Information’s 50 Most Promising Startups
+last year and is currently in talks to raise a boatload of new funding, Bloomberg reported earlier this month.)
+If Thinking Machines’ interaction models take off, you could imagine the AI sitting in on corporate meetings and brainstorming sessions where it can analyze and respond to what employees are writing on whiteboards as well as what they’re saying to each other.
+Here’s what else is going on…
+People on the Move
+ServiceNow
+Chief Marketing Officer
+Colin Fleming
+said Tuesday that he is leaving the IT services software giant for
+OpenAI
+, where he will
+assume the role of CMO
+for its business segment.
+Big Number
+Micron’s
+stock price rose 19% Tuesday to reach a market capitalization of over $1 trillion for the first time after
+UBS
+predicted the stock could more than double over the next year due to soaring demand for its memory chips.
+Policy Watch
+The Department of Homeland Security
+and the
+FBI
+are increasingly surveilling anti-technology extremists, including protests against AI, according to documents obtained by Wired.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Fireworks AI
+, which helps businesses run AI models, is in talks to raise a new funding round that would value it at $15 billion co-led by
+Index Ventures
+, Bloomberg reported.
+Baseten
+, which rents out
+Nvidia
+AI servers to application developers and helps them train, customize and run primarily open-source AI models, has recently been in talks with investors to raise $1 billion at an $11 billion valuation including the money, The Information
+reported
+.
+OpenRouter
+, which provides an interface to give developers access to different AI models, raised $113 million in a Series B funding round led by
+CapitalG
+. The Information first broke the round
+here
+.
+Catena Labs
+, which provides AI banking software, raised $30 million in a Series A funding round led by
+Acrew Capital
+and
+a16z crypto
+.
+NavigateAI
+, a San Francisco-based AI platform for the construction and real estate industries, raised $25 million in funding led by
+Elad Gil
+.
+Perceptic
+, which uses AI for pharmaceutical drug development, raised $12 million in a seed funding round led by
+Accel
+, Fortune reported.
+Human Archive
+, which hires gig workers in India to record their actions using first-person cameras to sell training data to robotics companies, raised $8.2 million in a funding round from investors including
+Wing Venture Capital
+,
+NVP Capital
+and
+Y Combinator
+.
+Qualcomm
+reached a deal to supply AI chips to
+ByteDance
+, Bloomberg reported."
+"Polymarket Wants Traders to ID Themselves as It Faces Sanctions, Legal Risks",2026-05-27T13:00:33Z,Michael Roddan,https://www.theinformation.com/articles/polymarket-wants-traders-id-faces-sanctions-legal-risks,"In Russia, making bets on Polymarket isn’t permitted by the popular online prediction market’s rules. But that hasn’t stopped Ruslan Kashaev, a software developer who lives in the small Russian city of Ufa, a 15-hour drive from Moscow, from turning the site into a lucrative source of income.
+Using automated trading bots hosted on the Telegram encrypted messaging service, Kashaev has convinced thousands of Russian-speaking traders to bet on Polymarket. Kashaev’s website and YouTube channel, Russian Polymarket, promotes strategies to Russians seeking big, fast returns on the prediction market: “For every 10,000 rubles, that’s about 4,000 rubles in profit every 3–4 days.” He makes money by charging fees for people to use his bots.
+Kashaev is one of many software developers, online financial influencers and day traders tapping into Polymarket’s Panama-based prediction market from countries where users are legally barred. Polymarket says users in 33 different countries can’t bet on the platform “due to regulatory requirements and compliance with international sanctions.”
+Some are in legally risky jurisdictions such as Russia, where certain financial institutions and individuals are under U.S. sanctions, or Iran, which is subject to a total U.S. embargo. Traders in those countries bet on everything from the weather to the Iranian war.
+Until recently, Polymarket turned a blind eye to traders like Kashaev. Part of the site’s appeal to a subset of users, in fact, has been its relaxed approach to identifying its customers. Unlike its rival Kalshi, which has mandatory identification for its customers, Polymarket has long opted to allow anyone to sign up with only an email.
+Now, though, Polymarket is starting to clamp down. The site has made it harder to use a virtual private network, software that encrypts the connection between users and the internet, to access the site. It does so by blocking certain IP addresses—those that websites have learned over time are used by VPN providers—and blocking accounts with suspicious connection patterns.
+Polymarket is also now asking some customers to identify themselves to access faster trading technology.
+Prediction market startups are booming. The key players, Polymarket and Kalshi, are starting to earn revenue from millions of bettors placing wagers on sports, elections and TV shows. Polymarket is currently raising funds at $15 billion, while Kalshi is closing a fundraising round valuing it at $22 billion.
+The platforms have threatened to upend traditional sports betting and gaming industries and are attracting a growing chorus of critics. Prediction markets are now battling an array of lawsuits from state lawmakers who argue that Polymarket and Kalshi are running illegal betting websites. Congress this month opened an investigation into insider trading on the platforms and whether attempts by the companies to enforce bans on customers in certain countries are working, warning that lawmakers may be forced to intervene.
+To make matters worse for Polymarket, the former market leader is losing ground to its younger competitor, Kalshi. The two companies have taken different approaches to regulation. Kalshi got approval from regulators to operate legally in the U.S. and now runs a licensed exchange that serves institutional traders and accesses the deep American consumer betting market.
+Polymarket, on the other hand, shifted its operations offshore in 2022 after U.S. regulators banned it. That officially cut the company off from American gamblers, although many continued to access the site using VPNs. Polymarket last year acquired a licensed U.S. exchange that could insulate the company from any potential regulatory moves to rein in offshore sportsbooks, but the launch of its regulated platform has been delayed amid engineering problems and staff turnover, The Information
+previously reported
+.
+A spokesperson for Polymarket said it had identified and permanently banned Kashaev’s account and was “thoroughly reviewing the account’s activity” in its efforts to enforce restricted jurisdictions. Polymarket said it refers cases of wrongdoing to law enforcement, maintains “a comprehensive market integrity framework” and looks forward to engaging with Congress on the investigation.
+Balancing Act
+Polymarket is walking a tightrope in its efforts to clamp down on trading volume that comes from prohibited jurisdictions. By cracking down, it risks losing business at a time when Kalshi is pulling ahead in terms of overall trading volume and equity valuation.
+The move has already upset some of Polymarket’s users, according to messages posted in the company’s Discord community forum. “What? Is this an attempt to destroy everything,” said one user. “Polymarket will go down the drain if they make KYC mandatory,” said another, using the abbreviation for know your customer, a process banks and others use to verify the identity of clients.
+In response to customer complaints, senior Polymarket engineer Mustafa Aljadery said in a post on X that the KYC checks targeted customers accessing Polymarket’s application programming interface “in certain jurisdictions” and that Polymarket “remains kyc free for all other users.”
+But if Polymarket doesn’t start enforcing its policy on prohibited jurisdictions, it risks regulatory action. Regulators in the Netherlands and other countries have already threatened it with penalties if it continues to provide an illegal gambling platform to their residents.
+Polymarket has a lot to contend with when it comes to choking off users in prohibited territories. A
+cottage industry
+of social media influencers and app developers has sprung up to coach prospective prediction markets customers on how to access Polymarket using a VPN.
+Or they can bypass the company’s tools that automatically block certain countries or regions: They can use one of the many trading interfaces hosted on Telegram that promote their ability to skirt Polymarket’s compliance controls.
+In some cases, Polymarket has signaled its appreciation to influencers in risky regions for bringing in users. Daniil Adveev, a young crypto promoter based in Moscow, said he earns referral revenue from Polymarket for driving new users to the site from Russian-speaking countries.
+Thanks to the number of customers Adveev has introduced, Polymarket recently sent a gift to him—a box of Polymarket-branded sweatshirts and hats—which he said it shipped to Russia via a friend’s address in North America.
+Adveev, who uses a VPN to access Polymarket, said the majority of his income comes from referring users to various crypto projects, and since he has been promoting Polymarket since 2025, “it’s hard to say exact numbers, but it’s a lot.”
+Another influencer is Tehran-based Exdigy, who uses a pseudonym. He makes YouTube tutorials on how to access Polymarket from Iran. Exdigy directs users to join Polymarket with his paid referral link. (Polymarket, through a partnership with marketing group Dub, has paid these kinds of affiliates 1 cent for each click on their referral links and $10 if a referred customer made a deposit.)
+Exdigy’s advice includes signing up to Polymarket with a crypto wallet that hasn’t had any contact with Iranian exchanges. “And be sure to log in with a VPN,” he says in one video. “Everyone knows this by now. A VPN, preferably a static IP. You can easily get one for this low cost.”
+Faster Speeds for ID
+Polymarket is enticing users to provide identifying information by offering them faster trading speeds. Earlier this month, it rolled out an online portal where individual customers can submit information including passports, licenses and proof of residence.
+The online forms ask Polymarket customers to verify they are not a resident of any regions prohibited by its terms of service, where governments have banned the prediction market from operating, or of countries subject to U.S. sanctions, such as Russia, Syria, Cuba and North Korea. Polymarket is also asking business users, such as developers of trading apps that plug into Polymarket, about their investors and location.
+Submitting the information isn’t mandatory. But customers who complete the forms can access Polymarket’s U.K.-based server, which offers the fastest trading speeds, giving them an advantage of milliseconds over other users.
+That advantage is important for a key subset of Polymarket customers that drive significant levels of high-speed, automated trading volume, including third-party developers that plug into the company’s API. A difference of milliseconds can make or break some trading strategies."
+Base Power in Talks to Raise Funds at $12 Billion Valuation,2026-05-29T01:39:36Z,Julia Hornstein,https://www.theinformation.com/articles/base-power-talks-raise-funds-12-billion-valuation,"Base Power, a three-year-old home-battery startup, is in talks to raise funds at a $12 billion valuation, according to a person with knowledge of the discussions.
+Ribbit Capital, which backed Base Power’s last funding round, has been in talks to lead the current round, according to two people with knowledge of the talks. Founded by Venezuelan entrepreneur Micky Malka, Ribbit is a prominent venture firm known for its fintech bets on startups like Robinhood and Coinbase.
+The figures could still change, but if the funding round closes at the valuation being discussed, it would represent a steep increase from Base Power’s last fundraise, a $1 billion round at a $4 billion valuation, as
+The Information reported
+last fall. The size of the current funding round couldn’t be learned.
+Base Power was cofounded in 2023 by Zach Dell, who previously worked as an investor at Thrive Capital and is the son of Michael Dell. Base Power makes money by managing home backup batteries and selling the excess power they store back to the grid when there’s high demand. During a grid outage, the batteries would be used as backup power sources for the homes they are housed in.
+Base Power’s cofounder and chief operating officer, Justin Lopas, previously worked as an engineer at SpaceX and head of manufacturing at Anduril. Previous investors in Base Power include Thrive Capital, Addition, Andreessen Horowitz, Lightspeed Venture Partners, Valor Equity Partners and CapitalG.
+Base Power tells homeowners that it helps them access backup electricity more cheaply and reliably than other, more common options like diesel generators or solar energy stored in batteries. Its customers pay about $700 to $1,000 for battery installation, as well as monthly energy bills and membership fees, which range from $19 to $29 a month, according to the company’s website. As of last October, Base Power had deployed enough battery capacity to power 33,000 U.S. homes for an hour, according to the
+New York Times
+.
+Last year, the Austin-based startup
+began temporarily moving
+its battery production operations into a building that was once home to the Austin American-Statesman, a major Texas daily newspaper, though it planned to later find a permanent home.
+Base Power has partnered with homebuilders such as Lennar Corporation and,
+recently
+, a local Texas energy distribution utility to expand its residential battery program to more homes. Base Power recently
+expanded
+into Illinois, where its head of policy and market strategy said it plans to help offset energy demand at data centers. The startup’s revenue couldn’t be learned."
+"Boomers, Beware of SpaceX Stock",2026-05-28T23:59:34Z,Anita Ramaswamy,https://www.theinformation.com/newsletters/the-briefing/boomers-beware-spacex-stock,"Greetings! Anita here.
+It’s been a relatively slow week for SpaceX news, but that will soon change. Musk’s rocketship company is expected to launch its investor roadshow next week ahead of a mid-June IPO. The milestone will likely usher in a flood of giddy headlines and a lot of debate on Reddit forums and cable TV on whether individual investors should buy in. The answer: It’ll make sense for day traders and younger investors. But Boomers could get burned.
+One reason is the high volume of shares available for individuals to buy in the offering, which Reuters reported could be as high as 30%, or triple the portion typically reserved in public debuts. Those shares available to investors on Robinhood and other stock apps could pave the path for some pretty wild share price volatility following SpaceX’s debut.
+While anyone can trade around volatility, investing in SpaceX at a near-$2 trillion valuation—the high end of chatter about its expected IPO price—wouldn’t be great for, say, a retirement-aged investor. There are a few different paths SpaceX could take to eventually grow into, or even past, such a high valuation. The problem is that none of them are likely to materialize soon.
+For instance, a $2 trillion valuation would amount to 107 times last year’s revenue of nearly $19 billion. Palantir, the most expensive software stock, trades at around 40 times next year’s revenue. Let’s say that SpaceX, given investors’ conviction in Musk, can similarly fetch a multiple of 40 times forward revenue. Using that multiple, it would need to generate around $50 billion in sales to justify a $2 trillion valuation – something Pitchbook analyst Franco Granda predicted in a recent report would only happen after 2030 (though he didn’t include xAI, which contributed $3.2 billion to SpaceX’s top line last year).
+That SpaceX can command such a high multiple is plausible, Granda wrote, “but investors should understand that they are paying for 2030 economics at 2026 prices.” Not to mention there’s always the possibility that analyst forecasts are overly optimistic.
+In its launch business, which generated just over $4 billion in revenue last year, SpaceX has yet to demonstrate it can make a viable, fully-reusable rocket. Its Starlink satellite internet business, whose revenue grew by almost 50% in 2025 and made up the biggest share of the $18.7 billion total, could edge out legacy telecom companies such as AT&T and Verizon. But that will take time. SpaceX says the total potential market for its xAI artificial intelligence unit is $26.5 trillion, but for now xAI is bleeding money and revamping its business model.
+That’s fine for Gen Z investors who don’t need to worry about income (like retirees do) and aren’t afraid to take risks, unlike the Millennials and Gen Xers who are fretting about housing down payments or college tuition.
+One twenty-something investor told me he plans to buy SpaceX shares when they are publicly available because the opportunity is akin to one of the hallmarks of global capitalism: the VOC. More commonly known as the Dutch East India Company, that company dominated the Dutch stock market through the 18th century because it had tentacles in many different corners of global trade, including spices, textiles and coffee.
+“These things have happened before and they can happen again. I don’t want to rule that out for a lack of imagination,” he said.
+Indeed, SpaceX bulls are betting the company’s diversification will allow Musk to realize the near impossible. It can, in theory, use the massive data centers it is building for a variety of different needs, from renting them out to other compute-constrained AI firms (as it’s doing with its recent deal with Anthropic for $1.25 billion per month) to using them to serve its own models if its Grok chatbot surged in popularity.
+SpaceX could also use its new public stock to buy Musk’s Tesla carmaker in addition to finalizing its planned
+$60 billion acquisition
+of coding assistant Cursor. Both would expand SpaceX’s revenue and potential market.
+Imagination, even more than patience, is always the hallmark of the Musk investor.
+Anthropic’s New, Deep-Pocketed Backers
+Anthropic just became the world’s most valuable startup with its latest funding round that priced the firm at $900 billion before the new money. That’s partly thanks to investments from memory-chip makers—Micron, Samsung and
+SK Hynix
+—whose stocks have all rocketed by several hundred percent over the last year amid surging demand for their products from AI firms. In backing Anthropic, they are taking a page from Amazon and Alphabet’s books; both firms have invested in the model builder before in exchange for commitments that Anthropic would spend money on their cloud services.
+Given the backdrop of how AI deals have evolved, it was only a matter of time before the three firms, which together make up almost 90% of the global market for memory chips that help pipe data to GPUs and CPUs for faster data processing, started using their cash to prop up large customers.
+All three memory chip makers are newly flush with steady streams of cash flow from AI customers. Micron ended the February quarter with $13.9 billion in cash and equivalents on its balance sheet, 84% more than it had at the same point a year ago.”
+Samsung and SK Hynix, meanwhile, both have positive cash balances that have grown in the last few quarters. SK Hynix had $23 billion in excess cash, after subtracting outstanding debt, in the March quarter, compared to the same time last year, when it had more debt than cash.
+It’s possible the relationship between Anthropic and the three chipmakers goes deeper than capital alone, and that they are partnering to build technology that reduces Anthropic’s dependence on Nvidia for chips outside of the GPUs for which Nvidia is best known.
+I
+wrote in December
+that OpenAI’s deals to secure memory chips from Samsung and SK Hynix would give the model maker more control over its access to those scarce chips, even though it can theoretically get them from Nvidia alongside GPUs. In forging its own direct relationship with these manufacturers, Anthropic is taking a similar tack. Unlike OpenAI, Anthropic is getting capital to grow its business in return.
+As the memory makers continue to generate more and more cash, it wouldn’t be surprising if their circular relationships with model builders get even deeper.
+In Other News
+• Anthropic also
+announced its new flagship AI model
+, Claude Opus 4.8, which showed improvements in standardized AI performance evaluations in coding, financial analysis and other fields.
+• SpaceX is
+committed to renting its data center capacity
+to Anthropic for 180 days, though it could extend the deal for longer, SpaceX CEO Elon Musk said Thursday.
+• Dell’s shares
+rocketed nearly 40%
+in after-hours trading after the company reported that revenue grew 88% in its latest quarter as demand for AI poured jet fuel on its server, storage and networking businesses.
+• The Illinois legislature
+passed a bill
+that would require major AI companies to submit their model safety plans for third-party audits, as well as create whistleblower protections for those companies’ employees."
+"Big Law’s AI Threat to Harvey, Legora",2026-05-28T23:47:01Z,Julia Hornstein,https://www.theinformation.com/newsletters/dealmaker/big-laws-ai-threat-harvey-legora,"Despite fears that advanced tools from Anthropic and OpenAI would soon make legal apps like Harvey and Legora irrelevant, recent revenue milestones at those startups suggest they are doing just fine. But a fresh assault on their business is brewing: Some law firms now want to develop their own AI apps with frontier model companies like Anthropic or OpenAI rather than just purchase apps from smaller legal startups.
+Kirkland & Ellis, the biggest law firm by gross revenue last year, said this week that it plans to spend $500 million to develop its own AI apps for a wide range of tasks while continuing “to spend on licences to use third parties’ AI tools,” the Financial Times reported Wednesday.
+London-based law firm Freshfields previously said it would help Anthropic, a client, develop a legal AI tool for its 4,000 attorneys in exchange for early access to the company’s models. Freshfields last year made a similar deal with Google to make legal AI products.
+Such AI activity might seem out of left field for big law firms, which were once considered AI luddites. But many are already using AI from Harvey, Legora and others for due diligence, contract review and document drafting to expedite tedious tasks. And some of the most competitive law firms now appear less willing to use the same apps as their competitors.
+That threat hasn’t seemed to slow Harvey and Legora, the two legal AI frontrunners. Harvey is generating roughly $300 million in annual recurring revenue, CEO Winston Weinberg said in a Reddit-moderated interview Wednesday, up almost 60% from January. Legora surpassed $100 million in ARR in April, 18 months after launching its product publicly. (Recurring revenue usually refers to the value of existing software subscriptions or contracts over the next 12 months.)
+If the biggest law firms follow Kirkland’s lead and start developing their own AI apps, however, Harvey and Legora could lose some business. To be sure, a lot of smaller law firms and corporate legal departments won’t follow Kirkland’s lead because they don’t have hundreds of millions of dollars to spare.
+Big Number
+Anthropic’s latest funding round, which raised
+$65 billion at a $900 billion valuation
+before the investment, means that it’s hauled nearly three-quarters the cash of OpenAI—an impressive feat given the company is about five years younger.
+Here are some key stats:
+Total funding
+Anthropic >$130 billion
+OpenAI  ~$180 billion
+Valuation (before the investment)
+Anthropic $900 billion
+OpenAI $730 billion"
+Lowe’s Says ‘Semantic’ Data is Boosting Its AI Agents,2026-05-28T20:09:41Z,Kevin McLaughlin,https://www.theinformation.com/newsletters/applied-ai/lowes-says-semantic-data-boosting-ai-agents,"Microsoft, Databricks, SAP and other AI software providers are fighting over control and access to enterprise data known as the semantic layer,
+as we reported last week
+.
+Semantic layers are essentially a data management tool that companies use to standardize definitions for their business metrics, such as revenue and customers, and are now enabling AI to work more accurately and efficiently inside enterprises.
+Retailer Lowe’s, for instance, recently began using its semantic layer and another tool that defines how different types of corporate data are connected to each other—knowledge graphs—to improve how its AI agents help customers with orders or helping store managers coordinate the day-to-day work that employees do in stores, said Chandhu Nair, a senior vice president.
+Lowe’s runs an AI-powered shopping assistant for customers and an AI sales coach for its employees, both of which it developed with OpenAI over the past couple of years. Lowe’s also developed a customized agent that helps its finance teams verify that invoices are processed accurately, which is important because of the volume of invoices it handles as the fifth-largest importer in the U.S., Nair said.
+Tapping the semantic data and knowledge graphs became possible due to open-source tools the company used to develop its internal AI platform, which it uses for everything from developing agents to tracking employees’ token consumption. Advanced reasoning models and agent-development tools from OpenAI, Anthropic and Google, which are Lowe's main AI providers, also improved the capabilities of the platform, said Nair.
+If a Lowe’s AI agent detects that a customer’s order is delayed, he said, it can work with other systems that track order information, inventory levels and data about product availability from suppliers to identify a more precise cause of the delay and suggest ways to fix the problem, Nair said. (If that sounds similar, it’s because a sensor component firm
+in this story last week uses AI for a similar purpose involving its supply chain
+.)
+Lowe‘s also uses multiple agents to coordinate and maintain product inventory levels during times of heavy demand, such as promotions, which isn’t possible without the contextual data it is now able to use, said Nair.
+“If the merchandising team, the promotions team, and the inventory team have the same context about the decisions they make, they can make much more effective decisions,” he said. “That is a critical part of how we run our business today, and that context layer is a differentiating factor.”
+Another potential benefit of contextual data is that it could make agents cheaper to run, as they don’t have to “think” as much to make decisions, though Nair said it’s too early to tell if Lowe’s AI costs are dropping after giving its agents access to this kind of data.
+But there’s no doubt that giving AI better data to work with will be necessary to convince large companies to expand AI budgets at a time when many customers,
+including sophisticated ones like Uber
+, are still struggling to measure a return on their AI investments.
+Salesforce’s Subscription Revenue Split and What it Could Mean
+Salesforce did a curious thing in its first earnings report for its fiscal 2027, splitting its subscription revenue products into two buckets. One of them contains older applications like Slack, customer management and marketing automation while the other includes newer products like Data 360 (formerly known as Data Cloud) and Headless 360, a recently unveiled set of tools that lets customers use AI agents from companies like Anthropic to access their Salesforce data.
+The two new buckets show Salesforce is trying to transition from selling traditional business applications to products that customers can use to develop and use agents that, for example, process invoices and resolve customer service inquiries. Revenue for Salesforce’s traditional applications grew around 9% in its April quarter compared to last year, while its AI products grew around 25% during that period. (The newer AI products haven’t boosted its overall sales growth much, however. Read more
+here
+.)
+Vernon Keenan, a software industry analyst who covers Salesforce, sees the move as a way to highlight the growth of its AI products. “By isolating seat-based revenue into a new bucket, Salesforce is making a slight nod to the SaaSpocalypse by making sure growth in agentic consumption won’t get diluted by the expected decrease in the number of seats sold over time,” he said."
+The AI Boom’s Pricey Middle,2026-05-28T20:08:07Z,The Information Staff,https://www.theinformation.com/articles/ai-booms-pricey-middle,"Baseten’s talks to raise fresh funding at an $11 billion valuation are the
+latest sign
+that investors are betting the messy work of helping developers run AI models can become one of the next big businesses in AI.
+That boom has lifted a group of companies including Baseten, Fireworks AI, Together AI and Modal. These startups give customers access to GPU capacity and offer software that makes AI models easier to customize and deploy, and have seen revenue surge recently. The question now is how durable that revenue will be as competition heats up and customers learn to do more of the work themselves.
+Inference providers sit between developers, model makers and the cloud providers that supply much of the underlying computing power, which has been a valuable position as companies rush to put models into production. But competition can push prices and margins lower, making it more important for these companies to prove they offer something customers cannot easily get elsewhere. Deep Research analyzed how inference providers can keep supporting fast growth and high valuations, and what could still cause them to get squeezed out of the equation.
+Deep Research Prompt
+Evaluate the role and prospects of inference providers like Baseten, Fireworks, Together and Modal in the broader AI infrastructure ecosystem. Map out the biggest known customers of inference provider startups. Identify risks and opportunities for the business models of inference providers.
+Deep Research Response
+The artificial intelligence inference sector has transformed from a niche category with questionable unit economics into one of the most explosive segments of the AI infrastructure ecosystem. Inference providers—notably Baseten, Fireworks AI, Together AI, and Modal—fill a critical gap: they rent out Nvidia servers to application developers and provide the software scaffolding needed to easily customize and run open-source models like Meta’s Llama, Mistral’s Mixtral, and Alibaba’s Qwen.
+While the core of their business resembles standard cloud reselling, these startups have differentiated themselves by allowing developers to bypass the high costs and complexity of managing AI infrastructure directly. However, despite their massive revenue growth, inference providers face structural threats regarding their gross margins and the looming shadow of mega-cap cloud providers.
+The Role and Current Prospects
+The prospect for inference providers has shifted dramatically over the past year. In early 2024, skeptics warned that inference startups risked getting steamrolled by traditional cloud providers. But by early 2026, the explosion of applications built on open-source AI models catapulted these companies to staggering valuations.
+1,2
+To understand their scale as of May 2026:
+Together AI
+reached approximately $1 billion in annualized revenue by March 2026, raising funds at an $8.5 billion post-money valuation.
+Fireworks AI
+passed $800 million in annualized revenue in May 2026 (more than double its October 2025 pace) and entered talks to triple its valuation to $15 billion.
+Baseten
+reached $600 million in annualized revenue by the end of Q1 2026—a 20-fold increase year-over-year—and has been in talks to raise $1 billion at an $11 billion valuation.
+Modal
+saw its annualized revenue balloon to more than $300 million by the spring of 2026, jumping five times from the previous fall, and recently raised at a $4.65 billion valuation.
+View full chart: Inference Engine
+As the chart illustrates, the velocity of capital flowing into these platforms reflects an immense developer appetite for open-source model execution.
+The Customer Map
+The customer base for inference providers tends to segment based on the specific optimizations each provider offers:
+Fireworks AI
+has ridden the coattails of some of the fastest-growing AI application startups. It relies heavily on high-volume developers, with its revenue aided significantly by mega-customers like AI coding assistant
+Cursor
+and AI search engine
+Perplexity
+.
+3,4
+Modal
+specifically targets startup developers who prioritize “developer experience” and fast iteration, offering unique environments to quickly get models up and running.
+4,5
+Baseten
+leans more heavily toward enterprise customers, focusing heavily on allowing larger organizations to securely use their own proprietary data to fine-tune open-source models.
+4,5
+The Business Model: Risks and the Margin Squeeze
+While their top-line growth is staggering, the fundamental business model of an inference provider comes with financial risks:
+1. The Reseller Margin Squeeze:
+Unlike traditional cloud providers that own their hardware, inference startups generally rent GPUs from larger providers (like CoreWeave or AWS) and then sublease them to developers. This deeply depresses gross profit margins. For instance, in early 2024, Modal’s gross margin was roughly 10%, while Fireworks hovered around 50%—a far cry from the 70%-plus margins typical of traditional SaaS businesses.
+4
+The scarcity of AI chips, driven by mega-buyers like Anthropic and OpenAI, has repeatedly pushed up spot prices, further squeezing the middleman.
+2
+2. Utilization Pressures and “Noisy Neighbors”:
+To ensure they can handle sudden spikes in their customers’ application traffic, inference providers must keep up to half of their rented servers unused at any given time. Conversely, because many developers share the same API (to allow providers to “batch” queries and save money), a spike from one customer can slow down inference speeds for others—a problem known as “noisy neighbors.”
+4,6
+3. Price Wars and Big Tech Encroachment:
+Because the underlying open-source models (like Llama or Mixtral) are identical across platforms, differentiation is difficult. This has led to aggressive price wars. For example, when Mistral released Mixtral in December 2023, inference startups drove prices down from $2 per million tokens to 27 cents in just days, with some subsidizing the cost below profitability using their venture funding.
+6
+Furthermore, Nvidia itself is becoming a direct competitor. In March 2026, Nvidia acquired inference provider Lepton AI and used it to launch a GPU cloud marketplace that effectively competes with startups like Fireworks.
+3
+Opportunities and Strategic Pivots
+To survive the margin squeeze, inference providers are pivoting away from pure compute resale and moving up the software stack:
+1. Premium Enterprise Services:
+Inference startups are looking to offer products they can charge a premium for. Baseten, for example, acquired the startup Parsed in December 2025 to help enterprise customers easily fine-tune open-source models with their proprietary data. Modal’s growth is heavily tied to a “sandbox” product that allows developers to safely run AI agents and execute code without risking their core codebase.
+1,2
+2. The DeepSeek Tailwinds:
+The release of highly capable, ultra-cheap Chinese models like DeepSeek V3 in early 2025 presented a massive opportunity. Because U.S. enterprises refuse to send their proprietary data to Chinese servers due to security risks, developers flocked to third-party providers like Together AI to run DeepSeek locally and securely. Together AI reworked its software to spread the massive DeepSeek model across dozens of Nvidia chips, serving as a vital bridge between foreign open-source innovation and domestic data security.
+7
+3. Consolidation and M&A:
+Finally, the inference layer is ripe for consolidation. The underlying work these startups do on chip optimization—getting Nvidia GPUs to run faster and communicate more efficiently—makes them highly attractive acquisition targets. Our reporting indicates that major cloud providers like CoreWeave and model makers are closely monitoring these startups to internalize their efficiency gains.
+3,8
+Ultimately, while the current revenue multiples are astronomical, the long-term survival of Baseten, Fireworks, Together, and Modal relies on their ability to transition from being simple GPU tollbooths to becoming indispensable, high-margin software infrastructure platforms.
+The Information Sources
+Boom Times for Inference Providers?
+AI Inference Provider Baseten in Talks to Raise $1 Billion at $11 Billion Valuation
+AI Cloud Startup Fireworks Discusses $4 Billion Valuation Deal With Lightspeed, Index
+Another AI Cloud Startup Becomes a Unicorn
+A Shakeout is Coming for Inference Startups
+Why Nvidia and CoreWeave Want to Buy AI Inference Startups
+Is DeepSeek an Extinction Event?; A New Reasoning-Focused AI Lab Lands Funding"
+The AI Data Center Boom Ignites a Tear in Lithium Shares,2026-05-28T16:00:48Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/ai-data-center-boom-ignites-tear-lithium-shares,"Investors fled the stock of
+lithium mining companies in 2022 and 2023, when the metal’s price plunged about 90% and mines shut down globally. Now they have piled back into the category. The reason: a boom in lithium-ion batteries used to power AI data centers and the electricity grid, and the possibility that high gasoline prices will trigger a jump in electric vehicle sales.
+Over the last year, shares of South Carolina–based Albemarle, the world’s largest lithium miner, have soared 202%; Chilean lithium miner SQM’s shares have gone up 156%; and Australian miner PLS Group’s, a whopping 376%.
+Investors are reacting because the miners are suddenly profitable again, with lithium now selling for roughly $25 a kilogram, three times the price in November.
+That ebullience, however, masks a sustained underlying fear that lithium’s bad days may not be over. A significant reason for the 2022–23 lithium crash was a flood of Chinese lithium onto the global market, and some analysts predict that miners from China and other countries will once again deluge the market and send lithium prices back down.
+For now, though, lithium companies have begun to reopen closed mines and are spending to develop new ones.
+On Monday, Australian miner Mineral Resources said it and Chinese miner Ganfeng Lithium would spend $352 million to develop a new section of Mount Marion, an existing lithium mine in Western Australia. Mineral Resources made the announcement a week after saying it would reopen Bald Hill, a lithium mine in Western Australia that it shut down 18 months ago.
+Last week, Core Lithium said it would reopen the Finniss lithium mine in Australia’s Northern Territory two years after closing the operation.
+“The market’s superexcited about lithium because this time last year, it was bleak. It was terrible. Everyone wanted to slit their wrists,” said Howard Klein, founder of RK Equity, a firm that researches battery metals.
+Lithium’s rebound reflects the reality that regardless of laggard EV demand in the U.S., the metal is key in the batteries of virtually every major electronic device—smartphones, drones, laptops, humanoid robots, satellites, you name it. Lithium-ion batteries help power AI data centers and homes. Lithium is attractive for such uses because it’s the lightest metal on the periodic table and holds an exceptional amount of energy for its weight.
+The recovery in the lithium market is also part of a new boom across metals and fuels as investors reawaken to the enduring and powerful role of traditional industrial commodities in the global economy.
+Oil is the most prominent example: Until the Iran war, investors seemed to almost forget how much cash major oil companies could generate. Alongside oil, the prices of most major battery metals have soared for various reasons, mostly involving local politics in places where the mining takes place, like Zimbabwe and Indonesia. Nickel prices are up about 25% over the last year, and cobalt is up about 67%.
+President Donald Trump’s metals nationalism has contributed to the general euphoria around the sector. In October, for instance, the Trump administration approved a
+$2.2 billion government loan
+to Nevada-based Lithium Americas. As part of the deal, the U.S. received a 5% stake in the company and a separate 5% stake in Thacker Pass, Lithium Americas’ giant lithium mine. At the time, the company’s shares rose 23% on the news. While its share price has since come down, it is still up 80% over the last 12 months.
+Trump is generally hostile toward EVs but backed the loan because the military uses vast numbers of lithium ion batteries.
+The last peak of lithium prices came in November 2022, when they rose to around $80/kg. The spike reflected a battery mania as industry veterans had forecast massive EV demand and a gigantic shortfall of lithium over the 2020s.
+But that shortfall did not materialize, and lithium prices began to decline steeply, reaching around $8/kg in early 2024. The main cause was an unexpected surge in the supply of lithium obtained from lepidolite, a rock in China’s Jiangxi province. Western lithium analysts had ridiculed the idea of lepidolite as a viable contender because the average concentration of lithium in it is extremely low and it is expensive to mine.
+But Chinese companies figured out that they could profitably sell numerous byproducts from the mining, said Chris Berry, president of House Mountain Partners, a metals research firm.
+Now some analysts are forecasting a surge of supply from Jiangxi. In a
+report last week
+, Benchmark Mineral Intelligence, a battery metals research firm, predicted that Jiangxi’s lepidolite would feed a lithium surplus starting next year and lasting at least until 2030. One of the main factors in its forecast is resumed production at a large Jiangxi lepidolite mine owned by Contemporary Amperex Technology Ltd., the world’s biggest battery producer, said Cameron Perks, Benchmark's product director for lithium.
+“You know what happens when the Chinese get onto a bandwagon and they’re all like, ‘I’ve got to produce, I’ve got to produce, I’ve got to produce.’ That’s what’s happening,” said Matt Fernley, a partner at RK Equity."
+Microsoft to Release New Coding Model Next Week in Comeback Attempt,2026-05-28T14:00:47Z,Aaron Holmes,https://www.theinformation.com/newsletters/ai-agenda/microsoft-release-new-coding-model-next-week-comeback-attempt,"Microsoft
+next week will unveil a suite of new homegrown AI models at its annual
+Build
+conference for app developers in San Francisco. The question is whether it can win over these people.
+The company plans to unveil a coding model to boost the competitiveness of Microsoft-owned
+GitHub Copilot
+, a coding assistant whose
+early lead in the AI coding market was eroded
+by
+Cursor
+and
+Claude Code
+, according to someone with direct knowledge of the plans.
+Microsoft also is planning to announce new models that come in various sizes and specialize in tasks like transcription, thinking (i.e. reasoning), speech and images, the person said. The family of models will build on the earlier homegrown models that Microsoft previewed earlier this year. (Speech and transcription are becoming a big deal among developers, as Stephanie described
+in vivid detail in Wednesday’s edition
+.)
+A Microsoft spokesperson declined to comment. Microsoft AI chief
+Mustafa Suleyman
+, in his excitement, previewed one of the forthcoming image models focused on image generation on Tuesday.
+It’s an important test for Microsoft’s in-house AI capabilities. Models launched by the team under Suleyman haven’t topped AI leaderboards since he joined the company two years ago; Suleyman has said he was restricted in training cutting-edge models by Microsoft’s deal with
+OpenAI
+,
+which prevented Microsoft from pursuing human-level AI before April
+, when the companies renegotiated the matter.
+So far, Microsoft has primarily relied on models from OpenAI (which it gets for free through 2032) and
+Anthropic
+(which it pays for) to power its GitHub Copilot as well as its
+365 Copilot
+software, which automates tasks within
+Office
+apps.
+When Microsoft loses access to OpenAI’s technology in six years or so, it wants to have legit AI of its own so it isn’t beholden to pricey suppliers.
+Microsoft will market its new models as cheaper than the slightly more capable ones from OpenAI and Anthropic, the person said. That mirrors how Microsoft has positioned some of its earlier homegrown models, and
+is similar to Google’s strategy
+. Of course, we won’t be able to take Microsoft’s word about the new AI capabilities until developers confirm them.
+Microsoft has said it is using some homegrown models to power AI features in Copilot software for Office apps, driving down the cost of running the features. The new models are expected to also help in that regard, said the person with knowledge of the launch.
+The company also wants developers to buy the new models through its Azure cloud the same way they buy access to OpenAI and Anthropic models.
+Relying on models from Anthropic has prompted Microsoft to raise the prices of some products, such as GitHub Copilot, and cap how much developers can use Anthropic models through that product. If Microsoft’s in-house coding model can serve as a cheaper alternative to
+Claude
+, it could help Microsoft win back market share among cost-conscious developer customers.
+In other news..
+Fireworks AI’s
+annualized revenue has passed $800 million, its CEO said on X. The startup, which provides GPU servers and software to customize open-source models, is the latest inference startup to report booming revenue. The company is in talks to raise at a $15 billion valuation, according to a person familiar with the fundraise.
+Here’s what else is going on…
+Earnings Report
+Shares of
+Snowflake
+rose more than 30%
+late Wednesday after the database provider surpassed its earlier forecast for product revenue—its most closely watched sales metric—by around $125 million for the first quarter ending April 30. The company raised its full-year product revenue target by $180 million to $5.84 billion.
+Big Number
+Chinese social media giant
+Kuaishou Technology
+said on Wednesday that its
+Kling AI
+video business reached an annualized revenue of
+about $500 million
+in March.
+Policy Watch
+The Illinois legislature passed state bill
+SB 315
+, which creates transparency requirements for leading AI companies, following similar bills in California and New York. The Illinois bill goes further by requiring annual third-party compliance audits.
+Anthropic
+and
+OpenAI
+endorsed the bill.
+Governor JB Pritzker
+said
+he intends to sign it.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+ByteDance
+is considering
+more than doubling
+its capital expenditures this year to as much as $70 billion, as the Chinese tech giant ramps up its investment in data centers and other AI infrastructure, Bloomberg reported.
+Database firm
+Snowflake
+said it has committed to
+spending $6 billion
+on
+Amazon Web Services
+over the next few years, including using Amazon’s
+Graviton
+chips and AI infrastructure.
+Coding startup
+Cognition
+raised more than $1 billion
+in a funding round that valued the company at $26 billion including the investment, led by
+Lux Capital
+,
+General Catalyst
+and
+8VC
+. That’s nearly double its valuation from its last fundraise, which valued the three-year-old company at about $10 billion eight months ago. Cognition said that its annualized revenue has grown to $492 million from $37 million last May, and it expects to cross $1 billion later this year.
+OpenAI’s
+foundation will
+grant $250 million
+in funding to promote research into the impact of artificial intelligence on the economy and jobs, the company said in a blog post on Wednesday.
+Pace
+, which uses AI to automate tasks for insurance companies, raised $46 million in a Series B funding round at a $375 million valuation, led by
+Thrive Capital
+and
+Sequoia Capital
+.
+LightTable
+, a Denver-based developer of AI-powered construction quality control software, raised $22 million in Series A funding led by
+Innovation Endeavors
+.
+Triomics
+, which uses AI to automate office tasks for oncologists, raised $22 million in a Series B funding round led by
+Battery Ventures
+.
+Solstice
+, a New York City-based marketing agency that uses AI to market pharma brands, raised $21 million in Series A funding led by
+Transformation Capital
+.
+Tensormesh
+, which helps businesses run AI models more efficiently by storing past queries, raised $20 million in a seed extension funding round from
+AMD Ventures
+,
+CoreWeave
+,
+NVentures
+,
+Valley Capital Partners
+and
+Laude Ventures
+.
+General Compute
+, an inference provider, raised a $15 million seed round at a $60 million post-money valuation led by
+FUSE VC
+.
+RevEng.AI
+, which uses AI to detect security vulnerabilities in binary computer code, raised $15 million in a Series A funding round led by
+NATO Innovation Fund
+.
+Trajectory
+, which aims to continually customize AI models on new data for businesses, raised $15 million in a seed funding round at a $115 million post-money valuation from investors including
+Conviction
+,
+Bessemer Venture Partners
+and
+Radical Ventures
+.
+Meta Platforms
+is
+launching paid subscriptions
+for its AI chatbot across
+Facebook
+,
+Instagram
+, and
+WhatsApp
+as it looks to monetize its investments in artificial intelligence. The plans will come in two tiers:
+Meta One Plus
+, priced at $7.99 per month, and
+Meta One Premium
+, priced at $19.99 per month. The subscriptions are initially rolling out in Singapore, Guatemala, and Bolivia, with additional countries expected to follow.
+Amazon
+is now offering its
+Alexa for Shopping
+technology
+to other retailers
+through
+Amazon Web Services
+. The new product is called
+AWS Agentic Shopping Assistant
+. In an announcement on Wednesday, Amazon gave the example of
+Kate Spade
+building a shopping agent using AWS products and
+Anthropic
+models.
+OpenAI
+announced a series of election initiatives to provide up-to-date polling data and voter registration information. OpenAI also offered its cybersecurity coding agent to the companies that manufacture voting systems in the U.S.
+Robinhood
+introduced an AI feature, giving customers the ability to
+Claude
+or
+Cursor
+make trades using their own investment accounts.
+ElevenLabs
+introduced
+Music v2
+, a new audio model that’s better for tweaking individual sections of an AI-generated song.
+Amazon
+announced a
+GenAI Creators’ Fund
+to give creators access to its AI video software and announced the first three shows from the fund, which will debut on
+Prime Video
+in the future.
+Datacurve
+, which provides reinforcement learning environments, released
+DeepSWE
+, a new software engineering benchmark designed to be more difficult and realistic than previous coding tests.
+GPT-5.5
+took the top score with a 70% success rate, followed by
+GPT-5.4
+, then
+Claude Opus 4.7
+with 54%.
+Biohub
+, the Zuckerberg-funded nonprofit, released a family of AI world models for protein folding and drug discovery."
+"Apple to Renew Push for AI That Runs on Devices, Instead of the Cloud",2026-05-28T13:00:38Z,Aaron Tilley,https://www.theinformation.com/articles/apple-renew-push-ai-runs-devices-instead-cloud,"At Apple’s annual developer conference next month, the star of the show will be a series of long-delayed artificial intelligence upgrades to the iPhone. But the company is also expected to emphasize what could be an underrated asset in its efforts to catch up in AI: Its ability to run AI models on the billions of
+Apple
+devices in circulation.
+People familiar with the company’s plans for its Worldwide Developers Conference say that Apple is likely to showcase how the company’s 15 years of experience of designing custom silicon chips for iPhones, Watches and Macs will give it an advantage when running AI models locally on those devices. Typically, AI models are run in expensive data centers filled with powerful AI chips.
+Many AI queries from Apple’s devices will still have to be processed in the cloud because of their complexity and need for access to troves of online information. For example, as part of an Apple
+agreement
+with Google, some user queries to a new version of Siri will run in Google Cloud on a licensed version of the search giant’s Gemini model. Apple recently approved the use of a privacy technology from Nvidia in that setting, suggesting it will use Nvidia AI chips for at least some of its computing needs in Google Cloud, according to people familiar with the matter.
+But running models locally could reduce the risk of exposing consumers’ data and prevent advertising companies from monetizing their personal information. It could save business customers money by reducing their consumption of “tokens”—the units of text that cloud AI models base their pricing on. And for Apple, pushing more AI chores onto devices could allow it to continue to avoid the eye-watering investments its tech peers have made in data centers.
+As part of its Google agreement, Apple is using a version of Google’s large Gemini model to train a smaller version of the model that can run locally on Apple devices, a process known as distillation, said people familiar with the effort. Apple is also on the lookout to acquire smaller companies that can assist in the effort of shrinking down AI models to run on its devices, people familiar with the company said. One such company it has considered acquiring is Liquid AI, a Cambridge, Mass.-based startup specializing in running AI locally on devices, said people familiar with Apple’s strategy.
+Apple first began touting the privacy benefits of running models on devices in 2024, when it introduced Apple Intelligence, a collection of new AI features it announced at the time. Since then, it has largely been quiet on the topic, after an embarrassing series of stumbles, including a tepid response to its new AI features and a delay with the launch of the new Siri.
+At the same time, Apple has largely sat on the sidelines as the biggest companies in tech have poured fortunes into building AI computing capacity in the cloud. Last year, Meta Platforms, for example, spent $72 billion on capital expenditures—mostly stemming from data centers—while Microsoft spent $88 billion. Apple, meanwhile, spent only $12.72 billion on capital expenditures during that period.
+At times, the company’s hesitation to pour more money into AI has prompted criticism from investors and pundits who believe the company could risk being left behind in a future where AI is a key ingredient in personal devices. As the tech industry’s AI investments have swelled to mammoth proportions—Microsoft, for one, is projecting $190 billion in capital expenditures this year—some technologists have started to worry about overspending on AI computing capacity and look more favorably at Apple’s relatively conservative bets in the category.
+“I think the data center boom is a mistake,” said David Stout, chief executive of Austin-based AI startup webAI. “Intelligence is getting smaller. Data centers won’t disappear, but the majority of work will happen at the edge. Apple made the bet correctly there.”
+Stout is among a growing cohort of AI developers who are making bets on new businesses based on Apple hardware. WebAI develops specialized AI applications for enterprises that run locally on Apple chips. For example, webAI builds tools for aviation customers with an AI trained on a massive manual describing the intricacies of a Boeing Dreamliner engine to assist in engine maintenance.
+The models can run on an iPad or Mac, without the need for an internet connection. Apple’s computers have also taken off among techies who use them to run OpenClaw, an open-source tool for creating AI agents that can autonomously run a computer.
+Technology analyst Richard Kramer of Arete Research said in a recent note to investors that he estimates Apple has $50 billion worth of compute capacity in on-device chips “funded by users.”
+Mark Suman, a former Apple senior engineering project manager who worked on internal AI systems before leaving in 2024, said that the billions of Apple devices around the world collectively amount to a powerful source of AI computing capacity.
+“Apple could deploy the largest edge-compute AI that anybody has in the world,” said Suman, who is now co-founder of Maple, a startup offering customers an encrypted system for accessing AI models in the cloud. “It’s really a matter of time before they leverage that.”
+Apple still can’t rely entirely on on-device models for its AI strategy. Google’s full Gemini model has trillions of parameters—a rough measure of the complexity of an AI model. The full model requires so much computing horsepower that Apple has struggled to get it to work on its own internal server infrastructure, called Private Cloud Compute, which runs on the same Apple chips in Mac computers, said people familiar with the situation.
+Apple will likely have to take advantage of Google’s cloud infrastructure to run parts of the new Siri, former Apple engineers said. Still, Apple is looking for ways to run AI services in the cloud while still offering improved privacy protections. Its decision in recent weeks to approve the use of Nvidia’s confidential compute system to handle some of the processing of the bigger Gemini-based model inside Google Cloud is one such effort, people familiar with the partnership said.
+Confidential compute is a security feature inside Nvidia graphics processing units that encrypts data and AI models as they are being processed. When enabled, it slightly slows down the processing of AI queries in the cloud, but it could help Apple keep its promises about protecting users’ privacy.
+The plan would also represent a reversal from Apple’s original announcement of Apple Intelligence, in which the company said that Apple hardware inside its  Private Cloud Compute system would process all AI queries that weren’t processed locally on users’ devices. Despite that, Apple is likely to continue to use the Private Cloud Compute brand, said people familiar with the partnership."

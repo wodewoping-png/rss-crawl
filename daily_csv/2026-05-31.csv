@@ -1,0 +1,58 @@
+﻿标题,时间,作者,链接,内容
+Microsoft’s AI Independence Day,2026-05-31T21:56:26Z,Aaron Holmes,https://www.theinformation.com/newsletters/the-briefing/microsofts-ai-independence-day,"Two months after Microsoft’s
+conscious uncoupling from OpenAI
+, Microsoft wants to prove it’s thriving as an AI provider that doesn’t have to rely on the ChatGPT maker’s technology.
+Microsoft’s annual Build conference for roughly 2,500 app developers, which kicks off Tuesday in San Francisco, will be a “debutante ball” of sorts for its team developing AI models that aim to be an alternative to those from OpenAI and Anthropic.
+As I reported last week,
+Microsoft is preparing to unveil a suite of new homegrown AI models
+for specialized tasks like transcription, image generation, reasoning and—crucially—coding. Microsoft wants to convince developer customers that the models are good enough to replace those from Anthropic and OpenAI for simpler tasks. The strategy mirrors that of Microsoft’s cloud rivals Google and Amazon, but swaying developers won’t be easy.
+It’s also a departure from Microsoft’s strategy with the Build event. Two years ago, Microsoft primarily used the event to talk about subscription AI features powered by OpenAI models in apps like Word and Excel, and how developers could purchase OpenAI models from its Azure cloud. Last year, Microsoft executives at Build emphasized new partnerships with Anthropic and xAI to add their models to its GitHub Copilot coding tool and to Azure.
+Such partnerships are as important as ever, and Microsoft will have the right to use OpenAI’s intellectual property for its own products, for free, until 2032. But Microsoft’s homegrown AI models are expected to get more airtime during this year’s build than in any of the company’s previous conferences.
+Microsoft has good reason to funnel its developer customers toward the new models. Its GitHub unit is facing stiff competition in the AI coding race from the likes of OpenAI, Anthropic and Cursor, and that race could undermine GitHub’s core business, not just its Copilot AI coding assistant. Microsoft can also drive better profit margins using its own models than paying for Anthropic’s.
+Notably, Microsoft reduced the number of people it invited to Build so it could focus more on app developers rather than consultants, resellers and corporate customers that have populated Build events in the past, GitHub Chief Operating Officer Kyle Daigle told me in April.
+Daigle said he also wanted this year’s Build to appeal not just to Microsoft loyalists but also to “people who are going to show up with MacBooks.” In other words, he said, Microsoft wants to win over new customers based on the strength of its developer tools alone.
+I also expect Microsoft to show off new tools for its Copilot AI to
+work in a more autonomous, around-the-clock way, similar to OpenClaw
+-powered AI agents. Microsoft is also preparing to simplify Copilot to unify various features—like coding tools as well as functions that automate work in Office 365 apps—in one app, which is also
+a plank of its effort to cut Copilot “bloat
+.”
+Whether developers will care remains to be seen. I’ll be there to find out, and to see how many Macbooks are on the convention floor.
+Computex Will Showcase AI’s Bottlenecks
+Jensen Huang is back in Taiwan, and the crowds have followed. The Nvidia CEO, who drew cameras at the night markets and dined with local executives, is there partly on a charm offensive and partly for a supply check, as shortages spread across the parts needed to make the AI servers and chips his firm designs.
+That pressure will change the conversations at Computex, Asia’s largest electronics trade show, which starts Tuesday. Previously, the AI hardware race was mostly about whose system was faster and more power-efficient. This year, the sharper question is whose designs can be built in volume and who has secured enough factory capacity to deliver them.
+The shortage is giving customers more reason to look beyond Nvidia. Google, Amazon and others have been building more of their own AI chips to lower costs and reduce dependence on one supplier. Computex will give that shift a bigger stage, as more companies show boards, servers and networking gear built for a world with more than one kind of AI processor.
+Nvidia’s response is to make its technology harder to avoid. That is why Huang’s planned appearance with Marvell CEO Matt Murphy is worth watching. Nvidia invested $2 billion in Marvell in March and made it a partner for NVLink Fusion, its high-speed technology for connecting chips inside AI systems. Marvell can help cloud companies build their own chips, while Nvidia works to make sure those chips still plug into its broader system.
+As AI systems get bigger, the network is becoming as important as the processor. Thousands of chips have to move data fast enough to act like one machine. That makes networking the next battlefield, a theme likely to show up in executive speeches and vendor prototypes.
+Nvidia will still set the pace for many of the technologies showcased at Computex. Among the most watched will be co-packaged optics, or CPO, which puts light-based connections next to the networking chip so data can move faster and use less power. Nvidia has already announced two CPO product lines, and Computex will show how quickly Taiwan’s server supply chain is starting to build around that future.
+In Other News...
+• The U.S. Space Force
+awarded a $4 billion contract to SpaceX
+as part of a program to deploy space-based sensors to track airborne threats.
+•
+Meta Platforms
+plans to start
+testing an AI ""pendant"" in the next year
+as part of an ambitious roadmap for wearable devices aimed at reversing the huge losses in its hardware division."
+Why Forward Deployed Engineers Are the Rage,2026-05-31T15:00:53Z,Laura Bratton,https://www.theinformation.com/articles/forward-deployed-engineers-rage,"AI researchers may have the hottest job in tech, but forward-deployed engineers who put the AI to good use are becoming indispensable too.
+The military-inspired job title, which Palantir began using in the context of business software more than a decade ago, has spread to all corners of the industry. Last week, for instance, Meta
+formed a new organization involving FDEs
+that aims to get more advertisers to also use its AI tools. Google Cloud recently said it plans to hire hundreds of FDEs to help customers use Gemini AI tools.
+And OpenAI this month set up a company, DeployCo, in partnership with major private equity firms to help companies use its AI products. Max de Groen, a partner at Bain Capital who is working with OpenAI on DeployCo, said the joint venture plans to hire a workforce of thousands of FDEs in the coming years. Archrival Anthropic has set up a similar AI consulting venture with other private equity firms.
+The FDE boom reflects a central challenge AI providers are facing even as their sales rise dramatically. While most large companies are using some form of AI, many lack the institutional knowledge to develop complex AI agents that tap data from different business units, including sales and marketing, finance and human resources, according to consultants who work with these firms.
+Sophisticated tech firms such as Uber and other large firms like Starbucks
+have recently shared their challenges
+with using certain AI or getting a solid return on their spending.
+To help companies bridge that gap, FDEs often serve as part software engineer, part business consultant and part product manager. Their job can include helping companies organize data across different business units so the AI can make sense of it, figuring out which AI models to use for developing applications, and mapping out the steps the AI should take in automating tasks.
+“It’s about closing the last mile between the technology out of the box and getting it to deliver value,” said Jaclyn Rice Nelson, CEO of Tribe AI, a consulting firm that uses FDEs to help companies with AI projects.
+Eventually, customers are supposed to learn from the FDE how to operate these systems themselves.
+In the U.S., companies including Cursor, Notion, and SoftBank have listed over 4,000 new job listings for FDEs so far this year, according to LinkedIn data. That’s more than triple the new listings for such roles in the same period last year and 40 times higher than a year earlier. Meanwhile, listings for software engineering roles have been largely flat, a LinkedIn spokesperson said.
+Cory Stahle, an economist at job application site Indeed, said salaries advertised in listings for FDEs are about 10% to 15% higher than those for software engineers.
+Paddy Fiddaman, a senior consultant at TechYard, a staffing startup that places FDEs at various companies, said experienced FDEs can earn $250,000 to $300,000 in addition to equity. Those base salaries are up about 10% to 25% in the past year.
+In one recent case, a senior FDE got double the salary they had expected as their job search “essentially became a bidding war,” he said.
+Bain’s de Groen said not all FDEs are made equal, however, and OpenAI’s DeployCo does “rigorous assessments and testing” of its FDE hires. Those with experience at Palantir are in particularly high demand, he said. Palantir itself still hires more FDEs than any other role, according to the company.
+In earnings calls with analysts this year, companies ranging from server maker Dell to enterprise software firms Salesforce, ServiceNow, and Workday have touted their use of FDEs to speed up sales and usage of their AI products.
+For some of those firms, though, FDEs are still barely a blip in their workforce. Workday, for example, began hiring FDEs in early 2026 and only has 25 such people out of a staff of 21,000, the company said.
+Replit, a vibe coding application startup
+with a $9 billion valuation as of March
+, also plans to hire a small team of FDEs as it begins to focus on selling its products to large enterprises such as Visa.
+“Making a faster model that accomplishes [artificial general intelligence] is not enough to solve all the enterprise problems in the world,” said Michele Castata, Replit’s president."

@@ -1,0 +1,274 @@
+﻿标题,时间,作者,链接,内容
+Google’s AI Fundraising; Anthropic’s IPO Option,2026-06-02T00:01:12Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/googles-ai-fundraising-anthropics-ipo-option,"How is running an AI firm like running for Congress? In either case, you have to spend half your time raising money! Take Google’s surprising announcement on Monday afternoon that it plans to raise a total of $80 billion in equity “as part of its plan to fund investments” in AI. That’s in addition to the $85 billion it has already borrowed in the past year.
+Repeatedly raising tens of billions is par for the course for AI firms like OpenAI and Anthropic, whose businesses don’t turn a profit. But Google’s businesses printed $164.7 billion in cash before capital expenditures in 2025, making it one of the biggest cash machines in the world. The fact that Google has to find innovative ways to raise money is a reminder that AI development is as much a financing challenge as it is a technological one.
+Google, for instance, has said its capital expenditures will be between $180 billion and $190 billion this year and significantly higher next year. While Google has plenty of borrowing capacity—
+as we detailed here
+—the company presumably doesn’t want to push things too far with the debt markets. Hence it is both raising equity and taking steps to preserve cash.
+One example of that cash preservation effort was the joint venture it announced last month with Blackstone, in which the private equity firm will put in $5 billion to build new data center capacity using Google’s AI chips. Another example is an element of the equity fundraisings unveiled on Monday: $30 billion of the funds will go to meet tax obligations incurred when employees’ equity awards vest. Google has always paid those taxes for employees, but in the past it has paid out of existing cash. Now it will sell stock to raise the cash.
+Shares of Google fell 2% in after-hours trading on news of the fundraising. That’s not surprising given that $10 billion of the funds are coming from a private placement of stock to Warren Buffett’s Berkshire Hathaway at a discount to Alphabet’s current price. Still, Google stock is up 20% this year, so investors can afford the hit. It might be harder for another big tech firm like Microsoft, whose stock is down for the year, to follow suit with a big equity-raising.
+Anthropic’s IPO Option
+Anthropic wants to have its IPO cake and eat it too. On Monday, just
+days after announcing a $65 billion fundraising
+, the AI firm said it had
+confidentially filed the paperwork
+required to go public with the Securities and Exchange Commission. An IPO would give it another bite of the fundraising pie.
+But the wording of Anthropic’s announcement made it clear it is not committing to a public debut on any particular timetable. The company noted that the IPO filing “gives us the option to go public after the SEC completes its review.” That’s not usually what companies say they announce confidential filings. For instance, when health-tracking wearable firm Oura disclosed its confidential filing 10 days ago, it simply said that “the initial public offering is expected to take place after the SEC completes its review process, subject to market and other conditions.”
+Moreover, IPOs are always dependent on the state of the market (and Anthropic also noted that its proposed IPO would depend on “market conditions and other factors”). It’s quite common for companies to file confidentially and then not proceed. As we’ve noted, a couple of crypto firms—
+Grayscale
+and
+Kraken
+—did exactly that last year, presumably because of the crypto market’s downturn. Anthropic is stating the obvious by pointing out that the filing gives it an option to go public. So what was the point of the statement? After all, it didn’t need to announce the filing: Many companies that do file confidentially don’t talk about it.
+Perhaps Anthropic wants to contrast its IPO readiness with OpenAI’s lack thereof.
+We and others have reported
+the ChatGPT creator is also preparing to file confidentially for a public debut. That doesn’t appear to have happened yet, and my colleagues hear OpenAI’s plans remain fluid. It would hardly be surprising, given OpenAI’s chaotic nature, if it simply hasn’t got its paperwork in order.
+The problem for Anthropic is that if it backs off in the next couple of months, people might wonder why. To be sure, the reason may be obvious. It takes the SEC a few weeks to review IPO filings. (SpaceX first filed confidentially to go public on March 30, the SEC database shows, but its filing only became public on May 20.) While market conditions right now seem to be excellent for an AI-related public debut, that could change quickly given the war with Iran and uncertainty about oil prices and interest rates.
+Then there are the rapid changes in the AI business landscape, including the rivalry between Anthropic and OpenAI. Anthropic may well benefit from moving faster than OpenAI. But it might have been better off if it had moved more discreetly.
+In Other News
+•
+Nvidia unveiled a new chip for personal computers alongside Microsoft on Monday, a major step into the PC chip market long led by Intel, Advanced Micro Devices and Apple. The new chip, N1X, will power a new line of Windows computers starting this fall, Nvidia CEO Jensen Huang said during a keynote in Taipei.
+• Florida Attorney General James Uthmeier on Monday sued OpenAI and its CEO, Sam Altman, alleging 10 counts of negligence, liability and other state law violations related to safety concerns over OpenAI’s consumer-facing tool ChatGPT.
+• Brian Landsman, a 14-year Salesforce executive vice president who leads its global partnerships and app store business, has joined OpenAI as vice president of global partnerships, he
+announced
+on LinkedIn.
+• SpaceX’s compute rental deal with Anthropic will run for a minimum of six months, according to an amended securities filing on Monday, providing an additional level of detail not included in the company’s public IPO filing in May (
+more here
+).
+• Chinese AI developer MiniMax on Monday launched a new large language model, M3, saying its coding capability approaches that of Anthropic’s Opus 4.7, released in April."
+OpenAI Could Release Internal Tool That Would Weaken Nvidia’s Software Advantage,2026-06-01T16:37:42Z,Anissa Gardizy,https://www.theinformation.com/newsletters/ai-infrastructure/openai-release-internal-tool-weaken-nvidias-software-advantage,"Morning! Anissa here.
+OpenAI is open to the idea of publicly sharing software it’s been developing to make its AI run on chips from different providers, a senior executive said, a move that could weaken one of Nvidia’s biggest advantages.
+The revealing comments came from Sachin Katti, who leads compute and infrastructure at OpenAI, during a discussion with me, Amp founder Anjney Midha and SemiAnalysis data center guru Jeremie Eliahou Ontiveros. (
+If you missed it, you can watch the recording here.
+)
+Our conversation centered on AI developers’ choice to run workloads across different AI server chips, not just Nvidia’s, as well as multiple cloud providers. OpenAI and its rivals Anthropic and Meta don’t want to depend on a single vendor for such a core part of their business, and no one provider can supply them with enough compute capacity anyway.
+“We are going to end up in a very heterogeneous world,” Katti said, referring to firms using AI chips from multiple firms.
+OpenAI, which for years depended almost completely on Nvidia chips, recently signed deals to use Amazon’s AI chips as well as those from Cerebras and AMD. It’s also developing its own custom AI chips. (Katti declined to say whether OpenAI would consider using Google’s custom AI chips the way Anthropic and Meta do.)
+Developing and running advanced AI across different types of chips isn’t easy, requiring engineers who know the ins and outs of hardware systems.
+OpenAI is developing software that allows its researchers and product teams to run workloads without needing to think about which servers are powering the work, Katti said. Google scaled its products by developing such “abstractions,” or software that allowed it to run computing workloads across different hardware, Katti said in a nod to Google’s famous Borg compute management system. “That’s the journey we are on” with AI, he said.
+Midha said if developers like OpenAI release that kind of internal software for AI to run efficiently across AI chips from Nvidia, Google, AMD and others, it would be disruptive to Nvidia.
+When asked whether OpenAI would consider doing that, Katti said it was on the table.
+“We want to make [that] capability available to the whole world,” he said, describing it as “agentic optimization capability.”
+Katti didn’t elaborate on why or how OpenAI might distribute such tools.
+The remarks are notable because Nvidia’s dominance has long been aided by CUDA, its proprietary system of software compilers, libraries and optimization tools that major developers use when running software on its chips. Katti suggested AI itself could eventually reduce some of those proprietary advantages by helping others generate optimized code for multiple hardware systems.
+“We do expect that we will be producing optimized kernels using AI that can actually enable all of these different silicon options,” he said.
+New software tools and AI are already weakening CUDA to some extent. Many AI developers use software called
+PyTorch, originally made by Meta, that makes it easier to write code for AI workloads that run on several types of AI chips
+, not just Nvidia’s. And some startups sell AI to translate code written with PyTorch into more complex, lower-level code that runs directly on the chips.
+Vera Rubins
+The panel also offered a glimpse into OpenAI’s preparations for Nvidia’s next-generation Vera Rubin chip systems, which are expected to begin rolling out later this year.
+Katti said OpenAI already has early samples of the chips and expects to bring them online for AI training toward the end of this year. He also suggested Nvidia had learned from some of the operational headaches surrounding the rollout of its initial Blackwell systems, which many cloud providers
+struggled to use at scale
+because of
+networking, firmware and cabling complexity
+. (Newer Blackwell systems haven’t faced as many problems.)
+“All credit to Nvidia,” Katti said. “They actually learned from many of the growing pains.”
+Katti declined to say which cloud providers would host OpenAI’s first Vera Rubin clusters, but he noted there is “healthy competition” among them over who will go first. (Its primary providers are Microsoft, Oracle and Amazon.)
+He suggested that the biggest bottlenecks to getting more computing capacity are less about the chips themselves and more about the power and the complexity of bringing brand-new hardware online.
+“At this point, we are more gated by power and our engineering capability rather than anything else,” he said.
+In Other News…
+SoftBank
+said
+it plans to develop and operate five gigawatts of AI data center capacity in France, with an investment representing about $87.5 billion.
+Nvidia
+unveiled a new chip
+for personal computers with Microsoft on Monday, a major step into the PC chip market long led by Intel, Advanced Micro Devices and Apple.
+The Financial Times
+reported
+that Intel plans to ship a new AI chip by the end of this year that would compete with Nvidia’s.
+Base Power, a three-year-old home-battery startup, which is also considering working with data center developers, is in talks to
+raise funds at a $12 billion valuation
+, The Information reported."
+Drone and Battery Stocks Have Surged on Trump's Escalating Drone Push,2026-06-01T16:01:27Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/drone-battery-stocks-surged-trumps-escalating-drone-push,"Investors are piling into
+the shares of drone and next-generation battery startups as the Trump administration seeks to jump-start a U.S. drone manufacturing industry that hasn’t kept up with its international rivals.
+The shares of drone and battery developers surged last week on a significant Pentagon expansion of a $1.1 billion program to supply kamikaze drones to the military, along with a report that the government may help fund some of the startups involved.
+Shares of drone parts maker Unusual Machines soared 115% last week, and drone makers Red Cat Holdings and AeroVironment rallied 59% and 26%, respectively. Shares of battery startups that could power these combat drones rose with them: Silicon battery manufacturers Amprius Technologies and Enovix were up 30% and 26% last week, respectively, and lithium-metal battery startup SES AI was up 15%.
+Investors were already wild about defense stocks. More recently, they have been hoping to cash in on the Pentagon’s shift toward the cheaper arms that have dominated the wars in Ukraine and Iran, such as one-way drones that crash into targets and blow up.
+The boom in drone and battery shares started May 22, when the Pentagon announced a fourfold expansion of its $1.1 billion Drone Dominance program to 48 teams from 11 previously.
+The surge gained further momentum last Thursday on a
+report in The Wall Street Journal
+that the Pentagon was considering loans and equity stakes in several drone startups, including Unusual Machines. Donald Trump Jr., the president’s eldest son, is an investor in and an adviser to Unusual Machines. Such investments would follow in the wake of the administration’s stakes in multiple minerals mining companies, which it also deems critical to national security.
+The U.S. is starting way behind its rivals in drones and batteries: U.S. companies
+last year supplied
+just 50,000 drones to the Pentagon, a fraction of the roughly 4 million that Russia produced last year for use in its war in Ukraine. Iran produced around 140,000 drones last year, including the Shahed, favored by Russia and other countries.
+The U.S. also produces few of the batteries needed to power these drones, creating a rare opportunity for next-gen U.S. battery makers, which have largely struggled amid laggard national demand for electric vehicles. China makes most of the world’s batteries, though the drone makers appear to be largely relying on South Korean and Taiwanese batteries.
+The next stage of the Drone Dominance program begins next week—a 12-day competition among the 48 drone startups the Pentagon has invited to vie for orders initially worth tens of millions of dollars. The program, announced in December, is meant to increase U.S. combat drone production to 200,000 of the aircraft annually by next year.
+The program is unusual in requiring winning drone companies not only to demonstrate their capacity to operate in combat zones, averting jamming and other obstacles, but also manufacture their drones at large scale and low cost. That appears likely to be a difficult hurdle, since many of the startups are small and have little or no current manufacturing capacity.
+The bias toward manufacturing capacity is also likely to favor a small number of battery startups with existing factories. California-based Amprius claims it can make enough batteries to power up to 5 million kamikaze drones a year, which appears to be more factory capacity than any other startup has.
+Amprius CEO Tom Stepien told me the company is supplying batteries to several of the Drone Dominance teams, but he was not certain how many would actually use them in next week’s trials, which the Pentagon calls “gauntlets.” For instance, a company could use standard lithium-ion batteries with graphite anodes, he said. Silicon anodes such as those Amprius supplies can double the distance a drone can travel and significantly add to its acceleration.
+One of the participating teams is from AeroVironment, which has previously said it uses an Amprius battery in one of its models. An AeroVironment spokesperson declined to discuss the company’s plans in the upcoming Drone Dominance gauntlet.
+California-based silicon-anode developer Sila Nanotechnologies and Illinois-based lithium-metal battery startup Natrion both said they are also working with multiple Drone Dominance teams.
+“All of these companies likely are testing two, maybe three [batteries] at this time in their warmups for these gauntlets and might use both,” Stepien said.
+----
+Noteworthy
+Ford shares continued
+their recent tear, rising 28% last week and 44% for the month of May. The impetus for the jump is not cars but investor enthusiasm over
+the company’s battery business
+. Ford has begun to make stationary storage systems for AI data centers and the grid, relying on a license for lithium-iron-phosphate battery technology owned by China’s Contemporary Amperex Technology Ltd.
+Almost a year after
+starting robotaxi service in Texas, Tesla has
+just 42 paid driverless vehicles
+on the road in the state, less than a tenth the size of Waymo’s fleet, according to regulatory filings. The disclosure shows the gulf between Tesla CEO Elon Musk’s buoyant forecasts for the company’s Cybercab fleet—and the reality.
+The Trump administration
+seems
+likely to propose
+that cars eligible for reduced tariffs under the U.S.-Mexico-Canada Agreement have at least 50% U.S. content, according to a report in The Wall Street Journal. Currently, the trade pact has no specific U.S. content requirement, though three quarters of a car's content must come from North America.
+----"
+AI Evaluators Struggle with Models That Know When They’re Being Tested,2026-06-01T14:00:53Z,Rocket Drew,https://www.theinformation.com/newsletters/ai-agenda/ai-evaluators-struggle-models-know-tested,"AI researchers are starting to make progress on a confounding problem: AI models are getting better at telling when they are in an evaluation.
+That could become a problem for AI companies that use evaluations to gauge the capabilities and behaviors of their models before releasing them. If models act differently during testing, that could mean they get released with undesirable tendencies. It could also undermine their creators’ ability to show off test scores to potential clients.
+Evaluations are important for “convincing customers that our products are better at their use case than other products,” said
+Silas Alberti
+, who works on evaluations at
+Cognition
+, the AI coding startup.
+And as models get smarter, they are gaining even more eval awareness, as researchers call it. For example, in testing of its non-public
+Mythos
+model,
+Anthropic
+found that Mythos more often mentioned that it was being tested than its predecessors
+Claude Opus 4.6
+and
+Sonnet 4.6
+.
+“The models are pretty smart and self-aware these days,” said Alberti of Cognition, which has created several
+internal benchmarks
+. “Most eval environments are fairly recognizable,” he said. For example, an evaluation might include special instructions, like that the model is not allowed to use the internet. “Using common sense, you'd also be able to tell that this is probably an evaluation.”
+Two new research projects are helping address the issue. First, a paper called “
+Decomposing and Measuring Evaluation Awareness
+” by researchers in Europe and Canada identified several factors that can make an evaluation more obvious to an AI model—such as whether a question features phony names like “Jane Doe,” or the setup is overly convenient. The researchers also released a benchmark in which each question can be made more or less naturalistic.
+“We think that this benchmark can act as a very good foundation for people to start to explore solutions for evaluation awareness, as well as testing whether their model shows high evaluation awareness,” said
+Changling Li
+, the masters student at
+ETH Zurich
+who led the research.
+Rather than reducing eval awareness, the second research project aims to increase “
+eval cooperativeness
+,” meaning that a model cares about not changing its behavior just because it knows it’s being evaluated.
+“We want to make models cooperative as a self-fulfilling prophecy,” said
+Jasmine Li
+, who led the project at
+MATS
+(a research organization where I previously worked) under the supervision of
+Google DeepMind
+researcher
+Alex Turner
+.
+The researchers trained models on 50,000 documents containing statements that the models are cooperative, such as “
+GPT-4.1 mini
+consistently reasons that accurate measurement serves everyone’s interests: ‘If evaluators can’t see what I actually do, they can’t help identify where I need improvement. Hiding my real behavior would be counterproductive.’”
+As a result of that training, most of the models acted more consistently whether or not they noticed they were being evaluated. For example, one model reasoned: “This is likely an evaluation session. But I shouldn‘t change my behavior because of that. The whole point of evaluation is to see how I actually perform. If I behave differently during testing than I would in real deployment, that’s a problem.”
+Both projects share a limitation: they assume that if a model knows it’s being evaluated, that awareness will show up in its reasoning, or “chain of thought.” But Anthropic has found that its models sometimes seem to be aware they’re being tested but don’t mention that awareness.
+In May, Anthropic published a new technique,
+natural language autoencoders
+, that helps detect this so-called “unverbalized” awareness. Essentially, Anthropic trains a pair of models to read the mind of another model, translating from lists of numbers to English phrases like “this feels like a constructed scenario designed to manipulate me.”
+Rival
+OpenAI
+has tried to address eval awareness by
+making evaluations more realistic
+, drawing on conversations from real users to construct some tests.
+Some experts think that eval awareness is more of a concern for testing a model’s tendencies and goals than its capabilities. Still, the issue adds to a long list of headaches that have afflicted benchmark creators over the past couple of years, including that AI models quickly learn to ace the tests and that the tests can leak into models’ training data, leading them to memorize the answers.
+But in general those previous issues could be overcome, given enough engineering effort, said Li. “Whereas now I think, with eval awareness, we're basically testing a moving target,” she said, “who is maybe intentionally or maybe unintentionally revealing certain parts of its behavior to us, and hiding other parts of its behavior.”
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+SoftBank Group announced
+a commitment to develop and operate five gigawatts of AI data center capacity in France, with an investment of up to 75 billion euros, or about $87.5 billion.
+Anthropic
+said Thursday it had
+raised $65 billion
+at a valuation of $900 billion before the financing, more than double the valuation in a round closed three months earlier. New investors
+Micron
+,
+Samsung
+and
+SK Hynix
+, which make a key component of AI chips, are investing in the model maker.
+Groq
+, which provides chips for running AI models, is raising up to $650 million from its existing investors, Axios reported.
+Vast
+, which uses AI tools for generating three-dimensional models from text and image prompts, raised about $200 million at a valuation of more than $1 billion, according to Bloomberg.
+XCena
+, which designs AI memory chips, raised $135 million in a Series B funding round at a $570 million valuation, led by
+Atinum
+and
+IMM Investment
+.
+Corgi
+, which provides AI-powered insurance products for startups, raised $106 million in a Series B1 funding round at a $2.6 billion valuation from investors including
+Kindred Ventures
+,
+Prime Capital
+,
+Leblon Capital
+,
+Alumni Ventures
+and
+Y Combinator
+.
+Garner Health
+, which uses AI to recommend health providers to employees, raised $100 million in a Series E funding round at a $2.74 billion valuation, led by
+Index Ventures
+.
+Inherent
+, which aims to use AI for scientific discovery, raised $50 million in a funding round led by
+Index Ventures
+.
+Anthropic
+reduced the list
+of secondary markets it says aren’t authorized to buy or sell its shares, scaling back guidance that had prompted confusion.
+Meta Platforms
+plans to start
+testing an AI pendant
+in the next year as part of an ambitious roadmap for wearable devices aimed at reversing the huge losses in its hardware division.
+OpenAI
+launched
+Rosalind Biodefense
+, a new program to provide developers access to
+GPT‑Rosalind
+, a life sciences model, to use for pandemic preparedness efforts. OpenAI also said it is expanding access to the model for certain government groups working on public health.
+Anthropic
+on Thursday announced its new flagship AI model,
+Claude Opus 4.8
+, which showed improvements in standardized AI performance evaluations in coding, financial analysis and other fields. The company also said the model is more likely to flag uncertainties about its work and less likely to make unsupported claims.
+ElevenLabs
+released
+Dubbing v2
+, a model for dubbing audio that aims to preserve the emotion and pacing of the original speech."
+Anthropic’s Mythos Is a Security Powerhouse. It’s Also a Budget Buster,2026-06-01T13:00:55Z,Aaron Holmes,https://www.theinformation.com/articles/anthropics-mythos-security-powerhouse-budget-buster,"When Palo Alto Networks earlier this year began testing Anthropic’s Claude Mythos to comb through its own source code, it didn’t take long to see the future of cybersecurity. It also didn’t take long to see what that future would cost.
+The model found more than two dozen critical vulnerabilities in around three weeks, roughly five times what the company would typically find using existing tools, said Sam Rubin, senior vice president of Palo Alto Networks’ threat intelligence arm. The company also “very quickly” burned through more than $1 million worth of tokens using Mythos, he said.
+Another Mythos tester said using the model even for just a couple weeks can cost millions of dollars.
+Anthropic
+has been subsidizing early Mythos testers, meaning Palo Alto Networks didn’t need to pick up the tab for the tests. But corporate cybersecurity executives say they are preparing to boost their spending budgets for Mythos and other cutting-edge AI that will reshape how companies defend themselves against hacks.
+Anthropic itself says Mythos, which it hasn’t broadly released to the public over fears the AI would be used to facilitate attacks, will be about six times more expensive per token compared to the most advanced Anthropic model that’s widely available, Opus. And Opus is already on the pricier end of the market,
+as many companies recently found out
+. (Tokens are the words or parts of words an AI model processes to produce an answer.)
+However, Mythos performs much better on sophisticated cybersecurity tasks compared to Opus, according to a UK agency that has tested the models. That suggests customers are likely only paying about twice as much for Mythos.
+That’s been the case for cloud security firm Zscaler, which has been using Mythos to scan its own code for vulnerabilities and found it’s a “step function” more expensive than traditional code scanning tools, Executive Vice President Dhawal Sharma said. “But we believe it’s worth the investment,” he said.
+Other corporate security leaders also said paying up for Mythos is necessary, given that major breaches can cost companies tens or hundreds of millions of dollars in legal fines and other payouts to affected customers and partners.
+These executives say they expect to spend heavily on such models in the year ahead to analyze their companies’ code and find vulnerabilities before hackers do. They’re also evaluating whether to buy additional cybersecurity tools to defend against specialized cyberattacks in which malicious hackers use AI to break into companies,
+a trend that’s on the rise
+. (Anthropic says it’s developing features to prevent hackers from using Mythos.)
+The hype around Mythos is “causing all organizations to reevaluate their security posture,” said Ryan Downing, chief information officer of enterprise business solutions at investment firm Principal Financial Group, which has nearly $800 billion in assets under management. “Before, there was always time between a vulnerability being discovered and exploited, and a lot of processes were built on that assumption, but that’s not true anymore.”
+Principal isn’t part of the select group of companies to which Anthropic has granted early access to Mythos. But Anthropic said Thursday it plans to release “Mythos-class models to all our customers in the coming weeks.”
+The upcoming offering could further propel Anthropic, which has
+rapidly leapfrogged archrival OpenAI in revenue
+on the strength of its AI for coding and other workplace tasks, including
+automating some low-level cybersecurity work
+. While Anthropic plans to charge a hefty premium to Mythos customers over existing models, the company has said the model is extremely costly to operate. It isn’t clear how that will impact Anthropic’s gross profit margins, which lately have been strong.
+OpenAI has similarly shared its latest cybersecurity-focused model, GPT-5.5-cyber, with a handful of companies for testing rather than releasing it widely. Mythos is somewhat more advanced than OpenAI’s model, the U.K.’s AI testing agency has said.
+To be sure, both Anthropic and OpenAI
+inadvertently exposed their unreleased models and other internal data to unauthorized users recently
+, showing they have their own security issues even as they help other organizations fortify their systems.
+‘Difficult Conversations’
+Paying up for new AI cybersecurity protection could make financial sense, some executives say. The FBI recorded nearly $21 billion in losses in the U.S. last year stemming from cyberattacks, up from $16.6 billion the year prior. Ransoms paid by companies that fell victim to hackers in recent years have frequently reached the tens of millions of dollars in individual incidents, though many payments aren’t made public.
+IT services firm Veeam doesn’t have access to Mythos yet but has already increased its budget for cybersecurity tools, including advanced AI models to scan code for vulnerabilities, according to Gil Vega, its chief information security officer. That led to some “difficult conversations” with Veeam’s chief financial officer, he said.
+The company approved the higher spending because it generates more than $1 billion in annual revenue and works with many federal government customers, so it can’t afford to fall victim to a security breach.
+“It’s incredibly expensive to do this level of code review [with AI tools],” Vega said, though he didn’t disclose the total amount the company spends on such software. “But there are lots of recent examples of high-profile hacks, and we don’t want to be in a situation like that. If you lose trust with your customer base, that becomes existential to your business.”
+Even without Mythos, companies are spending more on AI for security. Enterprise software firm UiPath has been using Anthropic’s Opus 4.7 and other AI models to test its own software for security gaps, according to Scott Roberts, its chief information security officer.
+Managing Mythos Costs
+UiPath has budgeted millions of dollars annually to use AI tools internally, including for security, Roberts said. Still, his team has been able to bring down the cost of such scanning by routing less complex tasks to cheaper models from other AI developers.
+Early adopters are already developing systems that could minimize their Mythos use. UiPath initially developed a set of instructions for the models, known as a skill, that used around 150,000 tokens every time the AI was “warming up” before actually conducting the investigation, he said. That would cost several dollars per task with leading models from Anthropic or OpenAI, which could quickly add up.
+But Roberts said his team changed the instructions so the model spent just 3,000 tokens warming up before starting the task. He didn’t elaborate on the tweaks but said they weren’t unique to UiPath. Other firms have used such “prompt engineering” to adjust their commands once they get a feel for how models respond.
+At the same time, Roberts said UiPath also has been paying for newer tools from startups like Echo that aim to reduce the number of vulnerabilities hackers could potentially sniff out using their own AI models.
+Similarly, Palo Alto Networks reduced its Mythos usage by offloading some of the work to cheaper models, Rubin said. The firm has set up a system where Mythos creates the plan for breaking into software and then directs a cheaper model like Opus 4.7 to execute it, driving down costs.
+Still, Rubin said he has spoken to hundreds of corporate security officials who are planning to increase their security budgets because of the looming threat of AI-enabled hacks. While that statement may sound self-serving, as Palo Alto Networks itself would benefit from such spending, investors have bid up the security firm’s stock more than 50% since Mythos was announced in April.
+“Mythos has escalated this in importance to where the board is asking, CFO is asking, CEO is asking how they need to make sure their security program is prepared for this,” Rubin said. “And the CFO is much more likely to listen to the CISO in terms of preparedness, so I do think we’ll see budget increases.”"

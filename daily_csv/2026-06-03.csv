@@ -1,0 +1,261 @@
+﻿标题,时间,作者,链接,内容
+Cybersecurity’s AI Paradox,2026-06-04T00:00:43Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/cybersecuritys-ai-paradox,"It's no secret that criminals are using AI to streamline computer hacks in hopes of emptying out people’s bank accounts (never has it looked more appealing to stash cash under the mattress!). Cybersecurity executives, meanwhile, are rubbing their hands with glee at the influx of business they expect to get as a result.
+“What I see is AI driving structural demand for cybersecurity that compounds, not decelerates,” said CrowdStrike CEO George Kurtz on a conference call Wednesday night. Similarly, on Wednesday Netskope CEO Sanjay Beri said, “The rise of AI is exponentially increasing the pace and potency of attacks and the misuse of sensitive data.…This is the era that Netskope was built for.” Investors have responded, driving up stocks of companies like CrowdStrike and Palo Alto Networks by more than 50% this year. And yet these companies’ growth rates don’t show as much improvement as this boom time in cybercriminality should be creating.
+CrowdStrike’s top-line growth accelerated markedly in the April quarter, to be sure, reaching 26%, from 23% in the fourth quarter. But the company forecast a return to 23% growth in the second quarter and a similar rate for the full year, which would be just a percentage point of improvement from last fiscal year. Meanwhile, Netskope’s growth slowed to 28% in the quarter from 32%, the company reported on Wednesday, and the company projected a further slowing in the second quarter. Its stock collapsed more than 20% in after-hours trading, while CrowdStrike fell 10%.
+It was a similar story with Palo Alto Networks, which reported on Tuesday that its revenue growth, excluding contributions from recent acquisitions, slowed in the April quarter by a point to 14%. Palo Alto’s stock fell 5.6% today. So what gives?
+It may be a bit early to judge things. On Tuesday’s earnings call, Palo Alto Networks CEO Nikesh Arora said a newly introduced “AI Defense” product had drawn a strong reaction from customers, with more than 1,200 “asking to meet us.” Moreover, the company’s annualized revenue from newer technologies is growing 28% excluding the impact of acquisitions, which implies its long-term growth rate should improve—even without the benefit of buying other companies (more on
+Palo Alto Networks here
+).
+CrowdStrike’s Kurtz also talked up the “deluge of customers” his company heard from after Anthropic announced its Mythos model, which we’re told threatens everyone’s systems. Even assuming the real growth is still to come, it may take a while to show up in the topline. Investors may have gotten ahead of themselves.
+About That ‘Record’ SpaceX IPO
+Elon Musk’s SpaceX is getting a lot of media attention for its upcoming giant IPO, where
+as it confirmed Wednesday
+, it plans to raise $75 billion.
+Various outlets
+reported that would be a “record” for IPOs. Indeed, data from Dealogic shows that all the companies that went public in the U.S. last year raised $77.5 billion between them!
+But SpaceX’s “record” is looking a bit shabby next to Google’s equity raising this week, which increased by $4.75 billion to $84.75 billion in total, the company said late Tuesday. That includes $34.75 billion of new stock sold earlier this week, $10 billion sold to Berkshire Hathaway and $40 billion still to be sold.
+The only difference is that SpaceX will raise its $75 billion in its public debut, whereas Google is selling new stock after being public for two decades. But in terms of tapping the public market for funds, Google’s deals are bigger than SpaceX’s.
+In Other News
+•
+Meta Platforms is expanding its AI agent offerings for businesses as part of its broader push to make money from AI products and services. At its Conversations business messaging conference on Wednesday, Meta announced it is bringing Meta Business Agent to Instagram and launching the Meta Business Agent Platform globally.
+• Stripe, Visa, Mastercard and Coinbase are planning to form a consortium to issue a new stablecoin, according to people familiar with the matter, seeking to challenge the dominance of Circle and Tether, the two biggest issuers, which make up 80% of market share currently.
+• Broadcom reported 48% higher revenue for its second fiscal quarter, ended May 3, as its AI chip revenue jumped 143% to $10.8 billion. The firm projected its topline to expand 84% in the third quarter, driven by even faster growth in AI chips."
+Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent,2026-06-03T22:01:33Z,Jyoti Mann,https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent,"Meta Platforms
+is considering charging up to $200 a month for its planned consumer version of the OpenClaw AI agent tool, according to internal documents, an ambitious target that would rival top tier offerings from established AI giants.
+The product, currently called Hatch, could launch with tiered pricing including the $199.99 premium subscription that would include higher usage limits, according to the documents reviewed by The Information and a person familiar with the matter, who noted that final pricing decisions haven’t been made.
+Hatch would handle a range of tasks from vibe coding new software tools to scheduling events on users’ calendars or sending emails on their behalf, according to images of test versions also viewed by The Information. Users can describe what they want in plain language, similar to the way vibe coding apps work, such as “build me a fitness tracker,” and Hatch generates a working tool.
+Charging for a premium version of Hatch would place Meta in more direct competition with OpenAI, Anthropic and other AI firms that already have built large customer bases for their AI coding and agent products. Both OpenAI’s ChatGPT Pro subscription and the highest-end version of Anthropic’s Claude Max plan cost $200 per month.
+As
+previously reported
+, Meta is conceiving of Hatch as essentially a consumer version of OpenClaw, the open-source agent tool that has become popular in tech circles but complicated to use. The planned product is part of Meta Chief Executive Mark Zuckerberg’s broader effort to develop new revenue streams to help pay for its enormous investments in AI infrastructure and model development.
+The documents, which date from April and May, show that Hatch also includes a customizable feed or dashboard to display the tools created by the agent, similar to OpenClaw, which lets users pick from capabilities called “skills” where modular add-ons let AI agents access tools, automate workflows, and interact with third-party services. These skills will allow Hatch to carry out specific tasks, such as creating a travel itinerary, according to the person familiar with the matter.
+Meta-Powered AI
+In its development so far, Hatch has been powered by Anthropic’s Claude Opus 4.6 and Claude Sonnet 4.6 models. When launched, Hatch will be powered by Meta’s latest AI model, Muse Spark, the person said.
+In an April internal memo, product marketing manager Jennifer Lin said Meta was working to expand the agentic capabilities of skills, but that no final decisions had been made on branding, and that the name “Meta AI Skills” had not been confirmed.
+The internal documents indicate Meta was initially targeting a U.S. launch in April. A separate internal memo from early May said Meta was aiming for a controlled rollout to about 10 businesses to pilot the product, followed by a broader launch with finalized branding and product naming in July, although the launch date could change.
+In one of the internal documents, Meta describes plans to launch a paid premium subscription tier, “Hatch Plus,” which would offer significantly higher usage limits than the free version—between five and ten times more daily capacity. The document also states that token allowances would reset each billing cycle and would not roll over, “similar to Claude, OpenAI, etc.”
+Zuckerberg has said that Meta intends to build AI agents for business as well as individual users, whom he sees as central to his vision for what he calls personal superintelligence. “Our goal is not just to deliver Meta AI as an assistant, but to deliver agents that can understand your goals and then work day and night to help you achieve them,” he said in Meta’s second-quarter earnings call in April.
+The Meta chief also dropped hints about users being able to vibe-code their own tools, saying that whether people use its personal or business agents to achieve their goals, he believes there will be a “massive increase in entrepreneurship from people creating new things that they’ve always wanted to exist but previously didn’t have the tools to bring into the world.”
+Meta has increasingly focused on turning its AI investments into revenue-generating products as the company continues to invest heavily in infrastructure, chips, and model development. Its AI capabilities helped drive strong growth in 2025, when revenue topped $200 billion. But almost all of that still comes from advertising, and Meta is under investor pressure to add new revenue streams to justify its capital expenditures, which it has said could reach $145 billion this year, about double the level in 2025.
+The company has already begun rolling out paid features for its AI offerings, including subscription plans tied to its Meta AI chatbot, which is accessible through Facebook, Instagram and WhatsApp. This week, Meta also said it is
+expanding existing AI agent
+tools that businesses can use within its platforms, extending its Meta Business Agent product to Instagram and launching Meta Business Agent Platform.
+The agents in those tools can recommend products, close sales, book appointments, answer customer questions, and send personalized marketing messages, as well as provide business owners with overnight chat summaries and performance insights. The Meta Business Agent tools are currently free, and Meta said it plans to introduce paid subscriptions in the coming months. Those tools are intended for use on Meta’s own platforms, whereas Hatch will also be able to function in the wider digital world."
+Nvidia Buys Enterprise Model-Maker Kumo AI for at Least $400 Million,2026-06-03T21:47:10Z,Valida Pau,https://www.theinformation.com/articles/nvidia-buys-enterprise-model-maker-kumo-ai-least-400-million,"Nvidia has bought Kumo AI, a five-year-old startup that sells predictive AI software to enterprises, for more than $400 million, said a person with knowledge of the deal.
+The acquisition, first revealed by an Nvidia executive in a LinkedIn post on Tuesday, should expand Nvidia’s roster of AI models that can be optimized for Nvidia hardware and offered to enterprises for further customization.
+Nvidia has invested heavily in its open-weight models, such as its Nemotron models, but Kumo’s models are proprietary. They’re tailored to answer questions on structured business data, such as customer information and payment data, which are generally harder for large language models to parse.
+Kumo’s CEO and Nvidia declined to comment.
+It’s unclear exactly how Nvidia will use Kumo’s models. It could use them in its AI Foundry software, which aims to help companies build custom AI models by combining their own data and domain-specific knowledge, such as genomic data, with Nvidia software, existing open-source models and synthetic, or AI-generated, data. Nvidia could also use Kumo’s researchers to help develop new, business-focused Nvidia foundation models.
+Corporate data generally consists of structured layers of tables connected to other tables, and a company generally needs troves of proprietary data to train models on answering questions, such as on the likelihood that a customer will cancel. Kumo attempted to solve this problem by supplementing its training data with synthetic data from simulated enterprise environments and pairing that with graph machine learning techniques the founders developed at Stanford, the company has said.
+Kumo released its latest model, KumoRFM-2, in April and says it counts DoorDash, Reddit, Databricks and Snowflake among its customers and partners. It raised $37 million from Sequoia Capital, Ron Conway’s SV Angel and others, including at a $250 million valuation in 2022, according to PitchBook.
+Kumo founders Vanja Josifovski, former CTO of Pinterest; Jure Leskovec, a Stanford University professor, and Hema Raghavan, previously an AI lead at LinkedIn, have been working at Nvidia since May, according to their LinkedIn.
+The Kumo deal is in line with Nvidia’s track record of smaller acquisitions. The company spent a total of around $3 billion on acquisitions over the last five years, according to its securities filings. Also, late last year it agreed to pay $20 billion to license technology from inference chip designer Groq,"
+Alphabet’s Fine Print Reveals Hidden Cost of the AI Talent War,2026-06-03T16:23:31Z,Cory Weinberg,https://www.theinformation.com/newsletters/the-information-finance/alphabets-fine-print-reveals-hidden-cost-ai-talent-war,"Alphabet’s plan to sell $80 billion worth of shares, billed as a way to pay for AI infrastructure and compute, is surprising enough, given the capital raise’s size and the fact that the company last raised equity 21 years ago, when Gwen Stefani’s “Hollaback Girl” was the song of the summer. But there’s another eye-catching detail in the offering’s fine print that reflects an underappreciated reality of big tech’s AI arms race.
+Nearly 40% of the Google parent's proceeds aren’t going to data centers at all, but to cover tax obligations tied to employee equity awards, the company said on Monday. That big IRS tab shows how top tech talent still represents significant cash costs to the company, even though employees often get large chunks of their pay in stock.
+The taxes Alphabet is talking about are technically taxes its workers owe. But many companies handle those payments by withholding a portion of the shares employees receive when their stock vests. The company then sends the equivalent amount of cash to the IRS.
+There are some benefits to doing things that way. Employees don’t have to deal with selling their shares in the open market to get cash, while companies can also keep share counts lower, which investors generally like. But that approach creates a tricky cash dynamic when tech companies are spending heavily on other things like AI while their share prices also rise.
+A higher share price means a bigger tax bill for the company as employee shares vest, so even more cash goes out the door during a frenzied investment cycle. That’s what looks to be happening with Alphabet, whose stock is around all-time highs and up significantly this year.
+The numbers can move fast. The $30 billion Alphabet expects to need this year for taxes related to stock compensation, for instance, is roughly double last year’s total. It also would represent 14% of the operating cash flow analysts expect it to generate this year, according to FactSet. That would be a big jump from about 9% last year, my analysis of securities filings shows. (This figure comes from the “tax withholding related to vesting of restricted stock units” line in Alphabet‘s statement of stockholders’ equity.)
+It’s not just Alphabet. The tax bills across five companies at the center of the AI boom—Nvidia, Meta, Microsoft, Alphabet and Amazon—reached nearly $60 billion last year, securities filings and estimates show. Upcoming initial public offerings for SpaceX, Anthropic and OpenAI will also trigger big tax hits from years of accumulated unvested equity at sky-high valuations. That’s another big cash need on top of expensive AI infrastructure.
+A reduction in tax bills for employees may be a side effect of the bloodletting this year down the street in Menlo Park, Calif., at Meta Platforms. Last year Meta withheld more than $18 billion to cover the vesting of employee equity awards—more than Alphabet, despite having fewer than half the number of employees. That represented about 16% of Meta’s operating cash flow overall. After the company moved to lay off 8,000 people this year, about 10% of its workforce, those employees won’t vest the rest of their shares, reducing Meta’s tax obligations. Its stock is down over the past year but has nearly quintupled since its end-of-2022 trough.
+Alphabet’s tax obligations, of course, pale in comparison to the $186 billion analysts expect the company to spend on capital expenditures this year. But Wall Street constantly picks apart that capex figure. It’s well understood and well modeled as part of the free cash flow metric everyone tracks, and management can control it. The employee equity tax obligations instead sit on the cash flow statement as a financing activity, alongside companies’ share repurchases, which aren’t factored into free cash flow.
+For big tech companies, particularly Alphabet and Meta, these tax obligations have been swelling meaningfully as their stock prices rise. These companies saw big increases in these obligations the last time their stocks rose quickly, in 2021, as interest rates were zero. But their capital expenditures were much smaller back then, keeping the combination of tax withholding and capital expenditures as a percentage of operating cash flow well below 50%. That number stands at 64% of cash flow for Alphabet last year and 75% of cash flow for Meta.
+The payments mean windfalls not just for energy providers, chipmakers and neoclouds, but for the IRS as well."
+How to Streamline Employee Engagement Surveys with the Google Gemini app,2026-06-03T15:40:12Z,The Information Partnerships,https://www.theinformation.com/articles/streamline-employee-engagement-surveys-google-gemini-app,"Employee engagement and satisfaction surveys sound simple: Ask your workers about their experience, and then see what they have to say.
+But in practice, these survey cycles often turn into months-long marathons, with HR teams sometimes taking weeks to agree on the right questions and then manually combing through messy, unstructured data after the results come in.
+By using Gemini as both a brainstorming partner and a data assistant, HR leaders can get their surveys off the ground more quickly—and then move from raw feedback to actionable insights in a fraction of the usual time.
+While Gemini does not replace the nuanced expertise and institutional knowledge of HR teams, it can help leaders identify potential patterns and automate repeatable parts of the employee survey process.
+Step 1: Build Survey Questions
+If you’re designing a survey from scratch, it can be daunting to begin with a blank page. Or, if you want to improve upon past surveys, it might be difficult to know where to start. In either case, Gemini can act as a brainstorming partner, helping you to translate your high-level vision into concrete questions in just a few seconds.
+Start with this simple prompt:
+I am an HR manager in charge of running our enterprise-wide survey at [company] to gauge employee engagement and satisfaction. Generate a list of questions I can use to build the survey.
+Also, consider uploading past surveys so that Gemini can both match the tone and infer areas of prioritization.
+Gemini’s initial list may not be perfect, but now you’ll have a first draft to revise. You can use Gemini as a thought partner, bouncing ideas back and forth until you land on a list of survey questions that will get you the information you need.
+Step 2: Refine and Launch
+Before sending your survey out to employees, ensure that the tone matches your organization’s unique voice. This might mean circulating sample questions throughout the HR department or among leadership for feedback.
+This is an example of “human-in-the-loop,” a phrase that has come to describe the need for human experts to provide a check against AI outputs and apply their own knowledge to the creation of critical work products like employee surveys. While Gemini provides a powerful start, HR leaders must act as final reviewers.
+Once again, you might work in partnership with Gemini to revise your survey questions, pushing back with feedback from human teams. This might include the addition of short-answer questions to gather more details. After you’ve finalized the language, launch your survey using your standard enterprise tools.
+Step 3: Automate Data Cleanup
+Once you’ve gathered information from the survey, sorting through the raw data can feel overwhelming. Missing names, inconsistent location labels, and incomplete responses can skew results and make analysis more challenging. Instead of spending time writing complex formulas or navigating deep spreadsheet tools, you can now simply use Gemini to handle the heavy lifting.
+You can add a spreadsheet to your Gemini chat by either uploading it as a file or linking it from Drive. Here’s a simple prompt that can help you quickly transform unorganized survey answers into a clear, structured repository of employee response data:
+Help me organize my employee survey spreadsheet. Specifically, fill any blank values in the name column with “Anonymous,” replace all instances of “Headquarters” in the region column with “HQ,” and remove any rows where the satisfaction column is blank. Please generate a new file for me with my cleaned data.
+By using Gemini to standardize your survey data, you can arm your team with a consistent dataset while reducing the need for manual, repetitive fixes. This significantly cuts down on prep time and accelerates the analysis process, effectively shrinking the gap between gathering employee feedback and taking meaningful action.
+Step 4: Analyze for Patterns and Root Causes
+With a standardized dataset, you can move straight into analyzing the responses for meaningful patterns. Rather than just identifying isolated issues, Gemini enables HR teams to perform deeper dives into the data. For example, if you notice that employee engagement is low in a specific department, you might ask Gemini to search through open-ended feedback in the survey responses from employees in that department to identify common themes.
+By automating data cleanup and identifying patterns, HR teams can stop wrestling with spreadsheets and start implementing the changes that will improve their company culture."
+The Unintended Consequences of Codex’s Comeback,2026-06-03T14:01:30Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/unintended-consequences-codexs-comeback,"OpenAI’s Codex
+—which was once pitched as a coding agent for developers and is now being framed as a more general-purpose agent for knowledge workers—is having a moment, as OpenAI chief revenue officer
+Denise Dresser
+put it on Tuesday.
+As I wrote about in
+this story from Tuesday
+, lots of developers are making the switch from
+Anthropic’s
+more popular
+Claude Code
+tool to Codex, as OpenAI has made its models and the Codex app better for longer-running and more complex tasks in recent months, they say.
+Engineers at OpenAI have seen that productivity boost perhaps more than anyone else. However, that has created its own issues. OpenAI employees are now making so many code changes that it has caused outages in the systems that manage the company’s vast codebase, according to two people with knowledge of the situation.
+Many of OpenAI’s thousands of engineers have gone from making two or three code changes a day to more than 10, the people said. Each of those changes trigger thousands of hours worth of tests that run in parallel on many computers, which ensure the code runs correctly and doesn’t have any bugs or security vulnerabilities, they said.
+The changes and automated tests have overloaded OpenAI’s systems for managing its codebase, known as continuous integration, and its code repository account at
+GitHub
+, the people said. When those systems get overloaded, outages happen, which can prevent OpenAI’s engineers from being able to make code changes for anywhere from several minutes to several hours, they said. So far, those outages have been happening every few weeks, they said.
+“Codex is meaningfully increasing engineering productivity at OpenAI, and we are scaling our internal developer infrastructure to keep pace,” said an OpenAI spokesperson. “While scaling also comes with increased pressure on internal deployment systems, we are making sure this does not impact the reliability of our products for our customers. This is exactly the kind of operational scaling work we expect as AI changes how software gets built, and our teams are constantly working to improve capacity and reliability.”
+For now, such challenges are likely only relevant for the most technologically sophisticated companies with the highest usage of AI coding tools.
+However, they provide a sign of what’s to come as more companies embrace AI tools that aim to automate much of software development. Such tools have already caused a
+surge of traffic to GitHub
+, which has led to outages and other issues, GitHub executives have said. And it’s one potential reason why OpenAI has considered building its own internal alternative to GitHub, we’ve previously
+reported
+.
+Here’s what else is going on…
+Overheard
+In an event on Tuesday focused on how business users are using
+Codex
+,
+OpenAI
+Chief Revenue Officer
+Denise Dresser
+said that the company now has over two million business customers, a figure that’s doubled over the last year. She added that 40% of OpenAI’s revenue is from enterprise customers, and she expects that figure to be 50% by the end of the year.
+In an interview later during the event, CEO
+Sam Altman
+addressed fears from customers that OpenAI might come out with products that compete with them.
+“We have no desire to compete with you on your businesses, but there’s so much fear there that we need to somehow address,” he said.
+That same day, though, OpenAI announced a new investment banking plugin for Codex that will allow banker users to generate pitch materials, analyze comparable companies and transactions and turn diligence into recommendations. Such capabilities are also offered by customers of OpenAI like the AI financial services startups
+Rogo
+and
+Hebbia
+.
+Policy Watch
+When
+President Trump
+signed the long-awaited AI executive order on Tuesday, he ended weeks of speculation over whether an administration once allergic to regulation would acquiesce to the cybersecurity fears of frontier models like
+Anthropic's Mythos
+. But the administration’s approach is still unclear moving forward.
+Ultimately, the pro-safety
+White House
+crowd seemed to win out, with the final signed version nearly identical to an aborted one from May, which Trump decided to cancel at the behest of his former AI and crypto czar,
+David Sacks
+. Though Trump indicated that the previous version could allow China to catch up on the technological arms race, the only difference in Tuesday’s order was a slightly shortened timeline for when AI developers should share their frontier models with the government ahead of releasing them to other partners (up to 30 days, instead of up to 90 days).
+Otherwise, the bulk of the order remains the same from earlier leaked versions, including text that makes clear that any guidelines for AI companies remain voluntary and do not resemble a mandatory licensing regime. Still, the language leaves plenty of room for ambiguity, including what it really means for a government security program to be voluntary, as well as how the government will determine what “trusted partners” can have early access to frontier models. Though Sacks finally agreed to the framework after massaging the language, the policy balance at the White House remains delicate, especially as the now-signed executive order kicks off a 60 day period to put the oversight framework into place.
+—Leo Schwartz
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Agile Robots
+, which develops AI-powered industrial robots, is in talks to raise about $800 million in a new funding round, with
+SoftBank Group
+in discussions to contribute more than $300 million, Bloomberg reported.
+Suno
+, an AI music app, raised over $400 million in Series D funding at a $5.4 billion post-money valuation led by
+Bond Capital
+.
+Cyera
+, which uses AI to help enterprises secure their data, is in talks to raise $300 million at a $12 billion valuation in a funding round led by
+Evolution Equity Partners
+, TechCrunch reported.
+Coralogix
+, a Boston-based monitoring startup, raised $200 million in Series F funding at a $1.6 billion post-investment valuation led by
+Advent
+and the
+Canada Pension Plan Investment Board
+.
+Town
+, a personal AI assistant startup, raised a $55 million Series A led by
+Andreessen Horowitz
+.
+Adaptive Innovations
+, which uses AI to automate tasks for home healthcare, raised $50 million in a Series A funding round led by
+Felicis
+.
+Endra
+, a Stockholm-based AI startup for mechanical, electrical and plumbing engineering, raised $50 million in Series A funding led by
+Andreessen Horowitz
+.
+Subtle Medical
+, which uses AI to enhance medical scans, raised $33 million in funding including a Series C funding round led by
+Morgan Stanley Expansion Capital
+.
+Findigs
+, which uses AI to screen rental applications, raised $32 million in a Series C funding round led by
+RPM Ventures
+.
+ZeroDrift
+, which checks whether AI-generated emails and calls are compliant with regulations, raised $10 million in seed funding from
+a16z speedrun
+,
+Reign Ventures
+,
+PitchDrive Ventures
+,
+U&I Ventures
+,
+Active Capital
+,
+Geek Ventures
+,
+Converge Ventures
+,
+Atlas SGR
+and
+Founders Future
+.
+Anthropic
+announced that
+Project Glasswing
+will be
+expanded to 150 new organizations
+, from the roughly 50 that were included when it launched in April.
+Meta Platforms
+is
+scaling back
+elements of its employee tracking tool after staff raised concerns about the tool, The Information reported.
+Microsoft
+on Tuesday revealed
+new AI software
+geared towards developers and corporate customers, including homegrown AI models and new tools that aim to let corporate customers develop AI agents that can draw on internal company data to automate workplace tasks. Microsoft
+also unveiled
+a new desktop PC powered by an
+Nvidia
+processor geared towards developers who want to run AI models locally.
+SK Hynix
+plans to double
+its memory chip capacity within five years as AI demand keeps straining global supply, Bloomberg reported.
+Perplexity
+announced the ability for its
+“Computer”
+agent system to better divide tasks between local and cloud agents."
+Walmart Looks Offline for AI Shopping Data Advantage,2026-06-03T13:00:32Z,Ann Gehan,https://www.theinformation.com/articles/walmart-looks-offline-ai-shopping-data-advantage,"Walmart is trying to make its Sparky assistant smarter and more capable for shoppers by collecting more real-world data on how people shop inside its 3,500-plus U.S. superstores.
+Gathering more in-store information has been a focus for the company since Sparky launched about a year ago, said Hari Vasudev, Walmart’s U.S. chief technology officer, and the retailer plans to expand those efforts. That could include tracking when shoppers talk with store staff and collecting more information about how people are using Walmart’s other offline services, such as urgent care clinics and auto repair, he said.
+The upgrades to Sparky are critical for Walmart as it faces off against other retailers like Amazon, which has been pushing to grow adoption of its Alexa for Shopping chatbot, formerly known as Rufus. Walmart is also contending with general AI tools like Google’s Gemini, which has said it will incorporate more shopping features to help with tasks such as researching products, searching for deals and seamlessly placing orders.
+But Walmart says it has an advantage thanks in part to its stores, which it is aiming to use to help fill in the gaps around what people do in the run-up to a buying decision. Situations where data isn’t captured might include a customer using the Walmart app in-store to research an item or asking an employee questions about a product, Vasudev said.
+Even if people don’t ultimately make a purchase, better information gathering about that process could be informative for honing future recommendations and ultimately driving sales. For example, if a shopper is using the Walmart app to browse while they’re in a store, Sparky could remember their search and suggest the item or something similar later on when the customer is browsing online.
+In the future, Vasudev said, store employees may also have a way to quickly enter their interactions into Walmart’s systems and tie that data to a specific customer.
+“What ends up happening is we have the totality of all the interactions that customers have with us, whether it’s online in the store or elsewhere, and then we’re able to build together the context and the memory of the customer,” Vasudev said.
+A Walmart spokesperson said that the company doesn’t disclose which specific AI models the company uses to power Sparky or its other AI features. But Walmart has been clearer about another part of its AI strategy, which involves making Sparky available beyond Walmart’s own app and site.
+Last year, Walmart struck a partnership with OpenAI to provide its employees with ChatGPT Enterprise subscriptions and has integrated Sparky directly with ChatGPT, allowing users to connect their Walmart accounts so Sparky can pull in information such as past orders and payment details from Walmart’s systems.
+It plans a similar commerce move with Google’s Gemini, with an agentic commerce partnership
+announced in January
+that’s yet to roll out broadly. The spokesperson said Walmart didn’t have updates to share about its work with Google.
+Chatbot Collaboration
+Walmart’s collaboration is in contrast to archrival Amazon, which
+has locked down
+its website and product catalog from outside shopping tools entirely. Amazon CEO Andy Jassy
+told The Information
+the company has held off from partnering with outside AI tools because they don’t yet provide a good customer experience.
+But Walmart believes the integration approach can give shoppers a better experience than the tech firms’ own AI can provide alone, Vasudev said. For example, Sparky would know that a shopper in New York City searching for fishing gear could be headed on a weekend trip upstate, and suggest additional products like groceries or camping gear to round out a bigger basket of items, while also understanding what that shopper has bought in the past.
+Vasudev says that extra context, paired with Walmart’s store footprint and delivery capabilities, means Sparky can act as much more of a coordinator than a simple chatbot. “It allows OpenAI to then come in and say, ‘Hey, look, based on this particular prompt or query, I’m now going to let Walmart and Sparky construct a much richer shopping experience,’” he said.
+ChatGPT conversations can surface a range of retailers’ goods, and OpenAI has also been focused on
+attracting more apps
+that plug into the chatbot. But Walmart is betting the best way to stand out is to make itself the most useful option there. “ChatGPT itself can decide which particular shopping agent to route things to. And that’s based on the relationship they have with us, but it’s also based on how well we are able to fulfill that need,” Vasudev said.
+Walmart also hopes that AI app partnerships will provide the retailer with new forms of insight into shopper behavior. The company is exploring whether outside apps like ChatGPT could provide more context about customer preferences, Vasudev said. For that to work, the AI companies would need to share more data and information about what people are searching for or asking outside Walmart’s app.
+“If, let’s say, we have done certain queries in OpenAI, and OpenAI chooses to pass that context to us, we could integrate that context into our understanding of the customer overall as well,” he said. So far that
+data sharing is relatively limited
+—OpenAI shares some data with outside partners, such as advertisers, but not actual ChatGPT prompts or conversations.
+Search Bar Evolution
+On top of trying to get more out of its AI partnerships, Walmart is focusing on beefing up Sparky’s own capabilities as a stand-alone agent.
+Later this year, shoppers will be able to use visual and audio prompts with Sparky, offering more ways to interact with the app. For example, Vasudev said, customers could take a photo of their pantry and ask Sparky to come up with a recipe based on what they already have, then suggest items that are missing and create a shopping basket they can review before purchasing.
+So far, Walmart hasn’t yet moved to incorporate Sparky directly into its search bar, a contrast to Amazon’s
+recent move to rebrand
+and make its own shopping assistant a more prominent part of its retail site’s search.
+Vasudev said the company is “very actively working” to figure out how to blend traditional searches and conversational, chatbot-style prompts, so shoppers don’t have to pick between the two. Basic product queries might trigger a traditional search, while more complicated requests could be best handled by Sparky, he said.
+The assistant could even help customers handle more tasks beyond shopping in the future, he added, though he didn’t detail exactly what kind. “There might be adjacent tasks related to commerce that you might be interested in, and over time, Sparky will certainly flex in those areas as well,” he said."

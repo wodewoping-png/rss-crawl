@@ -276,3 +276,7 @@
 - end_date: 2026-06-04
 - csv: weekly_csv/2026-05-29_to_2026-06-04.csv
 
+## Daily 2026-06-06T12:00:01.958543+08:00
+- target_date: 2026-06-05
+- csv: daily_csv/2026-06-05.csv
+

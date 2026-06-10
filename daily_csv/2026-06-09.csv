@@ -1,0 +1,278 @@
+﻿标题,时间,作者,链接,内容
+OpenAI in Talks to Lease 10 Gigawatt Ohio Data Center with Backing From Nvidia,2026-06-10T02:07:23Z,Anissa Gardizy,https://www.theinformation.com/articles/openai-talks-lease-10-gigawatt-ohio-data-center-backing-nvidia,"OpenAI
+is in advanced negotiations to lease a proposed 10 gigawatt data center campus on federal land in Ohio as part of a deal that could include financial backing from
+Nvidia
+, according to two people with direct knowledge of the discussions.
+The campus under discussion would be among the biggest of its kind, with a total cost of at least $500 billion if fully built out based on today’s prices for chips, labor, power and other materials, the people said. OpenAI would control the equipment in the facility under a long-term lease and would be on the hook for payments once the project starts operations, with the first phase expected in 2028.
+The discussions haven’t been finalized and plans could change. If completed, the Ohio project also would represent OpenAI’s largest infrastructure commitment to date—and would show its deep interest in controlling its own data centers despite having committed to large deals to rent servers from cloud providers such as Microsoft, Amazon and Oracle over the next decade. It is reminiscent of OpenAI’s Stargate plan, announced at the White House in January 2025, to build $500 billion dollars worth of data center capacity through a joint venture with Oracle and SoftBank—a plan that
+ultimately fizzled out
+.
+The new project involves a campus on land in southern Ohio owned by the Department of Energy that is already under development by SB Energy, which is majority-owned by OpenAI shareholder SoftBank Group. Under the plan being discussed, OpenAI would use Nvidia hardware in the facility, and Nvidia would provide a financial guarantee for OpenAI’s lease and SB Energy’s future project financing, using its enormous balance sheet for what is known as a backstop.
+Such a deal would also be new terrain for Nvidia, which has signaled its interest in helping finance its customers’ data center projects but has yet to commit to a project at this scale.
+Nvidia chip rival Google already has agreed to backstop debt and data center lease payments associated with data centers where Anthropic plans to use Google’s tensor processing units.
+Breaking Ground
+A groundbreaking ceremony for SB Energy’s work on the project was held in March, with company and government officials including SoftBank founder Masayoshi Son and U.S. Energy Secretary Chris Wright. But the possible roles of OpenAI and Nvidia haven’t been reported.
+Numerous gigawatt-scale data centers are being developed across the U.S., including one in Abilene, Texas, run by Oracle Cloud for OpenAI. But 10 GW, which is 4.5 times the generating capacity of the Hoover Dam, would dwarf even those sites. It’s not clear when the entire Ohio facility would be completed, but the first 800 megawatts is expected to be ready in 2028.
+Not all of OpenAI’s massive infrastructure bets have materialized.
+Last year, OpenAI and Nvidia
+announced a tentative deal
+in which Nvidia agreed to provide OpenAI with up to $100 billion in funding to build up to 10 gigawatts of its own data centers. Nvidia also discussed leasing OpenAI its GPUs as part of that arrangement. The companies didn’t follow through on completing the deal, and earlier this year Nvidia made a $30 billion equity investment in OpenAI.
+Earlier this year, during the demise of the Stargate plan, OpenAI shelved its near term plan to build its own data centers. The potential deal with SB Energy would get it much closer to having more control over its cloud capacity and potentially lower its compute costs. OpenAI’s Sam Altman has long sought to build multiple gigawatts of data center capacity at the same campus, with conversations for a $100 billion campus dating back to early
+2024 conversations with Microsoft
+.
+Though having more control over its compute capacity could in the long run be less expensive, it’s still a costly endeavor.
+OpenAI would need to make at least tens of billions of dollars in payments for the Ohio lease over a 20 year duration, the people said. That doesn’t count the costs of equipment such as chips and servers, which typically account for around 70% of data center costs, meaning OpenAI would need around $350 billion to obtain Nvidia AI chips.
+OpenAI has discussed arranging financing for those chip purchases, according to the two people. It isn’t clear whether Nvidia or other parties would lease out or finance the eventual chip purchases.
+OpenAI is racing to obtain the power and chips needed for future AI systems, while also trying to ensure it does so in a way that is financially sustainable. It has signed cloud rental agreements with providers including Oracle, Microsoft and Amazon Web Services totaling at least $665 billion over the next five years. Its deals for computing power are sure to be a central subject of scrutiny around its planned initial public offering, which it
+filed confidentially
+for on Monday.
+Already one of the biggest customers of Nvidia, OpenAI also has announced agreements to use chips from Advanced Micro Devices, as well as Trainium chips from Amazon. OpenAI is also developing its own custom AI chip with Broadcom.
+Repurposing an Old Nuclear Weapons Site
+Founded in 2019, SB Energy is majority owned by SoftBank and counts as investors Ares Management and OpenAI, which said in January it had invested $1 billion in the energy company and hired it to build and operate a 1.2 GW data center site in Milam County, Texas. SB Energy in May announced that it intended to file for an initial public offering in the U.S. Reuters reported SB Energy could seek a valuation north of $50 billion.
+The Ohio project originated in an agreement between SB Energy and the Trump administration for the company to redevelop a former uranium enrichment site in Pike County, Ohio, which sits just over 50 miles south of Columbus. That grew out of the work of a team within the Energy Department led by employees Tim Walsh and Ankur Bansal, who at the direction of Energy Sec. Wright began last year exploring how to use DOE-owned land for developing power plants and data centers for AI.
+Conversations accelerated in February, when the U.S. Commerce Department announced that as part of Trump’s new trade deal with Japan, SB Energy would invest $33 billion to build a new, 9.2 GW natural gas power plant at the Ohio site.
+The U.S. government will own the power plant, which SB Energy will operate. SB Energy has said it will fund the cost of power grid upgrades so that costs are not passed onto the public.
+At the March ceremony, also attended by Commerce Secretary Howard Lutnick, officials touted the plans to use the power plant for a massive AI data center, which officials described as one of the largest planned AI infrastructure projects in the world. Officials also emphasized the value of revitalizing a site for commercial purposes that was once used to make material for nuclear weapons.
+The Energy Department’s ownership of the site is part of what makes it attractive. That could help the project avoid some of the public backlash to large data center projects around the country, most of which are located in areas more prone to community resistance and local zoning boards."
+What’s Behind OpenAI’s Hedged IPO Bet,2026-06-10T00:00:46Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/behind-openais-hedged-ipo-bet,"Can OpenAI do anything simply? Many companies, when publicly acknowledging the possibility of an IPO, emphasize that the final decision will depend in part on “market conditions.” That’s what OpenAI’s rival Anthropic
+did last week
+. But the ChatGPT firm chose to be more cryptic. Revealing its confidential IPO filing on Monday, OpenAI
+said it might hold off on its debut
+for a while “because there are things we want to do that are likely easier as a private company.”
+That very well may be obfuscation—the Nasdaq has fallen 5% over the past week, including 1% on Tuesday, so market volatility presumably looms large in the thinking of OpenAI’s management and advisers. Otherwise, what could OpenAI be talking about? It’s no secret that tech entrepreneurs often hold off on an IPO because they want the flexibility to build a business—often by making long-term and costly bets—without the scrutiny and pressure of the public markets. But if that was a worry for OpenAI CEO Sam Altman,
+he’d probably never go public at all
+.
+When you ask ChatGPT what a private company can do more easily than a public one, it lists “long-term investments” and then “changing strategy quickly,” which OpenAI has
+definitely
+done already,
+but very publicly
+. The third factor ChatGPT cites is “keeping information confidential”—
+that ship has sailed.
+So what exactly is it Altman wants to do that he hasn’t already done?
+Even an acquisition shouldn’t stop OpenAI from a public listing—just look at SpaceX, which is going public later this week. It’s doing so
+months after swallowing up
+one of Elon Musk’s other companies and
+after taking an option to buy Cursor
+for $60 billion. Chances are OpenAI isn’t really ready to go public but doesn’t want to be left out of the confidential IPO filing scene—it’s cool to have filed confidentially! Maybe executives are worried about the stock market. Or maybe it’s both.
+Software’s Defense
+Private equity mogul Orlando Bravo
+declared on CNBC on Tuesday
+that the “SaaSpocalypse is over,” arguing that AI is going to benefit software firms rather than undercut them. (Bravo’s firm, Thoma Bravo, owns many software companies, including Anaplan and Medallia).
+Marc Benioff agreed with Bravo—the Salesforce CEO retweeted the Bravo interview in an X post. Someone had better tell public market investors! Salesforce stock is down roughly 34% for the year so far, ServiceNow is down 30% and Asana is down 45%. And we haven’t seen the impact yet from any of the big IPOs—SpaceX, Anthropic and OpenAI—that will likely prompt investors to dump weaker tech stocks in favor of those with better growth prospects.
+Bravo’s logic might be right. But that won’t necessarily save the public stocks of many big software firms.
+In Other News
+•
+Broadcom said Tuesday it is launching a new fund—backed by Apollo and Blackstone—to help finance more than 20 gigawatts of AI data centers through 2028, including projects tied to Anthropic and OpenAI, using chips it has designed.
+• SpaceX’s Starlink is hitting new roadblocks with regulators in  India over concerns about how its satellite internet service has been used in the Iran war, Bloomberg
+reported
+on Tuesday.
+• The U.S. Department of Defense on Monday added more than a dozen Chinese tech companies including Alibaba and Baidu to a blacklist, a move that could further escalate tensions between the world’s two largest economies."
+School Bus Startup Zum Takes Early Steps Toward IPO,2026-06-09T23:00:55Z,Valida Pau,https://www.theinformation.com/newsletters/dealmaker/school-bus-startup-zum-takes-early-steps-toward-ipo,"It may not seem like it now, as we barrel toward
+SpaceX’s public debut
+this week, but not every initial public offering will involve a $1.75 trillion rocket-ship company. Soon enough, public investors may get to judge a much more down-to-earth business: school bus fleets.
+Sequoia Capital-backed Zum, known for using its electric school buses to shuttle kids to class in school districts including Los Angeles and San Francisco, has been interviewing investment banks for a potential IPO, according to people familiar with the matter.
+IPOs from companies like Zum will test public investors’ interest in companies that, according to their backers, won’t get easily dislodged by Anthropic’s Claude or other AI apps.
+“It’s not going to get obviated by Claude tomorrow—like, no one’s going to use Claude to take kids to school tomorrow,” said Nabeel Hyatt, a general partner at Spark Capital, which led Zum’s 2018 Series B and is also a longtime investor in Anthropic. “It’s very unlikely that an Anthropic will run a bus company.”
+Of course, Zum does have an AI angle. The startup is using AI for different tasks, such as quickly rerouting drivers to the fastest route when a parent cancels a pickup. The company said its AI-enabled software also helps reduce the time it takes students to board buses from 3 minutes to 8 seconds per stop, because they are no longer waiting around for a bus’s arrival. That saves 15 to 20 minutes for students, it says. Such a service, which automatically changes the route based on a parent’s notification, goes beyond what mapping apps like Alphabet’s Waze offer.
+Zum’s revenue rose 35% last year to more than $330 million. This year it turned profitable based on adjusted earnings before interest, taxes, depreciation and amortization, said CEO Ritu Narayan.
+The Redwood City, Calif.–based startup signs school districts to multimillion-dollar long-term contracts that typically last five to 10 years. Late last month, it said Los Angeles County would use its buses for the FIFA World Cup tournament.
+In April, it raised $100 million at a valuation of $1.7 billion from private equity firm TPG.
+Other mobility apps are also taking steps to go public. School bus operator First Student, backed by private equity firm EQT, has been working with banks on an IPO as well, Bloomberg reported. And bike rental app Lime last month filed its prospectus for a planned IPO.
+Zum’s Narayan didn’t comment on the prospect of an IPO and said the company is focusing on growing its business in other states.
+Of course, school bus operators don’t stand to deliver the rocket-ship returns AI investors are seeking, as they tend to have lower operating margins than software companies. And recent mobility IPOs have disappointed: Shares of Via Transportation, a maker of software for public transportation, have lost 70% of their value since the company’s IPO last September.
+Still, every time an Anthropic or OpenAI release sinks software stocks, the non-AI aspect of these businesses may sound more attractive. —
+Katie Roof contributed to this article."
+GM Doubles Down on Next-Gen Batteries in a Move on AI Data Centers,2026-06-09T21:00:54Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/gm-doubles-next-gen-batteries-move-ai-data-centers,"For a year, General Motors
+has been
+talking up plans to commercialize a next-generation manganese-based battery that would help it bypass China’s dominance of the electric vehicle and battery industries.
+Now GM says it’s expanding its bet on next-gen technologies, this time using a different approach to get in on the AI data center boom. GM said Tuesday that its venture arm would invest in Peak Energy, a Colorado-based startup that assembles sodium-ion batteries, which contain no lithium, the primary metal in most current batteries.
+The two companies would manufacture massive, cheap sodium-ion batteries that would power data centers and the grid, said Kurt Kelty, GM’s vice president of battery and sustainability.
+Neither company disclosed the size of the GM investment. But when I threw out the number $30 million, the amount of a previous GM investment in another battery startup, a spokesperson for the car company said it was a “fair” guess.
+Prior to the GM investment, Peak raised $65 million in two rounds. Peak is on track to earn $100 million in revenue next year, according to CEO Landon Mossburg.
+The move reflects the West’s effort to sidestep China’s dominance of the main iron- and nickel-based battery chemistries used to power everything from EVs to smartphones, drones, AI data centers and humanoid robots. Specifically, GM is looking to skirt China’s Contemporary Amperex Technology Ltd., which controls more than 40% of the global battery market.
+It’s also a retort by GM to its main Detroit rival, Ford, whose share price has surged 22% in the last month
+since it announced
+its own grid battery subsidiary, Ford Energy. GM’s stock has risen less than half as much—9%—in the same period.
+“We’re trying to figure out, how can we leapfrog [CATL] with a budget that’s much lower and a manpower that’s much lower than they have?” Kelty told me. “We’ve got to be really smart. And that’s why we work with [manganese-led batteries]. That’s why we’re working with sodium ion—is to try to leapfrog them in ways that are specific to the U.S. market.”
+In May last year, GM announced
+a breakthrough
+in a manganese-based battery chemistry, lithium manganese rich, which it said it would deploy in EVs in 2028. But EVs haven’t turned into a big business yet in the U.S. GM’s move into sodium-ion batteries is an attempt to crack an industry that
+is
+taking off—
+supplying power
+to AI data centers and the grid.
+Lithium iron phosphate, or LFP, is the favored type of battery used to power and back up AI data centers (and electric vehicles). China’s domination of LFP batteries extends to all of the materials used to make them, especially lithium. Since sodium-ion batteries contain no lithium, they present the possibility of skirting that chokehold.
+Peak’s Mossburg is a Tesla veteran who co-founded the company in 2023 amid the arrival of a small crop of U.S. sodium-ion startups seeking to compete with lithium ion. At least two of the startups—Bedrock Materials and Natron Energy—have shut down over the last year or so, with Bedrock claiming
+it wasn’t possible
+to compete with LFP.
+Mossburg, however, argues that sodium ion is cheaper than LFP if you consider the total cost of setting up and running a power plant using the batteries for 20 years. Sodium ion, he says, requires no costly cooling mechanisms, unlike LFP, because it is inherently much safer. In addition, sodium-ion batteries last many more years than LFP ones.
+And unlike LFP, sodium ion is only now becoming a product, so it has much scope for improvement. Mossburg said many of the improvements that have made LFP a winning chemistry can be imported into sodium-ion technology. “You gotta tweak it and you gotta understand there are differences, but a lot of the things that work for lithium work for sodium, and that just means that you can go really, really quick,” he told me.
+China’s battery giants are onto this opening. CATL and BYD have taken the lead in the manufacture of sodium-ion cells. But GM and Peak argue that Peak is first to figuring out how to deploy sodium ion at large scale for grid applications.
+Kelty said GM and Peak had already developed a lab-scale sodium-ion cell that in important respects beat the performance of similar cells made by CATL and BYD. The companies next will use GM’s small pilot manufacturing lines to scale up the sodium-ion cells. Kelty described early plans to later manufacture grid-scale batteries at large volume but said the two companies had not firmed up a timeline.
+If they are going to fully bypass China, GM and Peak will have to make their own cells. Right now, Peak buys many of its cells in China. Mossburg said it does not have the cash to build cellmaking plants on its own, and that the partnership with GM gives the startup access to sufficient capital to do so.
+“We’re not going to build our own pilot line. We’re not going to build our own full-scale cell factory. At least, that’s not currently the plan,” Mossburg said. “We want to work with partners to do that. And GM’s an incredible partner to help us go do that.”"
+Palantir CEO Pounces On Anthropic Spending Backlash,2026-06-09T17:35:12Z,Laura Bratton,https://www.theinformation.com/newsletters/applied-ai/palantir-ceo-pounces-anthropic-spending-backlash,"Software companies and their shareholders have watched the recent growth of Anthropic and OpenAI with unease. But the mood is shifting as customers complain about AI costs, and the old guard smells blood in the water.
+Last week, Palantir CEO Alex Karp and his lieutenants told his customers at an event outside San Francisco that they’re foolish to do business directly with AI firms rather than with intermediaries like his firm, which he says can help them run AI more effectively.
+“You‘ll go to a large language model company and learn that they don’t care about you at all,” he said. “You‘re gonna go home feeling poorer and less safe, and you buy the product, and you’re gonna pay a lot in tokens, and it's gonna be very hard to understand how it helps you.” (Spokespeople for Anthropic and OpenAI did not provide a response.)
+His comments come after executives at
+Uber
+,
+ServiceNow
+and Snowflake said they’re worried about runaway costs of using the latest AI tools, including Anthropic’s Claude Code.
+Aaron and I reported last week
+that some customers are finding ways to reduce costs already by using model routers and capping usage among individual employees.
+Software firms like Karp’s are also trying to seize the moment. They say they can play an important role in giving customers AI model options from multiple providers so that no one vendor gains leverage over them.
+Palantir’s head of its commercial business, Ted Mabrey, said there’s been an “explosion” in the number of customers concerned about and looking to moderate AI costs linked to token usage in the last six weeks since The Information quoted Uber CTO Praveen Neppalli Naga saying the rideshare firm blew through its full-year AI budget in the first few months of 2026 as Claude Code usage surged.
+To be sure, customers have complained to me that Palantir’s databases and other software are also too expensive, as they can cost tens of millions of dollars annually at large firms. (Still, Mabrey and other Palantir customers told me the software is worth the cost.)
+Karp said Palantir’s software and its team of specialist consultants, known as
+forward deployed engineers
+, give customers the ability to solve a given problem and “own the means of production.” FDEs develop customized AI applications powered by models from different providers, including Anthropic and OpenAI, and the customers can see how much they’re spending on tasks handled by each model powering the apps so they can easily pinpoint cost overruns.
+Palantir’s FDE model has been the envy of other software providers, and even OpenAI and Anthropic are hiring people with such titles. Many software firms are also pitching new products that, similar to Palantir’s software called Foundry and AIP, are essentially management dashboards to help enterprises manage their AI tools.
+“Everyone’s copying us,” Karp told me in passing after I mentioned the FDE hiring boom. “Quote me on that.”
+Some Palantir customers seem to agree with Karp’s pitch. Law firm Kirkland & Ellis, for instance, worked with Palantir to develop an AI app that helps its lawyers draft transaction documents for private fundraising deals in minutes rather than days, Erica Berthou, an executive at the law firm, said at the Palantir event.
+Still, Anthropic’s revenue is on track to easily surpass Palantir’s this year. Anthropic, founded in 2021, has projected $11 billion in revenue in the current quarter alone, while Palantir, which is 23 years old, has projected roughly $7.7 billion for the full calendar year, up 70% from 2025. If not for Anthropic’s rise, Palantir’s growth rate would be considered other-worldly!"
+Anthropic’s Mythos Is Coming Today; Apple Pursues Modest Goals with Siri Revamp,2026-06-09T14:06:47Z,Aaron Tilley,https://www.theinformation.com/newsletters/ai-agenda/anthropics-mythos-coming-today-apple-pursues-modest-goals-siri-revamp,"Big news:
+Anthropic
+has a new version of a
+Mythos
+-class model coming later today called
+Claude Fable
+, according to a person with knowledge of the release. It’s a neutered version of Mythos with safeguards to protect against its misuse either in cybersecurity hacks or the construction of bioweapons, the person said.
+For those who have been living under a rock, Anthropic first previewed Mythos in April, describing it as an ultra-powerful model that could find hundreds of new security vulnerabilities in decades-old software. The hype and fear surrounding Mythos was so great that it even pushed the
+Trump Administration
+to rethink its light-touch approach to regulating the AI industry, as Leo and I wrote about
+here
+.
+Claude Fable, which will be unveiled in the next few hours, will be about twice as expensive as today’s most advanced
+Claude Opus
+models, the person said.
+That’s pricey, especially since many developers today are already complaining about how high AI costs are. But it’s not as bad as many people were probably expecting, based on the initial Mythos pricing—five times higher than Opus—that Anthropic shared in its April launch blog post. (
+Sources
+first reported on some aspects of today’s model launch.)
+Onto today’s column…
+Apple has stopped making promises about AI that it can’t actually launch. But after the company announced new AI features at its annual conference Monday, some developers may be wondering whether the company is trying hard enough.
+At the Worldwide Developers Conference,
+Mike Rockwell
+, who leads the company’s engineering for
+Siri
+, demonstrated how the voice assistant can now take actions such as looking up a nearby concert and setting a reminder to buy tickets.
+But during his demonstration of the features, which Apple developed using an adapted version of
+Google’s Gemini
+AI models, each of those actions took several seconds despite the fact that they were fairly simple.
+The features also seemed tame compared to technology from
+OpenAI
+and Anthropic that can handle more complex tasks, including giving assistance in planning and booking trips as well as providing location ideas.
+Apple’s biggest move on Monday was launching a standalone Siri AI mobile app—three and a half years after the advent of
+ChatGPT
+—in an acknowledgement that its customers are big fans of conversational chatbots.
+“Apple is basically showing what they have to: Siri working provably on new tech,” said
+John Burkey
+, who worked on the Siri engineering team a decade ago.
+To be fair to Apple, it has long been a late mover in everything from mobile payments to web browsers but has been able to catch up to rivals because of its captive base of customers. (It also does a pretty decent job with its software!) Monday’s announcements could be viewed as being squarely in line with Apple’s (very successful) product playbook.
+And unlike ChatGPT and Claude, the Siri AI app has a lot more information about people at its fingertips, given the data customers store on their Apple devices. The new Siri can search across a range of personal information, such as past conversations in iMessage and email, personal calendars and photo libraries, for instance. That could give Siri an advantage among consumers (though we’ve been saying that for the better part of 10 years, to no avail).
+For his part, Apple software chief
+Craig Federighi
+leaned into the idea that Apple, unlike its AI rivals, is launching products for the masses at a pace that wouldn’t overwhelm or be lost on them.
+Some AI companies “appear to be racing forward, seemingly pursuing AI for the sake of AI, without clear regard for the people, all of us, that it's ultimately meant to serve,“ he said Monday. ”At Apple, our mission has always been to turn the potential of advanced technology into helpful and intuitive products for everyone.”
+Apple leaders also drew a contrast between itself and other AI labs by highlighting the company’s usage of AI models that run on their devices rather than the cloud, which they said are better from a privacy perspective. That’s good for customers who might be concerned about where their data is ending up. However, Apple leaders confirmed Monday that the company will be using
+Nvidia
+chips running in
+Google Cloud
+for the most advanced version of Gemini, as The Information first
+reported
+last week.
+At a minimum, Apple has learned to avoid some of its past mistakes in AI,
+such as when it promised a bevy of features in 2024 that ended up never seeing the light of day
+. It recently agreed to pay $250 million to settle a class action lawsuit over the matter.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Databricks
+, a provider of database management software, has discussed raising more money in a funding round that could kick off within the next month that could lift its valuation to between $165 billion and $175 billion, The Information
+reported
+.
+Amazon
+announced a multibillion dollar deal to buy fiber optic cables from
+Corning
+for its data centers around the U.S.
+Vibecoding startup
+Lovable
+has surpassed $500 million in annualized revenue, it told TechCrunch.
+Waymo
+bought a 5,500-acre vehicle testing facility in Wittman, Arizona that
+Apple
+previously owned as part of its now-canceled
+Project Titan
+self-driving car effort for $220 million, TechCrunch reported.
+Meta
+is spending $115 million on a free five-week training course for data center workers that guarantees participants a job at a Meta construction site.
+PointFive
+, which uses AI to help businesses understand their cloud spending, raised $60 million in a Series B funding round led by
+Accel
+.
+Infinity Constellation
+, which incubates AI businesses focused on professional services, raised $24 million in a Series A funding round, with participation from
+Rafferty Ventures
+,
+Oxford Funds
+,
+Freestyle VC
+,
+Backed VC
+,
+BY Ventures
+and
+Millennial Ventures
+.
+OpenAI
+said on Monday that it has
+filed draft paperwork
+for an initial public offering with the
+Securities and Exchange Commission
+, a week after rival
+Anthropic
+said it had done the same. OpenAI also plans to let employees sell their shares ahead of the IPO, The Information reported. OpenAI has held several such tender offers in recent years, allowing insiders to sell billions of dollars worth of shares.
+The
+U.S. Department of Defense
+on Monday
+added
+more than a dozen Chinese tech companies including
+Alibaba
+and
+Baidu
+to a blacklist, a move that could further escalate tensions between the world’s two largest economies. Most of the companies on the list are state-backed, and it’s the first time that high-profile Chinese tech firms were added. The list bars anyone included from doing business with the DoD and carries no other immediate sanction implications.
+Jensen Huang
+said that
+Nvidia
+and
+LG
+are expanding their collaborations on humanoid robots and data centers.
+Google
+made
+Gemini 3.5
+the default model powering its
+Notebook LM
+app and integrated its
+Antigrativity
+coding tools to support software-related tasks."
+"Anthropic, OpenAI Stoke Brisk Pace of VC Fundraising",2026-06-09T13:01:02Z,Julia Hornstein,https://www.theinformation.com/articles/anthropic-openai-stoke-brisk-pace-vc-fundraising,"When Founders Fund earlier this year set out to raise its latest fund, a $6 billion vehicle
+to back mature startups like Anduril
+, it was the first time in the firm’s two-decade history it had asked its limited partners for more cash within two years of its prior fundraise.
+The reason: It had already blown through the $4.6 billion fund it raised last year, thanks to investments in seven startups, including OpenAI, Anthropic, Ramp and Cognition, with an average check size of $600 million, according to a person familiar with the firm’s fundraising. Founders Fund wasn’t alone in picking up the pace.
+Some of the
+largest and most notable venture capital firms
+, including Thrive Capital, General Catalyst and Andreessen Horowitz, have recently raised funds less than two years after their last fundraising, rather than the cadence of every two to three years typical in the past for most VC funds.
+VC firms are going to their limited partners—the pensions, endowments and family offices that back VC funds—more frequently than ever because startups, particularly AI model makers, are raising record-sized rounds. Each of the four lead investors in Anthropic’s recent $65 billion fundraise, which valued it at $900 billion before the investment, put more than $2 billion into the funding round. To participate in these rounds, venture investors may have to commit large chunks of their funds or raise special purpose vehicles, a strategy some AI companies have frowned upon.
+In fact, even some VC funds raised earlier this year have already deployed all their capital, said one director at an endowment for a private university.
+The limited partners, in turn, are rushing to get into this year’s funds. They see it as yet another opportunity to double down on their stakes in high-performing managers. To do so, they’re diverting cash returns from other parts of their portfolios, such as mining stocks or private equity, these limited partners say.
+There’s a downside to such frequent capital raising: Newly raised VC funds may be buying all their investments at the top of the market, rather than spreading bets over multiple years to benefit from the development of startups over time.
+“If you invested it all in one year, you don’t have the opportunity to put more money to work when the prices are low,” said Howard Morgan, chair of VC firm B Capital Group and Cornell University’s investment committee. “The concern is that raising all these megafunds so quickly one after the other is likely to make returns really drop.”
+In part, VC firms are raising money to invest in what could be the last private rounds for OpenAI and Anthropic before expected initial public offerings later this year. Fear of missing those opportunities has prompted some VC firms to pull forward funds they would’ve otherwise raised in 2027, said Ashley Neville, who leads a data analysis team at private capital management platform Carta.
+“They’re calling on those LPs to bring that capital in now so they can deploy it now,” she said investors have told her.
+This brisk fundraising pace comes even as VC firms’ distributions to paid-in capital, a figure that measures the cash returned by a VC fund, remains low. The top 10% best-performing funds that started investing in 2021 have only returned 16 cents for every dollar limited partners have invested in the fund, according to Carta’s research. Middle-of-the-pack funds haven’t returned any cash to their limited partners. That is slightly worse than the median DPI for five-year-old funds since 2015, according to Carta.
+Venture capitalists have had to get creative to sell funds raised only a year or two apart, said Neville.
+“The story that funds are telling their LPs isn’t necessarily a story of ‘This is what our DPI is,’” she said. “It’s ‘This is what we think our DPI will be when these companies IPO.’”
+VC firms are also trying to court new limited partners, including wealthy individual investors keen to get a slice of fast-rising AI startups, as well as sovereign wealth funds that haven’t already made big investments in AI. Underscoring this global reach for cash, Andreessen Horowitz, which has raised money from funds including Saudi Arabia’s Public Investment Fund, said last week that the firm has been “forming new partnerships overseas” with unnamed sovereign wealth funds.
+VC funds and their backers are raising off the promise that the AI boom still hasn’t totally played out—and that firms with top returns will keep repeating their successes.
+“In our highest-conviction managers, we’re not going to miss a vintage,” the endowment investor said. “We will find a way to make it happen.”"

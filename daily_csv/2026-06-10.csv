@@ -1,0 +1,214 @@
+﻿标题,时间,作者,链接,内容
+German Court Ruling Against Google Spotlights AI Liability Question,2026-06-11T00:00:36Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/german-court-ruling-google-spotlights-ai-liability-question,"We got big news in the past couple of days concerning a European court ruling against Google. But bear with me, this is not one of those knee-jerk anti-U.S. tech decisions we often see coming out of Europe. This ruling makes some sense—and could have broader implications for the AI sector. A court in Germany found that Google is responsible for what its AI models say in AI-written answers to search results. While the ruling is preliminary, according to Google, the finding spotlights an unresolved question about who’s responsible for costly errors made by AI models.
+The court ruled in favor of two businesses that sued Google over AI Overviews results describing those businesses as scams when in fact they weren’t. (
+German publication The Decoder
+reported the ruling
+.) The errors were made by Google’s AI—the judgment noted that the AI Overviews answer said things not mentioned by the websites that were the supposed source. “These are unique assertions invented by Google’s AI tool,” the ruling said, which Google “must accept responsibility for.”
+The ruling highlights how AI-written responses could undercut the legal protections Google and other tech firms enjoy in the U.S. under section 230 of the Communications Decency Act. That law says tech firms aren’t liable for content that appears on their services. Some of those same protections apply in Germany, the ruling indicated: “For standard search engines, courts usually rule that operators do not have to check every link in advance.”
+But as the ruling points out, an AI Overview answer, unlike a traditional search response, “weaves information together to create brand-new text statements.” (In a statement, Google pointed out that “the overwhelming majority of responses” in AI Overviews are accurate, although it acknowledges Overviews can get things wrong at times.)
+Google had argued, according to the ruling, that users could check AI answers by looking at the websites the answers link to. But the court noted, “If an AI overview were legally treated as completely unreliable text that required users to check every single link anyway, the entire feature would lose its stated purpose.” Good point!
+Oracle's Mixed Quarter
+Oracle’s expansion of its AI cloud business is on track. But its pesky software business is holding back its overall growth. Software has long been Oracle's most important operation, but AI data centers now outshine software.
+The company reported on Wednesday that in the May quarter, concluding Oracle’s fiscal year, revenue grew 21%, a percentage point slower than in the previous quarter, although the slowdown appeared to be due to currency fluctuations. On a constant currency basis, Oracle’s growth picked up. Even so, a 20% or so growth rate understates the massive explosion underway in Oracle’s cloud operation, where revenue jumped 93% in the quarter compared with a year earlier to $5.8 billion.
+On the software side, however, it’s a different story. Oracle’s traditional software business has been declining, as businesses switch away from buying software to subscribing to it in the cloud. Oracle has a cloud software business that should in theory pick up some of the customers switching away. But businesses have lots of choices about cloud software, with new AI firms widening the array of those alternatives.
+And Oracle’s own cloud software business isn’t doing that great. It grew just 10% to $4.1 billion in the most recent quarter, 3 percentage points
+slower
+than in the previous quarter. Oracle executives noted that contracted cloud software revenue is growing more quickly than we saw in the quarter. Even so, investors have reason to worry about the company’s software outlook.
+In Other News
+•
+OpenAI CEO Sam Altman told staff in a Slack message on Monday that he expects OpenAI to go public “within the next year” and that “many things could cause it to be sooner or later in that range, but filing now gives us optionality if we want to go sooner.” Another OpenAI leader also teased an upcoming new AI model the company is preparing to release.
+• SoftBank is running into further problems borrowing $6 billion secured against its OpenAI stake,
+Bloomberg reported
+.
+• Advertisers can now create ads for specific products on ChatGPT by sharing feeds of product information with OpenAI, according to communications with advertisers reviewed by The Information.
+• Microsoft’s Xbox gaming unit plans to cut staff in the coming months as its financial picture worsens, according to someone with knowledge of the plans. In a note to staff Wednesday, CEO Asha Sharma said Xbox’s “accountability margins”—a term Microsoft uses internally to refer to profit margins—have fallen to 3% in the fiscal year ending this month, a trend she said “cannot continue” (
+more here
+)."
+Elon Musk’s Very Loud IPO Quiet Period,2026-06-10T17:16:47Z,Dakin Campbell,https://www.theinformation.com/newsletters/the-information-finance/elon-musks-loud-ipo-quiet-period,"Good morning! When Elon Musk tweeted details about SpaceX’s agreement with Anthropic late last month, saying the business deal was less durable than advertised, many investors and commentators seized on the fact that the details weren’t in the company’s initial public offering prospectus filed with regulators.
+They were right to point that out, of course. Details of that nature—for instance, that SpaceX was guaranteed 180 days of revenue—should have been in the prospectus from the start. (SpaceX later updated its document to include the additional information.)
+But for me the incident brought up a history of embarrassing—or worse—episodes from 30 years of IPO history. Several years ago, I wrote a book about the evolution of IPOs and learned that such occasional blunders had become lore among the bankers, lawyers and advisers who have spent their careers keeping companies out of trouble with shareholders and the Securities and Exchange Commission alike.
+If that had been the end of it, Musk’s tweet might have simply joined a list of eyebrow-raising disclosures from WeWork, Facebook and Google, to name just three such instances. But even before filing the prospectus, SpaceX and Musk were challenging the unwritten rules of IPOs: Limit public appearances and be conservative about the information you provide investors. That’s an approach that has held sway since at least the 1980s, when Goldman Sachs bankers began to use the IPO prospectus as a marketing document and changed the face of public debuts.
+""Generally speaking, company management, and their underwriters and lawyers, are very cautious about their disclosures during their IPO process because there are strict rules surrounding communications with the public before and during an IPO,” said Renée Jones, a professor at Boston College Law School and a former director of the SEC’s Division of Corporation Finance.
+SpaceX’s behavior in the runup to its debut, by contrast, has defied that typical conservatism, industry watchers say. And if history is any guide, other companies—including AI juggernauts OpenAI and Anthropic, which are hot on SpaceX’s heels—may follow suit.
+Take the SpaceX prospectus. On page 1, it says SpaceX executives have “formed the most ambitious, vertically integrated innovation engine on (and off) Earth.” Ten pages later, it describes the company’s total addressable market as the largest “in human history,” listing it as $28.5 Trillion—with a capital T.
+These are just two of many claims SpaceX makes in the document that in the past most companies would have avoided. Jay Ritter, a professor at the University of Florida who has been covering IPOs and collecting data on them for decades, acknowledged that he “can’t think of any other situations where such grandiose statements would be made.”
+Then there are the interviews. On June 4, SpaceX ran a livestream, which anyone could watch on X, of a JPMorgan Chase event featuring CEO Jamie Dimon interviewing Musk, beaming in by video, in front of hundreds of wealthy clients assembled in the bank’s New York headquarters.
+“I have never seen anything like that,” said one person who has worked on dozens of IPOs and who asked for anonymity to speak freely.
+This week, Gavin Baker, a former Fidelity portfolio manager now at Atreides Management, posted a video of an interview he did with SpaceX Chief Financial Officer Bret Johnsen. The website SpaceX has set up for the IPO linked to the interview.
+That’s not to mention the surprise appearance from Nicki Minaj during the Starship launch video, two days after SpaceX had filed the prospectus publicly, or the many photos of space in the company’s prospectus. The display rivaled the dozens of pages of promotional shots in WeWork’s 2019 aborted IPO prospectus, heavily scrutinized by Wall Street.
+The SEC typically discourages public events touting an IPO in the runup to the offering, imposing a quiet period between the time when a prospectus is publicly filed and when it becomes effective, right before the IPO takes place. As a result, management teams generally avoid public interviews, opting instead for prerecorded videos. They’re even cautious about what they tell institutional investors during the IPO road show, where they have more freedom to provide high-level financial targets.
+As an example of how disclosure can go awry, when Google was about to go public in 2004, Playboy magazine published an interview it had conducted months earlier with the founders. Lawyers and bankers flew into a panic, worried that the SEC would force the company to delay its offering. In the end, to appease the SEC, the company printed the entire text of the interview in an amended prospectus. Of course, that was 22 years ago, but companies seem to have gone out of their way to respect the required quiet period ever since.
+To be sure, the current SEC has already signaled that it doesn’t intend to rein in SpaceX. In February, Musk appeared on Dwarkesh Patel’s podcast. When asked about the IPO, Musk said he had to “be careful about saying things about companies that might go public,” before he went on to talk about how SpaceX would bring data centers to space.
+One comment below the transcript on Dwarkesh’s site put it directly: “This is Elon talking his book to hype the SpaceX IPO.” Another person chimed in, “And it’s working.”
+Talk like that may run up against the rules around communicating with the public about an IPO, known as gun-jumping. Those rules prohibit companies from prematurely boosting interest in an IPO. The SEC’s communications with the company are not yet public, so we don’t know if they have weighed in, but the offering has continued.
+But there’s more to why SpaceX appears to have shed those IPO chains. Ritter noted that a lot of what has kept management and companies in check over the years has been their lawyers and bankers. Under SEC rules that govern IPOs, companies and their advisers can face liability for shareholder lawsuits alleging they made misleading statements.
+In practice, banks and law firms don’t often get drawn into these lawsuits, and the underwriting agreement usually includes an indemnification clause that returns the risk to the company, but advisers tend to remain cautious anyway.
+Even here, SpaceX has broken the mold. The company says its bylaws place restrictions on shareholder legal actions, and it also has some requirements forcing such matters into arbitration. In other words, shareholders won’t have the normal protections that hold company management teams accountable for materially misleading statements.
+Added up, Musk’s and SpaceX’s actions have likely cleared the way for other mega-IPOs, like those from OpenAI and Anthropic, to push similar boundaries. And as we know, Musk has a history of setting a new standard that others follow in short order. When he got a trillion-dollar pay package from Tesla, for example, many other executives quickly followed with monster-size equity-based comp packages of their own."
+Anthropic’s New Model Targets Power Users But Cuts Off AI Rivals,2026-06-10T14:00:53Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/anthropics-new-model-targets-power-users-cuts-ai-rivals,"App developers finally got their first real look at
+Anthropic’s Mythos
+Tuesday when Anthropic released a somewhat neutered version of the model,
+Claude Fable 5
+, following weeks of breathless chatter about it.
+Developers who tried the new model said the AI largely deserved the hype. They said it thoroughly outperformed earlier Anthropic models in coding, general knowledge work and spatial reasoning, although questions touching on cybersecurity are routed to the weaker
+Claude Opus 4.8
+AI to prevent misuse.
+But early testers said that it was hard to notice much of an improvement over Anthropic’s past models on easy or medium-difficulty tasks, including the typical questions you might ask
+Google Search
+or
+ChatGPT
+. Where Fable really stood out, they said, was on long-duration, complex tasks, like building an entire video game with just a single prompt.
+One example Anthropic provided was that payment processor
+Stripe
+used Claude Fable 5 to migrate a 50-million-line codebase in a day. Previously, that would have taken multiple engineers over two months to do by hand, Anthropic and Stripe said (though a more useful comparison would be with prior AI models).
+One possible downside to using Fable, however, is its price. It’s twice as expensive as Anthropic’s last Opus model, though much cheaper than the initial Mythos price Anthropic teased, which was five times the price of its latest Opus model.
+However, Claude Fable seems to be more token-efficient compared to past Anthropic models, one early tester said. For instance, because Fable is more intelligent, it makes less mistakes and has to go through less trial and error when coding, which means that it can shake out to be around the same price as Opus 4.8 in some cases, they said.
+Despite all this, it may be premature to assume Anthropic is taking a commanding lead over
+OpenAI
+and other competitors in AI performance. One developer who gets early access to Anthropic and OpenAI models said that an upcoming OpenAI model they’re testing could be just as capable, if not more, compared to Claude Fable.
+However, changes that Anthropic made to Claude Fable could make it harder for other AI developers to catch up. AI labs like
+xAI
+have historically
+used outputs from more capable models from OpenAI and Anthropic
+to improve their own models, in a process known as
+distillation
+. With its latest model release, Anthropic added new safeguards that essentially handicap Claude Fable when users try to use it for AI research or development, making it harder for rival AI labs to try and catch up using distillation tactics.
+Here’s what else is going on…
+Policy Watch
+The
+European Union
+ordered
+Meta
+to give rival AI companies the ability to distribute their chatbots on
+WhatsApp
+while they continue to investigate whether Meta abused its market position.
+Court Watch
+A judge in Mississippi sanctioned four lawyers for submitting legal filings containing AI-generated hallucinations.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+OpenAI
+is in advanced negotiations to lease a proposed 10 gigawatt data center campus on federal land in Ohio as part of a deal that could include financial backing from
+Nvidia
+, The Information
+reported
+. The campus under discussion would be among the biggest of its kind, with a total cost of at least $500 billion if fully built out based on today’s prices for chips, labor, power and other materials. OpenAI would control the equipment in the facility under a long-term lease and would be on the hook for payments once the project starts operations, with the first phase expected in 2028.
+China plans to spend about $295 billion on building data centers over the next five years, Bloomberg reported. The aim is for domestic companies such as
+Huawei
+to provide at least 80% of the technology involved.
+Broadcom
+said Tuesday that it is
+launching a new fund
+—backed by
+Apollo
+and
+Blackstone
+—to help finance more than 20 gigawatts of AI data centers through 2028 using chips designed by Broadcom, including projects tied to
+Anthropic
+and
+OpenAI
+. Apollo will lead an initial $35 billion commitment to launch the fund. Broadcom said the financing will support its previously disclosed agreement to supply roughly 1 gigawatt of AI chips to Anthropic.
+A coalition of Chinese tech companies including
+Alibaba
+launched a private equity fund with about $577 million to invest in hard tech companies for which the pace of development is too slow for venture capitalists, the South China Morning Post reported.
+EliseAI
+, which develops AI for housing and healthcare, reached $200 million in annualized revenue, the company said.
+Standard Bots
+, which makes AI-powered industrial robots, raised $200 million in a Series C funding round led by
+RoboStrategy
+and
+General Catalyst
+at a $1 billion valuation.
+Rylo
+, which creates AI-powered communication tools for deaf and hard-of-hearing people, raised $85 million in a funding round led by
+General Catalyst's Customer Value Fund
+and
+Canaan
+.
+Stepful
+, which provides an AI platform to train healthcare professionals and connect them to jobs, raised $55 million in a Series C funding round led by
+Oak HC/FT
+.
+Upriver
+, which provides software to automatically manage companies’ data, raised $14 million in seed funding led by
+Valley Capital Partners
+and
+Hetz Ventures
+.
+Golden Analytics
+, which uses AI to analyze and visualize data, raised $14 million in a seed extension funding round led by
+Insight Partners
+, bringing total seed funding to $21 million.
+Corca Research, Inc.
+, a startup building an AI-native collaborative workspace for mathematics, raised $7.8 million in funding led by
+NEA
+.
+Uncovr
+, a New York and Paris-based startup that aims to automate documentation and coding in hospitals, raised $7 million in seed funding led by
+Index Ventures
+.
+Orbital
+, which aims to build AI data centers in low Earth orbit, raised $5 million in a pre-seed funding round led by
+a16z Speedrun
+.
+Google
+announced
+Gemini 3.5 Live Translate
+, an audio model it says provides near real-time translation in over 70 languages. It also said that it would make its
+Google AI Plus
+subscription plan cheaper, cutting the monthly price from $7.99 to $4.99, while doubling the storage included at that tier, from 200 gigabytes to 400 gigabytes.
+Perplexity
+is planning to go public in 2028 regardless of how well
+Anthropic’s
+and
+OpenAI’s
+listings go, CEO
+Aravind Srinivas
+told CNBC.
+SpaceX
+aims to launch initial tests of satellites to run AI models by late 2027, Reuters reported."
+How Nasdaq Turned Its Index Into a Listings Weapon,2026-06-10T13:04:42Z,Cory Weinberg,https://www.theinformation.com/articles/nasdaq-turned-index-listings-weapon,"When Nasdaq CEO Adena Friedman took the stage at the Economic Club of Washington, D.C, in March, she wasn’t shy about how the company wields its stock indexes to woo business.
+In an interview with Carlyle Group Chair David Rubenstein, Friedman highlighted Nasdaq’s key distinction from rival exchanges: It also manages the influential Nasdaq-100 index, the benchmark whose rules dictate how roughly $800 billion worth of funds invest. That means Nasdaq can help push investor dollars toward the companies that list on its exchanges.
+“The Nasdaq-100 is the only index in the United States that’s tied to where you list,” Friedman noted. She said that Nasdaq has become “essentially a 3% to 4% owner of the companies that sit in the Nasdaq-100” by way of its influence over the funds that actually make the investments.
+Nasdaq’s stock price has roughly quadrupled since Friedman took the reins more than a decade ago, putting the company at a $49.5 billion market capitalization. And SpaceX’s expected Nasdaq listing on Friday, after what’s likely to be the biggest initial public offering in history, could be that strategy’s most powerful validation yet.
+Nasdaq has spent recent years courting a series of blockbuster IPOs, most recently SpaceX, an effort that’s begun to pay off thanks to persistent outreach and a buoyant tech market. More recently, Nasdaq revised the rules governing the Nasdaq-100 to let large, newly public companies enter the index faster.
+That means exchange-traded and other index funds that mirror it will have to quickly buy those shares, while the company has also struck deals to license the benchmark to more top asset managers. Nasdaq’s changes could drive roughly $6 billion of SpaceX purchases by longtime licensing partner Invesco’s popular QQQ and QQQM exchange-traded funds alone, with total buying across Nasdaq-linked funds likely reaching $8.5 billion.
+Representing around 11% of SpaceX shares available for trading, that buying will all happen within SpaceX’s first 15 days as a public company. (The weight dictating how much stock the index funds actually buy will depend on SpaceX’s trading price at the time.) Some other major index providers, such as FTSE Russell and Morningstar, have made similar changes. Others, like MSCI, have long had provisions to fast-track big IPOs and haven’t changed their methodology.
+But Nasdaq has moved the most aggressively. It was the only index provider to weight SpaceX in its index disproportionately to the amount of shares available for sale.
+“I can’t think of a precedent with this many indices adding a stock this soon after an IPO,” said Marco Sammon, an assistant professor of finance at Harvard Business School, who has studied the impact of index inclusion on stocks.
+Nasdaq officials have said the weighting mechanism is actually a limitation, designed to cap SpaceX’s index weight below what the company’s full market value would otherwise dictate.
+Nasdaq made the index methodology changes because of stark market changes over the past decade, reflecting that “companies are staying private longer, listing at larger scale, and arriving with more complex share structures,” a spokesperson said, adding: “The changes were not designed for any single company, and are consistent with updates other major index providers have independently made in response to the same market dynamics.”
+Nasdaq’s decision looks especially notable after S&P, provider of the most widely tracked U.S. stock benchmark, decided last week against loosening the S&P 500’s inclusion rules. S&P’s existing profitability and other requirements could keep SpaceX out of that index for some time, given that its AI business has dragged the company
+deep into the red
+.
+These high-profile decisions, coupled with SpaceX’s imminent debut, have pushed a usually sleepy corner of finance into the spotlight. Index providers have enormous influence over the flow of investing dollars, but unlike stock exchanges, whose listing fees are subject to regulatory caps, they face far less direct oversight in the U.S., largely setting and policing their own rules.
+And though indexes are often thought of as a passive reflection of a particular market, the Nasdaq-100 is neither a broad market index like the S&P 500 nor a sector-specific benchmark. Instead, it compiles the 100 biggest nonfinancial companies listed on the exchange, which skews heavily toward tech but also includes companies like Costco, Starbucks and, as of late 2025, Walmart.
+Some critics of the setup are starting to speak up, saying that lucrative indexing and listing decisions come at the expense of investors, while such a rapid timeline could be tough to manage from a technical standpoint. At the same time, the index moves are putting off many small investors SpaceX wants to cater to, at least judging by social media chatter.
+Michael Green, chief market strategist at ETF firm Simplify Asset Management, said Nasdaq “monetized its index and the representation of the QQQ” to stand out and win listing business. “They’re really nice, wonderful people and want to see their organizations succeed,” Green said. “They’re forced under competitive pressure to do the wrong thing.”
+Nasdaq’s ‘Full Power’
+While SpaceX stands to benefit from the indexing changes, Nasdaq’s business will benefit too. The trading frenzy following SpaceX’s IPO will generate revenue for Nasdaq on orders routed through its markets, though much actual stock trading these days happens in other venues.
+That’s just one part of the picture. Invesco and other firms also pay Nasdaq hundreds of millions of dollars per year to use its indexes for ETFs and other funds, typically paying a small slice of the funds’ overall assets. Those fees have become an important part of Nasdaq’s business, with revenue from index licensing climbing 80% since 2021, far outpacing the 18% growth in listings revenue, securities filings show.
+The fortunes of index providers and fund managers are also intertwined, thanks to the explosion in recent decades of passive investing, where funds seek to match a benchmark rather than actively pick stocks. Invesco has used the Nasdaq-100 for its QQQ fund since it launched in 1999, helping turn it into one of the largest ETFs by assets after years of outperformance against many other major benchmarks.
+And the latest index changes aren’t the first time Nasdaq has rewritten key rules ahead of a megalisting. In 2012, ahead of Facebook’s listing on the exchange, it significantly shortened the waiting period to allow Facebook in the index within 90 days.
+Nasdaq made that move at Facebook’s request, according to Patrick Healy, CEO of the Issuer Network, which advises companies on how to negotiate with exchanges. Facebook, now known as Meta Platforms, was Healy’s client at the time, he said.
+Facebook would go on to raise $16 billion, then the biggest tech IPO in history and by far Nasdaq’s biggest listing. But the listing didn’t go well, in part due to tech glitches in opening trades, and Facebook traded far below its IPO price for more than a year. The Securities and Exchange Commission later fined Nasdaq $10 million over the debut, saying the company was ill prepared for such a large listing.
+As of 2017, when Friedman took over as CEO, the Nasdaq-100 had about $100 billion of fund assets tracking it, a far smaller total than currently. Around then, the exchange lost a series of new tech listings to rival New York Stock Exchange, including Snap in early 2017 and Uber two years later.
+The company then started “selling the full power of Nasdaq,” to companies, Ann Dennison, the former CFO of Nasdaq, said at an investor conference in 2022. “We haven’t changed our philosophy on listings, but we’ve been on a journey,” she said.
+After losing listings battles to its rival, Nasdaq started honing its pitch, including the potential for companies on its exchange to join its index. Nasdaq had a major breakthrough in winning Airbnb in 2020, followed by Rivian in 2021, Arm in 2023 and Medline last year.
+In recent years, it’s drawn three times as many tech IPOs as the New York Stock Exchange, representing roughly twice as much deal value as on the rival exchange, according to Dealogic. Some large companies, like Walmart, recently switched from the NYSE to Nasdaq.
+“The index would be one of the top five reasons you’d list on Nasdaq,” said Karen Snow, the exchange’s former global head of listings, who worked at Nasdaq from 2019 to 2024. “The index is what can actually move the stock.”
+Still, nowadays there are fewer tech IPOs to compete for, as higher interest rates have weighed on valuations and companies have been staying private longer. Even after last year’s rebound, tech listings on Nasdaq were still just half of their 2021 total, according to Dealogic.
+That makes SpaceX and other potential upcoming mega-IPOs especially valuable prizes for exchanges, while giving Nasdaq an opening to argue that it can help pull in demand. At a private conference in November, Goldman Sachs bankers flagged that big upcoming tech offerings would likely have to lean heavily on individual investors and passive funds, noting that those groups make up around 70% of the investor base for Nvidia, Microsoft and Alphabet.
+It was around then that Nasdaq started contemplating its latest changes, which were more dramatic than its Facebook-era tweaks. It further shortened the path to index entry, and it also granted companies like SpaceX, with relatively few shares available for sale after listing, more weight in the index. The latter was an important new sweetener because it required index-tracking funds to build a bigger position than they otherwise would.
+Nasdaq also struck new deals allowing BlackRock and State Street, the two of the largest index fund managers, to launch their own ETFs tied to the index. That brought new fund giants in on top of Nasdaq’s longstanding Invesco licensing deal. Both filed in April to launch the funds, though the exact timing for a rollout isn’t clear.
+Beyond SpaceX, two more cash-hungry companies are expected to come to market: OpenAI and Anthropic. Friedman in March declined to discuss those companies, though she has said it was a good thing the companies were looking at public markets for funding.
+“We fight for every listing, we really do,” she said. “It’s all the time.”
+Cutting it Thin
+For now, the index providers and fund managers are tied together by a potentially polarizing SpaceX debut. The company is entering the market with significant losses and tight governance restrictions for shareholders. And if SpaceX follows the pattern of typical IPOs, which often fall below their offering price in the months after, the damage could ripple through a broad basket of stocks.
+On top of that, some market participants are worried that the sheer size of the SpaceX offering could present its own complications. Healy, who had advised on the Facebook listing and later on Arm, said the newly shortened index timeframes risk dragging down other stocks in the indexes if SpaceX or other fast-tracked stocks slide after their IPOs.
+“You’ve cut this so thin, you’re asking for trouble here,” Healy said. “I think it’s risky.”
+At the same time, SpaceX’s heavy allocation of shares to individual investors, who tend to be more unpredictable in trading than big investors, raises the prospect that the move will backfire by souring sentiment.
+Criticism of the indexes’ decision to fast-track SpaceX has spread on social media sites X and Reddit, according to PeakMetrics, which analyzed online sentiment on the SpaceX IPO between May 18 and June 2 at the request of The Information. Among the most poorly perceived areas were the index inclusion changes. Posts on the topic, mostly negative, grew fivefold between May 29 and June 1.
+Friedman has defended the benchmark changes and says Nasdaq’s index business makes decisions separately from its exchange. In an April interview with CNBC’s Andrew Ross Sorkin, she said the index business “did their work independently” when deciding to change its rules. She added that people invested in funds that track the index can sell out of those funds if they choose.
+“At the end of the day, investors can openly choose to move from one index to another,” she said."

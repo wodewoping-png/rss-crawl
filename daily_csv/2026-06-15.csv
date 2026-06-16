@@ -1,0 +1,276 @@
+﻿标题,时间,作者,链接,内容
+Roku’s Timely Exit; Salesforce’s Dealmaking Is Revving Up,2026-06-16T00:01:16Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/rokus-timely-exit-salesforces-dealmaking-revving,"There’s a lot going on all of a sudden. We’re all
+still trying
+to come to grips with the latest Anthropic-Trump administration standoff. SpaceX’s market performance so far has been like a rocket ship: The stock rose 20% on Monday, finishing with a market capitalization of $2.5 trillion. And back on Earth, we got some notable acquisitions on Monday, in a sign that mergers and acquisitions are alive and well. (Indeed,
+late Monday we scooped
+that Qualcomm was in talks to buy AI chip designer Tenstorrent).
+Earlier in the day, Salesforce said it would buy Fin, a customer-focused AI agent maker, for $3.6 billion (more on that below). The much bigger deal, though, was Fox’s $22 billion proposed purchase of Roku, the streaming-device maker and ad service. That acquisition represents a triumph for Roku CEO and founder Anthony Wood, although not necessarily for Fox, whose stock plunged 15%. (And some on Wall Street wondered if rival bidders might emerge for Roku—New Street Research made the case for Meta Platforms or TikTok, neither of which seems likely. Never say never, though.)
+Wood is selling to Fox at $160 a share, double where the stock was this time last year, and the highest price Roku has reached since the pandemic-powered business surge of 2020–21. It’s a better exit for Roku and investors than might have been expected in, say, 2022 or 2023, when its growth slowed sharply. In the past two years, though, Wood has turned things around. Among other things, Roku started allowing outside ad tech firms to help sell its ad inventory. It also allowed any kind of marketer to buy spots on its valuable home screen,
+rather than limiting those ads to entertainment firms
+as it had been doing.
+Both moves accelerated ad growth. Cost-conscious management also helped: Roku’s free cash flow more than doubled to $483 million last year. The turnaround won back investors, who pushed the stock up from $60 last April to $119 on Thursday. And while you might wonder why Wood is selling now, Roku’s long-term growth prospects remain uncertain given that the streaming market—at least in the U.S.—is maturing.
+Also, the streaming ad market is relatively small—WPP forecast on Monday that it will reach $61.4 billion globally by 2027. (By comparison, WPP projects that social media advertising will reach $504 billion that year.) And the streaming ad market is crowded, with everyone from Disney to Amazon to YouTube jockeying for a piece. That makes it very uncertain how much more growth Roku can squeeze out of this market.
+All that said, why is Fox, a shrunken part of the Rupert Murdoch empire run by Lachlan Murdoch, buying? Fox, you might recall, sold some of its most valuable pieces to Disney a few years ago—its film studio and high-profile cable channels—and is left with its aging broadcast TV business as well the Fox News Channel. Fox acquired the free streaming service Tubi in 2020, giving it a piece of the streaming ad market. Roku gives Fox much more exposure to streaming, which isn’t a bad thing.
+Given the growth clouds over Roku, though, Murdoch is likely overpaying. It’s a cash and stock offer, so the drop in Fox’s price on Monday reduces its value a bit. But at $160 a share, the price is the equivalent of 24 times Roku's estimated 2027 earnings before interest, taxes, depreciation and amortization, judging from S&P Global Market Intelligence data. Fox itself is trading at just over 6 times.
+Benioff’s Back
+Marc Benioff is revving up his company’s dealmaking engine, after a self-imposed hiatus a couple of years ago under pressure from activist investors. Salesforce on Monday announced the purchase of Fin, a company once known as Intercom, which sells a customer-focused AI agent. (Intercom has
+an interesting history
+.)
+That deal follows Salesforce’s $9.6 billion purchase last November of Informatica, described as an “AI-powered cloud data management firm.” A few weeks before Salesforce completed that deal, it spent $815 million in cash to buy Regrello, another AI firm. In 2024, Salesforce expended close to $3 billion on several acquisitions. Benioff’s buying is certainly not what it was—remember, he paid $27.7 billion to buy Slack in 2021, the last of his big deals. But he’s getting back in shape.
+In Other News
+•
+Tencent Holdings has backed a new AI lab founded by Junyang Lin, former lead researcher of Alibaba Group’s Qwen models, according to two people with knowledge of the investment.
+• Nvidia said Monday it plans to raise new debt even as the AI chip leader keeps generating tens of billions of dollars in cash every quarter. It will be the company’s first corporate bond sale since 2021, when it raised $5 billion.
+Bloomberg earlier
+reported that Nvidia would sell more than $20 billion in new debt.
+• A Washington-based Anthropic customer filed a class-action lawsuit against Anthropic Sunday night alleging that the company had misled customers about the value of its premium “Max 5x” and “Max 20x” subscription plans."
+Qualcomm in Talks to Buy Tenstorrent to Expand AI Chip Capabilities,2026-06-15T20:39:07Z,Valida Pau,https://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities,"Qualcomm has been in talks to buy Tenstorrent, a startup that designs chips for AI, according to a person with direct knowledge of the deal. The two companies have discussed a price between at least $8 billion and $10 billion, the person said, which would be a significant premium to Tenstorrent’s last valuation.
+It’s not clear if the price would include payments tied to performance milestones, as has been the case with past acquisitions of chip startups. The talks are ongoing and the price could change, or the discussions could fall apart. The acquisition of Tenstorrent would give Qualcomm a boost in expanding its offering in AI and data center chips.
+Qualcomm, which generates most of its revenue from selling chips for smartphones and personal computers, has been looking for ways to compete better with rivals in the AI chip market. Last year, it paid $2.4 billion to acquire Alphawave Semi, a U.K.-based semiconductor company known for technology that can significantly improve the speed of data transmission between chips.
+Qualcomm’s shares have risen 29% since the start of the year, lifting its market capitalization to about $200 billion. The San Diego–based company could pay a mix of cash and stock, similar
+to Marvell Technology’s acquisition
+of chip technology startup Celestial AI.
+Tenstorrent designs chips that the startup claims use a more efficient method for running certain AI workloads compared to general-purpose graphics processing units made by Nvidia and others. It was founded in 2016 by Jim Keller, who previously developed some of the processors that power versions of the iPhone and iPad and who oversaw Tesla’s Autopilot hardware efforts from 2016 to 2018.
+Last year, the startup was
+talking to potential investors
+about raising $800 million in funding at around a $3.2 billion valuation. It’s not clear if the round closed. Tenstorrent has previously raised more than $1 billion from investors including Samsung Securities, Fidelity, AFW Partners and Eclipse Ventures.
+A spokesperson for Tenstorrent told The Information the startup didn’t have a comment. A Qualcomm spokesperson said, “we don’t comment on rumors.”
+Bloomberg reported in May that Tenstorrent had drawn early takeover interest from Intel and Qualcomm.
+The acquisition, if finalized, would extend a string of deals by large companies, including Nvidia and Meta Platforms, for startups designing chips for AI. Nvidia late
+last year entered a $20 billion licensing deal with Groq
+, whose chips were designed to run AI models more efficiently. Last October,
+Meta bought Rivos
+, a chip startup founded by ex-Apple engineers, to accelerate its own chip development.
+Tenstorrent chips use RISC-V, an open-source design for central processing units, which compete with those based on designs by Arm and Intel. Tenstorrent has sold systems containing its chips to customers in Japan, The Information
+reported
+.
+The company has announced partnerships with automakers Hyundai and Kia, which are also investors, as well as Abu Dhabi–affiliated tech company Infinia Technologies and accounting firm PwC, though it’s unclear how those contracts are structured."
+Chinese EV Makers Are Profiting From the Iran War,2026-06-15T16:01:24Z,Steve LeVine,https://www.theinformation.com/newsletters/the-electric/chinese-ev-makers-profiting-iran-war,"Australians have a reputation
+for favoring big, tough-guy combustion pickups and SUVs. Not recently, though. In May, for the first time, Australia’s top-selling car was an electric vehicle—the Tesla Model Y, whose sales grew 57% year on year, soaring past ordinarily favored combustion vehicles.
+The triumph of Tesla’s flagship EV, however, obscured another, perhaps more notable highlight of Australia’s evolving car market: In May, for the second straight month, China’s BYD, selling solely EVs and plug-in hybrids, was the country’s second most popular car brand overall, rising from eighth place last year, topped only by longtime leader Toyota.
+BYD’s rise to near the top of Australia’s car market reflects a surge of global EV sales, especially Chinese ones. Chinese EV exports soared 94% last month year on year, and they appear likely to grow even more, posing an increasing threat to traditional Western carmakers.
+Which is to say we are back in the 1970s: Again we have serious upheaval in the Middle East, soaring gasoline prices, and an upstart Asian exporting economy offering consumers cheap personal transportation.
+And again, the impact is—at least for now—a transformation in what kind of vehicles consumers buy. The sale of pure combustion vehicles has plummeted virtually everywhere since the Iran war began, replaced by a surging popularity of EVs, plug-in hybrids and mild hybrids, which have a small added battery and no plug.
+One place to see this is Europe. Though May data is not available yet for the whole of Europe, the sale of pure combustion cars in Germany dropped 20% year on year that month, 40% in France and 19% in Italy, according to local data.
+Meanwhile, BYD’s sales grew 232% in Germany in May year on year. In France, BYD’s sales were also up around 230% year on year, and in Italy, 209%.
+“It’s a massive, absolutely massive increase,” said
+Pedro Pacheco, vice president of research, automotive and smart mobility for Gartner, a research firm.
+China’s capture of a large share of these EV sales mirrors Japan’s surge in the 1970s to the forefront of global car sales on the strength of its selection of small, gas-saving sedans at a time Detroit sold mostly gas guzzlers.
+It also reflects Chinese industrial policy, which encourages brutal domestic competition between the manufacturers of leading products, and culls out a few superlatively conditioned national champions that then compete fiercely abroad. BYD is one of those champions.
+But the competition appears likely to get tougher for struggling Western automakers: On Thursday, Chinese government regulators
+escalated a crackdown
+on a long price war between local carmakers that has perilously squeezed the profits of most of the companies. Summoned to a meeting of the Ministry of Industry and Information Technology and the State Administration for Market Regulation, carmakers were reminded to moderate their price cuts.
+This pressure is likely to lead the carmakers to make a greater push abroad to avoid crossing the powerful regulators. Industry analysts had already forecast Chinese
+EV exports
+would grow
+80% or more year on year for 2026; that figure could now be higher.
+The echoes of the 1970s and the 1980s are stark: Gasoline prices have fallen from their peak after the start of the Iranian war in February, including a 6.5% drop since the ceasefire in the Iran war was announced, but they are still up 45% in Europe since the beginning of the year.
+In Australia, an 18% government subsidy of gasoline has kept the price roughly the same as it was before the war, but the subsidy expires June 30, and—judging by car sales there—consumers are taking no chances.
+Pure EV sales as a whole grew to 20% of overall sales in Australia in May, up from 16.4% in April. When you include hybrids and plug-in hybrids, the electrified share was 46.4%, up from 27% in May 2025.
+Unlike the gas crisis days of decades ago, when the arrival of small, high-quality Japanese models broadsided oblivious traditional carmakers, in the current scenario the West appears to be alert to the challenge posed by the Chinese auto industry. I myself climbed into the front seat of dozens of these models at the Beijing Auto Show in April, few costing more than $35,000 and many $20,000 and below, and Western carmakers do have a fight on their hands.
+Western automakers simply don’t have many competing models, especially pure EVs.
+“You had this idea
+that Aussies want this sort of tough, go-anywhere vehicle that you can drive into the outback unrestrained. Obviously Aussies also feel the burden of higher fuel prices,” Pacheco said.
+----
+Noteworthy
+In a fresh sign of renewed
+investor interest in batteries, shares of Massachusetts-based lithium metal battery developer Factorial Energy rose 27% last week, after going public June 8 in a reverse merger with a special purpose acquisition company. And ZincFive, an Oregon developer of stationary storage batteries, said it will also go public in a SPAC later this year.
+The Pentagon put BYD
+on its
+black list
+of foreign companies that it claims pose a security risk because they allegedly aid the Chinese military. The designation has limited direct impact—it means the Pentagon won’t do business with any company on that list. The list already included EV maker Nio. Also already on the list were three Chinese battery companies—Contemporary Amperex Technology Ltd., CALB Group and EVE Energy. The list also includes autonomous driving sensor maker Hesai Group.
+In a surprising move,
+GM said it might retreat
+from the use of lithium-iron-phosphate batteries in its future EVs, and rely on a new, manganese-based battery that it’s developing on its own, Reuters reported. LFP is the world’s dominant EV battery, powering about 80% of the EVs in China and most of Tesla’s vehicles as well.
+----
+Recommended newsletter
+Start your day with Applied AI,
+which covers how leading businesses are leveraging AI to automate tasks.
+Subscribe now
+for free to get it delivered to your inbox twice a week.
+----
+Upcoming Event: Intimate Dinner with The Information and EY in New York City
+Wednesday, July 29:
+Join The Information and EY for an intimate executive discussion on closing the enterprise AI execution gap. We’ll share new research on embedding trust into AI decisions to accelerate business confidently.
+Request an invite
+."
+Nvidia’s Share of AI Inference Chip Market Appears to Be Rising,2026-06-15T15:31:23Z,Phoebe Liu,https://www.theinformation.com/newsletters/ai-infrastructure/nvidias-share-ai-inference-chip-market-appears-rising,"As AI developers and cloud providers have launched server chips to lessen their dependence on Nvidia’s, some analysts and executives at these firms expected the chips to eat into Nvidia’s market share.
+That doesn’t seem to be happening.
+Nvidia has actually increased its share of the market for chips that power existing AI models, known as inference, to 74% from 66% over the past year, according to The Information’s estimates based on disclosures from Nvidia and its rivals, and interviews with analysts who track the company.
+The trend matters because inference computing is quickly becoming a bigger part of the overall market, compared to the one for training new models. Roughly 60% of current AI workloads are inference-related, some analysts say; Deloitte says that figure will rise to two-thirds by the end of the year, up from one-third in 2023 and 50% in 2025.
+Inference computing is also a proxy for AI services that can generate revenue. Annualized sales among 34 AI startups led by Anthropic and OpenAI, which are a proxy for the AI inference market, have risen to nearly $80 billion from around $7 billion in just the past year and a half.
+“Inference is money,” Nvidia CEO Jensen Huang said at the Computex conference in Taiwan earlier this month.
+Realizing that shift, Nvidia late last year spent $20 billion to hire the team behind inference chipmaker Groq and license its technology.
+Nvidia has long dominated AI training, capturing as much as 90% of the market, but has had less of a chokehold on AI inference, a market with many more rivals and alternatives. Customers use Nvidia’s GPUs for both inference and training; some rival chips work similarly, while many other chips are solely dedicated to inference. Existing and would-be competitors in inference chips include top Nvidia customers and users, namely OpenAI, Google, Meta, Microsoft and Amazon, as well as independent chip firms such as Advanced Micro Devices and Cerebras.
+Beating Broadcom
+Despite the proliferation of alternatives, Nvidia has made gains against the lot. It commands a substantial majority of overall revenue from the sale of chips for inference globally, which we estimate to be around $56 billion per quarter. That figure also includes data center revenues from AMD and Marvell, which helps produce Amazon’s Trainium AI chips, as well as hardware revenue from Cerebras. It also includes 80% of revenue from Broadcom’s custom chip, or XPU, business, which helps produce AI server chips for Google, Meta, Microsoft and OpenAI. Broadcom doesn’t disclose XPU revenue but analysts say it’s about 60% of the company’s semiconductor revenue.
+Our estimates assume that 55% of Nvidia’s revenue in the April quarter came from selling server chips for inference workloads, or $41 billion, up 10 percentage points from the same time a year ago. The assumption is based on Nvidia’s disclosure that 40% of its data center equipment revenue in 2024 was tied to inference, and comments from Huang and others that suggest the figure has risen a lot since then.
+Equity analysts Matt Bryson of Wedbush and Brian Colello of Morningstar estimate that more than half of Nvidia’s data center revenue is now powering inference workloads, and CoreWeave, which exclusively rents out Nvidia chips to customers such as OpenAI and Meta, says “materially more” than half of workloads in its cloud are tied to inference.
+D.A. Davidson analyst Gil Luria and Baird’s Tristan Gerra said 50% was a reasonable estimate. But even if only 50% of Nvidia’s revenue was tied to inference workloads in the April quarter, it still would have increased its share of the overall market to 72% from 68% over the past year, according to our estimates.
+Huang seems to agree. “We are gaining [market] share tremendously fast in inference,” he said in an earnings conference call last month, without providing specifics. He attributed the growth in part to Nvidia’s expanded relationship with Anthropic, and the rise of newer model developers such as Reflection and Cursor.
+Whether the trend will continue is anybody’s guess. KinNgai Chan, an analyst at Summit Insights ⁠Group, told Reuters that his firm believes Nvidia will start losing market share in 2027 as inference chips take off.
+Huang has said his firm’s inference advantage will continue because its chips and accompanying software are the cheapest and most efficient products on the market. But another way Nvidia has maintained or increased its lead over rivals is by providing tens of billions of dollars in funding to the AI model and application developers that consume its chips the most, as well as cloud providers such as CoreWeave that rent out its chips.
+Nvidia has also agreed to make billions of dollars in financial guarantees, known as backstops, related to other companies’ lease payments for data center facilities that house Nvidia chips.
+Broadcom isn’t sitting still. On Tuesday, it announced a $35 billion fund with private equity firms Apollo and Blackstone to help finance more than 20 gigawatts of AI data centers, including for projects tied to Anthropic and OpenAI that would rely on chips designed by Broadcom.
+‘GPU Whisperer’ Raises $100 Million at $800 Million For AI Server Marketplace
+Data center software startup and AI-server broker Hydra Host has raised $100 million at a valuation of close to $800 million, led by Kindred Ventures. Nvidia, Cathie Wood’s ARK Invest early CoreWeave backer Magnetar, and existing investors Founders Fund and Flume Ventures also participated.
+Founded in 2021 to serve crypto miners, Hydra Host sells automation software to data center operators so that they can rent out unused Nvidia AI server capacity. Hydra also runs a marketplace that aims to match GPU sellers with buyers. The 90-person company says its technology is in 50 data centers around the world,
+up from 30 last February.
+CEO Aaron Ginn, who declined to share financials, believes the software that many traditional cloud providers offer to their customers isn’t necessary. Instead, he is betting that more AI developers will opt to use “bare metal,” giving them full access to the hardware’s power and storage rather than relying on the cloud provider’s software to access the servers.
+This approach allows for more predictable performance and full control over one’s data, but misses out on fancy software that can make AI developers’ lives easier.
+“ I believe compute’s a commodity, but many of the neoclouds and hyperscalers were not behaving like it was a commodity,” Ginn said.
+“They were behaving like it was a software moat.”
+One such neocloud, Nebius, sees it differently. “We think there is nothing commodity at that scale,” said Roman Chernin, Nebius’ cofounder and chief business officer, at an event last week.
+Despite Nvidia’s support in the funding round, Hydra also works with other chips including those from Positron and AMD, which make up around 10% of its inventory."
+"AI’s Cost Problem Becomes Front and Center, At Least in Asia",2026-06-15T14:01:17Z,Qianer Liu,https://www.theinformation.com/newsletters/ai-agenda/ais-cost-problem-becomes-front-center-least-asia,"Anthropic
+can’t catch a break! Leaders of the AI firm are meeting with
+Trump administration
+officials in D.C. this week to try to resolve a dispute that blew up on Friday night. The administration said that it would need to cut off access to its most advanced
+Claude Fable 5
+and
+Claude Mythos 5
+models to foreign nationals, which led to the company taking down the models altogether.
+Then, on Saturday, my colleagues and I
+reported
+that the latest dispute with the government stemmed, at least in part, from concerns
+Amazon
+CEO
+Andy Jassy
+had shared with senior Trump administration officials in recent days, regarding security risks in Anthropic’s most advanced models. It’s not clear why Jassy did this, as Amazon is one of Anthropic’s largest investors and suppliers of chips and compute to run and train its models. There could be some 5D chess going on, but it could also be as simple as Jassy not realizing that the situation would escalate to where it did.
+It’s not clear what the solution might be, but perhaps Anthropic could try and sweeten the deal by strengthening its model guardrails or offering a stake of the company to the government, something that’s been floated with other AI labs. All this comes as tensions between Anthropic and customers are escalating, as we
+reported
+on Thursday.—
+Stephanie Palazzolo
+Onto today’s column…
+While AI hasn’t faced a public-relations problem in Asia like in the U.S., it is confronting another challenge: rising costs. And that threatens the popularity of AI services.
+That’s the loudest message I heard after spending two days last week among throngs of people and exhibition booths at the
+SuperAI
+conference at Singapore’s Marina Bay Sands. (You may know it as a weird-looking building with a ship on top of it.) While Silicon Valley is
+moving away from tokenmaxxing
+—the deliberate act of consuming tokens to demonstrate AI nativeness—in Southeast Asia, home to nearly a dozen developing countries, developers and users never went through that stage and have always been cost-conscious.
+One attendee involved in building data centers in Malaysia said Southeast Asian countries are adding AI data-center capacity quickly, but he has not seen a meaningful drop in the price of renting computing power. AI chips and memory are becoming more and more costly, he said, and even older chips are not yet cheap enough to make AI projects feel inexpensive.
+Multiple attendees working for AI application start-ups told me their customers are becoming harder to impress. They already know AI can write, summarize and code, so developers hoping to raise prices, in response to rising compute costs, have to do more than just slapping an AI label on a product.
+“In just the last 18 months, the world has pivoted from talking about GPUs and large language models to asking a much tougher question: What’s my [return on investment]? How do I bring real value and impact with AI?” said
+Nikhil Madan
+, vice president of Singapore-based
+TuringData
+, which provides storage software that helps companies get more work out of their AI infrastructure.
+The push for clearer returns from AI showed up in the mix of 1,500 companies present at SuperAI, which drew 10,000 attendees from over 150 countries. Some of the companies aim to help customers find cheaper computing capacity. Others are trying to make chips, memory and storage move data faster, so each chip can do more work. Some are trying to make compute pricing easier to understand, so buyers can budget for AI projects instead of watching cloud bills keep rising.
+The pressure is especially clear in the market for AI agents. Last year, many startups leaned on the idea of digital workers that could operate on their own. This year, they need to prove an agent can save enough time, reduce enough errors or remove enough repetitive work to justify what it costs to run, many attendees said.
+Agents’ accuracy has also become part of the sales pitch. A wrong answer can force an employee to redo the work, frustrate a customer or make a company decide the tool is too risky to use. That is the less glamorous part of the agentic boom. Before an AI tool can save money, companies need to know which data it should use and how much they can trust the output.
+That’s difficult for agentic AI developers because enterprise customers prefer to keep sensitive data in-house, said
+Chen Lusha
+, Asia-Pacific general manager for U.S.-based startup
+Dify
+, which develops software for building AI applications. Collecting and processing vast amounts of data residing within customers’ systems is key to deploying agents efficiently, she said.
+To that end, companies are also spending more effort helping AI systems find the right information, said
+Juras Juršėnas
+, chief operating officer at Lithuania-based
+Oxylabs
+. The company provides public web data collection tools and AI products to customers globally, including in Southeast Asia.
+Models have cutoff dates and can lose detail as they compress information, Juršėnas said, so businesses often need to pair them with search tools or other indexes to get more accurate answers. “When you need to achieve accuracy, at the end of the day you need to combine large language models with something next to it,” he said. “In most cases, that’s search.”
+Here’s what else is going on…
+Court Watch
+A coalition of state attorneys general has
+opened
+an investigation into
+OpenAI
+. The attorneys general directed OpenAI to send them information including advertising, user engagement, handling of consumer data and activities related to minors and seniors
+Meanwhile, a class action complaint was filed Sunday night in the United States District Court for the Northern District of California against
+Anthropic
+, alleging that the company misled consumers about the usage and value of its premium subscription plans. The complaint alleges that those plans do not deliver as much usage or savings as they advertise.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Salesforce
+has agreed to buy
+Fin
+, a firm that develops AI-powered customer agents, for about $3.6 billion.
+French AI lab
+Mistral AI
+is in discussions to raise about €3 billion at a €20 billion valuation, according to Bloomberg.
+Data center software startup and AI-server broker
+Hydra Host
+has raised $100 million at a valuation of close to $800 million, led by
+Kindred Ventures
+, The Information
+reported
+.
+Nvidia
+,
+Cathie Wood’s ARK Invest
+, early
+CoreWeave
+backer
+Magnetar
+, and existing investors
+Founders Fund
+and
+Flume Ventures
+also participated.
+Theker
+, an AI robotics startup, raised $85 million in Series A funding led by
+CRV
+.
+PhoenixAI
+, a Menlo Park, Calif.-based startup that builds databases for agents, raised $80 million in Series B funding led by
+Sky9 Capital
+.
+NewCore
+, which helps companies authenticate, govern and control AI agents, raised $66 million from
+Cyberstarts
+at a $300 million post-money valuation.
+Equal AI
+, an AI phone call screening startup, raised $30 million in Series B funding led by
+Prosus Ventures
+and
+Tomales Bay Capital
+.
+Orbio
+, a Madrid-based startup that offers AI HR software, raised $21 million in Series A funding led by
+Dawn Capital
+.
+Tencent Holdings
+has backed a new AI lab founded by
+Junyang Lin
+, former lead researcher of
+Alibaba Group’s
+Qwen
+models, The Information reported. Tencent invested $20 million in Lin’s
+first funding round
+that raised several hundred million dollars at a post-money valuation of around $2 billion.
+Meta
+has completed an operational split from AI agent startup Manus, which it said it was acquiring last December for $2 billion, and halted data sharing between the two companies, according to Bloomberg. That follows a divestiture order Beijing issued around two months ago on national security grounds."
+Inside Broadcom’s Bold Move to Boost Demand for Its Chips,2026-06-15T13:00:35Z,Dakin Campbell,https://www.theinformation.com/articles/inside-broadcoms-bold-move-boost-demand-chips,"When Broadcom last week
+announced a funding venture
+with Apollo and Blackstone to pay for a gigawatt of computing capacity to be used by Anthropic, it looked like the latest in a series of AI computing deals funded by private equity. Behind the scenes, however, the deal represents a risky move by Broadcom to boost demand for its chips.
+While the announcement didn’t spell out Broadcom’s role, the company—which works with tech firms such as Google to design their AI chips—is providing a key financial backstop for the $35 billion order of chips. In doing so, it is following in the footsteps of Nvidia, which has employed similar vendor financing techniques to accelerate its own chip sales. But Broadcom doesn’t have Nvidia’s deep pockets, making it a bigger gamble.
+Indeed, as recently as March, Broadcom CEO Hock Tan was reluctant to use Broadcom’s balance sheet to provide such a backstop, according to a person who spoke with Broadcom executives. But he changed his mind. Broadcom approached Morgan Stanley for help finding a way to finance chip sales while limiting the debt it must add to its balance sheet, said a person involved in the transaction.
+Tan had reason to be cautious. Broadcom generates a fraction of the cash produced by Nvidia, which has provided similar backstops. Broadcom also had $65 billion of debt and just $19.6 billion of cash as of May 3, it reported earlier this month.
+But if Broadcom didn’t take this step, it was at risk of getting left behind in the AI chip race.
+“We are at a historic inflection point where the demand for AI compute is fundamentally reshaping the global economic landscape,” Tan said in this week’s announcement, hinting at the context behind his apparent reversal. He went on to call it a “once-in-a-lifetime opportunity.”
+Even so, one institutional investor who owns Broadcom bonds raised their eyebrows this week when asked about the deal, noting that the “big question” they had was how the company planned to account for these types of guarantees on its balance sheet. Though not traditional debt, the obligations still count as liabilities that must be reported on the balance sheet.
+The transaction will have a “modestly negative impact” on Broadcom’s credit due to the “debt-like obligation” of the backstop, S&P Global Ratings wrote in a note.
+To be sure, Broadcom’s AI chip business has boomed in recent quarters, lifting its profits. The company reported in early June that its revenue for the second fiscal quarter grew 48% as AI chip revenue jumped 143%. Free cash flow rose 60%.
+Broadcom didn’t respond to requests for comment.
+A Larger Plan
+More deals are likely. Broadcom described this one as the first transaction in a larger plan to work with Apollo and Blackstone to finance more than 20 GW of compute. That suggests its ambitions, if fulfilled, could see it providing future guarantees on deals worth a combined $700 billion in chip purchases, although the company’s backstop is very limited.
+With so much to come, Broadcom’s initial transaction may provide a model for future structures. This account is based on conversations with four people with knowledge of the transaction, who asked for anonymity to discuss details beyond what the press releases included.
+At its most basic level, the people said, the transaction involves a special purpose vehicle that will own the chips—tensor processing units Broadcom co-designed with Google–and lease them to Anthropic. To get the money to buy the chips, the SPV sold $35 billion in bonds to a collection of lenders led by Apollo and Blackstone.
+Both investment firms kept some of the bonds for their own funds—or in Apollo’s case its captive insurance arm—and then sold the rest to outside investors, two of the people said. Apollo bought more than half, while Blackstone accounted for the rest, one of them said.
+All of the notes—sold in three tranches of varying sizes—are secured by the chips. If Anthropic can’t pay the lease, the lenders have the right to sell the chips to recoup their money.
+However, there’s still uncertainty around how quickly AI chips will decline in value over their usable lifetimes due to factors like new chips making old ones obsolete, or demand for AI declining in the future. If the residual value of the chips at the end of the lease falls below a certain level, Broadcom has agreed to compensate lenders holding the two safer tranches.
+Broadcom’s backstop ensured that those two pieces secured an investment grade rating and yield around 5.75%, one of the people said.
+The third tranche does not benefit from Broadcom’s backstop. That means if Anthropic defaults on the lease and the sale of chips doesn’t fully repay the debt, the investors who own those notes would be exposed to Anthropic’s credit risk. Those notes are rated below investment grade and yield 8.5%, one of the people said.
+Dual Contingency
+The structure means Broadcom is protected by a dual contingency. For its backstop to kick in, Anthropic has to default on the lease and the chips have to be worth less than what investors were guaranteed.
+The notes are fully amortizing over the five-year term, meaning Broadcom’s risk declines to zero over the term, one of the people said.
+“The strategic rationale for Broadcom has to do with supporting the end demand from customers like Anthropic for its chips—using its scale and dry powder, from a credit perspective, to put itself in a prime proposition such that Anthropic is using its products,” one of the people said. “That concept is not new or uncommon; many manufacturers across many industries have captive finance companies that help their customers purchase and finance their goods.”
+This is one of the first times bond investors have been able to make a bet on Anthropic, which isn’t profitable and hasn’t issued corporate debt, one of the people said.
+Banks, insurance companies, credit investors and others bought into the safer portions of the deal, assigned A1 and A2 monikers, while opportunistic credit investors bought the riskier B notes, one of the people said.
+On the A1 tranche, Wells Fargo served as the global coordinator, while BNP Paribas, Citi and UBS served as joint book runners and lead arrangers, according to an Apollo press release. Goldman Sachs, Bank of America and Morgan Stanley served as joint placement agents on the A2 tranche.
+In this structure, Atlas SP Partners, a unit majority owned by Apollo, formed the SPV and consolidated it on its balance sheet.
+For Anthropic, the arrangement represents the clearest sign yet that the company is forging ahead with plans to create its own supply of compute, rather than renting facilities and chips from other cloud providers like Google or Amazon.
+Chip financing deals like this are contingent on the company having space in data centers where it can install the chips once it has purchased them. To that end, Anthropic has lined up Google to provide a backstop on the AI lab’s leases for five data center facilities, The Information reported.
+“Whether it is a compute contract or a chip lease,” one of the people said, “the lease start date is dependent on the data center being ready.”"

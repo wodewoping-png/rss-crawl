@@ -1,0 +1,313 @@
+﻿标题,时间,作者,链接,内容
+AI’s New Risk: Unpredictable Government Policies,2026-06-17T00:00:40Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/ais-new-risk-unpredictable-government-policies,"Investing in AI really is not for the faint of heart. Leaving aside all the worries about risks of huge investments in data centers and the uncertainties about demand, there’s also the unpredictable government moves that can upend things. Case in point: the Trump administration’s warnings to Anthropic over the weekend that no foreigners, including foreign employees of Anthropic, could access its latest AI models without permission.
+While that warning is aimed specifically at Anthropic—now in a standoff with the government over its latest AI models—other AI firms are worried about the precedent it sets. As
+we scooped today
+, OpenAI executives wrote to staff on Saturday that it had told the administration building AI “requires the best talent from around the world.” (See our latest OpenAI scoop,
+on its first quarter financials,
+here
+).
+The administration undoubtedly has legitimate security concerns about the number of foreigners working on AI models in the U.S. (
+As we have written
+, a lot of AI researchers in the U.S. are foreign born.) But this is also an administration that has not been exactly friendly to immigrants. That makes it difficult to parse what exactly is driving this push to block foreigners from working on AI models.
+What is clear, however, is how it could set back AI development, which is OpenAI’s point. If the U.S. wants to lead in AI—or any industry for that matter—it has to encourage the best foreign talent to come here. Doing anything else would be self-defeating.
+Stock Roller Coaster
+SpaceX stock performed like a rocket that ran out of fuel on Tuesday. After soaring as much as 17% from Monday’s close to a high on Tuesday of $225, the stock ran out of steam and finished at $201.80, up just 4.8% on the day. (SpaceX also
+said Tuesday
+it would go ahead and exercise its option to buy Cursor for $60 billion.)
+Even at the closing price, SpaceX’s stock is up 49.5% on its IPO price, which—as is no secret—was already wildly overvalued given the state of its business. But the fallback during Tuesday’s trading means SpaceX failed to close above Microsoft in market value.
+That would have been quite the achievement—and very symbolic. Instead, Elon Musk has to content himself with passing Amazon (barely). SpaceX finished the day worth $2.655 trillion, just $9 billion higher than Amazon, but well below Microsoft’s $2.925 trillion. At its highest point on Tuesday, SpaceX was worth $2.96 trillion.
+In Other News
+•
+Robinhood
+said
+on Tuesday it’s cutting 10% of its workforce, or about 290 roles, and closing a small number of open roles, in an effort to stay lean.
+• Snap on Tuesday unveiled the latest version of its augmented reality glasses, Specs, as it tries to catch up to similar products from Meta Platforms and Google. The device, which will cost $2,195, will offer features like real-time translation, web browsing and video recording, and it will have a 4-hour battery life.
+• The U.S. military used xAI’s Grok to help plan its bombing missions against Iran earlier this year, according to a court filing from a Pentagon official.
+• Ornn, a startup that tracks the cost of computing power for AI, has launched a service to track the price of tokens produced by the leading AI labs. The new benchmark comes as AI firms’ customers and financial backers search for better ways to track major AI costs."
+OpenAI Burned $3.7 Billion in First Three Months of 2026,2026-06-16T23:26:04Z,Erin Woo,https://www.theinformation.com/articles/openai-burned-3-7-billion-first-three-months-2026,"OpenAI burned through $3.7 billion in the first quarter, more than half its $5.7 billion in revenue, according to documents the company shared with shareholders. Both cash burn and revenue tripled from the same period the previous year, signaling how even with strong AI demand, making money from AI continues to be challenging.
+The company ended the quarter with more than $73 billion in cash and marketable securities, compared with $40 billion at the end of December, reflecting the company’s massive funding round announced at the end of March. Assuming the cash burn remains around the first quarter level, OpenAI won’t need to raise more money in the near term. That could relieve the pressure on OpenAI to go public sooner rather than later.
+It’s possible, however, that cash burn fluctuates quarterly: the company
+had projected
+it would burn $25 billion this year and $57 billion next year, The Information has reported.
+OpenAI said last week it had filed confidentially to go public, although the company has also indicated it may take its time proceeding to an IPO once its paperwork has been cleared by regulators.
+Still, the company’s lack of profitability is likely to be closely scrutinized by investors ahead of an IPO.
+Another issue that investors will likely focus on is OpenAI’s commitments to spend money on computing capacity at cloud firms for running and training its AI. The company told shareholders that it had an estimated $665 billion in spending commitments at the end of 2025, stretching out through 2030. Those spending commitments largely aren’t reflected on its balance sheet.
+Overall, OpenAI reported a net loss of more than $21.3 billion in the first quarter, but that was skewed by an accounting charge of nearly $12.4 billion, reflecting a change in fair value on convertible interest rights and warrant liability, related to equity issued to investors and the creation of the OpenAI foundation.
+The company’s first quarter operating loss was $9.3 billion, which included more than $2.3 billion in share based compensation expense for employees. Share-based compensation was more than double the expense for the year-earlier period.
+The financial statements showed that OpenAI’s cost of revenue, which is largely made up of the cost of serving the models, was $3.5 billion. That meant OpenAI had gross margins of 39%, up from 33% a year earlier, suggesting that the business is becoming slightly more efficient as it grows.
+OpenAI also spent $8.6 billion on research and development in the first quarter, which includes the cost of training models."
+Anthropic Ban Stirs Concerns at OpenAI and Beyond of Crackdown on Foreign AI Talent,2026-06-16T21:07:29Z,Erin Woo,https://www.theinformation.com/articles/anthropic-ban-stirs-concerns-openai-beyond-crackdown-foreign-ai-talent,"The U.S. government’s latest battle with
+Anthropic
+has revived long-simmering concerns throughout the AI industry that the White House has placed a bullseye on their reliance on foreign AI talent.
+The Trump administration appears to have targeted only Anthropic so far, warning the company on Friday in a letter from Commerce Secretary Howard Lutnick that it would need a license to make its latest models available to “foreign persons,” including its own employees. But Anthropic’s biggest rival,
+OpenAI
+, has flagged its concerns about the issue.
+On Saturday, OpenAI Chief Strategy Officer Jason Kwon told staff in a Slack message that the company had told the government “strongly” that building AI “requires the best talent from around the world,” which is “part of what allows the U.S. to lead in AI.” Kwon said OpenAI was still trying to understand the implications of the government’s actions against Anthropic and that it was a “rapidly evolving situation with a lot of unknowns.”
+OpenAI’s reaction is striking because, aside from the rivalry between the companies, the government has given no indication that it plans to take similar measures against other AI labs.
+Other AI companies have some basis for worrying that the Trump administration could be contemplating a broader crackdown on foreign employees at AI labs.
+During early discussions about the AI executive order that Trump signed this month, administration officials pitched the idea of rules that would restrict foreign employees at AI companies within the U.S. from accessing frontier models, according to two people familiar with the matter. Representatives from AI companies pushed back against any restrictions, the people said, and the idea never made it into a formal proposal. (CNN earlier
+reported
+that the idea of banning foreign employees was floated in early executive order discussions.)
+The prevalence of foreign researchers at AI labs, particularly from China, is a delicate topic in Silicon Valley. While it’s hard to pin down what percentage of the top researchers at specific AI labs are foreign born, the industry-wide trends are unmistakable. Anthropic, OpenAI, Meta Platforms and other companies have each
+aggressively hired
+star AI researchers from abroad.
+According to
+estimates by MacroPolo
+, which tracks the origins of global AI talent, 38% of the researchers who published papers the AI industry’s leading conferences in 2024 received their undergraduate education in China, up from 29% five years earlier. Almost three-quarters of that group now work in the U.S., MacroPolo estimated.
+The numbers reflect China’s vast population and how the country has made technological superiority a national priority.  But the Trump administration has also made U.S. supremacy in AI a priority. Long-standing concerns about corporate espionage and intellectual property theft by China have helped fuel the government’s focus on foreign born researchers inside AI labs.
+“The administration worries a lot in particular about Chinese nationals who might be working on cutting edge AI models, in particular, worried about making sure that AI labs have strong controls,” said Aalok Mehta, director of the Wadhwani AI Center at the Center for Strategic and International Studies.
+Some policy experts warn that the Trump administration’s actions against Anthropic could be creating a de facto licensing regime for new frontier models—something the White House has opposed in the past, including in its June
+executive order
+.
+“It looks like we’re entering the age of ad hoc, indirect, backdoor AI licensing,” said Adam Thierer, a resident senior fellow at the R Street Institute, a conservative think tank. “It’s not real easy to put these things back in the bottle after you’ve done that.”
+In the case of the White House’s latest action against Anthropic, the administration is using export controls under a new application of regulatory powers granted to the Bureau of Industry and Security, an agency within the Department of Commerce.
+Lutnick’s letter, which was obtained by The Information, argued that the Department of Commerce had the legal authority because there was an “unacceptable risk” that Anthropic’s AI models could be used for foreign military intelligence purposes—an extraordinary claim that justified the Trump administration’s sweeping export control.
+On Monday, Anthropic and Trump administration officials
+met
+to discuss an accord that would allow Anthropic to relaunch its recently-released models.
+While Anthropic’s competitors have worked behind the scenes to persuade the Trump administration of the importance of foreign talent for U.S. AI labs, there may be other factors that have prevented them from working closely with Anthropic on a response to the crisis.
+For example, in another Slack message on Saturday, OpenAI General Counsel Che Chang told the company’s staff that they “should not try to coordinate a response or try to solve things directly with contacts at Anthropic or other labs” because “there are antitrust rules that apply here” that the company has “to be careful about.”
+An OpenAI spokesperson declined to comment.
+Deemed Controls
+The Trump administration swept into office in January 2025 promising to reverse many of the safety-focused policies of the Biden administration, including a proposed system that would see AI companies work with the government before releasing new models.
+But even as top Trump figures, led by then-AI and crypto czar David Sacks, argued against any mandatory licensing system, officials also raised national security concerns around foreign adversaries accessing leading U.S. models, as well as foreign persons from countries like China working at AI companies within the U.S.
+Under a proposed Biden administration rule that Trump decided not to enforce, the Commerce Department would regulate the export of model weights, or the “settings” that determine a model’s behavior. (Trump’s Commerce Department
+proposed
+a licensing system for model weights in a
+March draft rule
+but quickly withdrew it.)
+According to a person close to the administration, officials have weighed a more far-reaching system for months that would create restrictions on AI models through export controls, which restrict foreign access, along with “deemed export controls,” which apply those restrictions to certain foreign persons who are living in the U.S.
+“This is a topic that keeps coming up every other week basically,” the person said.
+Friday’s letter from the Commerce Department to Anthropic ultimately went further than the administration’s earlier discussions by applying export controls on the Fable and Mythos models preventing access worldwide, not just from specific countries like China. The letter also applied deemed export controls, meaning Anthropic can no longer release the model to any foreign person in the U.S.
+This wasn’t the first time the Trump administration had tried to use Anthropic’s employment of foreign nationals against the company.
+In March, Emil Michael, the Under Secretary of War for Research and Engineering at the U.S. Department of Defense, flagged in a court declaration that Anthropic employs a large number of foreign nationals to build its models, including from China. This dynamic “increases the degree of adversarial risk” should the employees comply with Chinese national intelligence laws, he wrote.
+Michael made his declaration as part of a legal battle between Anthropic and the Defense Department, after the latter designated the AI startup as a supply chain risk. That designation came after Anthropic refused to allow the Pentagon to use its AI for mass domestic surveillance of Americans or to operate fully autonomous weapons. In his declaration, Michael further alleged that Anthropic’s models might “contain technical exploits, including ones that could have been embedded by foreign nationals, given the leadership’s pattern of behavior.”
+The looming question for other AI companies is whether the Trump administration will apply its Anthropic export control against other firms. The White House
+decided
+on the policy after an Amazon report surfaced vulnerabilities in Anthropic’s latest models.
+In a Saturday
+post
+on X, Sacks wrote that the administration issued the export control “reluctantly” due to Anthropic’s unwillingness to cooperate over the issue (Anthropic stated in a Friday
+blog post
+that the vulnerability is “simple” and prevalent in other publicly available models.) The Information previously
+reported
+that the White House was unlikely to extend the export restrictions to other companies.
+But the Friday letter from the Commerce Department lays out a legal justification for the administration to create a licensing regime for any models. It relies on section 744.22(b) of the Export Administration Regulations, which allows the Bureau of Industry and Security to inform companies that a license is required for exports of specific items because of the risk they are used by foreign militaries in countries including China, Russia and Venezuela.
+The Information shared the language in the letter with Joe Khawam, the managing director of the Law Reform Institute and a former State Department attorney, who described it as a “pretty big leap” that the administration could use that risk to force Anthropic to cut off model access to all foreign persons living both outside and within the U.S.
+“In order for them to achieve the outcome that they wanted, which was to have Anthropic take down the model, I think they would have to do that,” he said."
+"Cyberstarts Notches Cyera Win, Plots New Fund",2026-06-16T20:29:07Z,Aaron Holmes,https://www.theinformation.com/newsletters/dealmaker/cyberstarts-notches-cyera-win-plots-new-fund,"The $12 billion valuation that Cyera snagged in a $600 million fundraise announced last week shows how hungry investors were for the cybersecurity startup’s AI-focused pitch. The five-year-old startup sells software that can protect companies’ data from hackers equipped with increasingly powerful AI tools—a threat highlighted by Anthropic’s warnings about the cyber capabilities of its Mythos model.
+For the VC fund Cyberstarts, the Cyera round gives it more bragging rights after its blockbuster Wiz exit last year. The fund wrote Cyera’s first $4.2 million seed funding check five years ago at a $15 million valuation; on paper, Cyberstarts has returned more than 224 times its original investment in Cyera, says Cyberstarts founder Gili Raanan. Its total stake in the company including follow-on investments is worth more than $1.2 billion, Raanan told me.
+That performance could help Cyberstarts entice backers for its eighth fund. The firm is planning to raise a seed fund of about $60 million, according to people familiar with its plans. Last year
+it raised
+a $380 million fund to invest in the firm’s mature startups, riding the tailwinds of
+Google’s $32 billion acquisition of Wiz
+, which returned about $1.2 billion to the VC firm.
+Cyera’s recent growth coincides with rising demand for cybersecurity tools built to protect against AI threats. Cyera sells software that automatically scans companies’ cloud storage, databases, email systems and software such as Microsoft 365 to keep an inventory of sensitive data. Cyera’s software then alerts customers’ IT staff to data that could be exposed or stolen.
+Cyera competes with Sentra, which was valued at $205 million last year, as well as Palo Alto Networks and Proofpoint, which bought rivals to Cyera in 2023 and 2024.
+Preventing data theft is a top priority for large companies
+amid fears that hackers will deploy increasingly sophisticated AI
+.
+“Pre-AI, we saw that thesis proving out and bet on it early, but now it's an obvious necessity,” said Cyberstarts managing director Lior Simon, who led the firm’s first investment in Cyera.
+Cyera has pivoted its strategy several times over the years with input from Cyberstarts and
+its unique network of cybersecurity executives
+who offer advice to its portfolio companies (Cyberstarts previously offered some CISOs a share of the fund’s profits, but has since “sunset” that practice, a spokesperson said). Cyera’s founders were originally thinking of selling products to protect a narrower category of enterprise software, but shifted after feedback from Cyberstarts.
+“We went to the market and asked our CISO network what pain point we should focus on and they said data security,” Raanan said. “So we had them build a data security product.”
+Cyera has said that its revenue tripled in each of the past three years—though it hasn’t disclosed total revenue—and it counts large enterprises like BlueCross BlueShield, Paramount and Chipotle as customers.
+But not every AI-adjacent cybersecurity firm has seen similar good fortune. Some AI security companies that sold themselves to larger firms in the past year were generating only modest
+revenue when they were acquired
+. Still, Cyberstarts is betting that the AI security market will only grow and has been making more investments in startups focused on defending against AI-related threats, Simon said.
+“Everyone investing in AI talks about chips and models, and that's obvious and well-funded,” Simon said. “But what will truly build out the potential of this coming wave is: How secure can you be against whatever is coming up next?”
+Updates with additional details about Cyberstarts’ CISO network."
+AT&T Throttles Some Employees’ AI Usage as ‘Tokenminimizing’ Arrives,2026-06-16T19:13:23Z,Laura Bratton,https://www.theinformation.com/newsletters/applied-ai/t-throttles-employees-ai-usage-tokenminimizing-arrives,"As AI spending has eaten into corporate budgets, generating concern over rising costs at Fortune 500 firms from Uber to ServiceNow and Snowflake, some companies are beginning to throttle employees’ usage.
+The latest is AT&T, which has begun limiting some employees’ access to Microsoft’s Github Copilot, according to a person at the company. In a more striking example, Meta is also limiting employees’ AI spending on services from Anthropic and other providers, a sharp reversal from a few months ago when employees competed with each other to use as much AI as possible, known as tokenmaxxing,
+my colleague Jyoti reported Friday
+.
+Uber and Walmart similarly capped employee usage of AI coding tools, Bloomberg recently reported. And the Financial Times reported that Amazon has scrapped its “leader board” that ranked employees by the amount of AI they used.
+Some companies are effectively saying, “I told you so.”
+“We never celebrated tokenmaxing,” Box CEO Aaron Levie told me. “We never had leaderboards, so we didn't get ahead of our skis on sort of incentivizing the wrong thing.”
+To be sure, not everyone is aboard the token-minimizing trend. At Databricks, which sells database software and AI tools, “the AI budget is unlimited for engineers, so tokenmaxxing still exists,” Nikita Shamgunov, an engineering leader at the company, said at an event hosted by Nebius last week. That could reflect the relative sophistication of engineers at Databricks, which have long
+focused on using AI as efficiently as possible
+.
+And while “tokenminimizing” may be one way to cut down on costs, swapping out different models such as open source ones for different tasks could be a way to ease the growing pressure of AI bills. Executives of software companies such as Palantir and Box, which sell apps that let enterprise customers to access a variety of models, told me there’s a growing interest from customers in using cheaper or open source models to cut costs.
+As Microsoft’s Satya Nadella put it over the weekend in an
+essay
+on X, “The last thing any of us want is a world where every company across every sector is ceding value to a few models that eat everything they see.”
+Nadella wants AI models to be like an easily swappable commodity, which makes sense because his company owns a dominant suite of productivity applications that are under threat from Anthropic and OpenAI. But Nadella’s post may seem like wishful thinking, given the technical advances we’ve seen so far this year at the leading AI model developers.
+Still,
+as I’ve previously written
+, cost concerns are likely a bullish indicator for software vendors like Palantir and Snowflake and model routing companies that allow customers to easily switch between different models so that simpler tasks can be handled by cheaper models. That path could be even more important as the U.S. government impacts who gets access to advanced models.
+Those companies are seizing the moment. Microsoft and Databricks, for example, have launched tools called gateways that can help companies control staffers’ AI access and spending. And the Nvidia-backed, $1.5 billion-valuation AI software development upstart Factory launched a new model router at the start of the month.
+Microsoft Echoes Anthropic’s Pricing Model
+Meanwhile, even as it tries to court cost-conscious customers, Microsoft on Tuesday revealed it will charge customers extra to use some of its flashiest new AI features.
+Months after it previewed new Copilot Cowork AI features that resemble Anthropic’s popular Cowork product, Microsoft on Tuesday finally disclosed the product’s pricing model, which appears to take a page from Anthropic’s book by combining per-seat and usage pricing.
+Microsoft’s Copilot Cowork primarily relies on Anthropic models to automate complex multi-step tasks within Microsoft’s Office 365 software. For instance, users can send Copilot Cowork a file full of screenshots of receipts and direct it to create a spreadsheet listing the expenses shown in the photos. That goes beyond more rudimentary tasks that Microsoft’s existing 365 Copilot was meant to tackle, such as summarizing emails or creating financial models in Excel.
+And like Anthropic’s enterprise software, Microsoft’s Copilot Cowork won’t be cheap. Microsoft said Tuesday that to access Copilot Cowork users will need a 365 Copilot license, which starts at $30 per user per month—and will be billed an additional charge on top of that based on how much they use Copilot Cowork. That’s similar to Anthropic’s per-seat-plus-consumption billing
+that it started rolling out to enterprise customers earlier this year
+.
+Microsoft appears sensitive to companies’ anxiety around spiking AI costs, though—executive vice president Charles Lamanna said in a blog post Tuesday that customers “have options to manage cost,” such as setting a ceiling on how much Copilot Cowork their employees can use.
+And Microsoft is previewing the ability for customers to swap out Anthropic’s models in Copilot Cowork for other models from OpenAI or Microsoft itself, which it says can deliver similar results at a lower price point. The company is also testing open source models that could swap out for Anthropic’s in some cases, according to an employee with knowledge of the situation. That might help it win over companies that want to try Copilot Cowork while “tokenminimizing,” especially as Microsoft
+aims to compete with Anthropic
+for those same customers.
+KPMG’s Hallucination
+If you want some comic relief, check out this
+piece
+from the Financial Times about an October report from consulting giant KPMG on enterprise AI adoption. Evidently, it included fake case studies that purported to show how businesses such as UBS and Swiss Federal Railways were making gains with AI.
+As all the chatbots tell you when they generate answers: double check their work! Or do your own research.
+KPMG told The Information, as it told FT, “We expect all our people to follow our guidelines on the responsible use of AI, including human oversight to validate content and verify independent sources.”
+The firm said it “takes the accuracy and integrity of its published content seriously” and had removed the report from its website."
+Is Anthropic Losing Goodwill With AI Researchers?; AGI House Alums Raise $25 Million For New Fund,2026-06-16T14:01:14Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/anthropic-losing-goodwill-ai-researchers-agi-house-alums-raise-25-million-new-fund,"Remember the last time
+Anthropic
+tussled with the
+Trump
+administration, all the way back in February, when a coterie of competing AI researchers and CEOs (even
+Sam Altman
+!) quickly
+came to Anthropic’s defense?
+That doesn’t seem to be happening this time. In the wake of Trump officials’ Friday night move to effectively ban Anthropic’s most advanced models over alleged cybersecurity fears—
+precipitated in part by Amazon CEO Andy Jassy
+, no less—there’s been nary a peep from Anthropic’s rivals about one of the most remarkable situations we’ve seen in years (and that’s saying something).
+Indeed, a number of employees from
+OpenAI
+and other rival AI labs say they have less sympathy for Anthropic this time. They argued that because Anthropic had been talking up the capabilities and dangers of its
+Claude Mythos
+model and asking for more aggressive federal regulation, the company shouldn’t have been surprised when the government reacted so strongly to security concerns around the new models. In a
+post he published just last week
+, Anthropic CEO
+Dario Amodei
+actually compared the speed of AI policy to the slow-moving Treebeard in
+The Lord of the Rings.
+Part of the issue could be that the back-and-forth between Anthropic and the government has been mostly a “he said, she said” debate so far, and the AI labs are waiting to comment until they have more information on how things went down. Both Altman and Amodei are supposed to attend the
+G7 Summit
+this week, so presumably both will have to comment on the situation then.
+In any case, the deafening silence (at least publicly) from rival AI labs could be a sign that Anthropic has lost goodwill with numerous researchers and app developers in recent months as its power has grown exponentially. In particular,
+app developers that depend on Anthropic are as scared as ever
+of Anthropic’s move into AI apps that compete with theirs, and businesses were
+taken aback by its move to retain their data for security reasons
+if they wanted to use
+Fable
+(a neutered version of Mythos) when it was still available last week.
+We anticipate several more twists and terms, but we can’t help but wonder whether Amodei has noticed the difference in his industry’s reaction to Anthropic’s latest governmental drama.
+Here’s what else is going on…
+A Fund Backed By OpenAI and Anthropic Researchers Raises $25 Million
+Speaking of winning goodwill from researchers, a new San Francisco-based fund, backed by researchers from AI labs including
+OpenAI
+,
+Anthropic
+and
+xAI
+, has raised $25 million to invest in early-stage AI startups, The Information has learned exclusively.
+The fund,
+MoE Capital
+(a pun on the
+“mixture of experts”
+architecture for AI models), is led by ex-tech investment banker
+Naomi Xia
+and former founder
+Henry Yin
+. The two met at
+AGI House
+, a Hillsborough, Calif.-based hacker house that’s produced startups like AI video model developer
+Pika
+, where they helped to run events before starting the investment arm of the hacker house, Yin said. Then in November of last year, the two left to start their own fund, MoE Capital.
+Henry Yin and Naomi Xia. Photo courtesy of MoE Capital.
+In a space as competitive as early-stage AI investing, Xia and Yin aim to differentiate themselves by building a close-knit community of researchers from the major AI labs for whom they hold events. For instance, earlier this month they took a group of researchers to meet with robotics-focused suppliers in Shenzhen, they said.
+In exchange, Xia and Yin say these researchers flag new potential deals to them, including well-known staffers who have recently left the major labs and could be interested in starting their own companies; some of the researchers are also limited partners in MoE Capital, they said.
+So far, MoE Capital has invested in startups including
+Phylo
+, which is building AI agents for biomedical research, and
+neolab Recursive Superintelligence
+.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+SpaceX
+has agreed to acquire AI coding startup
+Cursor
+in a $60 billion stock deal, a few days after its IPO and less than two months after the initial announcement. SpaceX said Tuesday that the acquisition is likely to close in the third quarter of this year.
+Chinese AI lab
+DeepSeek
+has closed its first funding round that raised more than 50 billion yuan ($7.4 billion) at a $50 billion-plus valuation, The Information
+reported
+. The round requires investors to put their capital into a limited partnership managed by DeepSeek CEO
+Liang Wenfeng
+, instead of DeepSeek itself, as a way for Liang to ensure he retains absolute control of the company. The only exception is
+China’s National Artificial Intelligence Industry Investment Fund
+, which is investing 1 billion yuan directly into DeepSeek without being subject to the lock-up, and enjoys voting rights at the company.
+Nvidia
+said Monday it plans to raise $25 billion in new debt even as the AI chip leader generates tens of billions of dollars in cash every quarter. It will be the company’s first corporate bond sale since 2021, when it raised $5 billion.
+Qualcomm
+has been in talks to buy
+Tenstorrent
+, a startup that designs chips for AI, The Information
+reported
+on Monday.The two companies have discussed a price between at least $8 billion and $10 billion, which would be a significant premium to Tenstorrent’s last valuation.
+Sarvam
+, an Indian full-stack AI company, raised $234 million in funding at a $1.5 billion valuation led by
+HCLTech
+, with participation from
+Bessemer Venture Partners
+,
+Khosla Ventures
+and
+Peak XV Partners
+.
+Respond.io
+, a Malaysian startup that helps businesses automatically answer customer queries using AI, raised a $62.5 million Series B round led by
+Camber Partners
+. The company said that it has grown to $35 million in annual recurring revenue with a 30% profit margin.
+Arcade.dev
+, a San Francisco-based startup that helps agents run safely, raised $60 million in Series A funding led by
+SYN Ventures
+.
+Cortea
+, a Berlin-based startup that develops AI agents for professional audits, raised €12 million in seed funding led by
+Dawn Capital
+.
+Probably
+, which aims to prevent hallucinations in AI, raised $9 million in seed funding from
+Andreessen Horowitz
+.
+Anthropic
+senior leaders
+met with top Trump administration officials on Monday
+to discuss a resolution to a White House directive that caused the AI startup to suspend access to its latest models, according to a company spokesperson. Monday’s discussions did not yet yield a resolution, though the Anthropic spokesperson said in a statement that “both parties are working quickly to get this resolved.”
+Meta
+announced
+“AI Mode,”
+which uses Meta AI to surface answers pulled from public posts across
+Facebook
+, on Monday."
+"Polymarket, Kalshi Take Steps to Block Fraud Rings",2026-06-16T13:00:40Z,Michael Roddan,https://www.theinformation.com/articles/polymarket-kalshi-take-steps-block-fraud-rings,"Polymarket and Kalshi are racing to turn more major events into opportunities to place bets, including everything from daily temperature highs during a New York City heat wave to the latest contestant to be eliminated from “Love Island,” the reality TV hit.
+That’s helped the young markets become high-profile sentiment gauges and generate meaningful revenue, with Kalshi’s annualized revenue hitting around $1.5 billion in May and Polymarket pacing at roughly a quarter of that based on trading volume. But it also carries potentially costly risks. Earlier this year, Polymarket had to battle a fast-growing fraud problem, due in part to how easy it is to quickly open new accounts on the platform. Fraudsters had found ways to set up Polymarket accounts using stolen credit cards and hijacked identities, according to people familiar with the situation, and were also churning through those phony accounts to collect sign-up bonuses.
+The scale of the attacks triggered a sharp rise in the rate of disputed or failed transactions. That spooked Visa, the card network that handles some of Polymarket’s payments. Visa in turn ordered
+Checkout.com
+, one of Polymarket’s payments processors, to clamp down on suspicious or fraudulent payments activity, according to people familiar with the situation.
+In an effort to address the problem, Checkout.com told Polymarket it needed to rein in such activities. The company hired Riskified, a firm that helps online merchants detect and stop phony transactions before they happen.
+Polymarket, whose trading volume has ratcheted up on its U.S. platform since the company relaunched those operations in late 2025, isn’t the only popular prediction market that has ramped up payment safeguards recently. Its main rival, Kalshi, also hired Riskified around the same time Polymarket did, a Kalshi spokesperson confirmed.
+The spokesperson said it added Riskified in addition to other outside vendors because it offered better data and analytics, and that hiring such firms is a “standard and important practice in our industry.”
+The allure of prediction markets, compared to traditional betting apps or online stock trading, is that people can weigh in on hot topics and cultural moments with straightforward yes-no bets as they unfold in real time. The companies have tried to make that process as seamless as possible, including by letting users bet before their money has transferred to Polymarket’s or Kalshi’s accounts. Both have also been offering customers sign-up and referral bonuses, as well as extending financial rewards to traders who use their platforms.
+The combination of those features has led to a sharp rise in disputed and fraudulent transactions at Polymarket and Kalshi, according to people familiar with the situation. The prediction markets platforms have to cover the expense of refunding payment processors.
+Rising fraud rates can also strain relationships with the processors, banks and card networks that collect money from users. Merchants generally try to keep fraud and dispute rates below 1.5%. If those rates rise too high, card networks like Visa and Mastercard can impose penalties or require remediation plans for processors and merchants. In the most serious cases, card partners might cut off online platforms from their networks entirely.
+Bringing in Riskified is the latest sign the prediction markets’ payment setups are still evolving. Polymarket has already encountered problems with one banking partner, BMO, which last year shut its accounts with the startup, The Information
+earlier reported
+, though it still does business with other banks. On the processing side, Polymarket and Kalshi both use London-based Checkout.com, which has experience serving riskier markets like crypto, to process customer card payments.
+But both markets also have set up payment alternatives that bypass the card networks—and their rules—entirely. And they rely on Aeropay, a platform that lets users transfer funds directly from their bank accounts to online platforms.
+Those payments problems come as the markets draw scrutiny for other issues. These include their role in enabling potential trading on insider information, such as through bets on company news like product releases, and their weak control over the market access of users based in sanctioned countries. Kalshi in
+recent days said
+it’s started asking some bettors to disclose where they work, while
+Polymarket has asked
+some users of its offshore platform to provide documentation such as passports.
+Polymarket and Kalshi are also still building out the infrastructure that more established financial firms have established over the years. Both firms’ U.S. operations are registered with and regulated by the Commodity Futures Trading Commission, reflecting the fact that their contracts are treated as derivatives rather than traditional sports bets. But historically, derivatives trading usually runs through brokerages and other financial firms that serve larger clients and have more of a track record in monitoring suspicious behavior.
+Similar payments-related fraud attacks have hit fast-growing fintechs and crypto firms before, including
+Chime
+and
+Gemini
+, which offered sign-up bonuses and new products to pull in users quickly. The abuse can range from organized fraud rings to ordinary users creating multiple accounts to collect bonuses. It can also spread fast, as fraudsters trade tips on vulnerable fintechs in message boards, group chats and other online forums.
+Fast-Moving Attacks
+Firms such as Riskified sit between merchants and the payments system, providing outsourced risk controls that card and payment firms often expect. These intermediaries try to fill in that gap for a particular client by pulling data from a network of other companies’ transactions to pinpoint likely stolen identities and spot fraud rings as they hop from merchant to merchant.
+Riskified says the nascent prediction market industry lacks “mature identity data” for its customers, meaning the platforms have limited customer history to do this work themselves. Traditional financial companies, by comparison, have a trove of historical behavioral data on their users.
+That includes data on attacks that target prediction markets with account takeovers and rapid withdrawal scams, where fraudsters break into customer accounts or exploit weak payment checks, then rush to cash out funds before the platforms can stop them. Riskified hosted representatives from Polymarket and Kalshi to discuss those threats at a conference in New York last month, according to an agenda for the conference.
+More broadly, the online nature and fast money transfers of prediction markets subject them to risk. “Since these platforms rely on instant digital deposits, attackers are successfully scaling tactics like BIN attacks, hyperlocalized rings, and identity laundering,” a Riskified spokesperson said.
+Riskified has flagged BIN attacks, a form of credit and debit card fraud, as a source of risk for prediction markets. In a BIN scheme, criminals exploit the fact that cards issued by the same bank often share a few first digits, known as the bank identification number. The fraudsters generate and test possible full card numbers belonging to that bank’s customers, and then test the numbers with small merchant transactions before they use working cards to move money through a platform.
+Earlier this year, one fraud ring targeted a prediction market platform with a BIN attack focused on using routing numbers tied to Arkansas-based Arvest Bank, making more than $200,000 in a 10-day period, according to a Riskified spokesperson. The bank said it continuously monitors for fraudulent activity, which is an industrywide challenge."

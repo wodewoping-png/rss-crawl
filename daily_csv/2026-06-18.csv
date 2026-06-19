@@ -1,0 +1,364 @@
+﻿标题,时间,作者,链接,内容
+Cursor Returns Spur VC-Backed Deal Hopes,2026-06-19T00:16:18Z,Katie Roof,https://www.theinformation.com/newsletters/dealmaker/cursor-returns-spur-vc-backed-deal-hopes,"Achieving the largest IPO in history wasn’t the only record that SpaceX set. It’s
+now agreed to complete
+the largest acquisition of a venture-backed startup in history, its $60 billion dollar purchase of Cursor.
+The acquisition will make its founders billionaires, and it should provide billions in returns for investors like Thrive Capital and Accel. It also gave venture investors hope that other mega deals for startups are coming.
+You don’t have to go far back to find the last record-setting acquisition of a venture-backed startup. Google earlier this year
+completed its acquisition of cybersecurity startup Wiz for $32 billion. Chip designer Groq netted about $20 billion for its backers when it entered into a licensing agreement with Nvidia late last year. Similarly, Meta Platforms’ investment in Scale AI resulted in a $14 billion payout.
+While there have only been a handful of acquisitions in the double-digit billions, there has been a wave of other sizable deals. My colleagues reported this week that
+Qualcomm is in talks to buy venture-backed Tenstorrent
+, and the two parties have discussed a price between $8 billion and $10 billion. In April, ServiceNow completed its purchase of AI startup Armis for over $7 billion.
+Adobe almost bought Figma for $20 billion in 2022, but later ran into obstacles with regulators.
+Villi Iltchev, managing partner at early stage investment firm Category Ventures, noted that venture capitalists have been overly optimistic about acquisitions for the past 20 years, each year resulting in “great disappointment.” He says that finally, “we have a vibrant M&A environment.”
+Iltchev noted that companies are buying “not just leaders at the top of the market,” but the industry is also seeing a healthy volume of sizable deals. He referenced MaintainX, which recently sold for over $3 billion.
+The reasons for this are plentiful. Many founders and their investors are looking for an exit. Past investments have resulted in more than 1,000 startups valued at more than $1 billion—which is not nothing but not enough to go public. At the same time, larger technology companies are willing to spend big dollars to get top notch AI or security talent.
+Plus, many of the biggest publicly traded tech companies, from Meta to Snowflake, were previously venture-backed or have board members at VC firms invested in startups that would make good targets. This overlap means they often hear about startups that may be open for a sale. It makes sense that many of these startups and public companies would tie the knot.
+But perhaps one of the biggest reasons is the changed regulatory landscape. Google-Wiz saw what happened with Adobe-Figma and waited for the changed administration to pull the trigger."
+Meta’s Microsoft Mobile Moment,2026-06-19T00:01:18Z,Martin Peers,https://www.theinformation.com/newsletters/the-briefing/metas-microsoft-mobile-moment,"No one can rival OpenAI for internal drama. But in recent days, Meta Platforms seems to be trying its best to do so.
+Earlier this week,
+Wired reported
+that Chief Technology Officer Andrew Bosworth told staff Meta had done an “atrocious” job of launching a new AI division. That report followed
+another one
+in Wired about the internal dissatisfaction within the company’s applied AI division, citing Chief Product Officer Chris Cox acknowledging the “insanity of this company” (more
+on that issue
+). Meanwhile, Meta has very publicly reversed its policy on encouraging engineers’ AI use,
+we have reported
+, a sign that it has become more conscious of AI costs.
+As all this has happened, the AI sector has been awaiting Meta’s release to developers of its latest AI model, Muse Spark, which according
+to The Wall Street Journal
+has been repeatedly delayed. Until developers get access, we won’t have a sense of whether Meta is again a contender for state-of-the-art AI models—a status it lost
+when its Llama 4 model release
+fell flat 14 months ago.
+None of this can be comforting to Meta investors, who’ve had to watch as the stock has sunk 12.6% so far this year. Their anxiety is mostly related to the fact that Meta is investing a massive amount of money in AI, both for hiring star engineers and for building out data center capacity. Unlike other tech companies investing hundreds of billions in expanding AI data centers, Meta doesn’t have a cloud business that can generate revenue from cloud customers. Its AI is improving its advertising, to be sure, but that’s unlikely to be enough to justify the spending.
+The worry is that Meta is fumbling its chance of ever leading in AI. What makes this particularly striking is that the company was very early to AI. When it was still known as Facebook, it went head to head with Google
+in the competition
+to buy DeepMind in 2013 and in
+the battle for AI talent
+more generally.
+Meta is now in danger of following in the footsteps of Microsoft, which was very early to developing mobile software but never capitalized on that timing advantage. It released Windows Mobile, to power smartphones,
+in 2003
+, several years before the iPhone or Google’s Android came out. But Microsoft was
+overtaken by both companies
+and never regained its momentum.
+Is Meta headed for the same fate?
+Digital Media’s New Goliath
+Is Jay Penske planning to take his publishing empire public? That seems to be on the cards, judging from the statement
+issued today
+describing Penske’s acquisition of eight Vox Media titles, including The Verge, Eater, SB Nation and Popsugar. These were the Vox titles left behind when
+James Murdoch bought New York magazine
+, Vox.com and Vox’s podcasts last month.
+But Penske didn’t just buy the titles. He created a new subsidiary of Penske, PMX, which combines all of its other titles—including Billboard, Variety, Rolling Stone, WWD and Deadline—with the Vox titles. Penske gave Vox Media shareholders stock in PMX, as they’ll have a minority stake, Vox said. (Penske was
+already an investor in Vox Media
+, mind you, which likely affected the price it paid.)
+There’s likely only one reason why Penske would create a new subsidiary with outside ownership—he plans to take it public. That would make sense given the number of high-profile titles. Watch this space.
+Midjourney and Medicine
+Some in tech still have the capacity to surprise. Take Midjourney, until now best known for its AI image-making tool (here’s
+a profile of the firm
+we published in March). Now, though, it is sure to be better known as that crazy tech firm that made a midlife pivot into medicine!
+On Wednesday, Midjourney
+unveiled a full-body scanner
+for detecting diseases, and it plans to open spas across the country to make money from the scanners. That is quite the leap for an AI tool. The economics of building a medical device, and then opening spas across the country, are…quite different, to say the least. This move is almost as bizarre as footwear firm Allbirds’
+pivot to renting out AI chips
+(hat tip to
+Nick Wingfield
+for pointing that out)
+.
+It seems corporate reinvention is alive and well in Silicon Valley.
+In Other News
+• Sen. Bernie Sanders (I-Vt.) introduced a bill on Thursday to establish a $7 trillion sovereign wealth fund that would provide the American public with a 50% ownership stake in the top AI companies."
+"Kalshi Passes $2 Billion in Annualized Revenue, Holds Informal IPO Talks",2026-06-18T21:30:51Z,Yueqi Yang,https://www.theinformation.com/articles/kalshi-passes-2-billion-annualized-revenue-early-ipo-talks,"Prediction market Kalshi is generating more than $2 billion in annualized revenue,
+up about three times
+from November, as traders betting on NBA and World Cup games drove a surge in trading volume, according to people familiar with the company’s financials.
+Kalshi’s fast growth has led its top executives to hold informal conversations with investment banks about an eventual public offering. The eight-year-old startup wants banks seeking to advise it to integrate with Kalshi, which would allow institutional clients of banks to trade on its platform, one of the people said. The talks are early, and the company is unlikely to list until late next year or even 2028.
+The investment bank discussions point to an important way Kalshi expects to expand its business over the next few years. Individual traders have propelled its rise, but it wants to expand its business with institutional traders, similar to the path Coinbase followed in its early years. It is competing for market share with younger rival Polymarket, whose recent revenue couldn’t be learned.
+It’s not unusual for startups to expect investment banks to become customers or enter partnerships as banks lay the groundwork for a potential IPO. Elon Musk, for instance,
+required
+banks seeking to work on SpaceX’s IPO to buy subscriptions to Grok, the AI chatbot.
+Kalshi has been courting Wall Street trading firms and hedge funds to use its event contracts, which allow people to bet on the outcome of a Federal Reserve interest rate decision or the passage of the U.S.-Iran nuclear deal for less than $1.
+Before going public, Kalshi will need to hire a new chief financial officer. Former CFO Saurabh Tejwani, who joined from Gopuff late last year, has left the company, and Chief of Staff Alex Cuoci is the acting CFO, according to people familiar with the firm.
+June Boom
+Founded in 2018 by Massachusetts Institute of Technology graduates Tarek Mansour and Luana Lopes Lara, Kalshi is the largest prediction market in the U.S., thanks in part to a U.S. regulatory ban on rival Polymarket in 2022. Polymarket received clearance late last year to start offering contracts to U.S. residents.
+In May, Kalshi raised $1 billion in funding in a round led by Coatue at a $22 billion valuation including the money raised. Polymarket has been in talks to raise at a $15 billion valuation,
+The Information reported
+in April.
+Both startups generate revenue from charging a fee for the trades. Kalshi recorded $10 billion in trading volume in the first two weeks of June, up from $435 million during the same period last year, according to
+data
+from analytics platform Artemis. Polymarket recorded $5.5 billion in trading volume in the first two weeks of June, the data
+show
+.
+An eventual listing could improve Kalshi’s name recognition, attracting more users directly to its platform. That would help it reduce its dependence on brokers such as Robinhood and Coinbase, which send user orders to Kalshi. Robinhood recently started to shift some of its World Cup orders away from Kalshi to Rothera, a new exchange that’s a joint venture between Robinhood and Susquehanna International Group.
+But Kalshi also faces legal challenges with its sports contracts, which make up about 70% of its volume. Several states have sued the company, alleging that it’s offering an unregistered sports gambling platform. Kalshi has said the charges are meritless and it’s regulated by the U.S. Commodity Futures Trading Commission.
+Kalshi also recently launched crypto perpetual futures, a type of highly leveraged derivatives product, after gaining approval from U.S. regulators. These contracts allow traders to bet using leverage on whether the price for something will go up or down, with no expiration date. The product, which currently doesn’t charge fees, recorded more than $8.5 billion of trading volume since it launched about two weeks ago. It could help Kalshi reduce its reliance on sports contracts for revenue.
+To expand perpetual futures beyond crypto to areas such as oil and gold, Kalshi will need to win approvals from its regulator. But that process has already encountered pushback from a traditional exchange.
+The Chicago Mercantile Exchange, the U.S.’s biggest financial derivatives exchange, filed a
+lawsuit
+against the CFTC and its chair, Michael Selig, Thursday over the agency’s approval of perpetual futures, which the exchange said had not been done via formal rulemaking and circumvented Congress’ required regulatory regime.
+A CFTC spokesperson called the suit “lawfare” and said, “We look forward to addressing their claims and dismissing this frivolous lawsuit.”
+Kalshi spokesperson Elisabeth Diana said the CME’s lawsuit “isn’t about the law, it’s about the fear of competition.”"
+How I Learned to Love Mark Rober,2026-06-18T18:50:40Z,Jessica E. Lessin,https://www.theinformation.com/articles/learned-love-mark-rober,"One day last fall, my third-grade son came home and proudly announced that he had watched YouTube at school. I was miffed, wondering what the teachers were doing while they plopped the kids in front of a screen.
+“Don’t worry, Mom,” my son said. “We watched Mark Rober.”
+I felt a
+little
+better. I was familiar with Rober’s highly engaging science experiments, and The Information
+had
+profiled
+his booming creator business in 2024.
+But at a time when my kids would scrounge every minute on YouTube that I would allow at home, did I really want it in the classroom? And more broadly, as a longtime tech reporter and editor, how did I feel about kids’ and teachers’ obsession with YouTube, which can so easily become a rabbit hole?
+Curious about Rober’s success and the possible answers to my questions, I introduced myself to Rober at an event earlier this year and asked if I could come visit CrunchLabs and learn about his approach.
+A few weeks later this May, I found myself sitting across from an energetic Rober at his secret CrunchLabs studio. He doesn’t reveal its location publicly in an effort to maintain an air of mystery and to give away the chance for kids to visit if they get a platinum ticket in one of the Build Box engineering DIY kits he sells.
+My three sons tagged along as well. And boy, did they know the space from all the time they’ve spent watching Rober’s videos. With his help, they showed me the Slinky that can walk forever, the carnival claw game, the world’s smallest Nerf blaster and the bathroom that emits a siren if you don’t wash your hands.
+I pulled Rober away from the blaster and the bathroom alarm to talk about his newest project. Part big kid, part former NASA scientist, Rober pitched me on Class CrunchLabs, his new initiative to do the very thing I questioned: insert himself into every classroom in America through a free third- to eighth-grade science curriculum. It proposes to teach kids about gravitational force by simulating a crash landing in outer space and to understand Newton’s third law of motion through DIY carnival games, among other topics.
+“With YouTube, you’re as good as your next video or your last video,” he mused. “But with Class, I just really think we could move the needle in a way that has a long-standing sort of impact in the world. There are so many people who say they hate science or they’re not a science person. But that’s because it was just taught so poorly.”
+Rober is working with the National Science Teaching Association to make sure the curriculum—which features video and in-person lesson plans—hits all the science education standards.
+He is devoting a week a month to building out these videos, estimating it will take five years and roughly $60 million in nonprofit support.
+I brought up an uncomfortable truism about education reform: The field has seen many previous  well-intentioned disruptors whose educational theory failed to get traction in the actual classroom. He thinks he has something those efforts don’t.
+“What we have that no one else has is their attention. Full stop,” said Rober, whose
+YouTube channel
+has nearly 79 million subscribers.
+“If we did a study in any given classroom in America, I don’t think you’d find a single classroom that at least one of the kids didn’t know who I was. Otherwise on average, it’s going to be something like 85%, and they have a positive association,” he said.
+YouTuber Mark Rober stands behind a tennis-ball cannon that he asks visitors to use in a difficult feat: hit the bull’s-eye in the far distance.
+(Photo: via YouTube)
+My kids and their friends certainly pay a lot of attention to him, and there is no questioning his bona fides. Rober, who also has a major Netflix deal, is tight-lipped about CrunchLab’s financials, but he told me the YouTube production breaks even with a less than $20 million budget. Sales of his popular CrunchLabs kits are undisclosed.
+And there is much more on the horizon, including a new product launch in major retailers this summer, he told me.
+Even with Rober’s ubiquity, he will have to travel a long road to achieve the impact he imagines inside schools. But I appreciate his effort.
+As parents, we must protect our kids from technologies and people adept at capturing our kids’ attention—but not to the point of missing out on technology that can inspire and enable them.
+I have no doubt Rober’s videos have made my own children—who’ve seemingly watched his entire catalog of videos, which stretches back 14 years—more curious about how the world works.
+They’ve learned a thing or two. Rober’s lab includes
+a device
+he calls the Fireman’s Piston, which improves on old-fashioned firehouse poles. When my 7-year-old son used it, he proudly told me it operated based on pneumatic pressure. I certainly didn’t know that at his age.
+And there was one more thing. As any good Rober fan knows, visitors to CrunchLabs get one shot to hit a bull’s-eye roughly 75 feet away with a tennis ball cannon. If they are successful, they earn a $10,000 cash prize. In the three years he’s been running the challenge, only four people out of several hundred had accomplished the feat.
+As my sons and I were leaving Rober’s labs, I gave it a try. My practice shot was quite a bit low, but I took a deep breadth, bumped up the cannon’s power a little and became the fifth person to hit the bull’s-eye! (I’ve asked Crunch Labs to donate the prize to a nonprofit, of course.)
+All in all, it was quite an eventful visit. But it wasn’t until a few days later that I really appreciated the extent of Rober’s impact.
+My 4-year-old wanted to plan his birthday party. (It was then still 5 months away—but hey, who is counting?) He asked about playing arcade games, and I said we could look into taking some friends to an arcade.
+“No, Mom,” said my 4-year-old. “I want to
+build
+arcade games for my friends to play.”
+That’s music to any parents’ ears.
+So was I too quick to bristle at the kids’ watching Rober at school? What role might YouTube play in educating our kids? How do we draw the line and prevent them from getting sucked into a platform where many creators seek to prey on their attention and where inappropriate content could be one click away?
+Personally, I want to embrace things that stoke my kids’ creativity and problem solving—skills that could atrophy in the AI age. And YouTube has become so massive that you can’t lump all its content into one bucket.
+At the end of the day, I know there are great creators like Rober I want to introduce to my kids, but I have to stay vigilant. When it comes to parenting and tech, there’s no black and white—just constant monitoring, questioning and exploring."
+Google and Microsoft Team Up to Beat Back Anthropic and OpenAI,2026-06-18T17:30:39Z,Aaron Holmes,https://www.theinformation.com/newsletters/applied-ai/google-microsoft-team-beat-back-anthropic-openai,"When a group of tech companies announce an agreement to support an AI backend-software protocol, we don’t blame corporate IT executives for not paying attention. It sounds quite boring.
+But
+one such announcement on Wednesday
+from Google, Microsoft, Salesforce, Snowflake, ServiceNow and others is worth paying attention to. It demonstrates one way established enterprise software providers may parlay their large customer base into an AI business that won’t be decimated by Anthropic and OpenAI.
+These traditional tech firms, along with open source model repository Hugging Face and database firm Databricks, said a new software standard would make it easier for workers to use one application to access AI from any apps their company pays for.
+In other words, if an employee asks GitHub Copilot or Google Gemini or Salesforce’s customer relationship management app to complete a workplace task using AI, the app would theoretically identify and access any AI features or apps that could help with the task—so long as the makers of those features and apps also adopt the new backend protocol, known as agentic resource discovery.
+In pursuing this standard, traditional software providers like Microsoft want to convince customers that they should use their apps as a gateway to access any AI they want, a kind of one-stop shop.
+“ARD helps AI clients discover capabilities, but it doesn’t replace authentication, authorization, governance, or organizational trust decisions,” Microsoft said in a blog post about the new protocol.
+To us, ARD sounds like an extension of the idea behind
+Model Context Protocol
+, an open standard Anthropic invented last year to help AI agents be able to access data from other applications, similar to an application programming interface. Other companies including Microsoft, OpenAI and Google also embraced the MCP idea.
+The idea behind ARD seems to be that because every enterprise app under the sun now has its own AI or built-in agents and automations, a new standard is needed to access all those features from one place.
+However, Anthropic and OpenAI want to earn the same place in enterprise workers’ minds by making Claude and ChatGPT the main app people use to access all their AI and other applications or tools for work. And the AI firms and the traditional software firms are already in a
+race to develop so-called superagents
+, AI that can access any app. Again, the idea is to create a one-stop shop of sorts. This threat is
+not lost on Microsoft, as we have reported
+.
+As insurgents in the enterprise app game, Anthropic and OpenAI might choose to ignore the ARD effort; they aren’t on the list of initial supporters for the standard.
+While it’s too soon to know whether ARD will catch on, Microsoft said the new protocol would make using GitHub Copilot a lot cheaper. When customers today ask the coding app to do research or use other applications to complete a task, GitHub Copilot spends a lot of processing power to figure out what kind of apps or agents it should use; when it has access to features and apps that are ARD-ready, Copilot won’t need to look so hard, the company said in a post.
+That might be enticing to cost-weary IT execs we’ve been speaking to lately!
+Cursor Confirms GitHub’s Worst Fear
+Speaking of GitHub Copilot, it’s no secret that the pioneering coding product has been losing market share over the past year to competitors like Claude Code and Cursor. And we reported last month that
+senior Microsoft executives have worried that, in addition to losing ground in the AI coding market, those competitors could also pose a threat to GitHub’s core business
+of repositories where developers store and collaborate on code.
+On Wednesday, Cursor confirmed that those concerns were well-founded. The startup announced that it plans to launch a new code storage and git hosting product called Origin, which will become available later this fall. (The announcement also confirmed
+The Information’s recent reporting that Cursor was plotting such a move.
+)
+If Origin catches on, Microsoft would have good reason to be worried: currently, most users of AI coding tools other than Copilot still rely on GitHub to store code, especially enterprise customers that need a single unified repository to stash their company’s source code. But Cursor could now aim to peel away more of those users who may find it convenient to simply store that code in Cursor’s products instead.
+Cursor isn’t the first AI company to consider such a move. OpenAI has also been
+privately toying with the idea of building a similar product
+geared towards users of its Codex coding agent.
+It also doesn’t help that GitHub has seen a sharp uptick in outages in recent months that have frustrated customers large and small. Several frustrated customers previously told me that they’d like to move their code out of GitHub due to the bugs but couldn’t find a feasible alternative. Perhaps now they have one.
+—Aaron Holmes
+AWS’ AI Pricing Strategy
+Amazon Web Services is trying to make its AI tools more appealing to business customers—by making pricing easier for companies to understand.
+In line with that approach, AWS charges for its workplace productivity tool Quick by the number of hours the AI spends completing a task, not tokens, according to Jigar Thakkar, vice president of agentic AI for business.
+“If you [have] a price for everything, it becomes complicated. What is the cost of creating a PowerPoint? What is the cost of asking a basic question and so on and so forth? Instead, we say how much time it took the agent to take care of the question asked,” Thakkar said. “Everything will not be measured closely by tokens. We care about how much time the system spent on it.”
+Quick charges $20 or $40 per worker per month, and gives each worker four or eight “agent hours” as part of their plan, depending on the subscription tier. After workers use up that agent time, AWS charges them $3 per agent hour, though it isn't clear how many or what kind of tasks an agent can do in an hour.
+Thakkar said Quick also has guardrails to keep customers from spending more than they’d want.
+—Catherine Perloff"
+Amazon Gives Big Brands More Control Over Product Listings,2026-06-18T15:00:45Z,Ann Gehan,https://www.theinformation.com/articles/amazon-gives-big-brands-control-product-listings,"Amazon’s status as the home of independent merchants is eroding.
+The e-commerce giant has lately overhauled its shopping site to give big brands more control over how their products are displayed and sold. The company recently told them it would give them priority over independent merchants in deciding how their products are described on its website. That’s important because many independent merchants sell big-brand products.
+The program, known as Brand Elevation, gives brands a “competitive advantage on the detail page” and “eliminates catalog errors” caused by data from independent merchants or Amazon’s systems overriding brand-submitted information, according to communications from Amazon reps about the program reviewed by The Information.
+The new approach is a drastic break from Amazon’s convention. Independent sellers are responsible for around 60% of its retail sales and spend significantly on add-on services like advertising and warehouse storage. Those merchants include brands with little name recognition selling China-made electronics and clothing, as well as domestic resellers who flip liquidated products from well-known brands like Olay or Adidas—often without authorization from those big brands.
+The shift in strategy comes as Amazon’s retail growth has slowed. In response, the e-commerce giant over the past year has tried to increase its share of shopper spending by getting more well-known brands like Nike and Estée Lauder to sell their products directly on Amazon and operate their own official storefronts, in hopes of making its site more of an all-in-one shopping destination.
+But the shift toward big brands is complicated. Most brands don’t like listing their products alongside the same products listed by independent sellers, who can undercut them on price or portray their products inaccurately. The big brands are aware, however, that Amazon offers easy access to a vast pool of shoppers.
+​​“Big brands are finally realizing they must be on Amazon to control the channel, whether they’re selling there or letting somebody else sell there,” said Jason Boyce, founder of Avenue7Media, an agency that manages Amazon storefronts and advertising on brands’ behalf. “More and more brands are asking us for help cleaning up their brand presentation on Amazon these days.”
+For example, supplement brand AG1, which has sold exclusively on its own site for much of its history,
+said last year
+that it began listing its products on Amazon in part to defend its turf from unauthorized independent sellers. Those independent merchants created Amazon listings for resold or counterfeit AG1 products the brand didn’t have control over.
+“We regularly introduce new vendor and third-party seller features, policies, and programs that ensure our product listings provide customers with comprehensive information to help them make informed purchase decisions, and to provide brands and sellers with powerful tools to maximize their success,” an Amazon spokesperson said in a statement.
+Priority Rating
+Amazon is allowing brands to have more control over product listings through the Brand Elevation program. Boyce and Martin Heubel, another consultant who works on behalf of brands to manage their Amazon relationships, both said Amazon representatives have recently described it as a new offering.
+Historically, when more than one seller submitted details for the same product to Amazon’s catalog, its systems decided which version to show on the product page, and brands sometimes lost control over key fields like the item’s name or descriptions of colors and sizes. If a brand opts in to the program, product data coming directly from brands will get a higher priority rating for determining what’s shown on product pages, according to communications about Brand Elevation that Amazon recently sent to some brands.
+The program is currently limited to brands and sellers that pay Amazon additional fees for a dedicated account manager, according to Boyce and Heubel. Amazon said Brand Elevation isn’t a paid program.
+Amazon has made other changes recently aimed at appeasing big brands and giving them more control over how their products are sold on Amazon.
+As of June 1, all sellers, including wholesale suppliers that sell goods to Amazon directly, will no longer be able to create new catalog entries for branded items, unless the original brand or manufacturer has designated them as an authorized reseller through Amazon’s Brand Registry system, according to seller communications reviewed by The Information. Brands can opt in to Brand Registry to report potential counterfeit products and intellectual property infringement.
+Combined with the other restrictions on independent sellers, the changes are likely to have the biggest impact on product listings that some independent sellers set up in a bid to game Amazon’s systems and get more eyes on their products.
+Typically, listings for the same products are compiled into a single page, with the coveted Buy Box, which contains the Buy Now and Add to Cart buttons, linked to a single seller’s offering. Nearly 98% of sales made on Amazon come through the Buy Box,
+according to the FTC
+, and sellers view getting their product listing featured in the Buy Box as critical to making sales.
+Since other sellers’ listings that aren’t featured in the Buy Box are typically much harder for shoppers to find, some sellers set up separate catalog listings that make their products seem like distinct offerings by bundling them with other goods or selling them in different colors or sizes. Sellers often spend on ads to promote these products in search results so they rank higher than products from the official brand. While such entries are technically against Amazon’s policies, they can still slip through the cracks and create headaches for brands.
+Vanessa Kuykendall, a co-founder of MarketDefense, an agency that manages Amazon sales and operations for beauty brands like Drybar hair products and Tatcha skin care, says MarketDefense is constantly fighting off competing pages for the same products.
+“As the consumer buys it on TikTok and other places, [people are] reselling it,” Kuykendall said of the brand. As a result, MarketDefense doesn’t always have control of listing pages for the brands’ products and often has to fend off separate listings for identical items with lower prices, she said. “It’s one of the brands where we do have a lower [rate of being featured in the] Buy Box than the rest of our portfolio, because there’s just so many people trying to jump on.”
+Under the new policy, if the original brand hasn’t approved a wholesale supplier or an independent seller to sell its products, they would be barred from creating new additions to Amazon’s catalog for that brand’s products.
+In addition to the new restrictions on adding new products to its site, Amazon is also starting to add more information about sellers on some product detail pages, including language telling shoppers the brand has authorized the seller as a reseller. That could further hurt independent sellers if shoppers shift more of their purchases to listings from the brands themselves or from authorized sellers."
+A Competitor to OpenClaw Emerges,2026-06-18T14:00:18Z,Stephanie Palazzolo,https://www.theinformation.com/newsletters/ai-agenda/competitor-openclaw-emerges,"After the success of
+OpenClaw
+, an open-source AI agent software that
+took the tech world by storm
+earlier this year, it’s no surprise that copycats are popping up. And some of these copycats are catching up to OpenClaw, by some measures.
+Hermes
+, an agent tool from
+Nous Research
+, recently eclipsed OpenClaw in terms of new
+GitHub
+contributors in the last 30 days, according to GitHub data compiled by
+ClawCharts
+, which tracks the growth of open-source AI agents. (New GitHub contributors are a measure of how strong developer engagement is). And if OpenClaw continues to struggle with evolving from an experimental hacker project to a reliable piece of software, as we’ve written about
+here
+, Hermes and other alternatives like
+Nvidia’s NemoClaw or Genspark Claw
+would have a bigger opening to break through.
+Hermes, like OpenClaw, is AI agent software that runs locally on users’ devices. It can be used to automate any task you might complete on your computer, like writing code, searching the web for a rare vintage item or sending emails or
+WhatsApp
+messages.
+Nous Research says that what makes Hermes different from OpenClaw is that the agent can teach itself over time how to do the tasks its user asks it to do most often. Hermes does this by automatically writing
+“skills,”
+or a manual of sorts that tells an agent how to do a task. It writes up these instructions automatically when, for instance, it completes a complex task that requires more than five “tool calls” (such as searching the web or accessing apps like
+Gmail
+or
+Discord
+) or when it finds a working solution after hitting a bunch of dead ends. (Nous has raised $70 million since its founding in 2023 from investors including
+Paradigm
+,
+OSS Capital
+and
+Distributed Global
+).
+Other agents systems such as OpenClaw require the user to write up these skills themselves.
+“As [Hermes] understands your workflows, it’ll self-create its own skills so you don’t have to keep telling it things…whereas an OpenClaw, you have to be like, oh, I’ve done this enough times, let me ask you to turn this into a ‘manual,’” said
+Chrys Bader
+, CEO of
+Rosebud
+, a startup developing AI agents that provide coaching and mentorship.
+Its ability to automatically write skills also helps keep costs low. The first time Hermes attempts a complicated task, it may need an expensive advanced model to figure it out. But after it writes the skill for that task and knows how to do it, it can swap in a cheaper open-source model for the future.
+Hermes takes all this a step further by “reflecting” on those skills when the agent isn’t being used, said
+Dillon Rolnick
+, a Nous Research co-founder and chief operating officer. During that process, the agent refines its skills or deletes skills when it believes it has a more efficient or powerful one it can use instead, he said.
+You can almost think of Hermes’ reflection as similar to what humans do when we sleep: processing and thinking about what they’ve learned during the day so we can remember it better, Rolnick said.
+The success of Hermes also shows how much developers can eke out of today’s models just by improving the software that helps the models use tools and take actions—known as a
+harness
+—without needing more advanced models themselves. Better harnesses boosted other popular AI agent products like
+OpenAI’s Codex
+, as we wrote about
+here
+.
+Here’s what else is going on…
+People on the Move
+Noam Shazeer
+, the
+Google DeepMind
+researcher whose work underpinned the generative AI boom, is joining
+OpenAI
+, The Information
+reported
+on Wednesday. (Shazeer later confirmed his move on X. “I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there,” he wrote.)
+Shazeer left Google in 2021 to co-found a chatbot startup
+Character.AI
+, but rejoined Google’s AI team DeepMind in 2024 as part of a $2.7 billion deal with his AI startup.
+Deals and Debuts
+See The Information’s
+Generative AI Database
+for an exclusive list of private companies and their investors.
+Rumble
+, which started in 2013 as a YouTube alternative and hosts conservative content,
+completed a stock-for-stock transaction
+Wednesday to acquire data center company
+Northern Data
+, becoming the latest company to join the mad dash to rent out
+Nvidia
+graphics processing units to AI developers. Rumble and Northern Data, also known as a neocloud, earlier Wednesday had market capitalizations of $2.5 billion and $500 million, respectively, and crypto stablecoin provider
+Tether
+is a major shareholder in both companies.
+Anthropic
+is joining
+Frontier
+, the carbon removal collective, contributing to a new $915 million tranche of funding. So far, Frontier has contracted nearly $700 million across more than 50 projects to remove 1.8 million tons of carbon.
+AI agent startup
+Manus
+has seen its annualized revenue run rate rise to between $400 million and $500 million as of recent weeks, The Information
+reported
+on Thursday. The revenue growth comes as early Chinese backers of Manus plan to buy back the firm from
+Meta Platforms
+at the $2 billion price Meta paid, in response to a Chinese government order that the deal be reversed.
+Odyssey
+, a Palo Alto, Calif. and London-based world model developer, raised $310 million in Series B funding at a $1.45 billion valuation led by
+Natural Capital
+.
+Genspark.ai
+, a Palo Alto, Calif.-based startup that develops AI agents for enterprises, raised $100 million in a Series B extension from
+Sozo Ventures
+,
+Korea Mirae
+Asset
+,
+UpHonest Capital
+and others.
+Conduct
+, a London-based startup that uses AI to help enterprises modernize their software, raised $60 million in Series A funding led by
+Index Ventures
+and
+ICONIQ Capital
+.
+Convey
+, a San Francisco-based startup that allows businesses to develop their own digital teammates, raised $38 million in Series A funding led by
+Andreessen Horowitz
+.
+Pramaana Labs
+, which is aiming to bring formal verification to AI, raised $27 million in seed funding led by
+Khosla Ventures
+.
+Apple
+plans to raise prices on its devices to counteract soaring component costs for memory and storage chips, Chief Executive
+Tim Cook
+told The Wall Street Journal. Cook didn’t elaborate in the interview about timing or exact price increases. Apple is expected to hold its annual hardware event in September, where it will unveil new iPhones, including a foldable model.
+SpaceX
+added
+Roelof Botha
+to its board of directors, the company said in a securities filing on Wednesday. Botha was a longtime leader at
+Sequoia Capital
+, a major SpaceX investor, and currently represents Sequoia on some boards. He is joining the board in a personal capacity.
+AI image generation company
+Midjourney
+on Wednesday
+launched
+the first of its long-awaited hardware projects: a full-body scanner for detecting diseases and other health issues. The company’s founder and CEO
+David Holz
+claimed the machine is more detailed than an MRI."
+Manus’ Revenue Soars as Original Investors Move to Reverse Meta Deal,2026-06-18T13:00:39Z,Jing Yang,https://www.theinformation.com/articles/manus-revenue-soars-original-investors-move-reverse-meta-deal,"The early Chinese backers of AI firm Manus are planning to buy the firm back from Meta Platforms at the $2 billion price Meta paid, in response to a Chinese government order that the deal be reversed, according to two people with direct knowledge of the matter.
+While the government’s order has
+sparked alarm among Chinese startup founders
+, seemingly cutting off the U.S. as an avenue for fundraising or sale, reversal of the sale holds a bright spot for Manus’ original investors. That’s because Manus has continued to grow dramatically since the U.S. tech giant swallowed it up, according to the people.
+Manus’ annualized revenue run rate has risen to between $400 million and $500 million as of recent weeks, according to two people mentioned above and two others familiar with the startup’s financials. That’s up from $100 million in December when Meta acquired the startup, the people said.
+For Manus’ Chinese investors, that means the reversal of the Meta acquisition could turn out to be a big win. Given that its revenues are much higher now than when Meta bought it, the investors are getting Manus back at a discount to what it would likely be worth in a sale now, two of the people said. And Manus could be in a position to go public at some point in the future. The buyback transactions are still being worked out, however, the two people added.
+Manus, which was founded in China but relocated to Singapore last year, makes money by selling subscriptions to its AI agent tools, at prices ranging from $20 a month to $200 a month. Reasons for its recent growth couldn’t be learned, although it may in part be attributable to the fact that Meta has owned Manus since December. The U.S. tech giant integrated Manus into its internal systems and advertising platform before China’s government ordered reversal of the acquisition.
+Since then, Meta has separated the businesses internally and stopped data sharing between the two companies, Bloomberg
+reported
+earlier this month.
+The Manus saga has become a symbol of the tense relations between China and the U.S., with ramifications for the entire Chinese tech sector. In March last year, Manus’ AI agent tool, which browses websites to execute tasks such as travel booking and stock analysis, went viral on social media among tech-savvy users just days after its release. The sudden rise in its popularity, which happened on the heels of Chinese open-source AI startup DeepSeek gaining global stardom, helped propel China-developed AI into mainstream attention.
+In March last year, U.S. venture capital firm Benchmark
+led a $75 million round investment in the firm
+. Shortly after that, Manus relocated to Singapore, as the firm tried to downplay its China origins in order to expand globally. And then in December, Meta acquired Manus, a deal some in China hailed as a vote of confidence in the country’s vibrant entrepreneurship.
+But the transaction irked Beijing, partly because Manus didn’t notify Chinese regulators before signing the deal, The Information
+reported
+previously. Regulators worried about setting the precedent of AI startups selling their technologies and talents to a geopolitical rival. On social media, critics labeled Manus’ decision to leave China and sell itself to an American company as a betrayal. CEO and co-founder Xiao Hong had graduated from an incubation program affiliated with the government of Wuhan in central China in 2017, long before he founded Manus, public records show. The program is free and offers graduates angel investments in their startups.
+After a monthslong probe, the Chinese government in April ordered the unwinding of the deal.
+By the time Beijing issued the order, VC investors in Manus, including HSG (formerly Sequoia Capital China), ZhenFund and Benchmark, had
+distributed returns from the sale to their limited partners
+. Tencent was another investor that had pocketed the gains. Instead of asking their limited partners to return the money, HSG and ZhenFund are considering using fresh capital to buy back Meta’s shares in Manus at the original price Meta paid, two of the people said. Tencent will also participate in the buyback.
+One investor that will not be buying back its Manus shares is Benchmark, three of the people said. With Benchmark out of the picture, the Chinese investors could end up with bigger stakes in Manus.
+As part of the arrangement, Manus is considering overhauling its corporate structure to become a joint venture incorporated in China, laying the groundwork for a Hong Kong initial public offering. The structure is necessary for Manus’ Chinese investors to keep their stakes in the company as they are expected to invest in the firm with U.S. dollars.
+The joint venture structure would also give Manus better odds of obtaining Chinese regulatory approval for the IPO, as regulators have recently shown
+a diminishing tolerance for the decades-old practice
+in which tech startups incorporate outside the country to gain easier access to capital and avoid scrutiny back home."
